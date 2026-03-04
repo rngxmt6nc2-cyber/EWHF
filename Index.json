@@ -1,0 +1,12 @@
+{
+  "recipes": [
+    {
+      "id": "tamale-pie",
+      "title": "Tamale Pie",
+      "cScale": 1,
+      "ldlActive": true,
+      "yield": "8 servings",
+      "tags": ["tex-mex","casserole","beans"]
+    }
+  ]
+}
