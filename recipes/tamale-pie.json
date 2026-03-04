@@ -1,1 +1,38 @@
+{
+  "id": "tamale-pie",
+  "title": "Tamale Pie",
+  "yield": "8 servings",
+  "cScale": 1,
+  "ldlActive": true,
 
+  "intro": "Tamale pie is a classic American Tex-Mex casserole inspired by tamales and chili con carne. This version keeps the cornmeal and chile backbone while replacing the traditional beef filling with vegetables.",
+
+  "ingredients": [
+    "¾ cup dried black beans",
+    "¼ cup brown or green lentils",
+    "¾ cup yellow cornmeal",
+    "8 oz cremini mushrooms",
+    "2 small onions",
+    "1 celery stalk",
+    "4 garlic cloves",
+    "4 oz plant based sausage",
+    "1 can Ro-Tel diced tomatoes with green chiles",
+    "1 can diced green chiles",
+    "10 oz frozen corn"
+  ],
+
+  "steps": [
+    "Soak the black beans overnight.",
+    "Simmer beans until tender.",
+    "Cook lentils until tender.",
+    "Prepare the cornmeal polenta.",
+    "Cook mushrooms until browned.",
+    "Add onions and celery and cook until softened.",
+    "Add sausage and break into crumbles.",
+    "Add garlic and spices.",
+    "Stir in beans, lentils, tomatoes, chiles, and corn.",
+    "Line baking dish with polenta.",
+    "Add filling and top layer.",
+    "Bake at 350°F for 45 minutes."
+  ]
+}
