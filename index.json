@@ -6,7 +6,15 @@
       "cScale": 1,
       "ldlActive": true,
       "yield": "8 servings",
-      "tags": ["tex-mex","casserole","beans"]
+      "tags": ["tex-mex", "casserole", "beans"]
+    },
+    {
+      "id": "chicken-souvlaki",
+      "title": "Chicken Souvlaki",
+      "cScale": 0,
+      "ldlActive": true,
+      "yield": "2 generous servings",
+      "tags": ["greek", "grill", "skewers", "chicken"]
     }
   ]
 }
