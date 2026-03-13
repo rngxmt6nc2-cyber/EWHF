@@ -1,20 +1,6 @@
 {
   "recipes": [
-    {
-      "id": "tamale-pie",
-      "title": "Tamale Pie",
-      "cScale": 1,
-      "ldlActive": true,
-      "yield": "8 servings",
-      "tags": ["tex-mex", "casserole", "beans"]
-    },
-    {
-      "id": "chicken-souvlaki",
-      "title": "Chicken Souvlaki",
-      "cScale": 0,
-      "ldlActive": true,
-      "yield": "4 servings",
-      "tags": ["greek", "grill", "skewers", "chicken"]
-    }
+    "tamale-pie",
+    "chicken-souvlaki"
   ]
 }
