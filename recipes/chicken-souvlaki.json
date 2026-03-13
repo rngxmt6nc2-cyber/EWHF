@@ -1,10 +1,15 @@
 {
   "id": "chicken-souvlaki",
   "title": "Chicken Souvlaki",
-  "yield": "4 servings",
+  "section": "Greek",
+  "sortOrder": 210,
   "cScale": 0,
   "ldlActive": true,
-  "intro": "Souvlaki is one of the oldest street foods in Greece. Small pieces of chicken are marinated with lemon, olive oil, garlic, and oregano, then grilled over very hot coals until charred outside and juicy inside.",
+  "yield": "2 generous servings",
+  "tags": ["greek", "grill", "chicken", "skewers"],
+
+  "intro": "Souvlaki is one of the oldest street foods in Greece. The word simply means 'little skewer.' Small pieces of meat are marinated with lemon, olive oil, garlic, and oregano, then grilled over very hot coals. The defining flavors are bright lemon, aromatic oregano, and aggressive grilling that produces crisp charred edges while keeping the interior juicy.",
+
   "ingredients": [
     "1 lemon, zest only",
     "3 cloves garlic, minced into a paste with kosher salt",
@@ -17,19 +22,15 @@
     "½ large red onion, sliced very thin",
     "¼ tsp kosher salt",
     "1 tbsp lemon juice",
+    "Metal skewers or soaked wooden skewers",
     "2 pita breads",
     "olive oil for brushing",
     "tomatoes cut into wedges",
-    "tzatziki for serving"
+    "kosher salt for finishing",
+    "prepared tzatziki"
   ],
+
   "steps": [
-    "Place lemon zest, garlic paste, kosher salt, black pepper, and chopped oregano in a bowl. Add olive oil and lemon juice and whisk to form a marinade.",
-    "Add chicken pieces and mix thoroughly so every piece is coated. Cover and refrigerate for about 2 hours, but no longer than 4 hours.",
-    "Place sliced red onion in a bowl with kosher salt and lemon juice. Toss and let sit about 10 minutes until softened.",
-    "Thread the chicken pieces onto skewers, packing them close together so they just touch.",
-    "Preheat grill to very high heat. Grill skewers about 8–10 minutes total, rotating frequently until charred on several sides.",
-    "During the last minute of grilling, brush lightly with a little leftover marinade to refresh the lemon and oregano aroma.",
-    "Brush pita lightly with olive oil and grill briefly until warm and lightly charred.",
-    "Serve skewers with grilled pita, tomato wedges, onion lemon salad, and tzatziki."
-  ]
-}
+    "Place the lemon zest, garlic paste, kosher salt, black pepper, and chopped oregano in a large bowl. Add the olive oil and lemon juice and whisk to form a loose marinade.",
+    "Add the chicken pieces and mix thoroughly so every piece is coated. Cover and refrigerate for about 2 hours. Do not marinate longer than 4 hours or the lemon will begin tightening the meat.",
+    "Place the sliced red onion in a bowl. Sprinkle with the kosher salt and lemon juice. Toss well and let sit at room temperature for about 10
