@@ -1,0 +1,148 @@
+{
+  "id": "moros-y-cristianos",
+  "title": "Moros y Cristianos",
+  "section": "Mains",
+  "sortOrder": 0,
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": "2 generous servings",
+  "tags": ["Cuban", "Rice", "Beans"],
+  "intro": "Moros y Cristianos is a classic Cuban rice and beans dish whose name means “Moors and Christians,” referring to the contrast of black beans and white rice. The phrase comes from Spanish history, where it described the long period of conflict between Muslim Moors and Christian kingdoms on the Iberian Peninsula.\n\nThe dish traveled to Cuba through Spanish cooking traditions and evolved there into a daily staple. The rice is cooked in black bean broth with a simple sofrito of onion, pepper, and garlic, creating a humble but deeply flavorful meal.",
+  "ingredientGroups": [
+    {
+      "title": "Black beans",
+      "items": [
+        "½ cup dried black beans",
+        "Water for soaking",
+        "½ tsp kosher salt"
+      ]
+    },
+    {
+      "title": "Bean cooking broth",
+      "items": [
+        "3 cups water",
+        "1 bay leaf",
+        "¼ tsp kosher salt"
+      ]
+    },
+    {
+      "title": "Sofrito base",
+      "items": [
+        "1 tbsp olive oil",
+        "½ medium yellow onion, finely diced",
+        "½ small green bell pepper, finely diced",
+        "1 tbsp tomato paste",
+        "4 cloves garlic, smashed then minced",
+        "1 tbsp fresh Cuban oregano, finely chopped",
+        "-or-",
+        "2 tsp fresh oregano + 1 tsp fresh thyme + pinch finely minced fresh sage",
+        "½ tsp ground cumin",
+        "¼ tsp black pepper",
+        "½ tsp kosher salt"
+      ]
+    },
+    {
+      "title": "Rice",
+      "items": [
+        "1 cup jasmine rice",
+        "1⅓ cups black bean cooking broth",
+        "1½ cups cooked black beans"
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "1 tbsp fresh Cuban oregano, finely sliced",
+        "-or-",
+        "2 tsp fresh oregano + 1 tsp fresh thyme",
+        "2 tbsp fresh parsley, chopped",
+        "1 tbsp red wine vinegar",
+        "2 scallions, thinly sliced"
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Soak the beans",
+      "items": [
+        "Rinse the black beans and place them in a bowl.",
+        "Cover with water by about 4 inches and add the salt.",
+        "Soak overnight."
+      ]
+    },
+    {
+      "title": "Cook the beans",
+      "items": [
+        "Drain the soaking water.",
+        "Add the beans to a pot with the fresh water, bay leaf, and salt.",
+        "Simmer 60–90 minutes until tender but still holding shape.",
+        "Reserve at least 1⅓ cups of the cooking broth before draining the beans."
+      ]
+    },
+    {
+      "title": "Build the sofrito",
+      "items": [
+        "Heat olive oil in a Dutch oven or wide saucepan over medium heat.",
+        "Add the onion and green pepper and cook about 6 minutes until softened and beginning to brown."
+      ]
+    },
+    {
+      "title": "Deepen the base",
+      "items": [
+        "Add the tomato paste and cook it in the oil for about 2 minutes, stirring constantly.",
+        "Let it darken slightly.",
+        "This caramelizes the paste and deepens the savory flavor of the dish."
+      ]
+    },
+    {
+      "title": "Add aromatics",
+      "items": [
+        "Add the garlic and the Cuban oregano (or the oregano, thyme, sage substitute).",
+        "Cook about 1 minute until fragrant.",
+        "Stir in cumin, black pepper, and salt."
+      ]
+    },
+    {
+      "title": "Build body in the broth",
+      "items": [
+        "Add about 2 tablespoons of the cooked black beans to the sofrito and mash them into the pan with the back of a spoon.",
+        "Cook for about 30 seconds while stirring.",
+        "The mashed beans release starch and create a richer base for the rice."
+      ]
+    },
+    {
+      "title": "Toast the rice",
+      "items": [
+        "Add the dry jasmine rice and stir constantly for about 2 minutes so the grains coat in the oil and sofrito.",
+        "Toasting the rice helps keep the grains separate after cooking."
+      ]
+    },
+    {
+      "title": "Add beans and broth",
+      "items": [
+        "Add the remaining cooked black beans and 1⅓ cups of the reserved bean broth.",
+        "Stir once and bring the pot to a gentle simmer."
+      ]
+    },
+    {
+      "title": "Cook the rice",
+      "items": [
+        "Reduce heat to low, cover, and cook about 15 minutes until the rice is tender and the liquid is absorbed."
+      ]
+    },
+    {
+      "title": "Rest the pot",
+      "items": [
+        "Turn off the heat and let the pot rest covered for 10 minutes.",
+        "This finishes steaming the rice and keeps the grains fluffy."
+      ]
+    },
+    {
+      "title": "Finish the dish",
+      "items": [
+        "Fluff the rice and beans gently with a fork.",
+        "Stir in the fresh Cuban oregano (or oregano, thyme substitute), parsley, red wine vinegar, and scallions."
+      ]
+    }
+  ]
+}
