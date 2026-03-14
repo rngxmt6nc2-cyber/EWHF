@@ -1,0 +1,97 @@
+{
+  "id": "grilled-portobella-steaks",
+  "title": "Grilled Portobella \"Steaks\"",
+  "section": "Mains",
+  "sortOrder": 0,
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": "2 generous servings",
+  "tags": ["Grill", "Mushroom", "Vegetarian"],
+  "intro": "Grilled portobellas became popular in the 1990s as chefs realized that a large mushroom cap could behave like a steak on the grill. When exposed to very high heat the surface browns, the interior becomes juicy, and the natural glutamates in the mushroom intensify. The result is deeply savory and satisfying without relying on animal fat. This version leans into smoke, char, and umami using a simple spice blend and a finishing accent of grated shelf-stable Parmesan-style cheese, the classic green can that many American kitchens grew up with.",
+  "ingredientGroups": [
+    {
+      "title": "Portobella preparation",
+      "items": [
+        "2 large portobella mushroom caps (about 4–5 inches across)",
+        "1½ tablespoons olive oil"
+      ]
+    },
+    {
+      "title": "Seasoning blend",
+      "items": [
+        "¾ teaspoon kosher salt",
+        "½ teaspoon freshly ground black pepper",
+        "½ teaspoon onion powder",
+        "¼ teaspoon garlic powder",
+        "½ teaspoon smoked paprika"
+      ]
+    },
+    {
+      "title": "Grilling and finishing",
+      "items": [
+        "2 tablespoons chicken or beef stock",
+        "2 teaspoons lemon juice",
+        "1 tablespoon grated Parmesan-style canned cheese (the classic green can)"
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Prepare the mushrooms",
+      "items": [
+        "Wipe the portobellas clean with a damp towel. Do not rinse under water.",
+        "Remove the stems and lightly scrape the gills with a spoon to remove excess moisture pockets."
+      ]
+    },
+    {
+      "title": "Oil the mushrooms",
+      "items": [
+        "Brush both sides of the caps with olive oil.",
+        "Make sure the edges are coated so they do not dry out on the grill."
+      ]
+    },
+    {
+      "title": "Season",
+      "items": [
+        "Mix the salt, black pepper, onion powder, garlic powder, and smoked paprika.",
+        "Sprinkle evenly over both sides of the mushrooms, pressing lightly so the seasoning adheres."
+      ]
+    },
+    {
+      "title": "Preheat the grill",
+      "items": [
+        "Heat a gas or charcoal grill to high heat.",
+        "The goal is aggressive heat so the mushrooms char instead of slowly steaming."
+      ]
+    },
+    {
+      "title": "Grill gill-side down first",
+      "items": [
+        "Place the mushrooms on the grill gill side down.",
+        "Cook for about 4 to 5 minutes without moving them so the caps develop grill marks and begin to soften."
+      ]
+    },
+    {
+      "title": "Flip and baste",
+      "items": [
+        "Turn the mushrooms cap-side down.",
+        "Lightly brush the gill side with the stock and continue grilling another 3 to 4 minutes.",
+        "The stock evaporates quickly and leaves behind extra savory flavor."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Transfer the mushrooms to a plate.",
+        "Drizzle the lemon juice over the tops and immediately sprinkle with the grated canned cheese."
+      ]
+    },
+    {
+      "title": "Serve",
+      "items": [
+        "Serve whole as grilled \"steaks,\" or slice into thick strips.",
+        "The outside should be smoky and lightly crisp while the interior stays juicy and meaty."
+      ]
+    }
+  ]
+}
