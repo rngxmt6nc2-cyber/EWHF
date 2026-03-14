@@ -1,0 +1,136 @@
+{
+  "id": "falafel",
+  "title": "Falafel",
+  "section": "Mains",
+  "sortOrder": 0,
+  "cScale": 0,
+  "ldlActive": false,
+  "yield": "2 generous servings",
+  "tags": ["Middle Eastern", "Levant", "Chickpeas", "Street Food"],
+  "intro": "Falafel is one of the signature street foods of the Eastern Mediterranean and Levant. While early versions likely began in Egypt using fava beans, the chickpea version became dominant as the dish spread through Israel, Lebanon, Syria, and Jordan. Great falafel is defined by contrast: a crisp, deeply browned crust and a fluffy herb-green interior. That texture comes from grinding soaked but uncooked chickpeas, resting the mixture, and lightly aerating it before frying. Small details like rough shaping and proper oil temperature make the difference between dense falafel and the light, crispy versions served at street stands.",
+  "ingredientGroups": [
+    {
+      "title": "Falafel base",
+      "items": [
+        "1 cup dried chickpeas, soaked 6–12 hours and drained",
+        "1 medium yellow onion, roughly chopped",
+        "2 cloves garlic",
+        "¾ cup fresh parsley leaves, packed",
+        "¼ cup fresh cilantro leaves, packed",
+        "2 scallions including greens, chopped",
+        "1 teaspoon ground cumin",
+        "1 teaspoon ground coriander",
+        "¾ teaspoon kosher salt",
+        "½ teaspoon black pepper",
+        "¼ teaspoon baking soda",
+        "2 tablespoons plain breadcrumbs"
+      ]
+    },
+    {
+      "title": "Hydration",
+      "items": [
+        "2 tablespoons ice water"
+      ]
+    },
+    {
+      "title": "Frying",
+      "items": [
+        "2–3 cups avocado oil for frying"
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Soak the chickpeas",
+      "items": [
+        "Place dried chickpeas in a bowl and cover with 4 inches of cold water.",
+        "Soak 8–12 hours at room temperature, or overnight in the refrigerator.",
+        "Drain completely before using.",
+        "The chickpeas must be raw and soaked, never cooked."
+      ]
+    },
+    {
+      "title": "Grind the base",
+      "items": [
+        "In a food processor with a metal blade, add the chickpeas, onion, and garlic.",
+        "Pulse until the mixture resembles coarse sand.",
+        "Do not puree. Small visible chickpea granules are correct."
+      ]
+    },
+    {
+      "title": "Add herbs and seasoning",
+      "items": [
+        "Add parsley, cilantro, scallions, cumin, coriander, salt, and black pepper.",
+        "Pulse until the herbs are finely distributed and the mixture turns evenly green."
+      ]
+    },
+    {
+      "title": "Add binder",
+      "items": [
+        "Add the breadcrumbs and baking soda.",
+        "Pulse briefly just until incorporated."
+      ]
+    },
+    {
+      "title": "Rest the mixture",
+      "items": [
+        "Transfer the mixture to a bowl and let it rest 15 minutes.",
+        "This hydrates the breadcrumbs and firms the mixture so the falafel hold together during frying."
+      ]
+    },
+    {
+      "title": "Aerate the mixture",
+      "items": [
+        "Add 1–2 tablespoons ice water and mix with your hands for about 30–45 seconds.",
+        "The mixture will loosen slightly and feel lighter.",
+        "This step helps create a fluffy interior when fried."
+      ]
+    },
+    {
+      "title": "Form the falafel",
+      "items": [
+        "Shape into small patties about ½ inch thick and about 1½ inches across.",
+        "Press firmly so they hold together, but do not smooth the surface.",
+        "The rough edges create more crispy surface area."
+      ]
+    },
+    {
+      "title": "Apply sesame crust",
+      "items": [
+        "Place sesame seeds on a plate and lightly press both sides of each patty into the seeds so they adhere to the surface."
+      ]
+    },
+    {
+      "title": "Chill the patties",
+      "items": [
+        "Place the patties on a parchment-lined tray and refrigerate them uncovered for about 30 minutes.",
+        "This firms the structure and slightly dries the exterior so the crust forms quickly when frying."
+      ]
+    },
+    {
+      "title": "Heat the oil",
+      "items": [
+        "In a heavy pot or cast iron skillet, heat avocado oil to 360–370°F."
+      ]
+    },
+    {
+      "title": "Fry",
+      "items": [
+        "Fry falafel in small batches.",
+        "Cook about 90 seconds on the first side, flip, and fry another 90 seconds until deep golden brown and crisp."
+      ]
+    },
+    {
+      "title": "Drain",
+      "items": [
+        "Transfer to a rack briefly to drain."
+      ]
+    },
+    {
+      "title": "Serving suggestions",
+      "items": [
+        "Serve in warm pita with lettuce, tomato, cucumber, pickles, and tahini sauce, or plate them over rice with chopped scallions and lemon."
+      ]
+    }
+  ]
+}
