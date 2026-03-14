@@ -8,7 +8,7 @@
   "yield": "2 generous servings",
   "tags": ["greek", "grill", "chicken", "skewers"],
 
-  "intro": "Souvlaki is one of the oldest street foods in Greece. The word simply means 'little skewer.' Small pieces of meat are marinated with lemon, olive oil, garlic, and oregano, then grilled over very hot coals. The defining flavors are bright lemon, aromatic oregano, and aggressive grilling that produces crisp charred edges while keeping the interior juicy.",
+  "intro": "Souvlaki is one of the oldest street foods in Greece. The word simply means 'little skewer.' Small pieces of meat are marinated with lemon, olive oil, garlic, and oregano, then grilled over very hot coals. The dish is served either wrapped in pita or plated with vegetables and tzatziki. The defining flavors are bright lemon, aromatic oregano, and aggressive grilling. Proper souvlaki should have crisp charred edges while remaining juicy inside.",
 
   "ingredients": [
     "1 lemon, zest only",
@@ -33,4 +33,11 @@
   "steps": [
     "Place the lemon zest, garlic paste, kosher salt, black pepper, and chopped oregano in a large bowl. Add the olive oil and lemon juice and whisk to form a loose marinade.",
     "Add the chicken pieces and mix thoroughly so every piece is coated. Cover and refrigerate for about 2 hours. Do not marinate longer than 4 hours or the lemon will begin tightening the meat.",
-    "Place the sliced red onion in a bowl. Sprinkle with the kosher salt and lemon juice. Toss well and let sit at room temperature for about 10
+    "Place the sliced red onion in a bowl. Sprinkle with the kosher salt and lemon juice. Toss well and let sit at room temperature for about 10 minutes until the onion softens.",
+    "Thread the chicken onto skewers, packing the pieces fairly close together so they just touch. This slows moisture loss and helps the chicken stay juicy while grilling.",
+    "Preheat a grill to very high heat. Place the skewers directly over the hottest part of the grill and cook about 8–10 minutes total, rotating frequently so several sides develop char.",
+    "During the last minute of grilling, lightly brush the skewers with a little of the marinade remaining in the bowl to refresh the lemon and oregano aroma.",
+    "Lightly brush the pita with olive oil and grill briefly until warm and lightly charred.",
+    "Arrange the chicken skewers with grilled pita, tomato wedges, and the onion lemon salad. Serve with tzatziki on the side. Finish the chicken with a small pinch of kosher salt just before serving."
+  ]
+}
