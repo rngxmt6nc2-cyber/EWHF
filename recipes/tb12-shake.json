@@ -1,0 +1,43 @@
+{
+"id": "tb12-shake",
+"title": "TB12 Shake",
+"section": "",
+"sortOrder": 0,
+"cScale": 0,
+"ldlActive": true,
+"yield": "2 servings",
+"tags": [],
+"intro": "TB12 Shake\n\nThis shake sits at the intersection of performance nutrition and real breakfast. Built with cacao, peanut butter, and fruit, it drinks like a chocolate-peanut milkshake but behaves like a disciplined morning meal. Seeds provide fiber and texture, fruit gives natural sweetness, and high-power blending turns everything into a silky emulsion. The result is satisfying, clean, and built for consistency.\n\nThis recipe makes two 16 ounce shakes intended for two people, if it’s for one simple halve the ingredients.",
+"ingredientGroups": [
+{
+"title": "Ingredients (2 servings)",
+"items": [
+"1 1/2 cups unsweetened almond milk",
+"1/2 cup cold water",
+"2 tablespoons fresh peanut butter",
+"1 tablespoon whole flax seeds",
+"1 tablespoon chia seeds",
+"1 tablespoon cacao nibs",
+"Small pinch fine sea salt",
+"1 packed cup fresh spinach",
+"1 frozen banana",
+"1/2 cup frozen blueberries",
+"2 scoops Tom Brady Vanilla protein powder",
+"1 cup ice"
+]
+}
+],
+"stepGroups": [
+{
+"title": "",
+"items": [
+"Add almond milk and protein powder to the blender carafe and pulse a few seconds to mix. Llet this sit for 1 or 2 minutes to hydrate.",
+"Add the water, peanut butter, flax seeds, chia seeds, cacao nibs, and sea salt to the carafe. Start on low speed 1 and ramp to high speed. Blend about 30 to 40 seconds until the seeds and nibs are fully broken down and the mixture looks creamy.",
+"Add spinach, frozen banana, and frozen blueberries. Blend on high about 30 seconds until completely smooth. The spinach should disappear into the mixture.",
+"Add the ice and blend on high until the sound of the blender smooths out and the shake becomes thick and silky, about 20 to 30 seconds.",
+"Serve immediately. Each portion should be thick, cold, and milkshake-smooth.",
+"FYI: This makes a very appetizing looking, military green colored shake. Tastes great though!"
+]
+}
+]
+}
