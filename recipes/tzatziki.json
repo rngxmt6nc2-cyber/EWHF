@@ -1,0 +1,66 @@
+{
+"id": "tzatziki",
+"title": "Tzatziki",
+"section": "",
+"sortOrder": 0,
+"cScale": 0,
+"ldlActive": true,
+"yield": "",
+"tags": [],
+"intro": "Tzatziki\n\nTzatziki is the cool yogurt-cucumber sauce served across Greece and the Eastern Mediterranean alongside grilled meats, vegetables, and warm flatbread. It is built on strained yogurt, fresh garlic, and cucumber, producing a bright, tangy contrast to rich or smoky foods. Traditional versions rely on thick sheep or goat yogurt, but modern Greek yogurt works beautifully and provides the same dense texture. The key technique is removing excess water from the cucumber so the sauce stays thick and creamy instead of watery.",
+"ingredientGroups": [
+{
+"title": "",
+"items": [
+"½ English cucumber grated",
+"¾ tsp kosher salt",
+"1 cup nonfat Greek yogurt",
+"1 garlic clove, very finely grated",
+"1 tbsp fresh lemon juice",
+"1 tbsp extra virgin olive oil",
+"1 tbsp fresh dill, finely chopped",
+"2 tbsp fresh parsley, finely chopped"
+]
+}
+],
+"stepGroups": [
+{
+"title": "Prepare the cucumber",
+"items": [
+"Grate the cucumber on the large holes of a box grater. Toss with the kosher salt and place in a strainer over a bowl or in a paper-towel lined sieve. Let drain 15 minutes. Squeeze firmly with your hands or in a clean towel to remove as much water as possible. This step keeps the sauce thick."
+]
+},
+{
+"title": "Build the yogurt base",
+"items": [
+"In a mixing bowl, combine the Greek yogurt, grated garlic, and lemon juice. Stir until completely smooth."
+]
+},
+{
+"title": "Add the cucumber",
+"items": [
+"Fold the squeezed cucumber into the yogurt mixture. Stir until evenly distributed."
+]
+},
+{
+"title": "Finish the sauce",
+"items": [
+"Add the olive oil, chopped dill, and chopped mint. Stir well and taste for balance. The flavor should be bright, garlicky, and fresh."
+]
+},
+{
+"title": "Rest for best flavor",
+"items": [
+"Let the tzatziki rest in the refrigerator for at least 20 minutes before serving. This allows the garlic and herbs to fully bloom in the yogurt."
+]
+},
+{
+"title": "Technique tips that make it shine",
+"items": [
+"• Salt and squeeze the cucumber aggressively. Removing water is the difference between restaurant-quality tzatziki and watery yogurt.",
+"• Grating the garlic with a microplane distributes it evenly so there are no harsh bites.",
+"• A small drizzle of olive oil on top before serving adds aroma and visual finish."
+]
+}
+]
+}
