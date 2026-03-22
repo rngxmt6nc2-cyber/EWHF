@@ -3,6 +3,8 @@
   "title": "Salisbury Steak",
   "section": "American",
   "sortOrder": 310,
+  "category": "mains",
+  "displayCategory": "Mains",
   "cScale": 0,
   "ldlActive": true,
   "yield": "8 patties",
