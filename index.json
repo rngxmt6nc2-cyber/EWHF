@@ -1,25 +1,5 @@
 {
   "recipes": [
-    "tamale-pie",
-    "chicken-souvlaki",
-    "chicken-stock",
-    "salisbury-steak",
-    "classic-tomato-sauce",
-    "cacio-e-pepe",
-    "coleslaw",
-    "crispy-hunan-eggplant-and-tofu",
-    "red-curry-chicken-with-rice-noodles",
-    "falafel",
-    "grilled-portobella-steaks",
-    "impossible-smash-burger",
-    "jamaican-rice-and-peas",
-    "moros-y-cristianos",
-    "moussaka",
-    "potato-salad",
-    "stuffed-peppers",
-    "tahini-sauce",
-    "tzatziki",
-    "recovery-soup",
-    "italian-wedding-soup"
+    "cacio-e-pepe"
   ]
 }
