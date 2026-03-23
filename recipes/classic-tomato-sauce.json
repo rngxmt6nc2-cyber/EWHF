@@ -1,0 +1,63 @@
+{
+  "id": "classic-tomato-sauce",
+  "title": "Classic Tomato Sauce",
+  "section": "",
+  "sortOrder": 0,
+  "category": "",
+  "displayCategory": "",
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": "",
+  "tags": [],
+  "intro": "Italian-American tomato sauce grew out of Southern Italian cooking brought to the United States in the late 1800s. Immigrant kitchens relied on canned tomatoes, garlic, olive oil, and dried oregano to build simple sauces that simmered slowly and filled the house with aroma. Over time this style became a staple of Italian-American home cooking. This version follows that tradition: tomatoes gently simmer with onion, garlic, and oregano, then reduce slowly until the flavor becomes concentrated and balanced.",
+  "ingredientGroups": [
+    {
+      "title": "Olive oil and aromatics",
+      "items": [
+        "2 tablespoons olive oil",
+        "2 teaspoons finely grated garlic",
+        "1 teaspoon dried oregano",
+        "Pinch red pepper flakes",
+        "Pinch kosher salt"
+      ]
+    },
+    {
+      "title": "Tomatoes",
+      "items": [
+        "1 (28 oz) can whole peeled tomatoes with their juice",
+        "Pinch kosher salt"
+      ]
+    },
+    {
+      "title": "Onion and herbs",
+      "items": [
+        "1 yellow onion, peeled and cut in half",
+        "2 basil sprigs",
+        "2 sprigs fresh mediterranean oregano"
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Instructions",
+      "items": [
+        "Bloom the aromatics",
+        "Place a medium saucepan or enameled Dutch oven on the stove while it is still cold. Add the olive oil, grated garlic, oregano, red pepper flakes, and a pinch of kosher salt. Turn the heat to low and allow the aromatics to warm slowly with the oil, stirring occasionally. Cook for about 3 minutes, until the garlic softens and becomes fragrant. Do not allow the garlic to brown.",
+        "Add the tomatoes",
+        "Pour the whole tomatoes and their juice into the pot and add another pinch of kosher salt. Bring to a gentle simmer.",
+        "Soften the tomatoes",
+        "Cover the pot and simmer for about 15 minutes. This softens the tomatoes so they blend easily.",
+        "Blend the sauce",
+        "Remove the lid and use a stick blender directly in the pot. Pulse until the sauce is mostly smooth but still has a fine tomato texture.",
+        "Add onion, basil, and oregano",
+        "Add the onion halves cut-side down along with the basil and oregano sprigs.",
+        "Reduce the sauce",
+        "Simmer the sauce uncovered for 60 minutes, maintaining a gentle simmer rather than a boil. Stir occasionally as the sauce reduces and thickens.",
+        "Remove the aromatics",
+        "Lift out and discard the onion halves, basil, and oregano.",
+        "Final seasoning",
+        "Taste the sauce and adjust the salt as needed after reduction."
+      ]
+    }
+  ]
+}
