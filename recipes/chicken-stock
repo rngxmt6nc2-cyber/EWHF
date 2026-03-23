@@ -1,0 +1,70 @@
+{
+  "id": "chicken-stock",
+  "title": "Chicken Stock",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Foundations",
+  "displayCategory": "",
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": "",
+  "tags": [],
+  "intro": "",
+  "ingredientGroups": [
+    {
+      "title": "Ingredients I – Pressure Extraction",
+      "items": [
+        "1 whole chicken (minus breast and thigh meat)",
+        "4 drumsticks (in addition to the 2 on the chicken)",
+        "1 Chicken neck",
+        "3 Quarts cold water",
+        "1 teaspoon apple cider vinegar"
+      ]
+    },
+    {
+      "title": "Ingredients II – Aromatic Simmer",
+      "items": [
+        "1 carrot, peeled & cut into large pieces",
+        "1 celery stalk, cut into large pieces",
+        "1 medium onion, peeled & cut in half",
+        "2 Garlic cloves, smashed",
+        "1 bay leaf",
+        "10 sprigs fresh parsley",
+        "3 sprigs fresh thyme",
+        "20 whole black pepper corns",
+        "2 Quarts hot tap water (heat from cold separately)"
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Directions I – Pressure Extraction",
+      "items": [
+        "Add the drumsticks to the pressure cooker.",
+        "Cut the chicken into parts. Reserve the breasts & thighs for something else. Add the wings, drumsticks, and carcass to the pressure cooker. (If you remove the skin and bones from the thighs & breasts, add the skin & bones to the pressure cooker too).",
+        "Add 2 ½ quarts of cold tap water to the pressure cooker.",
+        "Bring to 10 pounds of pressure and cook under pressure for 50 minutes.",
+        "Shut off heat and let pressure cooker cool naturally (don’t release steam)."
+      ]
+    },
+    {
+      "title": "Directions II – Aromatic Simmer",
+      "items": [
+        "When cool enough to open, but still hot, pour the contents of the pressure cooker into a large stock pot.",
+        "Add the remaining ingredients, including the hot water.",
+        "Simmer covered for one hour."
+      ]
+    },
+    {
+      "title": "Cooling and Storage",
+      "items": [
+        "Strain out the solids.",
+        "Place the pot of strained stock into a sink or large basin filled with ice and cold water. Stir occasionally to release heat and speed cooling.",
+        "Once the stock has cooled substantially, transfer it to the refrigerator and chill overnight.",
+        "By morning the fat will have risen and hardened on top. Lift off and discard the fat.",
+        "When chilled, the stock should set into a soft gel and jiggle when shaken. That’s the sign of good collagen extraction and a stock that will give sauces and soups real body.",
+        "Store in the refrigerator for several days or freeze in containers for longer storage."
+      ]
+    }
+  ]
+}
