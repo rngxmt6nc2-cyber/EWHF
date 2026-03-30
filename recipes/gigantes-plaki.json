@@ -1,0 +1,91 @@
+{
+  "id": "gigantes-plaki",
+  "title": "Gigantes Plaki",
+  "section": "",
+  "sortOrder": 0,
+  "category": "",
+  "displayCategory": "",
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": "",
+  "tags": [],
+  "intro": "Gigantes plaki, literally “giant beans baked in sauce,” is one of Greece’s great home-style bean dishes: large white beans baked slowly in a tomato and olive oil base until the centers turn buttery and the sauce clings to every surface. Served warm or at room temperature with bread and lemon, it is simple food that depends on patience, good olive oil, and the gentle deepening of flavor in the oven.",
+  "ingredientGroups": [
+    {
+      "title": "Beans",
+      "items": [
+        "400 g dried Greek giant beans",
+        "Water for soaking and cooking",
+        "1 teaspoon salt"
+      ]
+    },
+    {
+      "title": "Vegetable Base",
+      "items": [
+        "2 tablespoons extra-virgin olive oil",
+        "1 large yellow onion, finely chopped",
+        "1 medium carrot, finely chopped",
+        "1 celery stalk, finely chopped",
+        "4 cloves garlic, minced"
+      ]
+    },
+    {
+      "title": "Sauce",
+      "items": [
+        "400 g passata",
+        "4 tablespoons tomato paste",
+        "60 ml (¼ cup) dry white wine",
+        "Zest of ½ lemon",
+        "1 bay leaf",
+        "1 teaspoon pomegranate molasses",
+        "1 teaspoon salt",
+        "½ teaspoon freshly ground black pepper",
+        "2 teaspoons fresh oregano, chopped",
+        "2 tablespoons fresh parsley, chopped"
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "1 tablespoon extra-virgin olive oil",
+        "2 tablespoons fresh dill, chopped",
+        "½ teaspoon pomegranate molasses",
+        "1 teaspoon olive oil",
+        "Lemon wedges, for serving",
+        "Crusty whole-grain bread, for serving"
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Soak the Beans",
+      "items": [
+        "Rinse the beans thoroughly and cover with three times their volume of water. Soak overnight. Drain."
+      ]
+    },
+    {
+      "title": "Cook the Beans",
+      "items": [
+        "Place the soaked beans in a Dutch oven with fresh water and the salt. Simmer gently until tender but still slightly firm in the center, 60 to 90 minutes, or pressure-cook for 20 to 25 minutes. The beans should be al dente, tender but not soft, since they will finish in the oven. Drain and set aside."
+      ]
+    },
+    {
+      "title": "Build the Sauce",
+      "items": [
+        "Heat the olive oil over medium heat. Add the onion, carrot, and celery and cook until softened, 8 to 10 minutes. Add the garlic and cook for 1 minute. Stir in the tomato paste and cook until darkened, about 2 minutes. Deglaze with the white wine and reduce by half. Add the passata, lemon zest, bay leaf, pomegranate molasses, salt, black pepper, oregano, and parsley. Simmer gently for 10 minutes, until slightly thickened and more developed in flavor."
+      ]
+    },
+    {
+      "title": "Bake the Beans",
+      "items": [
+        "Heat the oven to 375°F (190°C). Fold the beans gently into the sauce, using just enough sauce to cover them so some beans still peek through. Transfer to a baking dish or Dutch oven and drizzle with the olive oil. Bake uncovered for 45 to 60 minutes, until the sauce thickens and clings to the beans, the surface develops light caramelization, and the beans are soft and buttery inside while still intact. If the beans are still firm after 45 minutes, cover loosely with foil and bake 15 to 20 minutes more."
+      ]
+    },
+    {
+      "title": "Finish and Serve",
+      "items": [
+        "Remove the bay leaf. Fold in the dill. Stir together the pomegranate molasses and olive oil and drizzle it over the top. Let the dish rest for 20 to 30 minutes so the sauce can settle and cling. Serve warm or at room temperature with lemon wedges and crusty whole-grain bread."
+      ]
+    }
+  ]
+}
