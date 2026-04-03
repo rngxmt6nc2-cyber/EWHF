@@ -1,6 +1,5 @@
 {
   "recipes": [
-    "Mexican-street-corn-salad",
     "beef-stroganoff",
     "cacio-e-pepe",
     "chicken-souvlaki",
@@ -8,6 +7,7 @@
     "classic-tomato-sauce",
     "falafel",
     "gigantes-plaki",
+    "mexican-street-corn-salad",
     "stewed-tomatoes"
   ]
 }
