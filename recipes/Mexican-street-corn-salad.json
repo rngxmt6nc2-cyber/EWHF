@@ -3,16 +3,12 @@
   "title": "Mexican Street Corn Salad",
   "section": "Vegetables & Sides",
   "sortOrder": 0,
+  "category": "",
+  "displayCategory": "Vegetables & Sides",
   "cScale": 1,
   "ldlActive": true,
-  "yield": "2 servings",
-  "tags": [
-    "corn",
-    "side dish",
-    "mexican",
-    "grilled",
-    "fresh herbs"
-  ],
+  "yield": "",
+  "tags": [],
   "intro": "Mexican street corn (elote) is built on contrast: blistered corn, creamy coating, sharp lime, salty cheese, and chili heat. This version keeps that structure while tightening texture distribution and restoring a clear, punchy finish.",
   "ingredientGroups": [
     {
