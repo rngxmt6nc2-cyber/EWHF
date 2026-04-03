@@ -1,18 +1,14 @@
 {
-  "id": "beef-stroganoff-impossible-tips",
+  "id": "beef-stroganoff-impossible-tips-version",
   "title": "Beef Stroganoff (Impossible Tips Version)",
-  "section": "Main Dishes",
-  "sortOrder": 1,
-  "cScale": 1,
+  "section": "",
+  "sortOrder": 0,
+  "category": "",
+  "displayCategory": "",
+  "cScale": 0,
   "ldlActive": true,
   "yield": "2 generous servings",
-  "tags": [
-    "stroganoff",
-    "impossible",
-    "mushroom",
-    "comfort",
-    "russian-inspired"
-  ],
+  "tags": [],
   "intro": "Stroganoff comes out of 19th century Russia, built on sautéed beef, sour cream, and a pan sauce enriched by onions and mushrooms. The modern versions lean heavier and muddier. This one keeps the original intent: defined pieces, clean tang, and a sauce that coats without drowning.",
   "ingredientGroups": [
     {
