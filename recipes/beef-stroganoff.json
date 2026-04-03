@@ -1,0 +1,158 @@
+{
+  "id": "beef-stroganoff-impossible-tips",
+  "title": "Beef Stroganoff (Impossible Tips Version)",
+  "section": "Main Dishes",
+  "sortOrder": 1,
+  "cScale": 1,
+  "ldlActive": true,
+  "yield": "2 generous servings",
+  "tags": [
+    "stroganoff",
+    "impossible",
+    "mushroom",
+    "comfort",
+    "russian-inspired"
+  ],
+  "intro": "Stroganoff comes out of 19th century Russia, built on sautéed beef, sour cream, and a pan sauce enriched by onions and mushrooms. The modern versions lean heavier and muddier. This one keeps the original intent: defined pieces, clean tang, and a sauce that coats without drowning.",
+  "ingredientGroups": [
+    {
+      "title": "Protein",
+      "items": [
+        "8 oz Impossible “Be’f” tips or chunks, cut into bite-sized pieces",
+        "½ tsp kosher salt",
+        "½ tsp black pepper",
+        "1 tsp soy sauce",
+        "1 tsp olive oil"
+      ]
+    },
+    {
+      "title": "Aromatics",
+      "items": [
+        "1 tbsp olive oil",
+        "1 medium yellow onion, finely diced",
+        "½ tsp kosher salt"
+      ]
+    },
+    {
+      "title": "Mushrooms",
+      "items": [
+        "8 oz cremini mushrooms",
+        "  half finely chopped",
+        "  half sliced"
+      ]
+    },
+    {
+      "title": "Flavor Build",
+      "items": [
+        "2 cloves garlic, minced",
+        "1 tsp Dijon mustard",
+        "1 tsp soy sauce",
+        "1 tsp sweet paprika",
+        "½ tsp black pepper",
+        "½ cup dry white wine"
+      ]
+    },
+    {
+      "title": "Sauce Base",
+      "items": [
+        "1 cup stock"
+      ]
+    },
+    {
+      "title": "Thickener",
+      "items": [
+        "2 tsp cornstarch",
+        "2 tbsp cold water"
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "⅓ cup sour cream",
+        "1 tsp red wine vinegar",
+        "1 tbsp fresh parsley, chopped",
+        "½ tsp fresh thyme, chopped"
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Sear the Impossible",
+      "items": [
+        "Heat a wide pan over medium-high. Add oil.",
+        "Add Impossible pieces in a single layer. Do not crowd.",
+        "Let them develop a dark crust before turning.",
+        "Cook just until browned, 2 to 3 minutes total.",
+        "Remove immediately and set aside."
+      ]
+    },
+    {
+      "title": "Build the Onion Base",
+      "items": [
+        "Lower heat to medium-low.",
+        "Add oil, onion, and salt.",
+        "Cook slowly until fully softened and lightly golden, about 12 to 15 minutes.",
+        "No browning edges. You are building sweetness."
+      ]
+    },
+    {
+      "title": "Develop the Mushroom Body",
+      "items": [
+        "Add finely chopped mushrooms first.",
+        "Cook until they release moisture and cook down into a paste-like base.",
+        "Then add sliced mushrooms and cook until tender and lightly browned."
+      ]
+    },
+    {
+      "title": "Build Flavor",
+      "items": [
+        "Add garlic, Dijon, soy sauce, paprika, and black pepper.",
+        "Cook 1 minute to bloom.",
+        "Add white wine and reduce by about half."
+      ]
+    },
+    {
+      "title": "Form the Sauce",
+      "items": [
+        "Add stock and bring to a simmer.",
+        "Cook 5 to 7 minutes to concentrate."
+      ]
+    },
+    {
+      "title": "Thicken",
+      "items": [
+        "Stir cornstarch with cold water.",
+        "Add to the pan while simmering.",
+        "Sauce should lightly coat a spoon, not gel."
+      ]
+    },
+    {
+      "title": "Finish Gently",
+      "items": [
+        "Lower heat to low.",
+        "Temper sour cream with a spoonful of hot sauce, then stir it into the pan.",
+        "Do not boil after adding."
+      ]
+    },
+    {
+      "title": "Return the Impossible",
+      "items": [
+        "Add the seared pieces back in.",
+        "Stir just long enough to warm through, about 1 minute."
+      ]
+    },
+    {
+      "title": "Final Balance",
+      "items": [
+        "Add vinegar, thyme, and parsley.",
+        "Taste and adjust salt."
+      ]
+    },
+    {
+      "title": "Serve",
+      "items": [
+        "Serve immediately over noodles, rice, or potatoes."
+      ]
+    }
+  ]
+}
