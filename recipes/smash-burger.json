@@ -1,0 +1,135 @@
+{
+  "id": "smash-burger",
+  "title": "Smash Burger",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Handhelds",
+  "displayCategory": "Handhelds",
+  "cScale": 1,
+  "ldlActive": false,
+  "yield": "2 servings (2 double burgers)\nMakes 12 patties at approximately 45 g each (8 reserved for future use)",
+  "tags": [],
+  "intro": "The American smash burger is about crust and timing. It traces its roots to early 20th-century diners, especially in the Midwest, where cooks used hot steel griddles to produce thin, fast-cooking patties. Pressing the meat onto the surface creates a deeply browned crust while keeping the interior tender. This approach stays close to that original idea, with a focus on control, consistency, and a well-developed crust.",
+  "ingredientGroups": [
+    {
+      "title": "Patty Mix",
+      "items": [
+        "16 ounces Impossible ground “beef”",
+        "1 large egg white",
+        "½ cup panko breadcrumbs",
+        "1 tablespoon olive oil",
+        "1 teaspoon garlic powder",
+        "1 teaspoon onion powder",
+        "1 teaspoon cayenne pepper",
+        "1 teaspoon freshly ground black pepper",
+        "½ teaspoon table salt",
+        "½ teaspoon Sazonador Total seasoning"
+      ]
+    },
+    {
+      "title": "Onions",
+      "items": [
+        "1 medium yellow onion, halved and thinly slivered",
+        "1 teaspoon avocado oil",
+        "¼ teaspoon salt"
+      ]
+    },
+    {
+      "title": "Cooking",
+      "items": [
+        "1 tablespoon avocado oil"
+      ]
+    },
+    {
+      "title": "Assembly",
+      "items": [
+        "2 potato buns",
+        "Dill pickle slices",
+        "4 thin slices reduced-fat white American cheese",
+        "Light mayo or burger sauce"
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Build and Chill the Patty Mix",
+      "items": [
+        "Keep the Impossible “beef” very cold throughout this step.",
+        "Place all patty mix ingredients in a chilled bowl.",
+        "Fold gently until evenly distributed. Do not knead or compress.",
+        "Press into a flat slab about 1 to 1½ inches thick.",
+        "Cover and place in the freezer for 12 to 15 minutes until firm but not frozen."
+      ]
+    },
+    {
+      "title": "Portion and Form",
+      "items": [
+        "Divide into 12 portions at approximately 45 g each.",
+        "Using a 3¾-inch ring mold, press into patties about 3/8 inch thick.",
+        "Apply just enough pressure to reach the edges without compacting tightly.",
+        "Place on a parchment-lined tray and refrigerate 20 to 30 minutes.",
+        "Transfer 8 patties to the freezer, separating layers with parchment."
+      ]
+    },
+    {
+      "title": "Pre-Season the Onions",
+      "items": [
+        "Place sliced onions in a bowl.",
+        "Add avocado oil and salt.",
+        "Toss thoroughly to coat.",
+        "Let rest 10 to 15 minutes at room temperature.",
+        "Separate layers with your fingers so they cook evenly."
+      ]
+    },
+    {
+      "title": "Preheat the Oven and Warm the Buns",
+      "items": [
+        "Preheat the oven to 275 degrees Fahrenheit.",
+        "Wrap the potato buns tightly in foil and place in the oven for 10 minutes to warm and lightly steam.",
+        "Do not open the foil until final assembly."
+      ]
+    },
+    {
+      "title": "Preheat the Pans",
+      "items": [
+        "Place one cast iron skillet over medium-high heat for the onions.",
+        "Place a second cast iron skillet over medium heat to begin warming."
+      ]
+    },
+    {
+      "title": "Cook the Onions (Pan One)",
+      "items": [
+        "Add the pre-seasoned onions to the medium-high pan and spread into a thin, even layer.",
+        "Cook 4 to 6 minutes, leaving undisturbed for 60 to 90 seconds at a time before flipping sections.",
+        "When the onions begin to soften and release moisture, increase the second pan to high heat.",
+        "When fond forms and onions are about halfway softened, deglaze the pan with a light sprinkle of water.",
+        "Scrape the pan to release browned bits and coat the onions.",
+        "Allow any moisture to fully evaporate.",
+        "Continue cooking to target texture: 60% soft and translucent, 30% lightly golden at edges, 10% still slightly firm.",
+        "Divide into four portions and reduce heat to low to hold."
+      ]
+    },
+    {
+      "title": "Smash and Finish (Pan Two)",
+      "items": [
+        "Add avocado oil to the hot pan and wipe into a thin film.",
+        "Place 4 cold patties onto the surface. Wait 8 to 10 seconds.",
+        "Press firmly for 5 seconds to maximize contact. Do not twist.",
+        "The patties may tear slightly during smashing or flipping. This is normal and will come back together when topped with cheese.",
+        "Cook 55 to 65 seconds until deeply browned with lacy edges.",
+        "Scrape confidently and flip.",
+        "Cook 20 to 30 seconds on the second side.",
+        "Transfer each patty directly onto an onion portion.",
+        "Press gently for 2 to 3 seconds to seat.",
+        "Top each patty with a slice of white American cheese and cover the onion pan for 20 to 30 seconds until melted."
+      ]
+    },
+    {
+      "title": "Assembly",
+      "items": [
+        "Remove buns from the oven and keep wrapped until the moment of use. Open the foil just before assembling. Place pickle slices on the bottom bun in a single layer. Add two patties with onions. Repeat for the second sandwich. Top with mayonnaise or burger sauce. Close the sandwiches and press gently to seat the layers. Serve immediately.",
+        "Serve immediately."
+      ]
+    }
+  ]
+}
