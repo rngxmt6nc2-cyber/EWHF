@@ -6,7 +6,7 @@
   "category": "Condiments & Toppings",
   "displayCategory": "Condiments & Toppings",
   "cScale": 0,
-  "ldlActive": no,
+  "ldlActive": false,
   "yield": "about 12 servings",
   "tags": [],
   "intro": "This style of seasoning grew out of early 20th-century coastal seafood houses, where bold spice blends were built to season large batches of crab and shrimp. This version leans New England, with a lighter hand on salt and a cleaner, more herbal profile that lets the shellfish stay front and center.",
