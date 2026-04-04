@@ -1,0 +1,106 @@
+{
+  "id": "stuffed-peppers",
+  "title": "Stuffed peppers",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 1,
+  "ldlActive": true,
+  "yield": "4 servings",
+  "tags": [],
+  "intro": "Stuffed peppers appear across Central and Eastern Europe, the Balkans, the Mediterranean, and the American Midwest. Hollowed peppers are filled with rice and aromatics, then cooked in a tomato-based liquid until the flavors come together.",
+  "ingredientGroups": [
+    {
+      "title": "Pepper preparation",
+      "items": [
+        "4 large bell peppers, tops cut off and seeds removed",
+        "1 tbsp olive oil",
+        "½ tsp kosher salt"
+      ]
+    },
+    {
+      "title": "Rice",
+      "items": [
+        "¾ cup Carolina Gold rice"
+      ]
+    },
+    {
+      "title": "Filling base",
+      "items": [
+        "1 tbsp olive oil",
+        "1 medium onion, finely diced",
+        "1 tbsp tomato paste",
+        "3 cloves garlic, minced",
+        "1½ cups MorningStar Farms Be’f Crumbles",
+        "½ cup stock",
+        "1 tsp soy sauce",
+        "2 tsp red wine vinegar",
+        "1 tsp Worcestershire sauce"
+      ]
+    },
+    {
+      "title": "Herbs and spice",
+      "items": [
+        "3 tbsp fresh parsley, chopped",
+        "1 tsp fresh oregano, chopped",
+        "1 tsp sweet paprika",
+        "½ tsp smoked paprika",
+        "⅛ tsp cayenne pepper",
+        "¾ tsp kosher salt",
+        "½ tsp black pepper"
+      ]
+    },
+    {
+      "title": "Braising liquid",
+      "items": [
+        "2 cups Low Sodium V8 vegetable juice",
+        "1 cup stock",
+        "1 jalapeño, sliced",
+        "⅛ tsp cayenne pepper",
+        "1 tsp soy sauce"
+      ]
+    },
+    {
+      "title": "Pepper finishing",
+      "items": [
+        "8 jalapeño slices (2 per pepper)",
+        "2 tbsp fresh parsley, chopped"
+      ]
+    },
+    {
+      "title": "Finishing sauce",
+      "items": [
+        "1 tbsp olive oil",
+        "½ small onion, very finely minced",
+        "2 cloves garlic, minced to a paste",
+        "1 roasted red bell pepper, peeled",
+        "1 tbsp tomato paste",
+        "1 cup stock",
+        "½ cup reserved braising liquid",
+        "½ tsp sweet paprika",
+        "¼ tsp smoked paprika",
+        "1 tsp red wine vinegar",
+        "1 tsp lemon juice",
+        "Salt to taste"
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Instructions",
+      "items": [
+        "Prepare the peppers\nBring salted water to a boil. Add peppers and cook 4–5 minutes until just beginning to soften. Drain upside down. Lightly salt inside and coat outside with olive oil.",
+        "Cook the rice\nBring salted water to a boil. Add rice and cook 7 minutes. Drain immediately and spread to steam dry.",
+        "Build the filling base\nHeat olive oil over medium heat. Add onion and cook until soft and lightly golden, 8–10 minutes.\nAdd tomato paste and cook until darkened and slightly sticky.\nAdd garlic and cook briefly.\nAdd crumbles over medium-high heat. Let them sit, then cook until lightly browned and moisture is driven off. Add stock, soy sauce, and Worcestershire. Cook until absorbed and cohesive.",
+        "Finish the filling\nReduce heat to low. Add rice, herbs, spices, salt, and pepper. Mix thoroughly.\nAdd red wine vinegar and fold in.\nThe filling should hold together when pressed but remain light. Adjust slightly with stock or heat if needed.\nRest 2–3 minutes.",
+        "Fill the peppers\nPlace peppers upright in a snug vessel. Fill fully, pressing lightly to remove air gaps. Leave ¼ inch at top. Add jalapeño slices.",
+        "Add braising liquid\nPour liquid to reach roughly halfway up the peppers.",
+        "Braise the peppers\nCover and bake at 375°F for 20 minutes.\nCheck for doneness: a knife should pass easily through the pepper wall while it still holds shape.\nUncover and bake 6–8 minutes to lightly set the tops.\nRemove and rest 5 minutes.",
+        "Build the finishing sauce\nHeat olive oil over medium heat. Add onion and cook slowly until fully softened.\nAdd tomato paste and cook until darkened.\nAdd garlic and cook gently.\nAdd roasted red pepper and fully break down into the base.\nAdd stock and ½ cup braising liquid. Simmer and reduce until cohesive and lightly thickened.Add paprika and simmer briefly.",
+        "Finish the sauce\nAdd red wine vinegar and lemon juice. Adjust salt.",
+        "Serving\nSpoon sauce onto the plate and place peppers on top. Finish with parsley."
+      ]
+    }
+  ]
+}
