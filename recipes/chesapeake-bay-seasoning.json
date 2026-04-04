@@ -1,0 +1,49 @@
+{
+  "id": "chesapeake-bay-seasoning",
+  "title": "Chesapeake Bay Seasoning",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Condiments & Toppings",
+  "displayCategory": "Condiments & Toppings",
+  "cScale": 0,
+  "ldlActive": no,
+  "yield": "about 12 servings",
+  "tags": [],
+  "intro": "This style of seasoning grew out of early 20th-century coastal seafood houses, where bold spice blends were built to season large batches of crab and shrimp. This version leans New England, with a lighter hand on salt and a cleaner, more herbal profile that lets the shellfish stay front and center.",
+  "ingredientGroups": [
+    {
+      "title": "Ingredients",
+      "items": [
+        "1 tbsp fine sea salt",
+        "2 tsp celery seed, finely ground",
+        "1 tbsp sweet paprika",
+        "1/2 tsp smoked paprika",
+        "1 tsp ground bay leaf",
+        "1/2 tsp dried thyme",
+        "1/2 tsp dried dill",
+        "1/2 tsp dry mustard",
+        "1/2 tsp ground black pepper",
+        "1/4 tsp ground white pepper",
+        "1/4 tsp ground mace",
+        "1/8 tsp ground nutmeg",
+        "1/8 tsp ground ginger",
+        "1/4 tsp crushed red pepper flakes",
+        "1/8 tsp cayenne"
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Instructions",
+      "items": [
+        "Grind the celery seed to a fine powder. This is critical. Whole or coarse celery seed won’t distribute evenly and you’ll lose that signature flavor.",
+        "Combine the ground celery seed and fine sea salt in a bowl. Mix thoroughly so the celery flavor is evenly carried by the salt.",
+        "Add the sweet and smoked paprika. Whisk until the color is uniform.",
+        "Stir in the bay leaf, thyme, dill, mustard, and peppers. Mix well.",
+        "Add the mace, nutmeg, ginger, red pepper flakes, and cayenne. Whisk until fully blended.",
+        "Pulse briefly in a spice grinder if needed for a tighter blend.",
+        "Let sit at least 12 hours before using."
+      ]
+    }
+  ]
+}
