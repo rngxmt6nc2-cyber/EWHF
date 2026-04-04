@@ -5,9 +5,9 @@
   "sortOrder": 0,
   "category": "Mains",
   "displayCategory": "Mains",
-  "cScale": 0,
-  "ldlActive": true,
-  "yield": "",
+  "cScale": 2,
+  "ldlActive": false,
+  "yield": "4 servings",
   "tags": [],
   "intro": "Souvlaki is one of the oldest street foods in Greece. The word simply means “little skewer.” Small pieces of meat are marinated with lemon, olive oil, garlic, and oregano, then grilled over very hot coals. The dish is served either wrapped in pita or plated with vegetables and tzatziki. The defining flavors are bright lemon, aromatic oregano, and aggressive grilling. Proper souvlaki should have crisp charred edges while remaining juicy inside.",
   "ingredientGroups": [
