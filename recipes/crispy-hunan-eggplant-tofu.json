@@ -1,99 +1,89 @@
 {
-  "id": "crispy-hunan-eggplant-tofu",
+  "id": "crispy-hunan-eggplant-and-tofu",
   "title": "Crispy Hunan Eggplant and Tofu",
-  "section": "Mains",
-  "sortOrder": 1,
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
   "cScale": 0,
   "ldlActive": true,
-  "yield": "4 servings",
-  "tags": [
-    "tofu",
-    "eggplant",
-    "hunan",
-    "plant-based",
-    "stir-fry"
-  ],
-  "intro": "Hunan cooking is known for its bold heat, sharp aromatics, and deep savory structure. This dish leans into that profile with crisped eggplant and tofu, layered with garlic, chili, and a balanced sauce that clings without becoming heavy. The goal is contrast: soft interior, crisp exterior, and a punchy, clean finish.",
+  "yield": "",
+  "tags": [],
+  "intro": "Hunan cooking is bold, direct, and unapologetically spicy. Fresh chiles, garlic, and vinegar drive the flavor, while high heat and fast wok work build intensity and depth. This dish highlights that spirit with crisp-edged eggplant and tofu glazed in a fiery chili-garlic sauce. The focus is texture and heat: a lacquered exterior, tender centers, and a sauce that clings rather than overwhelms.",
   "ingredientGroups": [
     {
-      "title": "Tofu",
+      "title": "Ingredients",
       "items": [
-        "14 oz firm tofu, pressed and cut into 1-inch cubes",
-        "2 tbsp cornstarch",
-        "½ tsp kosher salt"
-      ]
-    },
-    {
-      "title": "Eggplant",
-      "items": [
-        "1 large Chinese eggplant, cut into 1-inch chunks",
-        "2 tbsp cornstarch",
-        "½ tsp kosher salt"
-      ]
-    },
-    {
-      "title": "Sauce",
-      "items": [
-        "½ cup stock",
-        "1 tbsp soy sauce",
-        "2 tsp black vinegar",
-        "1 tsp sugar",
-        "½ tsp chili paste",
-        "1 tsp cornstarch"
-      ]
-    },
-    {
-      "title": "Aromatics",
-      "items": [
-        "2 tbsp neutral oil",
-        "4 cloves garlic, minced",
-        "1 tbsp ginger, minced",
-        "2 scallions, sliced",
-        "2 dried red chilies"
-      ]
-    },
-    {
-      "title": "Finish",
-      "items": [
-        "1 tsp sesame oil",
-        "1 tbsp fresh cilantro, chopped"
+        "⅔ cup cornstarch",
+        "1 teaspoon kosher salt",
+        "1/4 teaspoon freshly ground black pepper",
+        "1 medium eggplant cut into ¾” cubes",
+        "14 ounces extra-firm tofu, pressed",
+        "Avocado oil, enough for ¼ inch depth in wok",
+        "¼ cup chicken stock",
+        "3 tablespoons soy sauce",
+        "1½ tablespoons rice vinegar",
+        "1 teaspoon lime juice",
+        "2 teaspoons cornstarch",
+        "1 tablespoon grated fresh ginger",
+        "3 cloves garlic, grated",
+        "3 to 4 Thai bird chiles, finely minced",
+        "1 tablespoon sugar free chili garlic sauce",
+        "1 tablespoon toasted sesame oil"
       ]
     }
   ],
   "stepGroups": [
     {
-      "title": "Prepare the Tofu",
+      "title": "Prepare the Eggplant",
       "items": [
-        "Toss the tofu with cornstarch and salt until lightly coated.",
-        "Heat a skillet over medium-high heat with oil and cook the tofu until golden and crisp on all sides. Remove and set aside."
+        "Toss the eggplant cubes with 1 teaspoon kosher salt. Spread on a wire rack set over a sheet pan and let sit 30 to 45 minutes. Pat thoroughly dry. Do not rinse."
       ]
     },
     {
-      "title": "Cook the Eggplant",
+      "title": "Press and Dry the Tofu",
       "items": [
-        "Toss the eggplant with cornstarch and salt.",
-        "In the same pan, add oil as needed and cook the eggplant until browned on the outside and soft inside. Remove and set aside."
+        "Press in a tofu press.",
+        "-or-",
+        "Wrap the tofu in a clean towel and place on a rimmed sheet pan or cutting board. Set a second sheet pan or flat plate on top and weigh it down with a cast iron skillet or canned goods.",
+        "Press for 25 minutes, flipping halfway through.",
+        "Cut into 1-inch cubes and place uncovered on a wire rack for 15 minutes to dry the surface."
       ]
     },
     {
-      "title": "Build the Aromatics",
+      "title": "Dredge",
       "items": [
-        "Add oil to the pan and cook garlic, ginger, scallions, and dried chilies until fragrant, about 30 seconds."
+        "Combine cornstarch, 1/2 teaspoon kosher salt, and black pepper in a shallow dish.",
+        "Toss eggplant to coat evenly. Shake off excess. Repeat with tofu. Let rest on rack 5 minutes."
       ]
     },
     {
-      "title": "Combine and Sauce",
+      "title": "Shallow Fry in the Wok",
       "items": [
-        "Return tofu and eggplant to the pan.",
-        "Stir the sauce to recombine and pour into the pan.",
-        "Cook, tossing continuously, until the sauce thickens and coats everything evenly."
+        "Heat avocado oil in a wok to a depth of about ¼ inch over medium-high heat until shimmering.",
+        "Fry the eggplant first, working in batches. Turn gently and cook until deeply golden and crisp on all sides, about 2 to 3 minutes per side. Transfer to a wire rack.",
+        "Fry the tofu the same way until golden and crisp. Drain on the rack. Do not use paper towels, which soften the crust."
       ]
     },
     {
-      "title": "Finish",
+      "title": "Build the Sauce",
       "items": [
-        "Turn off heat and add sesame oil and cilantro.",
-        "Serve immediately over rice."
+        "In a bowl, whisk together the stock, soy sauce, rice vinegar, lime juice, and cornstarch until smooth.",
+        "Carefully pour off the frying oil and wipe out the wok.",
+        "Return the wok to medium heat and add a thin film of fresh avocado oil. Add the ginger, garlic, and minced chiles. Stir constantly for about 30 seconds until fragrant but not browned.",
+        "Stir the sauce mixture again to re-suspend the cornstarch, then pour it into the wok. Bring to a simmer and cook 2 to 3 minutes until glossy and lightly thickened."
+      ]
+    },
+    {
+      "title": "Glaze, Do Not Soak",
+      "items": [
+        "Return the eggplant and tofu to the wok. Toss gently just until coated. The sauce should cling lightly and leave the crust intact. Remove from heat and stir in the toasted sesame oil."
+      ]
+    },
+    {
+      "title": "Serve Immediately",
+      "items": [
+        "Serve over brown jasmine rice and finish with thinly sliced raw scallions. Eat while the exterior is still crisp and the interior te"
       ]
     }
   ]
