@@ -1,0 +1,100 @@
+{
+  "id": "crispy-hunan-eggplant-tofu",
+  "title": "Crispy Hunan Eggplant and Tofu",
+  "section": "Mains",
+  "sortOrder": 1,
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": "4 servings",
+  "tags": [
+    "tofu",
+    "eggplant",
+    "hunan",
+    "plant-based",
+    "stir-fry"
+  ],
+  "intro": "Hunan cooking is known for its bold heat, sharp aromatics, and deep savory structure. This dish leans into that profile with crisped eggplant and tofu, layered with garlic, chili, and a balanced sauce that clings without becoming heavy. The goal is contrast: soft interior, crisp exterior, and a punchy, clean finish.",
+  "ingredientGroups": [
+    {
+      "title": "Tofu",
+      "items": [
+        "14 oz firm tofu, pressed and cut into 1-inch cubes",
+        "2 tbsp cornstarch",
+        "½ tsp kosher salt"
+      ]
+    },
+    {
+      "title": "Eggplant",
+      "items": [
+        "1 large Chinese eggplant, cut into 1-inch chunks",
+        "2 tbsp cornstarch",
+        "½ tsp kosher salt"
+      ]
+    },
+    {
+      "title": "Sauce",
+      "items": [
+        "½ cup stock",
+        "1 tbsp soy sauce",
+        "2 tsp black vinegar",
+        "1 tsp sugar",
+        "½ tsp chili paste",
+        "1 tsp cornstarch"
+      ]
+    },
+    {
+      "title": "Aromatics",
+      "items": [
+        "2 tbsp neutral oil",
+        "4 cloves garlic, minced",
+        "1 tbsp ginger, minced",
+        "2 scallions, sliced",
+        "2 dried red chilies"
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "1 tsp sesame oil",
+        "1 tbsp fresh cilantro, chopped"
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Prepare the Tofu",
+      "items": [
+        "Toss the tofu with cornstarch and salt until lightly coated.",
+        "Heat a skillet over medium-high heat with oil and cook the tofu until golden and crisp on all sides. Remove and set aside."
+      ]
+    },
+    {
+      "title": "Cook the Eggplant",
+      "items": [
+        "Toss the eggplant with cornstarch and salt.",
+        "In the same pan, add oil as needed and cook the eggplant until browned on the outside and soft inside. Remove and set aside."
+      ]
+    },
+    {
+      "title": "Build the Aromatics",
+      "items": [
+        "Add oil to the pan and cook garlic, ginger, scallions, and dried chilies until fragrant, about 30 seconds."
+      ]
+    },
+    {
+      "title": "Combine and Sauce",
+      "items": [
+        "Return tofu and eggplant to the pan.",
+        "Stir the sauce to recombine and pour into the pan.",
+        "Cook, tossing continuously, until the sauce thickens and coats everything evenly."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Turn off heat and add sesame oil and cilantro.",
+        "Serve immediately over rice."
+      ]
+    }
+  ]
+}
