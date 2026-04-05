@@ -3,50 +3,117 @@
   "title": "Cacio e Pepe",
   "section": "",
   "sortOrder": 0,
-  "category": "Pasta & Noodles",
-  "displayCategory": "Pasta & Noodles",
+  "category": "",
+  "displayCategory": "",
   "cScale": 1,
   "ldlActive": true,
-  "yield": "4 Servings",
-  "tags": [],
+  "yield": 4,
+  "yieldUnit": "Servings",
+  "tags": [
+  ],
   "intro": "Cacio e pepe is one of Rome’s most elemental pasta dishes. Shepherds in Lazio carried dried pasta, black pepper, and aged sheep’s milk cheese because they traveled well. When pasta is tossed with pepper, cheese, and starchy pasta water, the mixture emulsifies into a creamy sauce without cream or butter.\n\nThis version keeps the Roman technique but replaces most of the cheese with a blended sauce of caramelized onions, white beans, and a small amount of white miso. The onions provide deep browned flavor, the beans create body and emulsification, and the miso supplies fermented sharpness. A small sprinkle of grated “shaky” Parmesan-style cheese at the end adds a familiar aged-cheese aroma without letting cheese dominate the dish.",
   "ingredientGroups": [
     {
       "title": "Caramelized onion base",
       "items": [
-        "1 tbsp olive oil",
-        "1 large yellow onion, thinly sliced",
-        "½ tsp kosher salt"
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": "1",
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": "thinly sliced"
+        },
+        {
+          "amount": "½",
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
       ]
     },
     {
       "title": "Sauce base",
       "items": [
-        "⅓ cup cooked white beans",
-        "¾ tsp white miso",
-        "¾ cup hot pasta cooking water (reserved from the pasta)"
+        {
+          "amount": "⅓",
+          "unit": "cup",
+          "item": "cooked white beans",
+          "prep": ""
+        },
+        {
+          "amount": "¾",
+          "unit": "tsp",
+          "item": "white miso",
+          "prep": ""
+        },
+        {
+          "amount": "¾",
+          "unit": "cup",
+          "item": "hot pasta cooking water",
+          "prep": "(reserved from the pasta)"
+        }
       ]
     },
     {
       "title": "Pasta",
       "items": [
-        "8 oz dry spaghetti or tonnarelli",
-        "2 quarts water",
-        "1½ tsp kosher salt"
+        {
+          "amount": "8",
+          "unit": "oz",
+          "item": "dry spaghetti or tonnarelli",
+          "prep": ""
+        },
+        {
+          "amount": "2",
+          "unit": "quarts",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "amount": "1½",
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
       ]
     },
     {
       "title": "Pepper oil",
       "items": [
-        "2 tsp whole black peppercorns, coarsely crushed",
-        "1 tbsp olive oil"
+        {
+          "amount": "2",
+          "unit": "tsp",
+          "item": "whole black peppercorns",
+          "prep": "coarsely crushed"
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        }
       ]
     },
     {
       "title": "Finish",
       "items": [
-        "1 tsp lemon juice",
-        "1 tbsp grated Parmesan-style “shaky cheese”"
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "item": "lemon juice",
+          "prep": ""
+        },
+        {
+          "amount": "1",
+          "unit": "tbsp",
+          "item": "grated Parmesan-style “shaky cheese”",
+          "prep": ""
+        }
       ]
     }
   ],
@@ -92,7 +159,12 @@
       "title": "Finish",
       "items": [
         "Remove the pan from the heat. Add the lemon juice and toss once more.",
-        "Plate the pasta and finish with a light sprinkle of the grated Parmesan-style cheese.",
+        "Plate the pasta and finish with a light sprinkle of the grated Parmesan-style cheese."
+      ]
+    },
+    {
+      "title": "",
+      "items": [
         "Serve with grilled portobella steaks"
       ]
     }
