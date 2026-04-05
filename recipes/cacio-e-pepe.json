@@ -17,19 +17,19 @@
       "title": "Caramelized onion base",
       "items": [
         {
-          "amount": "1",
+          "amount": 1,
           "unit": "tbsp",
           "item": "olive oil",
           "prep": ""
         },
         {
-          "amount": "1",
+          "amount": 1,
           "unit": "large",
           "item": "yellow onion",
           "prep": "thinly sliced"
         },
         {
-          "amount": "½",
+          "amount": 0.5,
           "unit": "tsp",
           "item": "kosher salt",
           "prep": ""
@@ -40,22 +40,22 @@
       "title": "Sauce base",
       "items": [
         {
-          "amount": "⅓",
+          "amount": 0.3333333333,
           "unit": "cup",
           "item": "cooked white beans",
           "prep": ""
         },
         {
-          "amount": "¾",
+          "amount": 0.75,
           "unit": "tsp",
           "item": "white miso",
           "prep": ""
         },
         {
-          "amount": "¾",
+          "amount": 0.75,
           "unit": "cup",
           "item": "hot pasta cooking water",
-          "prep": "(reserved from the pasta)"
+          "prep": "reserved from the pasta"
         }
       ]
     },
@@ -63,19 +63,19 @@
       "title": "Pasta",
       "items": [
         {
-          "amount": "8",
+          "amount": 8,
           "unit": "oz",
           "item": "dry spaghetti or tonnarelli",
           "prep": ""
         },
         {
-          "amount": "2",
+          "amount": 2,
           "unit": "quarts",
           "item": "water",
           "prep": ""
         },
         {
-          "amount": "1½",
+          "amount": 1.5,
           "unit": "tsp",
           "item": "kosher salt",
           "prep": ""
@@ -86,13 +86,13 @@
       "title": "Pepper oil",
       "items": [
         {
-          "amount": "2",
+          "amount": 2,
           "unit": "tsp",
           "item": "whole black peppercorns",
           "prep": "coarsely crushed"
         },
         {
-          "amount": "1",
+          "amount": 1,
           "unit": "tbsp",
           "item": "olive oil",
           "prep": ""
@@ -103,16 +103,16 @@
       "title": "Finish",
       "items": [
         {
-          "amount": "1",
+          "amount": 1,
           "unit": "tsp",
           "item": "lemon juice",
           "prep": ""
         },
         {
-          "amount": "1",
+          "amount": 1,
           "unit": "tbsp",
-          "item": "grated Parmesan-style “shaky cheese”",
-          "prep": ""
+          "item": "Parmesan-style “shaky cheese”",
+          "prep": "grated"
         }
       ]
     }
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "title": "",
+      "title": "Instructions",
       "items": [
         "Serve with grilled portobella steaks"
       ]
