@@ -1,0 +1,170 @@
+{
+  "id": "italian-wedding-soup",
+  "title": "Italian Wedding Soup",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Italian Wedding Soup comes from the Italian concept of “minestra maritata,” or “married soup,” where greens and meat come together in balance rather than referring to weddings themselves. This version follows that tradition with a clear, aromatic broth, tender grains, and hearty meatballs, creating a rustic, comforting soup rooted in Southern Italian home cooking.",
+  "ingredientGroups": [
+    {
+      "title": "Cooked Barley",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "pearl barley",
+          "prep": "rinsed well"
+        },
+        {
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "water",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Aromatic Base",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "small",
+          "item": "onion",
+          "prep": "finely diced"
+        },
+        {
+          "amount": 1,
+          "unit": "medium",
+          "item": "carrot",
+          "prep": "diced"
+        },
+        {
+          "amount": 1,
+          "unit": "stalk",
+          "item": "celery",
+          "prep": "diced"
+        },
+        {
+          "amount": 0,
+          "unit": "Pinch",
+          "item": "of salt",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "dried oregano",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Broth and Body",
+      "items": [
+        {
+          "amount": 4,
+          "unit": "cups",
+          "item": "low-sodium veggie broth",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "6–8 plant-based meatballs",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Greens and Finish",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "packed cups",
+          "item": "chopped kale",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Cooked barley",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "",
+          "item": "Zest of lemon",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Small handful fresh parsley",
+          "prep": "chopped"
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Salt and cracked black pepper to taste",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Barley",
+      "items": [
+        "In a small saucepan, combine the pearl barley and water. Bring to a boil, then reduce to a simmer and cook until tender, about 25–30 minutes. Drain any excess water and set aside."
+      ]
+    },
+    {
+      "title": "Build the Aromatic Base",
+      "items": [
+        "In a soup pot, heat the olive oil over medium heat. Add the onion, carrot, celery, and a pinch of salt. Cook until softened, about 6–7 minutes. Stir in the garlic and oregano and cook for 1 minute more to bloom the aromatics."
+      ]
+    },
+    {
+      "title": "Simmer the Broth",
+      "items": [
+        "Add the veggie broth to the pot and bring to a gentle simmer."
+      ]
+    },
+    {
+      "title": "Cook the Meatballs",
+      "items": [
+        "Add the meatballs to the pot and simmer for 10–12 minutes, following package directions if they differ, until heated through and integrated into the broth."
+      ]
+    },
+    {
+      "title": "Add the Greens and Barley",
+      "items": [
+        "Stir in the chopped kale and the cooked barley. Simmer for another 5 minutes until the greens are wilted and the soup is cohesive."
+      ]
+    },
+    {
+      "title": "Finish and Serve",
+      "items": [
+        "Add the lemon zest, parsley, black pepper, and adjust salt to taste. Ladle into bowls, ensuring each serving contains greens, barley, and meatballs."
+      ]
+    }
+  ]
+}
