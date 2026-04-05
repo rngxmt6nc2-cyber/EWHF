@@ -1,0 +1,141 @@
+{
+  "id": "tomato-sauce",
+  "title": "Tomato Sauce",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Sauces & Bases",
+  "displayCategory": "Sauces & Bases",
+  "cScale": 0,
+  "ldlActive": false,
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Italian-American tomato sauce grew out of Southern Italian cooking brought to the United States in the late 1800s. Immigrant kitchens relied on canned tomatoes, garlic, olive oil, and dried oregano to build simple sauces that simmered slowly and filled the house with aroma. Over time this style became a staple of Italian-American home cooking. This version follows that tradition: tomatoes gently simmer with onion, garlic, and oregano, then reduce slowly until the flavor becomes concentrated and balanced.",
+  "ingredientGroups": [
+    {
+      "title": "Olive oil and aromatics",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "garlic",
+          "prep": "finely grated"
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "dried oregano",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "Pinch",
+          "item": "red pepper flakes",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "Pinch",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Tomatoes",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "(28 oz) can",
+          "item": "whole peeled tomatoes",
+          "prep": "with their juice"
+        },
+        {
+          "amount": 0,
+          "unit": "Pinch",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Onion and herbs",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "yellow onion",
+          "prep": "peeled and cut in half"
+        },
+        {
+          "amount": 2,
+          "unit": "",
+          "item": "basil sprigs",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "sprigs",
+          "item": "fresh mediterranean oregano",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Bloom the aromatics",
+      "items": [
+        "Place a medium saucepan or enameled Dutch oven on the stove while it is still cold. Add the olive oil, grated garlic, oregano, red pepper flakes, and a pinch of kosher salt. Turn the heat to low and allow the aromatics to warm slowly with the oil, stirring occasionally. Cook for about 3 minutes, until the garlic softens and becomes fragrant. Do not allow the garlic to brown."
+      ]
+    },
+    {
+      "title": "Add the tomatoes",
+      "items": [
+        "Pour the whole tomatoes and their juice into the pot and add another pinch of kosher salt. Bring to a gentle simmer."
+      ]
+    },
+    {
+      "title": "Soften the tomatoes",
+      "items": [
+        "Cover the pot and simmer for about 15 minutes. This softens the tomatoes so they blend easily."
+      ]
+    },
+    {
+      "title": "Blend the sauce",
+      "items": [
+        "Remove the lid and use a stick blender directly in the pot. Pulse until the sauce is mostly smooth but still has a fine tomato texture."
+      ]
+    },
+    {
+      "title": "Add onion, basil, and oregano",
+      "items": [
+        "Add the onion halves cut-side down along with the basil and oregano sprigs."
+      ]
+    },
+    {
+      "title": "Reduce the sauce",
+      "items": [
+        "Simmer the sauce uncovered for 60 minutes, maintaining a gentle simmer rather than a boil. Stir occasionally as the sauce reduces and thickens."
+      ]
+    },
+    {
+      "title": "Remove the aromatics",
+      "items": [
+        "Lift out and discard the onion halves, basil, and oregano."
+      ]
+    },
+    {
+      "title": "Final seasoning",
+      "items": [
+        "Taste the sauce and adjust the salt as needed after reduction."
+      ]
+    }
+  ]
+}
