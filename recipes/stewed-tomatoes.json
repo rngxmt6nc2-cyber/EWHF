@@ -1,0 +1,161 @@
+{
+  "id": "stewed-tomatoes",
+  "title": "Stewed tomatoes",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Vegetables & Sides",
+  "displayCategory": "Vegetables & Sides",
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Stewed tomatoes like this show up all over Midwestern and Mid-Atlantic tables, especially next to baked macaroni and cheese. The goal is contrast. Soft, rich pasta against bright, savory tomato with just enough body to cling. This version keeps the traditional structure, relying on high-quality whole tomatoes, controlled onion sweetness, and a restrained finish so the dish stays clean and defined.",
+  "ingredientGroups": [
+    {
+      "title": "Tomato Base",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "medium",
+          "item": "yellow onion",
+          "prep": "very finely diced"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Tomatoes",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "28 oz can",
+          "item": "whole peeled tomatoes",
+          "prep": "(with juice)"
+        }
+      ]
+    },
+    {
+      "title": "Flavor Build",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "stock",
+          "prep": ""
+        },
+        {
+          "amount": 0.75,
+          "unit": "tsp",
+          "item": "soy sauce",
+          "prep": ""
+        },
+        {
+          "amount": 0.375,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 0.375,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Thickener",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "cornstarch",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "cold water",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "amount": 0.75,
+          "unit": "tsp",
+          "item": "balsamic vinegar",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "fresh parsley",
+          "prep": "finely chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Build the Onion Base",
+      "items": [
+        "Place a saucepan over medium-low heat. Add olive oil, onion, and salt. Cook slowly, stirring frequently, until the onion is fully softened, pale golden, and completely collapsed with no browned edges, 12 to 15 minutes. The onion should smell sweet and mellow, not toasted."
+      ]
+    },
+    {
+      "title": "Add and Structure the Tomatoes",
+      "items": [
+        "Add the whole peeled tomatoes with their juice. Using your hand, crush 1 tomato firmly through your fist into the pot to seed the base with body.",
+        "Bring to a very low simmer and allow the remaining tomatoes to heat and relax for about 5 minutes.",
+        "Using a potato masher, press lightly once or twice across the pan to open the remaining tomatoes into large, irregular pieces. Do not mash or reduce to small chunks.",
+        "Add the stock, soy sauce, salt, and black pepper. Stir gently to combine."
+      ]
+    },
+    {
+      "title": "Controlled Simmer",
+      "items": [
+        "Bring to a very low simmer. The surface should show only occasional small bubbles. Maintain this for 15 to 20 minutes, stirring gently once or twice to prevent sticking. Do not agitate the tomatoes.",
+        "The tomatoes should soften and slump while holding clear shape."
+      ]
+    },
+    {
+      "title": "Reduce to Target",
+      "items": [
+        "Continue at the same low simmer until the liquid lightly coats a spoon and no longer appears watery or separated. When a spoon is dragged across the pan, the liquid should briefly hold a line before closing.",
+        "Taste. The tomato flesh should be seasoned, not just the surrounding liquid. Adjust salt slightly if needed."
+      ]
+    },
+    {
+      "title": "Thicken and Stabilize",
+      "items": [
+        "Stir the cornstarch and cold water until completely smooth.",
+        "Increase heat slightly until the liquid is just more active than the prior simmer, not boiling. Slowly stream in the slurry while stirring steadily across the full surface with minimal disturbance to the tomatoes.",
+        "Return immediately to a very low simmer and hold for 2 to 3 minutes, stirring gently once or twice, until the liquid becomes lightly glossy and cohesive.",
+        "If the mixture thickens too far, add 1 to 2 tbsp stock and stir gently to loosen."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Remove from heat. Stir in balsamic vinegar and parsley.",
+        "Taste. The balsamic should round and sharpen without standing out. The parsley should provide a light aromatic lift.",
+        "Rest 5 minutes before serving."
+      ]
+    }
+  ]
+}
