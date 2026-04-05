@@ -1,0 +1,146 @@
+{
+  "id": "chicken-stock",
+  "title": "Chicken Stock",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Sauces & Bases",
+  "displayCategory": "Sauces & Bases",
+  "cScale": 1,
+  "ldlActive": false,
+  "yield": 6,
+  "yieldUnit": "Quarts",
+  "tags": [],
+  "intro": "",
+  "ingredientGroups": [
+    {
+      "title": "Ingredients I – Pressure Extraction",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "whole",
+          "item": "chicken",
+          "prep": "(minus breast and thigh meat)"
+        },
+        {
+          "amount": 4,
+          "unit": "",
+          "item": "drumsticks",
+          "prep": "(in addition to the 2 on the chicken)"
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "Chicken neck",
+          "prep": ""
+        },
+        {
+          "amount": 3,
+          "unit": "Quarts",
+          "item": "cold water",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "apple cider vinegar",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Ingredients II – Aromatic Simmer",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "carrot",
+          "prep": "peeled & cut into large pieces"
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "celery stalk",
+          "prep": "cut into large pieces"
+        },
+        {
+          "amount": 1,
+          "unit": "medium",
+          "item": "onion",
+          "prep": "peeled & cut in half"
+        },
+        {
+          "amount": 2,
+          "unit": "",
+          "item": "Garlic cloves",
+          "prep": "smashed"
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        },
+        {
+          "amount": 10,
+          "unit": "sprigs",
+          "item": "fresh parsley",
+          "prep": ""
+        },
+        {
+          "amount": 3,
+          "unit": "sprigs",
+          "item": "fresh thyme",
+          "prep": ""
+        },
+        {
+          "amount": 20,
+          "unit": "",
+          "item": "whole black pepper corns",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Ingredients II – Aromatic Simmer",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "Quarts",
+          "item": "hot tap water",
+          "prep": "(heat from cold separately)"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Directions I – Pressure Extraction",
+      "items": [
+        "Add the drumsticks to the pressure cooker.",
+        "Cut the chicken into parts. Reserve the breasts & thighs for something else. Add the wings, drumsticks, and carcass to the pressure cooker. (If you remove the skin and bones from the thighs & breasts, add the skin & bones to the pressure cooker too).",
+        "Add the cold tap water to the pressure cooker and the vinegar.",
+        "Bring to 10 pounds of pressure and cook under pressure for 50 minutes.",
+        "Shut off heat and let pressure cooker cool naturally (don’t release steam)."
+      ]
+    },
+    {
+      "title": "Directions II – Aromatic Simmer",
+      "items": [
+        "When cool enough to open, but still hot, pour the contents of the pressure cooker into a large stock pot.",
+        "Add the remaining ingredients, including the hot water.",
+        "Simmer covered for one hour."
+      ]
+    },
+    {
+      "title": "Cooling and Storage",
+      "items": [
+        "Strain out the solids.",
+        "Place the pot of strained stock into a sink or large basin filled with ice and cold water. Stir occasionally to release heat and speed cooling.",
+        "Once the stock has cooled substantially, transfer it to the refrigerator and chill overnight.",
+        "By morning the fat will have risen and hardened on top. Lift off and discard the fat.",
+        "When chilled, the stock should set into a soft gel and jiggle when shaken. That’s the sign of good collagen extraction and a stock that will give sauces and soups real body.",
+        "Store in the refrigerator for several days or freeze in containers for longer storage."
+      ]
+    }
+  ]
+}
