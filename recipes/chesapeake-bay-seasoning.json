@@ -1,0 +1,125 @@
+{
+  "id": "chesapeake-bay-seasoning",
+  "title": "Chesapeake Bay Seasoning",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Condiments & Toppings",
+  "displayCategory": "Condiments & Toppings",
+  "cScale": "0",
+  "ldlActive": true,
+  "yield": 12,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "This style of seasoning grew out of early 20th-century coastal seafood houses, where bold spice blends were built to season large batches of crab and shrimp. This version leans New England, with a lighter hand on salt and a cleaner, more herbal profile that lets the shellfish stay front and center.",
+  "ingredientGroups": [
+    {
+      "title": "Ingredients",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "celery seed",
+          "prep": "finely ground"
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "sweet paprika",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "ground bay leaf",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "dried thyme",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "dried dill",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "dry mustard",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "ground black pepper",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "ground white pepper",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "ground mace",
+          "prep": ""
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "ground nutmeg",
+          "prep": ""
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "ground ginger",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "crushed red pepper flakes",
+          "prep": ""
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "cayenne",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Instructions",
+      "items": [
+        "Grind the celery seed to a fine powder. This is critical. Whole or coarse celery seed won’t distribute evenly and you’ll lose that signature flavor.",
+        "Combine the ground celery seed and fine sea salt in a bowl. Mix thoroughly so the celery flavor is evenly carried by the salt.",
+        "Add the sweet and smoked paprika. Whisk until the color is uniform.",
+        "Stir in the bay leaf, thyme, dill, mustard, and peppers. Mix well.",
+        "Add the mace, nutmeg, ginger, red pepper flakes, and cayenne. Whisk until fully blended.",
+        "Pulse briefly in a spice grinder if needed for a tighter blend.",
+        "Let sit at least 12 hours before using."
+      ]
+    }
+  ]
+}
