@@ -1,0 +1,130 @@
+{
+  "id": "cornbread",
+  "title": "Cornbread",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Breads & Doughs",
+  "displayCategory": "Breads & Doughs",
+  "cScale": 0,
+  "ldlActive": false,
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Cornbread has always lived at the crossroads of thrift and comfort, from open-fire ash cakes and griddle breads to the cast-iron skillets that became a Southern kitchen signature. This version leans into that memory, keeping the skillet-baked character and tender crumb while making the crust and finish more deliberate so the result better matches the promise of the dish.",
+  "ingredientGroups": [
+    {
+      "title": "Wet Mix",
+      "items": [
+        {
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "unsweetened oat milk",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "malic acid",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "honey",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Dry Mix",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "stone-ground yellow cornmeal",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "amount": 4,
+          "unit": "teaspoons",
+          "item": "baking powder",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "baking soda",
+          "prep": ""
+        },
+        {
+          "amount": 0.75,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "For the Pan and Top Crust",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "coarse sea salt flakes",
+          "prep": "lightly crushed between the fingers"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Make the Wet Mix",
+      "items": [
+        "Whisk the malic acid into the oat milk and let it rest for 3 to 5 minutes to lightly sour. Whisk in the honey and olive oil until smooth and emulsified. Set aside while preparing the dry mix."
+      ]
+    },
+    {
+      "title": "Make the Dry Mix",
+      "items": [
+        "Whisk the cornmeal, flour, baking powder, baking soda, and fine sea salt together in a medium bowl until evenly combined."
+      ]
+    },
+    {
+      "title": "Heat the Skillet",
+      "items": [
+        "Place a 10-inch cast-iron skillet in the oven while it preheats to 425 °F. Let the skillet stay in the oven for at least 10 minutes after the oven reaches temperature so the pan is fully heat-soaked."
+      ]
+    },
+    {
+      "title": "Combine and Bake",
+      "items": [
+        "When the skillet is hot, remove it carefully and add the olive oil, swirling to coat the bottom and sides generously. Pour the wet mix into the dry mix and fold gently just until no dry pockets remain. Pour the batter immediately into the hot skillet. It should sizzle faintly at the edges. Smooth the top, then scatter the lightly crushed coarse salt evenly over the batter so it bakes into the top crust instead of reading as a last-minute garnish.",
+        "Bake for 20 to 25 minutes, until the top is deep golden, the edges are well browned, and a tester inserted in the center comes out clean, about 200 °F internal temperature."
+      ]
+    },
+    {
+      "title": "Rest and Serve",
+      "items": [
+        "Let the cornbread rest in the skillet for 5 to 10 minutes to set the crumb and preserve the crust. Run a knife around the edge if needed, then slice into wedges and serve warm."
+      ]
+    }
+  ]
+}
