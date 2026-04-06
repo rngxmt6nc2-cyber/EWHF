@@ -1,0 +1,302 @@
+{
+  "id": "stuffed-peppers",
+  "title": "Stuffed peppers",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Stuffed peppers appear across Central and Eastern Europe, the Balkans, the Mediterranean, and the American Midwest. Hollowed peppers are filled with rice and aromatics, then cooked in a tomato-based liquid until the flavors come together.",
+  "ingredientGroups": [
+    {
+      "title": "Pepper preparation",
+      "items": [
+        {
+          "amount": 4,
+          "unit": "large",
+          "item": "bell peppers",
+          "prep": "tops cut off and seeds removed"
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Rice",
+      "items": [
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "Carolina Gold rice",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Filling base",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "medium",
+          "item": "onion",
+          "prep": "finely diced"
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "MorningStar Farms Be’f Crumbles",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "stock",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "soy sauce",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "red wine vinegar",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "Worcestershire sauce",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Herbs and spice",
+      "items": [
+        {
+          "amount": 3,
+          "unit": "tbsp",
+          "item": "fresh parsley",
+          "prep": "chopped"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "fresh oregano",
+          "prep": "chopped"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "sweet paprika",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "cayenne pepper",
+          "prep": ""
+        },
+        {
+          "amount": 0.75,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Braising liquid",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "cups",
+          "item": "Low Sodium V8 vegetable juice",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "stock",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "jalapeño",
+          "prep": "sliced"
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "cayenne pepper",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "soy sauce",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Pepper finishing",
+      "items": [
+        {
+          "amount": 8,
+          "unit": "",
+          "item": "jalapeño slices",
+          "prep": "(2 per pepper)"
+        },
+        {
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "fresh parsley",
+          "prep": "chopped"
+        }
+      ]
+    },
+    {
+      "title": "Finishing sauce",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "small",
+          "item": "onion",
+          "prep": "very finely minced"
+        },
+        {
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced to a paste"
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "roasted red bell pepper",
+          "prep": "peeled"
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "stock",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "reserved braising liquid",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "sweet paprika",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "red wine vinegar",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "lemon juice",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Salt to taste",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Instructions",
+      "items": [
+        "Prepare the peppers\nBring salted water to a boil. Add peppers and cook 4–5 minutes until just beginning to soften. Drain upside down. Lightly salt inside and coat outside with olive oil.",
+        "Cook the rice\nBring salted water to a boil. Add rice and cook 7 minutes. Drain immediately and spread to steam dry.",
+        "Build the filling base\nHeat olive oil over medium heat. Add onion and cook until soft and lightly golden, 8–10 minutes.\nAdd tomato paste and cook until darkened and slightly sticky.\nAdd garlic and cook briefly.\nAdd crumbles over medium-high heat. Let them sit, then cook until lightly browned and moisture is driven off. Add stock, soy sauce, and Worcestershire. Cook until absorbed and cohesive.",
+        "Finish the filling\nReduce heat to low. Add rice, herbs, spices, salt, and pepper. Mix thoroughly.\nAdd red wine vinegar and fold in.\nThe filling should hold together when pressed but remain light. Adjust slightly with stock or heat if needed.\nRest 2–3 minutes.",
+        "Fill the peppers\nPlace peppers upright in a snug vessel. Fill fully, pressing lightly to remove air gaps. Leave ¼ inch at top. Add jalapeño slices.",
+        "Add braising liquid\nPour liquid to reach roughly halfway up the peppers.",
+        "Braise the peppers\nCover and bake at 375°F for 20 minutes.\nCheck for doneness: a knife should pass easily through the pepper wall while it still holds shape.\nUncover and bake 6–8 minutes to lightly set the tops.\nRemove and rest 5 minutes.",
+        "Build the finishing sauce\nHeat olive oil over medium heat. Add onion and cook slowly until fully softened.\nAdd tomato paste and cook until darkened.\nAdd garlic and cook gently.\nAdd roasted red pepper and fully break down into the base.\nAdd stock and ½ cup braising liquid. Simmer and reduce until cohesive and lightly thickened.Add paprika and simmer briefly.",
+        "Finish the sauce\nAdd red wine vinegar and lemon juice. Adjust salt.",
+        "Serving\nSpoon sauce onto the plate and place peppers on top. Finish with parsley."
+      ]
+    }
+  ]
+}
