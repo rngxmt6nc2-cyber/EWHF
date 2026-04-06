@@ -1,0 +1,252 @@
+{
+  "id": "potato-leek-soup",
+  "title": "Potato Leek Soup",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 1,
+  "ldlActive": true,
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "This keeps the classic leek and potato foundation but borrows a deeper, slower technique from French onion soup and Alpine mushroom cookery. By building caramelized onion directly into the base and layering in browned mushrooms, the soup gains structure and depth without relying on cream.",
+  "ingredientGroups": [
+    {
+      "title": "Onion Paste Base",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "medium",
+          "item": "yellow onion",
+          "prep": "thinly sliced"
+        },
+        {
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Mushroom Backbone",
+      "items": [
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "mushrooms",
+          "prep": "sliced"
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Pinch kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Barley Base",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "pearl barley",
+          "prep": ""
+        },
+        {
+          "amount": 4,
+          "unit": "cups",
+          "item": "chicken stock",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Aromatic Layer",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "large",
+          "item": "leeks",
+          "prep": "cleaned and sliced (white and light green only)"
+        },
+        {
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        }
+      ]
+    },
+    {
+      "title": "Body + Structure",
+      "items": [
+        {
+          "amount": 3,
+          "unit": "medium",
+          "item": "Yukon Gold potatoes",
+          "prep": "peeled and 1/2-inch diced"
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "amount": 3,
+          "unit": "to 4 cups",
+          "item": "chicken stock",
+          "prep": "start with 3, adjust later"
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "fresh parsley",
+          "prep": "finely chopped"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "fresh thyme leaves",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "lemon juice",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Crispy Barley",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Pinch kosher salt",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Build the Onion Paste",
+      "items": [
+        "Heat olive oil in a heavy pot over medium-low.",
+        "Add sliced onion and salt.",
+        "Cook slowly 25 to 30 minutes, stirring occasionally, until deep golden brown, soft, and jammy.",
+        "If it sticks, add small splashes of water and keep going.",
+        "Blend or mash into a smooth paste. Leave in the pot."
+      ]
+    },
+    {
+      "title": "Sear the Mushrooms",
+      "items": [
+        "In a separate pan, heat olive oil over medium-high.",
+        "Add mushrooms in a single layer.",
+        "Do not stir at first. Let them brown hard.",
+        "Cook 6 to 8 minutes until deeply browned, reduced, and slightly crisp at edges.",
+        "Season lightly. Set aside."
+      ]
+    },
+    {
+      "title": "Cook the Barley",
+      "items": [
+        "Simmer barley in 4 cups stock for 25 to 30 minutes until tender.",
+        "Drain, reserving the liquid."
+      ]
+    },
+    {
+      "title": "Build the Aromatic Layer",
+      "items": [
+        "To the onion paste pot, add sliced leeks.",
+        "Cook 8 to 10 minutes until softened and integrated into the paste.",
+        "Add garlic and cook 1 minute."
+      ]
+    },
+    {
+      "title": "Build the Soup",
+      "items": [
+        "Add potatoes, bay leaf, pepper, and 3 cups stock.",
+        "Simmer 15 to 20 minutes until potatoes are fully tender."
+      ]
+    },
+    {
+      "title": "Create the Structure",
+      "items": [
+        "Remove bay leaf.",
+        "Blend 50 to 60 percent of the soup.",
+        "You want a thicker, cohesive base."
+      ]
+    },
+    {
+      "title": "Fold in the Barley and Mushrooms",
+      "items": [
+        "Add the cooked barley and about 2/3 of the mushrooms to the pot.",
+        "Add a splash of the reserved barley liquid if needed to loosen the texture.",
+        "Simmer 5 to 10 minutes so the flavors absorb into the base.",
+        "Adjust consistency with additional stock as needed."
+      ]
+    },
+    {
+      "title": "Crispy Barley Finish",
+      "items": [
+        "Take about 1/3 of the cooked barley and pat dry.",
+        "Heat olive oil in a pan.",
+        "Cook barley 6 to 8 minutes until golden and crisp in spots.",
+        "Salt lightly."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Turn off heat.",
+        "Stir in parsley, thyme, and lemon juice.",
+        "Taste and adjust salt.",
+        "Optional: small hit of fish sauce or soy for added depth."
+      ]
+    },
+    {
+      "title": "Serve",
+      "items": [
+        "Ladle into bowls.",
+        "Top with remaining mushrooms and crispy barley.",
+        "Do not fully stir."
+      ]
+    }
+  ]
+}
