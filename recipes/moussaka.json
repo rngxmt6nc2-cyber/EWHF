@@ -1,0 +1,299 @@
+{
+  "id": "moussaka",
+  "title": "Moussaka",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 1,
+  "ldlActive": true,
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Moussaka is one of the defining baked dishes of Greece. Modern Greek moussaka was popularized in the US in the early 20th century as a layered casserole of eggplant, spiced tomato meat sauce, and a creamy baked topping. The signature flavor comes from cinnamon, oregano, and tomato simmered together. This version preserves that unmistakable flavor structure while rebuilding the richness with lentils, mushrooms, grilled eggplant, and a lightly puffed yogurt and egg-white custard.",
+  "ingredientGroups": [
+    {
+      "title": "Potatoes",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "large",
+          "item": "russet potato",
+          "prep": "sliced ¼ inch thick"
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "garlic powder",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh oregano",
+          "prep": "chopped"
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "tomato paste",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Eggplant",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "large",
+          "item": "eggplant",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Yogurt Soufflé Top",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "plain Greek yogurt",
+          "prep": ""
+        },
+        {
+          "amount": 3,
+          "unit": "",
+          "item": "egg whites",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "flour",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "ground nutmeg",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "clove",
+          "item": "garlic",
+          "prep": "finely grated"
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "chicken stock",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Lentil Mushroom Ragu",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "dried brown lentils",
+          "prep": ""
+        },
+        {
+          "amount": 4,
+          "unit": "cups",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "small",
+          "item": "onion",
+          "prep": "finely diced"
+        },
+        {
+          "amount": 6,
+          "unit": "ounces",
+          "item": "mushrooms",
+          "prep": "finely chopped"
+        },
+        {
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "red wine vinegar",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "crushed tomatoes",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "chicken stock",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fresh oregano",
+          "prep": "chopped"
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "ground cinnamon",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Lentils",
+      "items": [
+        "Simmer the lentils in 4 cups of water with ½ teaspoon salt until just tender, about 25 to 30 minutes. Drain well and set aside."
+      ]
+    },
+    {
+      "title": "Prepare the Eggplant",
+      "items": [
+        "Slice the eggplant lengthwise into planks about ½ inch thick. Lay the planks on a tray and sprinkle evenly with the teaspoon of salt. Let sit about 30 minutes to release moisture. Pat dry and brush lightly with olive oil."
+      ]
+    },
+    {
+      "title": "Grill the Eggplant",
+      "items": [
+        "Grill the planks over medium-high heat until flexible with light char marks, about 3 to 4 minutes per side. Set aside."
+      ]
+    },
+    {
+      "title": "Par Roast the Potatoes",
+      "items": [
+        "Heat the oven to 425°F convection humid, or 425°F convection in a standard oven.",
+        "Toss the potato slices with olive oil, salt, pepper, garlic powder, oregano, and tomato paste until evenly coated. Spread on a sheet pan and roast until lightly browned and about 70 percent cooked, about 15 to 18 minutes. Set aside."
+      ]
+    },
+    {
+      "title": "Make the Lentil Mushroom Ragu",
+      "items": [
+        "Heat the olive oil in a large skillet over medium-high heat. Add the onion and cook until softened and beginning to brown.",
+        "Add the chopped mushrooms and cook aggressively, stirring occasionally, until the mushrooms release their moisture and begin to brown deeply.",
+        "Add the garlic and cook briefly.",
+        "Stir in the tomato paste and cook it directly in the pan until it darkens slightly and smells sweet and caramelized.",
+        "Add the red wine vinegar and let it bubble for about 20 seconds to deglaze the pan.",
+        "Add the crushed tomatoes, chicken stock, oregano, cinnamon, pepper, and salt. Stir in the cooked lentils.",
+        "Simmer until the sauce reduces to a very thick consistency, almost like sloppy joe filling. Remove from heat."
+      ]
+    },
+    {
+      "title": "Make the Yogurt Soufflé Top",
+      "items": [
+        "Whisk the yogurt, flour, nutmeg, garlic, salt, and chicken stock until completely smooth.",
+        "Beat the egg whites with a pinch of salt until soft peaks form.",
+        "Fold the egg whites gently into the yogurt mixture until just combined and still airy."
+      ]
+    },
+    {
+      "title": "Assemble the Moussaka",
+      "items": [
+        "Reduce the oven to 375°F convection.",
+        "Arrange the roasted potato slices across the bottom of the baking dish in a tight layer.",
+        "Spread half of the lentil mushroom ragu evenly over the potatoes.",
+        "Lay the grilled eggplant planks over the sauce in a solid layer.",
+        "Spread the remaining ragu evenly across the eggplant.",
+        "Pour the yogurt custard over the surface and spread gently to the edges."
+      ]
+    },
+    {
+      "title": "Bake",
+      "items": [
+        "Bake for 35 to 45 minutes until the top is lightly puffed, golden, and the center barely jiggles.",
+        "If deeper color is desired, finish under convection broil for 1 to 2 minutes."
+      ]
+    },
+    {
+      "title": "Rest",
+      "items": [
+        "Allow the moussaka to rest for at least 25 minutes before slicing so the layers set cleanly."
+      ]
+    }
+  ]
+}
