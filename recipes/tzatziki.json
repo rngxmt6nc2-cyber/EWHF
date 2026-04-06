@@ -1,0 +1,105 @@
+{
+  "id": "tzatziki",
+  "title": "Tzatziki",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Condiments & Toppings",
+  "displayCategory": "Condiments & Toppings",
+  "cScale": 0,
+  "ldlActive": false,
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Tzatziki is the cool yogurt-cucumber sauce served across Greece and the Eastern Mediterranean alongside grilled meats, vegetables, and warm flatbread. It is built on strained yogurt, fresh garlic, and cucumber, producing a bright, tangy contrast to rich or smoky foods. Traditional versions rely on thick sheep or goat yogurt, but modern Greek yogurt works beautifully and provides the same dense texture. The key technique is removing excess water from the cucumber so the sauce stays thick and creamy instead of watery.",
+  "ingredientGroups": [
+    {
+      "title": "Cucumber Base",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "",
+          "item": "English cucumber",
+          "prep": ""
+        },
+        {
+          "amount": 0.75,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Yogurt Base",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "nonfat Greek yogurt",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "clove",
+          "item": "garlic",
+          "prep": "very finely grated"
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "extra virgin olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Fresh Herbs",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh dill",
+          "prep": "finely chopped"
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoon",
+          "item": "fresh parsley",
+          "prep": "finely chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Prepare the cucumber",
+      "items": [
+        "Peel the cucumber, cut it lengthwise, and scrape out the seeds with a spoon. Grate it on the small holes of a box grater. Toss the grated cucumber with the kosher salt and place it in a strainer over a bowl or in a paper towel-lined sieve. Let it drain for 15 minutes, then squeeze it firmly with your hands or in a clean towel until as much water as possible has been removed. This step is what keeps the tzatziki thick and properly textured."
+      ]
+    },
+    {
+      "title": "Build the base",
+      "items": [
+        "In a mixing bowl, combine the nonfat Greek yogurt, grated garlic, and lemon juice. Stir until fully smooth and evenly mixed."
+      ]
+    },
+    {
+      "title": "Finish the sauce",
+      "items": [
+        "Add the squeezed cucumber, extra virgin olive oil, dill, and parsley. Stir until everything is thoroughly combined and evenly distributed. Taste and adjust the salt only if needed, keeping in mind that the salted cucumber has already seasoned the mixture."
+      ]
+    },
+    {
+      "title": "Rest and serve",
+      "items": [
+        "Refrigerate for at least 20 minutes before serving so the garlic and herbs can settle into the yogurt. Serve cold."
+      ]
+    }
+  ]
+}
