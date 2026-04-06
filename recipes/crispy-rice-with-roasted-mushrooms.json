@@ -1,0 +1,258 @@
+{
+  "id": "crispy-rice-with-roasted-mushrooms",
+  "title": "Crispy Rice with Roasted Mushrooms",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Rice, Beans & Legumes",
+  "displayCategory": "Rice, Beans & Legumes",
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "This dish draws on the long tradition of crispy rice found across cultures, from Persian tahdig to Spanish socarrat, where the most prized part of the pot is the golden layer at the bottom. Here, we flip that idea and get that layer on top, building a crisp, golden surface while the rice underneath stays tender.",
+  "ingredientGroups": [
+    {
+      "title": "Roasted Mushrooms",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "pounds",
+          "item": "mixed mushrooms",
+          "prep": "with stems removed (cremini, shiitake, oyster, maitake, etc)"
+        },
+        {
+          "amount": 1.5,
+          "unit": "tablespoons",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Pinch of salt",
+          "prep": ""
+        },
+        {
+          "amount": 1.5,
+          "unit": "teaspoons",
+          "item": "rice vinegar",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Kombu Umami Base",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "piece",
+          "item": "kombu",
+          "prep": "about 3 to 4 inches"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "hot water",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Miso Dressing",
+      "items": [
+        {
+          "amount": 1.25,
+          "unit": "tablespoons",
+          "item": "white miso",
+          "prep": ""
+        },
+        {
+          "amount": 1.5,
+          "unit": "tablespoons",
+          "item": "rice vinegar",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "soy sauce",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "",
+          "item": "Zest of lemon",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "chili garlic sauce",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Aromatic Base",
+      "items": [
+        {
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 0.75,
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": "sliced"
+        },
+        {
+          "amount": 4.5,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "sliced"
+        }
+      ]
+    },
+    {
+      "title": "Rice and Broth",
+      "items": [
+        {
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "Kokuho Rose rice",
+          "prep": "rinsed and drained"
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "dry white wine",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "cups",
+          "item": "mushroom or vegetable broth",
+          "prep": ""
+        },
+        {
+          "amount": 0.6666666666666666,
+          "unit": "cup",
+          "item": "kombu soaking liquid",
+          "prep": ""
+        },
+        {
+          "amount": 2.25,
+          "unit": "tablespoons",
+          "item": "soy sauce",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "amount": 0.75,
+          "unit": "",
+          "item": "scallion",
+          "prep": "thinly sliced"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fresh cilantro",
+          "prep": "chopped"
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "water chestnuts",
+          "prep": "drained, rinsed, and thoroughly dried"
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "neutral oil",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Pinch of salt",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "rice vinegar",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Prepare the Kombu",
+      "items": [
+        "Place the kombu in the hot water and let steep for 10 to 15 minutes. Remove the kombu and reserve ⅔ cup of the liquid."
+      ]
+    },
+    {
+      "title": "Prepare and Roast the Mushrooms",
+      "items": [
+        "Heat the oven to 425°F and position racks in the middle. Tear the mushrooms into large, irregular pieces rather than slicing. Line two sheet pans with parchment and spread them out without crowding. Drizzle with the olive oil and toss lightly to coat. Roast for 20 to 25 minutes, rotating the pans halfway through, until lightly browned with some crisp edges but still plump and tender inside. Do not over-reduce. Remove from the oven and immediately toss with the salt and rice vinegar while still hot. Set aside."
+      ]
+    },
+    {
+      "title": "Build the Miso Dressing",
+      "items": [
+        "In a small bowl, whisk together the white miso, rice vinegar, olive oil, soy sauce, lemon zest, and chili garlic sauce until smooth. Set aside."
+      ]
+    },
+    {
+      "title": "Build the Aromatic Base",
+      "items": [
+        "Heat the olive oil in a wide, oven-safe pan over medium high heat. Add the sliced onion and cook undisturbed for about 2 minutes to begin browning. Reduce the heat to medium low and continue cooking for about 8 minutes until softened and lightly caramelized. Add the garlic and cook for about 3 to 4 minutes until fragrant and just starting to turn golden."
+      ]
+    },
+    {
+      "title": "Build the Rice",
+      "items": [
+        "Raise the heat to medium high, add the rinsed and drained Kokuho Rose rice, and cook for 1 minute, stirring to coat the grains. Add the white wine and cook for about 1 minute, scraping up any browned bits, until reduced by about half. Add the broth, kombu soaking liquid, and soy sauce. Bring to a boil, then cover and reduce the heat to low. Simmer for 10 minutes."
+      ]
+    },
+    {
+      "title": "Finish in the Oven",
+      "items": [
+        "Uncover and transfer the pan directly to the oven without stirring. Bake for 15 minutes until the rice is just set and most of the liquid is absorbed."
+      ]
+    },
+    {
+      "title": "Crisp the Rice",
+      "items": [
+        "Remove the pan from the oven and switch to broil. Place the pan on an upper rack and broil for 5 to 10 minutes, rotating once, until the top is deeply golden and crisp. Watch closely during this step to prevent burning."
+      ]
+    },
+    {
+      "title": "Prepare the Water Chestnuts",
+      "items": [
+        "While the rice finishes, heat a pan over medium high with the neutral oil. Add the dried water chestnuts and let them sit undisturbed for 60 to 90 seconds to lightly sear. Toss once and cook another 30 to 60 seconds, just enough to warm through while keeping their snap. Remove from heat and finish with the salt and rice vinegar."
+      ]
+    },
+    {
+      "title": "Layer and Finish",
+      "items": [
+        "Remove the rice from the oven and immediately scatter the warm water chestnuts evenly over the surface. Toss the roasted mushrooms with the miso dressing, half of the scallions, and half of the cilantro, then spoon over the water chestnuts. Finish with the remaining scallions and cilantro and serve immediately, scooping straight down through the layers to capture everything in each bite."
+      ]
+    }
+  ]
+}
