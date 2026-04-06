@@ -1,0 +1,164 @@
+{
+  "id": "jamaican-rice-and-peas",
+  "title": "Jamaican Rice and Peas",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Rice, Beans & Legumes",
+  "displayCategory": "Rice, Beans & Legumes",
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Rice and peas is one of the defining dishes of Jamaican home cooking and appears on tables across the island, especially on Sundays and holidays. Despite the name, the “peas” are actually small red beans simmered until tender and then cooked together with rice in a fragrant coconut broth. Fresh thyme, scallion, garlic, and Scotch bonnet pepper infuse the pot while the rice absorbs the rich, aromatic liquid.\n\nThe finished dish is fluffy, lightly creamy from coconut milk, and deeply savory from the beans and herbs. Whole aromatics perfume the rice during cooking and are removed before serving, leaving clean grains and a warm background heat from the Scotch bonnet. It is most often served alongside jerk, stews, or grilled meats, but the dish is satisfying enough to stand on its own as a hearty bowl.",
+  "ingredientGroups": [
+    {
+      "title": "For the Beans",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "dried small red kidney beans",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "cups",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "For the Coconut Rice Base",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "long-grain rice",
+          "prep": "(preferably jasmine)"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "light coconut milk",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "chicken stock",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "For the Aromatics",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "",
+          "item": "scallions",
+          "prep": "cut into 2-inch segments"
+        },
+        {
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "lightly crushed"
+        },
+        {
+          "amount": 3,
+          "unit": "sprigs",
+          "item": "fresh thyme",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "small",
+          "item": "Scotch bonnet pepper",
+          "prep": "left whole"
+        }
+      ]
+    },
+    {
+      "title": "For Finishing",
+      "items": [
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "fresh thyme leaves",
+          "prep": "finely chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the beans",
+      "items": [
+        "Soak the dried kidney beans overnight in plenty of water. Drain, then place in a saucepan with 2 cups fresh water and ½ tsp kosher salt. Simmer gently for about 60 to 75 minutes until tender but still intact. Reserve ¼ cup of the cooking liquid and drain the beans."
+      ]
+    },
+    {
+      "title": "Rinse the rice",
+      "items": [
+        "Place the rice in a bowl and rinse under cold water until the water runs mostly clear. Drain well."
+      ]
+    },
+    {
+      "title": "Build the cooking liquid",
+      "items": [
+        "In a small saucepan combine the coconut milk, water, chicken stock, and the reserved ¼ cup bean cooking liquid. Bring just to a gentle simmer."
+      ]
+    },
+    {
+      "title": "Start the rice",
+      "items": [
+        "Add the rinsed rice and cooked beans to the saucepan. Stir once."
+      ]
+    },
+    {
+      "title": "Add aromatics",
+      "items": [
+        "Place the scallion segments, crushed garlic cloves, thyme sprigs, and the half Scotch bonnet pepper directly on top of the rice mixture."
+      ]
+    },
+    {
+      "title": "Cook the rice",
+      "items": [
+        "Bring the pot to a light boil, then reduce to very low heat and cover tightly. Cook for about 14 minutes until the liquid is absorbed."
+      ]
+    },
+    {
+      "title": "Rest the rice",
+      "items": [
+        "Turn off the heat and let the pot rest, covered, for 10 minutes. This finishing rest gives the rice its characteristic fluffy texture."
+      ]
+    },
+    {
+      "title": "Finish the dish",
+      "items": [
+        "Remove the thyme stems, garlic cloves, scallions, and Scotch bonnet. Fluff the rice gently with a fork. Sprinkle with the chopped fresh thyme and the remaining ¼ tsp salt."
+      ]
+    }
+  ]
+}
