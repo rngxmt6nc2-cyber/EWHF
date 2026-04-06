@@ -1,0 +1,136 @@
+{
+  "id": "eggplant-parmesan",
+  "title": "Eggplant Parmesan",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 2,
+  "ldlActive": false,
+  "yield": 2,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Eggplant Parmesan is an Italian American red-sauce classic that became a staple of home kitchens and neighborhood trattorias, built on layers of tender eggplant, tomato sauce, and melted cheese. This version keeps the familiar structure and comfort of the dish while using air-fried cutlets for a lighter path to browning before the final bake.",
+  "ingredientGroups": [
+    {
+      "title": "Eggplant Cutlets",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "medium",
+          "item": "eggplant",
+          "prep": "sliced into 1/2-inch rounds"
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "salt",
+          "prep": "for drawing out moisture"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "Egg Beaters",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "whole wheat panko breadcrumbs",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "dried oregano",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "dried basil",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "pinch",
+          "item": "red pepper flakes",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "avocado oil spray",
+          "prep": "for crisping"
+        }
+      ]
+    },
+    {
+      "title": "Sauce and Assembly",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "cups",
+          "item": "tomato sauce",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "low-fat mozzarella shreds",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "fresh basil leaves",
+          "prep": "for garnish"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Salt the Eggplant",
+      "items": [
+        "Lay the eggplant slices on a wire rack or paper towels and sprinkle both sides lightly with salt. Let them rest for 30 minutes to draw out moisture, then pat them dry thoroughly."
+      ]
+    },
+    {
+      "title": "Flour and Rest the Eggplant",
+      "items": [
+        "Place the flour in a shallow bowl and coat each eggplant slice lightly on both sides. Shake off any excess flour and let the slices rest for 10 minutes so the flour hydrates and adheres."
+      ]
+    },
+    {
+      "title": "Bread and Chill the Eggplant",
+      "items": [
+        "Place the Egg Beaters in one shallow bowl. In another shallow bowl, combine the panko, dried oregano, dried basil, and red pepper flakes. Dip each floured eggplant slice in the Egg Beaters, let the excess drip off, then press firmly into the breadcrumb mixture on both sides. Arrange the breaded slices in a single layer on a sheet pan or tray and place them in the freezer for 10 to 15 minutes to help the coating set."
+      ]
+    },
+    {
+      "title": "Air Fry the Cutlets",
+      "items": [
+        "Preheat the air fryer to 400°F. Spray both sides of the breaded eggplant slices with avocado oil spray. Arrange them in a single layer in the air fryer basket without crowding. Air fry for 8 to 10 minutes, then turn the slices, spray lightly again, and air fry for 5 to 7 minutes more, until deep golden brown and crisp. Work in batches as needed."
+      ]
+    },
+    {
+      "title": "Assemble the Parmesan",
+      "items": [
+        "Preheat the oven to 375°F. Arrange a layer of eggplant slices in a small baking dish. Spoon over a light layer of tomato sauce, then scatter over some of the low-fat mozzarella. Repeat the layers, using the sauce with restraint so the cutlets do not become waterlogged, and finish with the cheese on top."
+      ]
+    },
+    {
+      "title": "Finish the Dish",
+      "items": [
+        "Bake for 20 minutes, until hot and bubbly. Broil for 2 to 3 minutes to brown the top lightly. Garnish with fresh basil leaves and serve hot."
+      ]
+    }
+  ]
+}
