@@ -1,0 +1,217 @@
+{
+  "id": "pompeys-head",
+  "title": "Pompey’s Head",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 0,
+  "ldlActive": false,
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Pompey’s Head is a rustic, old-world meat loaf shaped into a bold, crown-like dome. Savory, herb-driven, and firmly textured, it’s meant to slice clean and stand on its own as a substantial, satisfying centerpiece. Traditionally built from mixed meats and rich binders, this version preserves the same dense, sliceable character using a plant-based.",
+  "ingredientGroups": [
+    {
+      "title": "Base",
+      "items": [
+        {
+          "amount": 4,
+          "unit": "oz",
+          "item": "seitan",
+          "prep": "finely chopped"
+        },
+        {
+          "amount": 2,
+          "unit": "oz",
+          "item": "seitan",
+          "prep": "chopped into small irregular chunks (lentil to pea size)"
+        },
+        {
+          "amount": 4,
+          "unit": "oz",
+          "item": "cremini mushrooms",
+          "prep": "finely chopped"
+        },
+        {
+          "amount": 2,
+          "unit": "oz",
+          "item": "cremini mushrooms",
+          "prep": "coarsely chopped"
+        },
+        {
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "onion",
+          "prep": "very finely chopped"
+        },
+        {
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "paste"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Binder and Internal Structure",
+      "items": [
+        {
+          "amount": 0.3333333333,
+          "unit": "cup",
+          "item": "fresh whole wheat breadcrumbs",
+          "prep": ""
+        },
+        {
+          "amount": 0.3333333333,
+          "unit": "cup",
+          "item": "stock",
+          "prep": ""
+        },
+        {
+          "amount": 1.5,
+          "unit": "tbsp",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "soy sauce",
+          "prep": ""
+        },
+        {
+          "amount": 0.625,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "fresh thyme",
+          "prep": "finely chopped"
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "fresh sage",
+          "prep": "finely chopped"
+        },
+        {
+          "amount": 3,
+          "unit": "drops",
+          "item": "hot sauce",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Structure Reinforcement",
+      "items": [
+        {
+          "amount": 1.5,
+          "unit": "tbsp",
+          "item": "cornstarch",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "cold stock",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Exterior Crust System",
+      "items": [
+        {
+          "amount": 3,
+          "unit": "tbsp",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Moisture and Finish",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "stock",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Build the mushroom concentrate",
+      "items": [
+        "Place mushrooms in a dry pan over medium heat. Cook until they release moisture, then continue cooking well past that point until the pan dries and the mushrooms begin to brown lightly. You are looking for a deeper, roasted aroma. Add a small splash of stock to pull up any fond. Remove and cool slightly."
+      ]
+    },
+    {
+      "title": "Hydrate the binder",
+      "items": [
+        "Combine breadcrumbs with the ⅓ cup stock and let fully absorb until softened."
+      ]
+    },
+    {
+      "title": "Build the mixture",
+      "items": [
+        "In a large bowl combine seitan (both textures), mushroom concentrate (both textures), onion, garlic, and salt. Add Dijon mustard, soy sauce, black pepper, thyme, sage, and hot sauce. Mix until evenly distributed."
+      ]
+    },
+    {
+      "title": "Set the structure",
+      "items": [
+        "Whisk cornstarch with cold stock and add to the mixture along with the hydrated breadcrumbs. Mix thoroughly until cohesive and slightly elastic. The mixture should feel firm and hold its shape when compressed."
+      ]
+    },
+    {
+      "title": "Form the dome",
+      "items": [
+        "Shape into a compact ball, pressing firmly to eliminate air pockets. Form a hole straight through the center, about 1½ inches wide, creating a ring-shaped dome."
+      ]
+    },
+    {
+      "title": "Create the crust shell",
+      "items": [
+        "Roll the loaf in flour, pressing it in firmly to build a dry outer layer. Lightly brush or rub the surface with olive oil so the flour hydrates. Let the loaf rest 5 minutes. Apply a very light second dusting of flour just before baking."
+      ]
+    },
+    {
+      "title": "Initial high-heat set",
+      "items": [
+        "Place the loaf on a rack set over a baking tray to allow air circulation. Bake at 450°F for 15 minutes to set and begin forming the crust."
+      ]
+    },
+    {
+      "title": "Controlled roast",
+      "items": [
+        "Reduce heat to 375°F. Add 2 tbsp stock to the tray below (not on the loaf). Continue baking 20 to 30 minutes until firm, browned, and fully set. The loaf should feel firm and slightly resistant when pressed, not soft."
+      ]
+    },
+    {
+      "title": "Rest and slice",
+      "items": [
+        "Rest at least 15 minutes before slicing. Slice thick to preserve structure and highlight the interior texture. Serve with mushroom gravy."
+      ]
+    }
+  ]
+}
