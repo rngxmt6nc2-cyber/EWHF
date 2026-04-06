@@ -1,0 +1,105 @@
+{
+  "id": "tb12-shake",
+  "title": "TB12 Shake",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Breakfast",
+  "displayCategory": "Breakfast",
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": 2,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "This shake sits at the intersection of performance nutrition and real breakfast. Built with cacao, peanut butter, and fruit, it drinks like a chocolate-peanut milkshake but behaves like a disciplined morning meal. Seeds provide fiber and texture, fruit gives natural sweetness, and high-power blending turns everything into a silky emulsion. The result is satisfying, clean, and built for consistency.",
+  "ingredientGroups": [
+    {
+      "title": "Ingredients",
+      "items": [
+        {
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "unsweetened almond milk",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "cold water",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh peanut butter",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "whole flax seeds",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "chia seeds",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "cacao nibs",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "Small pinch",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "packed cup",
+          "item": "fresh spinach",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "banana",
+          "prep": "frozen"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "frozen blueberries",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "scoops",
+          "item": "Tom Brady Vanilla protein powder",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "ice",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Instructions",
+      "items": [
+        "Add almond milk and protein powder to the blender carafe and pulse a few seconds to mix. Llet this sit for 1 or 2 minutes to hydrate.",
+        "Add the water, peanut butter, flax seeds, chia seeds, cacao nibs, and sea salt to the carafe. Start on low speed 1 and ramp to high speed. Blend about 30 to 40 seconds until the seeds and nibs are fully broken down and the mixture looks creamy.",
+        "Add spinach, frozen banana, and frozen blueberries. Blend on high about 30 seconds until completely smooth. The spinach should disappear into the mixture.",
+        "Add the ice and blend on high until the sound of the blender smooths out and the shake becomes thick and silky, about 20 to 30 seconds.",
+        "Serve immediately. Each portion should be thick, cold, and milkshake-smooth."
+      ]
+    }
+  ]
+}
