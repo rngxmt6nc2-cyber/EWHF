@@ -1,0 +1,277 @@
+{
+  "id": "red-curry-chicken-with-rice-noodles",
+  "title": "Red Curry Chicken with Rice Noodles",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Pasta & Noodles",
+  "displayCategory": "Pasta & Noodles",
+  "cScale": 2,
+  "ldlActive": false,
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "This dish draws from Thai red curry technique and Chinese velveting methods. Curry paste is fried hard for depth, chicken is velveted tenderness, and the sauce is reduced to cling to noodles rather than pool beneath them.",
+  "ingredientGroups": [
+    {
+      "title": "Ingredients",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "to 3",
+          "item": "boneless skinless chicken thighs",
+          "prep": "(about 12 oz)"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "freshly cracked black pepper",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "cayenne",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "amount": 1.5,
+          "unit": "tsp",
+          "item": "cornstarch",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "large",
+          "item": "bok choy",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "baby corn",
+          "prep": ""
+        },
+        {
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": ""
+        },
+        {
+          "amount": 3,
+          "unit": "inches",
+          "item": "fresh ginger",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "lime",
+          "prep": ""
+        },
+        {
+          "amount": 3,
+          "unit": "Tbsp",
+          "item": "red curry paste",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "Tbsp",
+          "item": "light coconut milk",
+          "prep": ""
+        },
+        {
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "chicken stock",
+          "prep": ""
+        },
+        {
+          "amount": 1.5,
+          "unit": "Tbsp",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "rice vinegar",
+          "prep": ""
+        },
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "flat rice noodles",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": "(for noodle water)"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "sesame oil",
+          "prep": ""
+        },
+        {
+          "amount": 1.5,
+          "unit": "Tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "Tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "Thai basil or ⅓ cup sweet Italian basil plus 1 Tbsp fresh mint",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "chili crisp",
+          "prep": "(crunchy chili oil with garlic and spices)"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Step 1. Velvet the Chicken",
+      "items": [
+        "Thinly slice 12 oz boneless skinless chicken thighs across the grain into bite-size strips.",
+        "Place the chicken in a medium bowl and add ½ tsp kosher salt, ½ tsp freshly cracked black pepper,",
+        "¼ tsp cayenne, ¼ tsp smoked paprika, 1½ tsp cornstarch, and 1 tsp low-sodium soy sauce.",
+        "Toss thoroughly until each piece is evenly coated and no dry starch remains visible.",
+        "Let rest at room temperature for 15 minutes.",
+        "This resting period allows the cornstarch to hydrate and adhere to the meat, ensuring a silky texture and tender finish when cooked."
+      ]
+    },
+    {
+      "title": "Step 2. Prepare the Mise en Place",
+      "items": [
+        "While the chicken rests, prepare all remaining ingredients.",
+        "Thinly slice 1 large yellow onion.",
+        "Trim 1 large bok choy. Separate the stalks from the leafy tops. Slice the stalks thinly and discard the leaves.",
+        "1 can baby corn cut into ¾” pieces.",
+        "Mince 3 cloves garlic.",
+        "Peel and slice 3 inches of fresh ginger into paper-thin coins.",
+        "Zest 1 lime.",
+        "Tear ½ cup Thai basil and set aside for finishing.",
+        "Measure 3 Tbsp red curry paste.",
+        "Measure 2 Tbsp light coconut milk and 1½ cups chicken stock.",
+        "Measure 1½ Tbsp low-sodium soy sauce and 1 tsp rice vinegar.",
+        "Bring a large pot of water to a boil and add 1 tsp kosher salt.",
+        "By the time the Mise en Place is complete, the chicken will be ready to cook."
+      ]
+    },
+    {
+      "title": "Step 3. Cook the Chicken",
+      "items": [
+        "Place the wok over high heat and allow it to become very hot.",
+        "Add 1½ Tbsp olive oil and swirl to coat the bottom and lower sides.",
+        "Immediately add the velveted chicken in a single layer, spreading it across the hottest surface. Do not overcrowd; cook in batches if necessary.",
+        "Let the chicken sear undisturbed for about 45 seconds to 1 minute to develop light browning.",
+        "Begin stir-frying, tossing and spreading the pieces so they cook evenly.",
+        "Cook just until the chicken is opaque and lightly caramelized at the edges, about 2 to 3 minutes total.",
+        "Transfer to a plate and set aside.",
+        "The chicken should be silky and tender, not deeply browned. It will finish heating in the sauce."
+      ]
+    },
+    {
+      "title": "Step 4. Cook the Noodles",
+      "items": [
+        "Add 8 oz rice noodles to the boiling salted water.",
+        "Cook 1½ minutes less than the package directions.",
+        "Drain immediately and toss with ½ tsp sesame oil to prevent sticking. Set aside.",
+        "The noodles should be distinctly underdone. They will finish cooking in the sauce and absorb flavor."
+      ]
+    },
+    {
+      "title": "Step 5. Char the Vegetables",
+      "items": [
+        "Return the wok to high heat and allow it to become very hot.",
+        "Add 1 Tbsp olive oil and swirl to coat the bottom and lower sides.",
+        "Add the sliced onion and bok choy stalks and the baby corn. Spread them across the hottest surface and let sit undisturbed for 30 to 45 seconds to begin charring.",
+        "Stir-fry for 2 to 3 minutes, tossing and spreading the vegetables so some edges blister while others soften.",
+        "Add the minced garlic and sliced ginger. Stir-fry for about 30 seconds, just until fragrant. Do not allow the garlic or ginger to brown deeply.",
+        "The vegetables should have light char and remain crisp-tender."
+      ]
+    },
+    {
+      "title": "Step 6. Fry the Curry Paste",
+      "items": [
+        "Keep the wok over high heat.",
+        "Push the vegetables up the sides of the wok, clearing the center to expose the hottest surface.",
+        "Add 3 Tbsp red curry paste directly to the center. If the wok looks dry, drizzle in 1 to 2 teaspoons of oil from the sides to help it fry.",
+        "Let the paste sit undisturbed for 20 to 30 seconds.",
+        "Using a spatula, press and spread the paste against the hot metal. Stir and continue frying for about 2 minutes total, allowing it to darken slightly and become deeply fragrant.",
+        "The paste should smell toasty and aromatic, not raw or sharp.",
+        "Once fully fried, toss the vegetables back through the paste to coat."
+      ]
+    },
+    {
+      "title": "Step 7. Build and Reduce the Sauce",
+      "items": [
+        "With the vegetables coated in the fried curry paste, pour in 1½ cups chicken stock and 2 Tbsp light coconut milk.",
+        "Stir immediately, scraping the bottom of the wok to dissolve any browned bits.",
+        "Bring the liquid to a steady boil, with consistent bubbling across the surface. Cook for 2 to 3 minutes, stirring occasionally, until the sauce reduces slightly and looks glossy.",
+        "Add 1½ Tbsp low-sodium soy sauce, 1 tsp rice vinegar, and the zest of 1 lime. Stir to combine.",
+        "Continue cooking just until the sauce lightly coats the vegetables but still flows easily. Do not reduce too far. The noodles will absorb additional liquid in the next step."
+      ]
+    },
+    {
+      "title": "Step 8. Combine the Chicken and Noodles",
+      "items": [
+        "Return the cooked chicken to the wok and toss briefly to warm through.",
+        "Add the drained noodles.",
+        "Using tongs or a wok spatula, lift and toss continuously to coat the noodles in the sauce and distribute the vegetables evenly.",
+        "Continue cooking over high heat for 1 to 2 minutes, allowing the noodles to absorb some of the liquid. If the mixture looks dry before the noodles are evenly coated, add a small splash of chicken stock and toss again.",
+        "The sauce should cling lightly to the noodles rather than pool at the bottom of the wok."
+      ]
+    },
+    {
+      "title": "Step 9. Finish and Serve",
+      "items": [
+        "Remove the wok from the heat.",
+        "Add ½ cup torn Thai basil and 1 tsp chili crisp.",
+        "Toss gently just until the basil wilts and becomes fragrant.",
+        "Squeeze the juice of the zested lime over the noodles and toss once more to brighten the sauce.",
+        "Serve immediately."
+      ]
+    }
+  ]
+}
