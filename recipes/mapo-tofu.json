@@ -1,0 +1,206 @@
+{
+  "id": "mapo-tofu",
+  "title": "Mapo Tofu",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Mapo tofu is one of the great dishes of Sichuan cooking: soft tofu suspended in a vivid, spicy sauce that feels far bigger than the ingredient list suggests. The classic versions often use pork for richness, but the heart of the dish is really the contrast between chile heat, fermented depth, peppercorn lift, and tender tofu. This version keeps that center of gravity on the tofu, using a modest amount of mushrooms to deepen the sauce without letting them take over.",
+  "ingredientGroups": [
+    {
+      "title": "Sauce Base",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "doubanjiang",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "fermented black beans",
+          "prep": "rinsed and roughly chopped"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "light soy sauce",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "dark soy sauce",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "white miso",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "vegetable stock",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Tofu Base",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "block",
+          "item": "soft tofu",
+          "prep": "14 oz"
+        },
+        {
+          "amount": 2,
+          "unit": "qt",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Mushroom Base",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "avocado oil",
+          "prep": ""
+        },
+        {
+          "amount": 4,
+          "unit": "oz",
+          "item": "shiitake mushrooms",
+          "prep": "very finely chopped"
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Aromatic Base",
+      "items": [
+        {
+          "amount": 4,
+          "unit": "",
+          "item": "scallions",
+          "prep": "thinly sliced, whites and greens separated"
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "fresh ginger",
+          "prep": "finely minced"
+        },
+        {
+          "amount": 4,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "finely minced"
+        },
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "Sichuan peppercorns",
+          "prep": "lightly toasted and ground"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "chile flakes",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "cornstarch",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "cool water",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "toasted sesame oil",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Prepare the Sauce Base",
+      "items": [
+        "In a small bowl, stir together the doubanjiang, fermented black beans, light soy sauce, dark soy sauce, white miso, and vegetable stock until smooth. Set aside."
+      ]
+    },
+    {
+      "title": "Prepare the Tofu",
+      "items": [
+        "Bring the water and salt to a gentle simmer in a wide pan. Cut the tofu into large cubes and slide them carefully into the water. Hold them at a bare simmer for 2 minutes, then gently drain well."
+      ]
+    },
+    {
+      "title": "Build the Mushroom Base",
+      "items": [
+        "Heat the avocado oil in a wide skillet or sauté pan over medium-high heat. Add the shiitakes and 1/4 teaspoon kosher salt. Cook, stirring only occasionally, until the mushrooms release their moisture, dry out, and begin to brown, about 6 to 8 minutes. They should smell savory and concentrated, not deeply crisped."
+      ]
+    },
+    {
+      "title": "Build the Aromatic Base",
+      "items": [
+        "Lower the heat to low. Add the scallion whites and ginger and cook, stirring constantly, for about 15 seconds. Add the garlic and cook 10 seconds more. Add the Sichuan peppercorns and chile flakes, stir briefly, and immediately pour in the prepared sauce base. Nothing in this stage should darken or toast hard."
+      ]
+    },
+    {
+      "title": "Build the Sauce",
+      "items": [
+        "Stir well, scraping up anything clinging to the pan, and bring the mixture just to a gentle simmer. Cook 1 to 2 minutes so the fermented ingredients open up and the mushrooms fully integrate into the sauce. The liquid should still look fluid at this stage."
+      ]
+    },
+    {
+      "title": "Finish the Dish",
+      "items": [
+        "Gently slide the tofu into the sauce. Use a spoon to baste the tofu with sauce rather than stirring aggressively. Simmer very gently for 1 minute.",
+        "In a small cup, stir together the cornstarch and cool water until smooth. Drizzle it into the pan while gently shaking the pan to distribute it. Cook 20 to 30 seconds more, just until the sauce turns glossy and lightly clings to the tofu. Turn off the heat and drizzle in the toasted sesame oil."
+      ]
+    },
+    {
+      "title": "Serve",
+      "items": [
+        "Scatter the scallion greens over the top and let the dish stand 1 minute so the sauce settles around the tofu. Serve hot, with plain rice alongside."
+      ]
+    }
+  ]
+}
