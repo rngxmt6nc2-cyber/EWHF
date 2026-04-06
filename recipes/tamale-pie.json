@@ -1,0 +1,224 @@
+{
+  "id": "tamale-pie",
+  "title": "Tamale Pie",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 1,
+  "ldlActive": true,
+  "yield": 8,
+  "yieldUnit": "servings",
+  "tags": [
+  ],
+  "intro": "Tamale pie is an early 20th-century American casserole inspired by Mexican tamales and chili con carne, created as a practical oven-baked alternative to labor-intensive, corn-husk-wrapped tamales. Popularized in Texas, California, and the Midwest, it became a staple of mid-century home cooking, layering chili-style filling with cornmeal into a single, family-style dish that reflects the adaptable, borderland roots of Tex-Mex comfort food.\n\n\nThis version follows that same spirit of adaptation, replacing the traditional beef-heavy filling with vegetables while keeping the cornmeal and chile backbone intact. It honors tamale pie’s history as practical, flexible comfort food.",
+  "ingredientGroups": [
+    {
+      "title": "Ingredients",
+      "items": [
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "dried black beans",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "brown or green lentils",
+          "prep": ""
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "yellow cornmeal",
+          "prep": ""
+        },
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "cremini (baby bella) mushrooms",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "small",
+          "item": "onions",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "celery stalk",
+          "prep": ""
+        },
+        {
+          "amount": 4,
+          "unit": "",
+          "item": "garlic cloves",
+          "prep": ""
+        },
+        {
+          "amount": 4,
+          "unit": "oz",
+          "item": "plant based sausage",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "can",
+          "item": "(10 oz) Ro-Tel diced tomatoes with green chiles",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "can",
+          "item": "4 oz diced green chiles",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "bag",
+          "item": "10 oz frozen corn",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "fat-free refried beans",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "shredded Low-fat sharp cheddar",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "Tbsp",
+          "item": "grated Parmigiano-Reggiano",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "Tbsp",
+          "item": "plain Greek yogurt",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "sliced black olives",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "Tbsp",
+          "item": "chili powder",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "Tbsp",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Salt",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Freshly ground black pepper",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Soak the Beans",
+      "items": [
+        "Place ¾ cup dried black beans in a bowl and cover with at least 3 inches of cold water. Soak 8 to 12 hours at room temperature, or up to 24 hours refrigerated. Drain before cooking"
+      ]
+    },
+    {
+      "title": "Cook the Beans",
+      "items": [
+        "Transfer the drained beans to a pot and cover with cold water by about 2 inches. Bring to a boil, then reduce to a gentle simmer. Simmer uncovered for 75 to 95 minutes, until fully tender with skins intact. Drain and reserve ½ cup of the cooking liquid. Spread the beans in a single layer in a sheet pan and let steam dry at least 5 minutes and up to 30 minutes."
+      ]
+    },
+    {
+      "title": "Make the Polenta",
+      "items": [
+        "In a bowl, stir ¾ cup yellow cornmeal into 1 cup cold water to form a smooth slurry. In a saucepan, bring 2 cups cold water to a boil. Slowly pour the slurry into the boiling water while stirring. Add 1 tablespoon olive oil and ½ teaspoon salt. Reduce heat to low, cover, and cook 30 minutes, stirring every 5 minutes. The mixture should be soft and spoonable. If it becomes too thick, thin with 1 to 2 tablespoons hot water. Let rest in the pan 10 minutes before assembling; it may cool to room temperature."
+      ]
+    },
+    {
+      "title": "Cook the Lentils",
+      "items": [
+        "Rinse ¼ cup brown or green lentils under cold water. Transfer to a saucepan with 1¼ cups cold water. Bring to a boil, then reduce to a gentle simmer. Simmer 18 minutes, until tender and holding their shape. Drain immediately and let steam dry at least 5 minutes and up to 30 minutes before adding to the filling."
+      ]
+    },
+    {
+      "title": "Preheat the Skillet",
+      "items": [
+        "Place a 12 inch skillet over medium heat and allow it to preheat while you complete the mise en place."
+      ]
+    },
+    {
+      "title": "Prepare the Mise en Place",
+      "items": [
+        "While the beans, lentils, and cornmeal cook, prepare the following:\n\n8 ounces cremini mushrooms, 4 ounces finely minced and 4 ounces small chopped\n\n2 small onions, chopped\n\n1 celery stalk, finely chopped\n\n4 garlic cloves, minced\n\n2 tablespoons chili powder\n\n1 tablespoon ground cumin\n\n½ teaspoon smoked paprika\n\nOpen and drain the 4 ounce can of diced green chiles\n\n\n\nHave these ingredients measured and ready before beginning the filling."
+      ]
+    },
+    {
+      "title": "Prepare the Filling",
+      "items": [
+        "Add 1 teaspoon olive oil to the preheated 12 inch skillet over medium heat, then add the mushrooms. Cook 8 to 10 minutes, stirring occasionally, until they release their moisture and it cooks off. Continue cooking 2 to 3 minutes more, until lightly browned.",
+        "Add the onions and celery. Season with salt and black pepper. Cook 5 minutes, until softened.",
+        "Add the plant based sausage and cook 4 minutes, pressing with a spatula to break it into small crumbles as it browns.",
+        "Stir in the 4 cloves of minced garlic, 2 Tbsp chili powder, 1 Tbsp cumin, and ½ tsp smoked paprika and cook 45 seconds.",
+        "Reduce heat to medium-low. Add the cooked black beans and mash about one quarter of them directly in the pan. Add the cooked lentils.",
+        "Add 5 whole San Marzano tomatoes, hand crushed, with 2 tablespoons of their liquid.",
+        "Add the 4 ounce can diced green chiles and the entire 10 ounce bag of frozen corn.",
+        "Add 2 tablespoons of the reserved bean cooking liquid.",
+        "Simmer 6 minutes over medium-low heat. Taste and adjust salt if needed. Remove from heat."
+      ]
+    },
+    {
+      "title": "Assemble the Casserole",
+      "items": [
+        "Spoon about two thirds of the polenta into the dish. Spread it evenly across the bottom, then use the back of a spoon or an offset spatula to press and smooth the cornmeal up the sides to form a shallow lining.",
+        "Add the filling and spread it evenly inside the polenta shell.",
+        "In a small bowl, combine ½ cup fat-free refried beans, 2 Tbsp plain Greek yogurt, 1 Tbsp grated Parmigiano Reggiano, and 1 Tbsp warm water. Stir until smooth and spreadable. Spread this mixture evenly over the filling.",
+        "Spoon the remaining one third of the polenta over the top and gently spread to cover. Do not press down firmly.",
+        "Scatter ½ cup sliced black olives evenly over the surface.",
+        "In a small bowl, mix ½ cup low fat sharp cheddar, 1 Tbsp plain Greek yogurt, and 1 Tbsp grated Parmigiano Reggiano. Spread evenly over the top."
+      ]
+    },
+    {
+      "title": "Bake",
+      "items": [
+        "Bake at 350°F on Convection Bake for 45 minutes, until the filling is bubbling at the edges and the top is lightly browned.",
+        "Remove from the oven and let rest 10 minutes before serving."
+      ]
+    }
+  ]
+}
