@@ -1,0 +1,192 @@
+{
+  "id": "crispy-chicken-bites",
+  "title": "Crispy Chicken Bites",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Small Plates",
+  "displayCategory": "Small Plates",
+  "cScale": 2,
+  "ldlActive": false,
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Chicken cutlets are usually a sit-down thing. This version turns them into crisp, savory bites you can spear with a pick and eat in one or two bites.",
+  "ingredientGroups": [
+    {
+      "title": "Chicken Prep",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "lb",
+          "item": "boneless, skinless chicken thighs",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Coating",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "cornmeal",
+          "prep": "divided (pulse 80% to a finer texture, leave 20% coarse)"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "grated parmesan cheese",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "cornstarch",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "garlic powder",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "onion powder",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "paprika",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Egg Wash",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "large",
+          "item": "eggs",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "water",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Post-Fry Dust",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "fine cornmeal",
+          "prep": "(use the pulsed portion)"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "cornstarch",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "Pinch",
+          "item": "paprika",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Oil for Frying",
+      "items": [
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Neutral oil (avocado or similar)",
+          "prep": "enough for shallow frying"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Prep the Chicken",
+      "items": [
+        "Trim excess fat from the thighs. Cut each thigh into 8–10 bite-size pieces.",
+        "Season with salt and pepper and let sit 15–20 minutes."
+      ]
+    },
+    {
+      "title": "Prepare the Cornmeal",
+      "items": [
+        "Pulse about 80% of the cornmeal in a blender until it reaches a fine sand texture. Leave the remaining 20% as-is. Combine them back together."
+      ]
+    },
+    {
+      "title": "Build the Coating",
+      "items": [
+        "Mix the cornmeal blend with parmesan, cornstarch, garlic powder, onion powder, and paprika."
+      ]
+    },
+    {
+      "title": "Egg Wash",
+      "items": [
+        "Beat the eggs with water until smooth."
+      ]
+    },
+    {
+      "title": "Coat and Set",
+      "items": [
+        "Dip chicken pieces into egg, then into the coating. Press lightly so it adheres but stays thin.",
+        "Lay the coated pieces on a sheet pan in a single layer and freeze uncovered for 45–60 minutes, until firm but not rock solid."
+      ]
+    },
+    {
+      "title": "Fry",
+      "items": [
+        "Heat about ¼ inch of oil over medium-high heat until shimmering. Fry in batches without crowding.",
+        "Cook 3–4 minutes per side until deep golden and cooked through, allowing slightly more time due to the chilled chicken.",
+        "Transfer immediately to a wire rack."
+      ]
+    },
+    {
+      "title": "Post-Fry Dust",
+      "items": [
+        "Within 30–60 seconds of coming out of the oil, while still hot and lightly oily, sprinkle or lightly toss with the post-fry dust. Use a very light hand.",
+        "Let rest on the rack."
+      ]
+    },
+    {
+      "title": "Serve",
+      "items": [
+        "Pile the chicken onto a platter and serve warm or at room temperature as one- or two-bite pieces."
+      ]
+    }
+  ]
+}
