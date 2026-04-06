@@ -1,0 +1,74 @@
+{
+  "id": "lemon-dressing",
+  "title": "Lemon Dressing",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Condiments & Toppings",
+  "displayCategory": "Condiments & Toppings",
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "A bright, olive oil–based lemon dressing that cuts through richness without adding weight. Built to behave like a vinaigrette, it brings sharpness, balance, and a subtle savory backbone from garlic and mustard.",
+  "ingredientGroups": [
+    {
+      "title": "Ingredients",
+      "items": [
+        {
+          "amount": 3,
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 1.5,
+          "unit": "tbsp",
+          "item": "lemon juice",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "lemon zest",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "small",
+          "item": "garlic clove",
+          "prep": "very finely grated"
+        },
+        {
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "dry mustard powder",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Pinch kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Black pepper",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Instructions",
+      "items": [
+        "Combine all ingredients in a small bowl.",
+        "Whisk thoroughly until lightly emulsified.",
+        "Let sit 10–15 minutes to soften the garlic and allow flavors to integrate.",
+        "Taste and adjust salt if needed."
+      ]
+    }
+  ]
+}
