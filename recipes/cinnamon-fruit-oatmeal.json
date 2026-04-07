@@ -1,0 +1,88 @@
+{
+  "id": "cinnamon-fruit-oatmeal",
+  "title": "Cinnamon Fruit Oatmeal",
+  "section": "",
+  "sortOrder": 0,
+  "category": "",
+  "displayCategory": "",
+  "cScale": "",
+  "ldlActive": "",
+  "yield": "",
+  "yieldUnit": "",
+  "tags": [],
+  "intro": "This is a no-fuss breakfast bowl built for real life, not for show. Instant oatmeal gets extra staying power from chia and flax, frozen fruit softens right into the hot oats, and a little cinnamon and honey pull it together into something simple, warm, and easy to keep in rotation.",
+  "ingredientGroups": [
+    {
+      "title": "Oat Base",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "packet",
+          "item": "instant oatmeal",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "chia seeds",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "ground flax seeds",
+          "prep": ""
+        },
+        {
+          "amount": 0.6666666666666666,
+          "unit": "cup",
+          "item": "unsweetened almond milk",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "cinnamon",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "frozen fruit",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "honey",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Build the Bowl",
+      "items": [
+        "In a microwave-safe bowl, combine the instant oatmeal, chia seeds, ground flax seeds, unsweetened almond milk, and cinnamon. Stir well."
+      ]
+    },
+    {
+      "title": "Heat with the Fruit",
+      "items": [
+        "Spread the frozen fruit over the top of the oatmeal. Microwave until the oatmeal is hot and thickened and the fruit is warmed through, about 1 1/2 to 2 1/2 minutes depending on the microwave and the fruit used."
+      ]
+    },
+    {
+      "title": "Finish and Serve",
+      "items": [
+        "Stir the fruit into the hot oatmeal, breaking up any larger pieces as needed. Let the bowl stand for 1 to 2 minutes so the chia and flax fully hydrate and the texture settles. Drizzle with the honey and serve."
+      ]
+    }
+  ]
+}
