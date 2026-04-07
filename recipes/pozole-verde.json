@@ -1,0 +1,194 @@
+{
+  "id": "pozole-verde",
+  "title": "Pozole Verde",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 0,
+  "ldlActive": false,
+  "yield": 2,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Pozole verde is a green hominy stew rooted in central and southern Mexico, where pepitas, chiles, herbs, and greens give the broth its earthy depth and vivid color. This version keeps that bright, savory identity while leaning lighter, using tofu for substance and hominy for the stew’s classic texture. It eats like a real bowl of pozole, not a compromise, with charred aromatics, a smooth verde base, and the fresh finish of lime, cilantro, and crisp garnishes.",
+  "ingredientGroups": [
+    {
+      "title": "Verde Base",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "",
+          "item": "yellow onion",
+          "prep": "chopped"
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "small jalapeño",
+          "prep": "seeded"
+        },
+        {
+          "amount": 0.5,
+          "unit": "",
+          "item": "poblano pepper",
+          "prep": "seeded"
+        },
+        {
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "greens",
+          "prep": "chopped"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fresh cilantro",
+          "prep": "chopped"
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "toasted pumpkin seeds",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "salt",
+          "prep": "to taste"
+        },
+        {
+          "amount": 0.5,
+          "unit": "",
+          "item": "lime",
+          "prep": "juice of"
+        }
+      ]
+    },
+    {
+      "title": "Soup",
+      "items": [
+        {
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "canned hominy",
+          "prep": "drained and rinsed"
+        },
+        {
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "low-sodium vegetable broth",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Tofu",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "block",
+          "item": "extra-firm tofu",
+          "prep": "pressed and cubed"
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "extra virgin olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Serve with optional garnishes:",
+      "items": [
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Sliced avocado",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Finely chopped red onion",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Shredded lettuce or cabbage",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Baked corn tortilla strips",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Lime wedges",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Hot sauce",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Char the Aromatics",
+      "items": [
+        "In a dry skillet or under the broiler, blister the garlic, onion, jalapeño, and poblano until softened and browned, about 5 to 7 minutes."
+      ]
+    },
+    {
+      "title": "Blend the Verde Base",
+      "items": [
+        "Add the charred vegetables, chopped greens, cilantro, cumin, pumpkin seeds, a pinch of salt, and 1/2 cup of the broth to a blender. Blend until smooth and bright green."
+      ]
+    },
+    {
+      "title": "Simmer the Pozole",
+      "items": [
+        "Pour the verde mixture into a saucepan. Add the remaining broth and the hominy. Simmer over medium-low heat for 10 to 15 minutes, stirring occasionally."
+      ]
+    },
+    {
+      "title": "Crisp the Tofu",
+      "items": [
+        "Heat the olive oil in a skillet over medium-high heat. Add the tofu cubes and cook until golden brown on most sides, about 7 to 8 minutes."
+      ]
+    },
+    {
+      "title": "Finish the Soup",
+      "items": [
+        "Stir the lime juice into the simmered verde broth, then gently fold in the crisped tofu."
+      ]
+    },
+    {
+      "title": "Serve",
+      "items": [
+        "Ladle into bowls and serve hot."
+      ]
+    }
+  ]
+}
