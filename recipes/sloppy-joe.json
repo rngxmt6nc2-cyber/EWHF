@@ -1,0 +1,182 @@
+{
+  "id": "sloppy-joe",
+  "title": "Sloppy Joe",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 1,
+  "ldlActive": false,
+  "yield": 2,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Sloppy Joes are a lunch-counter and school-cafeteria classic: saucy, savory, sweet-tangy, and meant to be a little messy. This version keeps that familiar American comfort-food profile but swaps in TVP for the filling, so the sauce has plenty to cling to without relying on beef. The open-face build, melted American cheese, and quick trip under the broiler push it right back toward the old-school diner spirit that made sloppy joes such a staple.",
+  "ingredientGroups": [
+    {
+      "title": "Prepare the TVP",
+      "items": [
+        {
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "Nutrela soya chunks",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "quart",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Build the Aromatics",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "medium",
+          "item": "onion",
+          "prep": "finely diced"
+        },
+        {
+          "amount": 1,
+          "unit": "medium",
+          "item": "green bell pepper",
+          "prep": "finely diced"
+        },
+        {
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        }
+      ]
+    },
+    {
+      "title": "Build the Sauce",
+      "items": [
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "tomato sauce",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "ketchup",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "chili powder",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "stock",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Salt",
+          "prep": "to taste"
+        }
+      ]
+    },
+    {
+      "title": "Finish and Assemble",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh dill",
+          "prep": "finely chopped"
+        },
+        {
+          "amount": 2,
+          "unit": "",
+          "item": "whole grain buns",
+          "prep": ""
+        },
+        {
+          "amount": 4,
+          "unit": "slices",
+          "item": "American cheese",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Prepare the TVP",
+      "items": [
+        "Bring the water and salt to a boil. Add the soya chunks and simmer for 5 minutes. Drain, rinse under cold water, and squeeze out as much excess water as possible. Chop or pulse the rehydrated chunks until they resemble coarse ground meat."
+      ]
+    },
+    {
+      "title": "Cook the Aromatics",
+      "items": [
+        "Heat the olive oil in a skillet or Dutch oven over medium heat. Add the onion and bell pepper and cook for 5 to 6 minutes, stirring occasionally, until softened. Add the garlic and cook for 1 minute more."
+      ]
+    },
+    {
+      "title": "Build the Sauce",
+      "items": [
+        "Add the tomato sauce, tomato paste, ketchup, smoked paprika, chili powder, Dijon mustard, black pepper, and stock. Stir well until fully combined and bring to a steady simmer."
+      ]
+    },
+    {
+      "title": "Finish the Filling",
+      "items": [
+        "Add the prepared TVP to the skillet and fold it into the sauce. Simmer uncovered for 12 to 14 minutes, stirring occasionally, until the mixture thickens and the TVP absorbs the sauce. Taste and adjust salt. Stir in the dill at the end."
+      ]
+    },
+    {
+      "title": "Assemble and Broil",
+      "items": [
+        "Split the buns and lay them open-face on a sheet pan. Spoon the hot sloppy joe mixture onto each half. Top each open face with 1 slice of American cheese. Place under the broiler until the cheese melts and blisters lightly and the bun edges toast. Serve immediately."
+      ]
+    }
+  ]
+}
