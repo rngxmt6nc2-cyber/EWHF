@@ -1,0 +1,164 @@
+{
+  "id": "chocolate-swirl-banana-bread",
+  "title": "Chocolate Swirl Banana Bread",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Breads & Doughs",
+  "displayCategory": "Breads & Doughs",
+  "cScale": 0,
+  "ldlActive": false,
+  "yield": 8,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Banana bread is one of those home-baked standards that has traveled easily across regions and generations, evolving with what is on hand while keeping its core appeal: ripe bananas, a tender crumb, and deep, familiar sweetness. This version leans into that tradition with a chocolate swirl that gives the loaf a marbled look and a richer flavor without losing its everyday character. Whole wheat flour adds a little structure, walnuts bring texture, and the result lands somewhere between a breakfast loaf, a snack cake, and a classic coffee companion.",
+  "ingredientGroups": [
+    {
+      "title": "Banana Base",
+      "items": [
+        {
+          "amount": 4,
+          "unit": "",
+          "item": "very ripe bananas",
+          "prep": "about 2 cups mashed"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "honey",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "unsweetened oat milk",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "vanilla extract",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Dry Mix",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "whole wheat flour",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "baking soda",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "baking powder",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "salt",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "cinnamon",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Chocolate Swirl",
+      "items": [
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "unsweetened cocoa powder",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "honey",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "oat milk",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "walnuts",
+          "prep": "chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Prepare the Pan and Oven",
+      "items": [
+        "Preheat the oven to 350°F. Lightly grease a 9 x 5-inch loaf pan with olive oil or line it with parchment paper."
+      ]
+    },
+    {
+      "title": "Build the Banana Batter",
+      "items": [
+        "Mash the bananas in a large bowl until mostly smooth. Add the olive oil, honey, oat milk, and vanilla extract and whisk until fully blended."
+      ]
+    },
+    {
+      "title": "Mix the Dry Ingredients",
+      "items": [
+        "In a separate bowl, combine the whole wheat flour, all-purpose flour, baking soda, baking powder, salt, and cinnamon. Add the dry mixture to the banana mixture and stir just until no dry streaks remain. Do not overmix."
+      ]
+    },
+    {
+      "title": "Make the Chocolate Batter",
+      "items": [
+        "Divide the batter evenly between two bowls. To one bowl, add the cocoa powder, honey, and oat milk. Stir until smooth and evenly combined."
+      ]
+    },
+    {
+      "title": "Layer the Loaf",
+      "items": [
+        "Fold the chopped walnuts into the plain batter. Spoon alternating scoops of the plain batter and the chocolate batter into the prepared loaf pan. Drag a knife through the batter in a few figure-eight motions to create a swirl without overblending the layers."
+      ]
+    },
+    {
+      "title": "Bake and Cool",
+      "items": [
+        "Bake for 55 to 65 minutes, until a toothpick inserted near the center comes out clean, allowing for a few moist chocolate streaks. Cool the loaf in the pan for 15 minutes, then transfer it to a rack to cool further before slicing."
+      ]
+    }
+  ]
+}
