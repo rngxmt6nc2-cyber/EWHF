@@ -115,7 +115,7 @@
       "title": "Finish",
       "items": [
         {
-          "amount": 0.5,
+          "amount": 1,
           "unit": "cup",
           "item": "walnuts",
           "prep": "chopped"
