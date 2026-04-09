@@ -1,0 +1,171 @@
+{
+  "id": "escarole-bean-soup",
+  "title": "Escarole Bean Soup",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 0,
+  "ldlActive": true,
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "This soup borrows from two Italian instincts: the Ligurian habit of stirring pesto into soup at the end, and the broader tradition of building a meal from beans, greens, broth, and a little starch. Navy beans bring creaminess, brown jasmine rice gives the bowl body, and escarole adds a gentle bitterness that keeps the pesto bright. The result is rustic, practical, and fresh, with the comfort of a pantry soup and a vivid herbaceous lift.",
+  "ingredientGroups": [
+    {
+      "title": "Beans",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "dried navy beans",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Rice",
+      "items": [
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "dry brown jasmine rice",
+          "prep": ""
+        },
+        {
+          "amount": 0.6666666667,
+          "unit": "cup",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "pinch",
+          "item": "salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Soup Base",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "small",
+          "item": "onion",
+          "prep": "finely diced"
+        },
+        {
+          "amount": 1,
+          "unit": "medium",
+          "item": "carrot",
+          "prep": "finely diced"
+        },
+        {
+          "amount": 1,
+          "unit": "stalk",
+          "item": "celery",
+          "prep": "finely diced"
+        },
+        {
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "amount": 2,
+          "unit": "packed cups",
+          "item": "escarole",
+          "prep": "washed and chopped into 1- to 2-inch strips"
+        },
+        {
+          "amount": 3,
+          "unit": "cups",
+          "item": "chicken stock",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "dried thyme",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "juice of 1/2 lemon",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "pesto",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "salt",
+          "prep": "to taste"
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "pepper",
+          "prep": "to taste"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Beans",
+      "items": [
+        "Soak the navy beans overnight, then drain. Cook them in fresh water until tender. In a pressure cooker, cook at high pressure for 20 minutes and allow a natural release. On the stovetop, simmer for 45 minutes, or until fully tender. Drain and set aside."
+      ]
+    },
+    {
+      "title": "Cook the Rice",
+      "items": [
+        "Combine the brown jasmine rice, water, and pinch of salt in a small pot. Bring to a boil, cover, reduce to a low simmer, and cook until nearly tender, about 30 minutes. Let stand covered for 5 minutes, then fluff and set aside."
+      ]
+    },
+    {
+      "title": "Build the Soup Base",
+      "items": [
+        "Heat the olive oil in a soup pot over medium heat. Add the onion, carrot, celery, and garlic and cook for about 5 minutes, until softened and fragrant."
+      ]
+    },
+    {
+      "title": "Simmer the Soup",
+      "items": [
+        "Add the cooked beans, chicken stock, bay leaf, and thyme. Bring to a simmer and cook for 10 minutes so the flavors meld."
+      ]
+    },
+    {
+      "title": "Add the Greens and Rice",
+      "items": [
+        "Stir in the escarole and cooked rice. Simmer for 5 to 7 minutes, until the escarole is softened but still lively and the rice is fully tender."
+      ]
+    },
+    {
+      "title": "Finish the Soup",
+      "items": [
+        "Remove the bay leaf. Stir in the pesto and lemon juice. Season with salt and pepper."
+      ]
+    }
+  ]
+}
