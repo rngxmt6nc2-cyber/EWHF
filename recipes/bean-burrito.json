@@ -1,0 +1,272 @@
+{
+  "id": "bean-burrito",
+  "title": "Bean Burrito",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 1,
+  "ldlActive": true,
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "",
+  "ingredientGroups": [
+    {
+      "title": "Beans",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "dried pinto beans",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "Water",
+          "prep": "for soaking and cooking"
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": "plus more to taste"
+        }
+      ]
+    },
+    {
+      "title": "Rice",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "long-grain white rice",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "cups",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "lime juice",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "fresh cilantro",
+          "prep": "chopped"
+        }
+      ]
+    },
+    {
+      "title": "Bean Base",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "medium",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "amount": 1.5,
+          "unit": "tsp",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "chili powder",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "dried oregano",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "soy sauce",
+          "prep": ""
+        },
+        {
+          "amount": 2.5,
+          "unit": "cups",
+          "item": "cooked pinto beans",
+          "prep": ""
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "reserved bean cooking liquid",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "lime juice",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Sauteed Onion Filling",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": "halved and thinly sliced"
+        },
+        {
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Cold Fillings",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "cups",
+          "item": "iceberg lettuce",
+          "prep": "finely shredded"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "raw white onion",
+          "prep": "finely diced"
+        }
+      ]
+    },
+    {
+      "title": "Assembly",
+      "items": [
+        {
+          "amount": 4,
+          "unit": "",
+          "item": "extra-large burrito-size flour tortillas",
+          "prep": ""
+        },
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "thick salsa roja",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "shredded Monterey Jack cheese",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Beans",
+      "items": [
+        "Rinse the pinto beans and soak them overnight in plenty of water. For a quick soak, cover them with water, bring to a boil for 2 minutes, turn off the heat, cover, and let sit for 1 hour. Drain, return to the pot, cover with fresh water by about 2 inches, add the bay leaf, and simmer until fully tender, about 60 to 90 minutes. Salt lightly toward the end of cooking. Drain the beans and reserve at least 3/4 cup of the cooking liquid. The beans should be very soft."
+      ]
+    },
+    {
+      "title": "Cook the Rice",
+      "items": [
+        "Rinse the rice until the water runs mostly clear. Combine the rice, water, kosher salt, olive oil, and cumin in a saucepan. Bring to a boil, cover, reduce to low, and cook for 15 minutes. Remove from the heat and let stand, covered, for 10 minutes. Fluff gently, then fold in the lime juice and chopped cilantro. Let it cool slightly so it stays distinct instead of steamy and wet."
+      ]
+    },
+    {
+      "title": "Build the Bean Base",
+      "items": [
+        "Heat 1 tablespoon olive oil in a skillet over medium heat. Add the diced yellow onion and cook until soft and lightly golden, about 6 to 8 minutes. Add the garlic and cook for 30 seconds. Stir in the cumin, chili powder, oregano, tomato paste, and soy sauce and cook for 1 minute, stirring constantly.",
+        "Add the cooked beans and the 3/4 cup of reserved bean cooking liquid. Mash the beans with a potato masher or the back of a spoon until thick, creamy, and spreadable, with some small bean pieces left throughout. Simmer for a few more minutes, stirring often, until cohesive. Stir in the lime juice and taste for salt. The finished texture should be thick enough to hold its shape in the burrito, not loose or soupy."
+      ]
+    },
+    {
+      "title": "Sauté the Onion Filling",
+      "items": [
+        "Heat 1 tablespoon olive oil in a skillet over medium heat. Add the sliced yellow onion and 1/4 teaspoon kosher salt. Cook, stirring often, until the onions are soft, lightly browned, and a little jammy, about 12 to 15 minutes. Set aside."
+      ]
+    },
+    {
+      "title": "Warm the Tortillas",
+      "items": [
+        "Warm the tortillas one at a time in a dry skillet or directly over a flame for a few seconds per side until soft and flexible. Keep them covered with a towel so they stay pliable."
+      ]
+    },
+    {
+      "title": "Assemble the Burritos",
+      "items": [
+        "Lay out the tortillas. Place a band of rice just below center on each tortilla. Top with a generous layer of the bean filling, then a portion of the sauteed onions, Monterey Jack, and a thin stripe of salsa roja. Finish with finely shredded iceberg lettuce and a light scatter of raw white onion.",
+        "Keep the fillings centered and leave enough room at the edges to wrap tightly. Fold in the sides, roll from the bottom, and tuck firmly as you go to make a compact burrito."
+      ]
+    },
+    {
+      "title": "Grill the Burritos",
+      "items": [
+        "Lightly brush the outsides of the burritos with olive oil. Grill seam-side down first over medium to medium-high heat, pressing lightly with a spatula or grill press. Cook until the tortilla is marked and crisped, then turn and grill the second side. The burritos should be hot through, tightly sealed, and lightly crackly outside."
+      ]
+    }
+  ]
+}
