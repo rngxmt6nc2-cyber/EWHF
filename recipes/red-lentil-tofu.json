@@ -1,0 +1,85 @@
+```k4m8p2
+{
+  "id": "red-lentil-tofu",
+  "title": "Red lentil tofu",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Sauces & Bases",
+  "displayCategory": "Sauces & Bases",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients; red lentils, water, and salt contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the recipe is built from lentils, is fiber-forward, contains no saturated animal fat, and relies on structure and cooking technique rather than added fat.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Red lentil tofu is a modern pantry staple that borrows the logic of traditional bean-based protein foods while taking a simpler, soy-free path. Split red lentils blend smoothly, cook into a glossy starch-and-protein base, and set into a firm block that can be sliced, cubed, or pan-seared. This version is written specifically in the extra-firm lane, giving it the structure needed for roasting, browning, and composed dishes where a sturdier tofu is more useful than a soft custardy set.",
+  "ingredientGroups": [
+    {
+      "title": "Lentil Soak",
+      "items": [
+        {
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "split red lentils",
+          "prep": ""
+        },
+        {
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "water",
+          "prep": "boiling"
+        }
+      ]
+    },
+    {
+      "title": "Cooking Base",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "water",
+          "prep": "room temperature"
+        }
+      ]
+    },
+    {
+      "title": "Seasoning",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "salt",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Soak and Blend",
+      "items": [
+        "Place the lentils in a colander or fine-mesh sieve and rinse thoroughly under cold water to remove any dust or debris. Transfer the lentils to a blender and pour in the boiling water. Let stand for 15 to 20 minutes, until the lentils have plumped and the water has cooled. Blend on high speed until completely smooth, stopping to scrape down the sides of the blender as needed."
+      ]
+    },
+    {
+      "title": "Cook the Tofu Base",
+      "items": [
+        "Pour the blended lentil mixture into a medium heavy-bottomed saucepan. Whisk in the room temperature water and the salt until fully combined. Set the pan over medium-high heat and cook, whisking constantly, for 6 to 8 minutes, until the mixture becomes very thick, glossy, and cohesive and clearly coats the bottom of the pan. Reduce the heat to medium as needed to keep the mixture moving without scorching."
+      ]
+    },
+    {
+      "title": "Set the Tofu",
+      "items": [
+        "Scrape the hot mixture into an 8-inch square glass or ceramic baking dish and smooth the top. Do not oil the dish. Refrigerate uncovered for at least 8 hours, or overnight, until fully firm and sliceable."
+      ]
+    },
+    {
+      "title": "Unmold and Store",
+      "items": [
+        "Run a dull knife around the edge of the dish and invert the tofu onto a cutting board. Cut into slabs, cubes, or planks depending on how it will be used. Store in the refrigerator for up to 5 days. The tofu will continue to firm slightly as it rests."
+      ]
+    }
+  ]
+}
+```
