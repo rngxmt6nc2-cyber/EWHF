@@ -7,10 +7,12 @@
   "displayCategory": "Breads & Doughs",
   "cScale": 0,
   "ldlActive": false,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients that contribute cholesterol. The oat milk, olive oil, cornmeal, flour, honey, and seasonings all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is false because this is primarily a bread side built around cornmeal and flour rather than a fiber-forward recipe specifically structured to support LDL lowering. It is clean and cholesterol-free, but not actively LDL-lowering in design.",
   "yield": 6,
   "yieldUnit": "servings",
   "tags": [],
-  "intro": "Cornbread has always lived at the crossroads of thrift and comfort, from open-fire ash cakes and griddle breads to the cast-iron skillets that became a Southern kitchen signature. This version leans into that memory, keeping the skillet-baked character and tender crumb while making the crust and finish more deliberate so the result better matches the promise of the dish.",
+  "intro": "Cornbread has always lived at the crossroads of thrift and comfort, from open-fire ash cakes and griddle breads to the cast-iron skillets that became a Southern kitchen signature. This version leans into that memory, keeping the skillet-baked character and tender crumb while making the crust and finish more deliberate so the result better matches the promise of the dish. ",
   "ingredientGroups": [
     {
       "title": "Wet Mix",
