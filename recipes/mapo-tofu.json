@@ -7,6 +7,8 @@
   "displayCategory": "Mains",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients that materially contribute cholesterol. The tofu, mushrooms, doubanjiang, fermented black beans, soy sauces, miso, vegetable stock, aromatics, oil, and seasonings all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the dish is built around tofu and mushrooms, uses modest unsaturated oil, and develops flavor through fermented ingredients, aromatics, chile heat, and Sichuan peppercorns rather than saturated fat. Its structure is plant-forward and supportive of LDL lowering.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
