@@ -7,6 +7,8 @@
   "displayCategory": "Soups & Stews",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no meaningful cholesterol contributors. The broth is vegetable-based and the meatballs are explicitly plant-based, while the barley, vegetables, kale, olive oil, lemon zest, and herbs contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the soup is built around vegetables, greens, barley, and plant-based protein, making it fiber-forward and supportive of LDL lowering. Flavor comes from aromatics, broth, herbs, and lemon rather than saturated fat.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
@@ -58,8 +60,8 @@
         },
         {
           "amount": 0,
-          "unit": "Pinch",
-          "item": "of salt",
+          "unit": "",
+          "item": "Pinch of salt",
           "prep": ""
         },
         {
@@ -86,9 +88,9 @@
           "prep": ""
         },
         {
-          "amount": 0,
+          "amount": 6,
           "unit": "",
-          "item": "6–8 plant-based meatballs",
+          "item": "plant-based meatballs",
           "prep": ""
         }
       ]
@@ -109,9 +111,9 @@
           "prep": ""
         },
         {
-          "amount": 0.5,
+          "amount": 0,
           "unit": "",
-          "item": "Zest of lemon",
+          "item": "Zest of ½ lemon",
           "prep": ""
         },
         {
@@ -123,8 +125,8 @@
         {
           "amount": 0,
           "unit": "",
-          "item": "Salt and cracked black pepper to taste",
-          "prep": ""
+          "item": "Salt and cracked black pepper",
+          "prep": "to taste"
         }
       ]
     }
