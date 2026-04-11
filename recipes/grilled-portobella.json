@@ -7,6 +7,8 @@
   "displayCategory": "Vegetables & Sides",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the only cholesterol contributors are the small amount of stock and the 1 tablespoon of grated Parmesan-style canned cheese, which remain effectively negligible when divided across 2 servings. The mushrooms, olive oil, lemon juice, and seasonings contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the dish is built around mushrooms and olive oil, with flavor developed through aggressive grilling, smoke, seasoning, stock reduction, acid, and umami rather than saturated fat. Its structure is plant-forward and supportive of LDL lowering.",
   "yield": 2,
   "yieldUnit": "servings",
   "tags": [],
@@ -19,7 +21,7 @@
           "amount": 2,
           "unit": "large",
           "item": "portobella mushroom caps",
-          "prep": "(about 4–5 inches across)"
+          "prep": "about 4–5 inches across"
         },
         {
           "amount": 1.5,
@@ -83,7 +85,7 @@
           "amount": 1,
           "unit": "tablespoon",
           "item": "grated Parmesan-style canned cheese",
-          "prep": "(the classic green can)"
+          "prep": "the classic green can"
         }
       ]
     }
