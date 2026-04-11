@@ -1,4 +1,3 @@
-
 {
   "id": "cacio-e-pepe",
   "title": "Cacio e Pepe",
@@ -8,6 +7,8 @@
   "displayCategory": "Pasta & Noodles",
   "cScale": 1,
   "ldlActive": true,
+  "cScaleSummary": "C1 because the only meaningful cholesterol contributor is the small amount of grated Parmesan-style cheese in the finish. The onion, beans, miso, olive oil, pepper, lemon juice, pasta, and pasta water contribute 0 mg cholesterol, so the per-serving cholesterol remains low.",
+  "ldlActiveSummary": "LDL-Active because the dish is structured around pasta, caramelized onions, white beans, and olive oil, with flavor built through browning, pepper blooming, emulsification, and acid rather than butter, cream, or a heavy cheese load. The beans and onions make the sauce more fiber-forward and supportive of LDL lowering.",
   "yield": 4,
   "yieldUnit": "Servings",
   "tags": [],
@@ -40,7 +41,7 @@
       "title": "Sauce base",
       "items": [
         {
-          "amount": 0.3333333333333333,
+          "amount": 0.3333333333,
           "unit": "cup",
           "item": "cooked white beans",
           "prep": ""
@@ -55,7 +56,7 @@
           "amount": 0.75,
           "unit": "cup",
           "item": "hot pasta cooking water",
-          "prep": "(reserved from the pasta)"
+          "prep": "reserved from the pasta"
         }
       ]
     },
@@ -163,10 +164,8 @@
       ]
     },
     {
-      "title": "Instructions",
-      "items": [
-        "Serve with grilled portobella steaks"
-      ]
+      "title": "Serve with grilled portobella steaks",
+      "items": []
     }
   ]
 }
