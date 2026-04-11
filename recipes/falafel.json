@@ -7,6 +7,8 @@
   "displayCategory": "Mains",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients that contribute cholesterol. The chickpeas, herbs, aromatics, breadcrumbs, and avocado oil all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the recipe is built around chickpeas and fresh herbs, making it legume-based and fiber-forward. Flavor and texture come from soaking, grinding, seasoning, resting, aeration, and frying rather than saturated fat.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
@@ -96,8 +98,8 @@
         {
           "amount": 2,
           "unit": "cups",
-          "item": "avocado oil",
-          "prep": "for frying"
+          "item": "avocado oil for frying",
+          "prep": ""
         }
       ]
     }
