@@ -7,9 +7,12 @@
   "displayCategory": "Mains",
   "cScale": 1,
   "ldlActive": true,
+  "cScaleSummary": "C1 because the primary cholesterol contributor is the Monterey Jack cheese in the assembly, while the beans, rice, vegetables, tortillas, oil, and seasonings contribute 0 mg cholesterol. Spread across 4 servings, the per-burrito cholesterol stays in the low range.",
+  "ldlActiveSummary": "LDL-Active because the burrito is built around pinto beans, vegetables, and a modest amount of unsaturated oil, with flavor developed through soaking, simmering, sautéing, seasoning, acid, and grilling rather than heavy animal fat. Even with some cheese, the overall structure remains legume-forward and supportive of LDL lowering.",
   "yield": 4,
   "yieldUnit": "servings",
-  "tags": [],
+  "tags": [
+  ],
   "intro": "",
   "ingredientGroups": [
     {
