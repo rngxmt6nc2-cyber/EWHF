@@ -7,6 +7,8 @@
   "displayCategory": "Small Plates",
   "cScale": 2,
   "ldlActive": false,
+  "cScaleSummary": "C2 because the cholesterol comes from the boneless skinless chicken thighs, the eggs in the wash, and the grated Parmesan in the coating. The cornmeal, cornstarch, spices, and frying oil do not contribute cholesterol.",
+  "ldlActiveSummary": "LDL-Active is false because the dish is centered on animal protein, egg, cheese, and frying rather than a fiber-forward structure built around legumes, whole grains, nuts, seeds, or vegetables that actively support LDL lowering.",
   "yield": 6,
   "yieldUnit": "servings",
   "tags": [],
@@ -100,7 +102,7 @@
           "amount": 2,
           "unit": "tbsp",
           "item": "fine cornmeal",
-          "prep": "(use the pulsed portion)"
+          "prep": "use the pulsed portion"
         },
         {
           "amount": 1,
@@ -116,8 +118,8 @@
         },
         {
           "amount": 0,
-          "unit": "Pinch",
-          "item": "paprika",
+          "unit": "",
+          "item": "Pinch paprika",
           "prep": ""
         }
       ]
@@ -128,8 +130,8 @@
         {
           "amount": 0,
           "unit": "",
-          "item": "Neutral oil (avocado or similar)",
-          "prep": "enough for shallow frying"
+          "item": "Neutral oil (avocado or similar), enough for shallow frying",
+          "prep": ""
         }
       ]
     }
