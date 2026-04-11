@@ -7,6 +7,8 @@
   "displayCategory": "Rice, Beans & Legumes",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no meaningful cholesterol contributors. The mushrooms, rice, kombu, miso, oils, aromatics, broth, wine, soy sauce, herbs, and water chestnuts contribute 0 mg cholesterol in recipe terms.",
+  "ldlActiveSummary": "LDL-Active because the dish is plant-forward, uses unsaturated oils, and builds flavor through roasting, browning, kombu infusion, miso, vinegar, and textural contrast rather than saturated fat. Its overall structure supports LDL lowering.",
   "yield": 6,
   "yieldUnit": "servings",
   "tags": [],
@@ -18,8 +20,8 @@
         {
           "amount": 2,
           "unit": "pounds",
-          "item": "mixed mushrooms",
-          "prep": "with stems removed (cremini, shiitake, oyster, maitake, etc)"
+          "item": "mixed mushrooms with stems removed (cremini, shiitake, oyster, maitake, etc)",
+          "prep": ""
         },
         {
           "amount": 1.5,
@@ -86,9 +88,9 @@
           "prep": ""
         },
         {
-          "amount": 0.5,
+          "amount": 0,
           "unit": "",
-          "item": "Zest of lemon",
+          "item": "Zest of ½ lemon",
           "prep": ""
         },
         {
@@ -144,7 +146,7 @@
           "prep": ""
         },
         {
-          "amount": 0.6666666666666666,
+          "amount": 0.6666666667,
           "unit": "cup",
           "item": "kombu soaking liquid",
           "prep": ""
