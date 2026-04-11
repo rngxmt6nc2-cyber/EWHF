@@ -7,6 +7,8 @@
   "displayCategory": "Mains",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe is built almost entirely from cholesterol-free ingredients including tofu, eggplant, cornstarch, avocado oil, soy sauce, vinegar, aromatics, and sesame oil. The small amount of chicken stock does not materially raise the per-serving cholesterol enough to move the dish out of C0.",
+  "ldlActiveSummary": "LDL-Active because the dish is centered on tofu and eggplant, uses unsaturated oils, and builds flavor through crisping, aromatics, chiles, vinegar, and a light glaze rather than saturated fat. Its overall structure is plant-forward and supportive of LDL lowering.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
@@ -16,7 +18,7 @@
       "title": "Ingredients",
       "items": [
         {
-          "amount": 0.6666666666666666,
+          "amount": 0.6666666667,
           "unit": "cup",
           "item": "cornstarch",
           "prep": ""
@@ -48,8 +50,8 @@
         {
           "amount": 0,
           "unit": "",
-          "item": "Avocado oil",
-          "prep": "enough for ¼ inch depth in wok"
+          "item": "Avocado oil, enough for ¼ inch depth in wok",
+          "prep": ""
         },
         {
           "amount": 0.25,
@@ -95,8 +97,8 @@
         },
         {
           "amount": 3,
-          "unit": "to 4",
-          "item": "Thai bird chiles",
+          "unit": "",
+          "item": "to 4 Thai bird chiles",
           "prep": "finely minced"
         },
         {
