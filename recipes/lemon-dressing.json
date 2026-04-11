@@ -7,6 +7,8 @@
   "displayCategory": "Condiments & Toppings",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients that contribute cholesterol. The olive oil, lemon juice, lemon zest, garlic, mustard powder, salt, and pepper all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the dressing is built from unsaturated olive oil and lemon, with flavor developed through acid, garlic, and mustard rather than saturated fat. It is light, plant-based, and supportive of LDL-friendly meals.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
