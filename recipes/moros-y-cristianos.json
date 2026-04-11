@@ -7,6 +7,8 @@
   "displayCategory": "Rice, Beans & Legumes",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients that contribute cholesterol. The black beans, rice, olive oil, vegetables, herbs, vinegar, and seasonings all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the dish is built around black beans and rice, making it legume-based, fiber-forward, and supportive of LDL lowering. Flavor is developed through sofrito, bean broth, herbs, vinegar, and aromatics rather than saturated fat.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
@@ -106,7 +108,19 @@
         {
           "amount": 2,
           "unit": "tsp",
-          "item": "fresh oregano + 1 tsp fresh thyme + pinch finely minced fresh sage",
+          "item": "fresh oregano",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "fresh thyme",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "pinch finely minced fresh sage",
           "prep": ""
         },
         {
@@ -139,7 +153,7 @@
           "prep": ""
         },
         {
-          "amount": 1.3333333333333333,
+          "amount": 1.3333333333,
           "unit": "cups",
           "item": "black bean cooking broth",
           "prep": ""
@@ -170,7 +184,13 @@
         {
           "amount": 2,
           "unit": "tsp",
-          "item": "fresh oregano + 1 tsp fresh thyme",
+          "item": "fresh oregano",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "fresh thyme",
           "prep": ""
         },
         {
