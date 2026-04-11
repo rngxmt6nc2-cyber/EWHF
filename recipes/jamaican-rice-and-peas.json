@@ -7,6 +7,8 @@
   "displayCategory": "Rice, Beans & Legumes",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the dish is built almost entirely from cholesterol-free ingredients including red kidney beans, rice, light coconut milk, herbs, and aromatics. The small amount of chicken stock does not materially raise the per-serving cholesterol enough to move the dish out of C0.",
+  "ldlActiveSummary": "LDL-Active because the dish is built around beans and rice, making it fiber-forward and supportive of LDL lowering. Flavor is developed through herbs, aromatics, coconut milk, and bean cooking liquid rather than saturated animal fat.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
@@ -42,7 +44,7 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "long-grain rice",
-          "prep": "(preferably jasmine)"
+          "prep": "preferably jasmine"
         },
         {
           "amount": 0.5,
