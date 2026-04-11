@@ -7,6 +7,8 @@
   "displayCategory": "Sauces & Bases",
   "cScale": 1,
   "ldlActive": false,
+  "cScaleSummary": "C1 because the stock is made from chicken bones, drumsticks, neck, and attached tissues, which contribute some cholesterol during extraction even though the fat is removed after chilling. Defatting improves the profile, but does not make the finished stock cholesterol-free.",
+  "ldlActiveSummary": "LDL-Active is false because this is a foundational stock rather than a fiber-forward dish built from legumes, whole grains, vegetables, nuts, or seeds. It can support LDL-friendly cooking, but on its own it is neutral rather than actively LDL-lowering.",
   "yield": 6,
   "yieldUnit": "Quarts",
   "tags": [],
@@ -19,13 +21,13 @@
           "amount": 1,
           "unit": "whole",
           "item": "chicken",
-          "prep": "(minus breast and thigh meat)"
+          "prep": "minus breast and thigh meat"
         },
         {
           "amount": 4,
           "unit": "",
           "item": "drumsticks",
-          "prep": "(in addition to the 2 on the chicken)"
+          "prep": "in addition to the 2 on the chicken"
         },
         {
           "amount": 1,
@@ -97,17 +99,12 @@
           "unit": "",
           "item": "whole black pepper corns",
           "prep": ""
-        }
-      ]
-    },
-    {
-      "title": "Ingredients II – Aromatic Simmer",
-      "items": [
+        },
         {
           "amount": 2,
           "unit": "Quarts",
           "item": "hot tap water",
-          "prep": "(heat from cold separately)"
+          "prep": "heat from cold separately"
         }
       ]
     }
