@@ -7,6 +7,8 @@
   "displayCategory": "Breakfast",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients that contribute cholesterol. The oatmeal, chia, flax, almond milk, cinnamon, fruit, and honey contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the bowl is built around oats, chia seeds, flax seeds, and fruit, making it fiber-forward and supportive of LDL lowering. Flavor and texture come from cinnamon, fruit, and light sweetness rather than saturated fat.",
   "yield": 1,
   "yieldUnit": "serving",
   "tags": [],
@@ -34,7 +36,7 @@
           "prep": ""
         },
         {
-          "amount": 0.6666666666666666,
+          "amount": 0.6666666667,
           "unit": "cup",
           "item": "unsweetened almond milk",
           "prep": ""
