@@ -7,6 +7,8 @@
   "displayCategory": "Vegetables & Sides",
   "cScale": 1,
   "ldlActive": false,
+  "cScaleSummary": "C1 because the only meaningful cholesterol contributor is the plain Greek yogurt in the dressing. The cabbage, carrot, onion, olive oil, pickle juice, mustard, celery seed, black pepper, and dill contribute 0 mg cholesterol, so the per-serving cholesterol remains low.",
+  "ldlActiveSummary": "LDL-Active is false because this is a creamy vegetable side rather than a recipe specifically structured around core LDL-lowering ingredients like legumes, whole grains, nuts, or seeds. It is reasonably light, but not actively LDL-lowering in design.",
   "yield": 8,
   "yieldUnit": "servings",
   "tags": [],
@@ -19,7 +21,7 @@
           "amount": 0.5,
           "unit": "medium",
           "item": "green cabbage",
-          "prep": "(about 500 g), very thinly shredded"
+          "prep": "about 500 g, very thinly shredded"
         },
         {
           "amount": 1,
