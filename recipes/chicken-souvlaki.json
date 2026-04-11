@@ -7,6 +7,8 @@
   "displayCategory": "Mains",
   "cScale": 2,
   "ldlActive": false,
+  "cScaleSummary": "C2 because the main cholesterol contributor is the boneless skinless chicken thighs, with a smaller possible contribution from the prepared tzatziki if dairy-based. The pita, olive oil, lemon, garlic, oregano, onion, and tomatoes contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is false because the dish is centered on animal protein and is not meaningfully fiber-forward, even though it uses olive oil, lemon, garlic, and herbs for flavor. It is relatively clean but not actively structured to support LDL lowering.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
@@ -146,7 +148,7 @@
     {
       "title": "Wrap and Serve",
       "items": [
-        "Remove the chicken from the skewers. Finish the chicken with a small pinch of kosher salt. Lay out the warm pita and spread each with tzatziki. Divide the chicken among them, then add the onion lemon salad and tomato wedges. Fold each pita around the filling, keeping the filling centered and compact so it eats cleanly out of the hand."
+        "Remove the chicken from the skewers. Finish the chicken with a small pinch of kosher salt. Lay out the warm pita and spread each with tzatziki. Divide the chicken among them, then add the onion lemon salad and tomato wedges. Fold each pita around the filling, keeping the filling centered and compact so it eats cleanly out of the hand. "
       ]
     }
   ]
