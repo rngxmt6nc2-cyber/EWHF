@@ -7,6 +7,8 @@
   "displayCategory": "Rice, Beans & Legumes",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients that contribute cholesterol. The giant beans, vegetables, olive oil, tomato products, wine, lemon, herbs, and serving elements all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the dish is built around large white beans, vegetables, olive oil, and herbs, making it legume-based, fiber-forward, and strongly supportive of LDL lowering. Flavor comes from slow baking, aromatics, tomato concentration, acid, and herbs rather than saturated fat.",
   "yield": 8,
   "yieldUnit": "servings",
   "tags": [],
@@ -58,8 +60,8 @@
         },
         {
           "amount": 1,
-          "unit": "stalk",
-          "item": "celery",
+          "unit": "",
+          "item": "celery stalk",
           "prep": "finely chopped"
         },
         {
@@ -89,12 +91,12 @@
           "amount": 60,
           "unit": "ml",
           "item": "dry white wine",
-          "prep": "(¼ cup)"
+          "prep": "¼ cup"
         },
         {
-          "amount": 0.5,
+          "amount": 0,
           "unit": "",
-          "item": "Zest of lemon",
+          "item": "Zest of ½ lemon",
           "prep": ""
         },
         {
