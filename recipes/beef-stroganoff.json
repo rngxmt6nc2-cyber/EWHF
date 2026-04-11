@@ -1,0 +1,277 @@
+{
+  "id": "beef-stroganoff",
+  "title": "Beef Stroganoff",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 1,
+  "ldlActive": true,
+  "cScaleSummary": "C1 because the only meaningful cholesterol contributor is the sour cream in the finish. The Impossible pieces, mushrooms, onion, stock, wine, mustard, soy sauce, and seasonings do not materially contribute cholesterol, so divided across 4 servings the dish remains in the low cholesterol range.",
+  "ldlActiveSummary": "LDL-Active because the dish is built around plant protein, mushrooms, onions, and a stock-based sauce with flavor developed through searing, reduction, aromatics, acid, and herbs rather than heavy animal fat. Even with sour cream, the overall structure remains supportive of LDL lowering.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Stroganoff comes out of 19th century Russia, built on sautéed beef, sour cream, and a pan sauce enriched by onions and mushrooms. The modern versions lean heavier and muddier. This one keeps the original intent: defined pieces, clean tang, and a sauce that coats without drowning.",
+  "ingredientGroups": [
+    {
+      "title": "Protein",
+      "items": [
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "Impossible “Be’f” tips or chunks",
+          "prep": "cut into bite-sized pieces"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "soy sauce",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Aromatics",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "medium",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Mushrooms",
+      "items": [
+        {
+          "amount": 8,
+          "unit": "oz",
+          "item": "cremini mushrooms",
+          "prep": ""
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "half",
+          "prep": "finely chopped"
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "half",
+          "prep": "sliced"
+        }
+      ]
+    },
+    {
+      "title": "Flavor Build",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "soy sauce",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "sweet paprika",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "dry white wine",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Sauce Base",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "cup",
+          "item": "stock",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Thickener",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "tsp",
+          "item": "cornstarch",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "cold water",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "amount": 0.3333333333,
+          "unit": "cup",
+          "item": "sour cream",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tsp",
+          "item": "red wine vinegar",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "fresh parsley",
+          "prep": "chopped"
+        },
+        {
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "fresh thyme",
+          "prep": "chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Sear the Impossible",
+      "items": [
+        "Heat a wide pan over medium-high. Add oil.",
+        "Add Impossible pieces in a single layer. Do not crowd.",
+        "Let them develop a dark crust before turning.",
+        "Cook just until browned, 2 to 3 minutes total.",
+        "Remove immediately and set aside."
+      ]
+    },
+    {
+      "title": "Build the Onion Base",
+      "items": [
+        "Lower heat to medium-low.",
+        "Add oil, onion, and salt.",
+        "Cook slowly until fully softened and lightly golden, about 12 to 15 minutes.",
+        "No browning edges. You are building sweetness."
+      ]
+    },
+    {
+      "title": "Develop the Mushroom Body",
+      "items": [
+        "Add finely chopped mushrooms first.",
+        "Cook until they release moisture and cook down into a paste-like base.",
+        "Then add sliced mushrooms and cook until tender and lightly browned."
+      ]
+    },
+    {
+      "title": "Build Flavor",
+      "items": [
+        "Add garlic, Dijon, soy sauce, paprika, and black pepper.",
+        "Cook 1 minute to bloom.",
+        "Add white wine and reduce by about half."
+      ]
+    },
+    {
+      "title": "Form the Sauce",
+      "items": [
+        "Add stock and bring to a simmer.",
+        "Cook 5 to 7 minutes to concentrate."
+      ]
+    },
+    {
+      "title": "Thicken",
+      "items": [
+        "Stir cornstarch with cold water.",
+        "Add to the pan while simmering.",
+        "Sauce should lightly coat a spoon, not gel."
+      ]
+    },
+    {
+      "title": "Finish Gently",
+      "items": [
+        "Lower heat to low.",
+        "Temper sour cream with a spoonful of hot sauce, then stir it into the pan.",
+        "Do not boil after adding."
+      ]
+    },
+    {
+      "title": "Return the Impossible",
+      "items": [
+        "Add the seared pieces back in.",
+        "Stir just long enough to warm through, about 1 minute."
+      ]
+    },
+    {
+      "title": "Final Balance",
+      "items": [
+        "Add vinegar, thyme, and parsley.",
+        "Taste and adjust salt."
+      ]
+    },
+    {
+      "title": "Serve",
+      "items": [
+        "Serve immediately over noodles, rice, or potatoes."
+      ]
+    }
+  ]
+}
