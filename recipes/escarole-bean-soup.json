@@ -7,6 +7,8 @@
   "displayCategory": "Soups & Stews",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the soup is built almost entirely from cholesterol-free ingredients including navy beans, brown jasmine rice, escarole, aromatics, olive oil, pesto, lemon, and seasonings. The chicken stock is present in a modest enough amount that the per-serving cholesterol remains effectively negligible.",
+  "ldlActiveSummary": "LDL-Active because the soup is built around navy beans, greens, aromatics, and a modest amount of rice, with flavor developed through broth, herbs, pesto, and lemon rather than saturated fat. It is legume-forward, vegetable-rich, and supportive of LDL lowering.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
@@ -63,8 +65,8 @@
         },
         {
           "amount": 1,
-          "unit": "stalk",
-          "item": "celery",
+          "unit": "",
+          "item": "celery stalk",
           "prep": "finely diced"
         },
         {
