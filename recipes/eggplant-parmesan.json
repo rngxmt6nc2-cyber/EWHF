@@ -7,6 +7,8 @@
   "displayCategory": "Mains",
   "cScale": 2,
   "ldlActive": false,
+  "cScaleSummary": "C2 because the main cholesterol contributors are the low-fat mozzarella shreds and the Egg Beaters used in the breading process. The eggplant, flour, breadcrumbs, tomato sauce, herbs, and avocado oil spray do not materially contribute cholesterol.",
+  "ldlActiveSummary": "LDL-Active is false because even though this version is lighter than a classic Eggplant Parmesan, it still relies on egg-based coating and cheese and is not structured around core LDL-lowering ingredients like legumes, whole grains, nuts, or seeds.",
   "yield": 2,
   "yieldUnit": "servings",
   "tags": [],
@@ -24,8 +26,8 @@
         {
           "amount": 0,
           "unit": "",
-          "item": "salt",
-          "prep": "for drawing out moisture"
+          "item": "salt, for drawing out moisture",
+          "prep": ""
         },
         {
           "amount": 0.25,
@@ -66,8 +68,8 @@
         {
           "amount": 0,
           "unit": "",
-          "item": "avocado oil spray",
-          "prep": "for crisping"
+          "item": "avocado oil spray, for crisping",
+          "prep": ""
         }
       ]
     },
@@ -89,8 +91,8 @@
         {
           "amount": 0,
           "unit": "",
-          "item": "fresh basil leaves",
-          "prep": "for garnish"
+          "item": "fresh basil leaves, for garnish",
+          "prep": ""
         }
       ]
     }
