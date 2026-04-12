@@ -7,10 +7,12 @@
   "displayCategory": "Condiments & Toppings",
   "cScale": 0,
   "ldlActive": false,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients that contribute cholesterol. The mustard powder, water, red miso paste, coconut aminos, rice vinegar, and sea salt all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is false because the sauce is not meaningfully fiber-forward or structurally built around core LDL-supportive ingredients like legumes, whole grains, nuts, seeds, or vegetables. It is clean and cholesterol-free, but neutral rather than actively LDL-lowering.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
-  "intro": "A modern fusion of Chinese hot mustard and Japanese miso, this sauce brings volcanic heat with a deep savory backbone. Serve it with dumplings, seitan bites, or crispy tofu. It is sharp, addictive, and alive with enzyme-driven fire.",
+  "intro": "A modern fusion of Chinese hot mustard and Japanese miso, this sauce brings volcanic heat with a deep savory backbone. Serve it with dumplings, seitan bites, or crispy tofu. It is sharp, addictive, and alive with enzyme-driven fire. ",
   "ingredientGroups": [
     {
       "title": "Mustard Base",
@@ -52,8 +54,8 @@
         },
         {
           "amount": 0,
-          "unit": "Pinch",
-          "item": "sea salt",
+          "unit": "",
+          "item": "Pinch sea salt",
           "prep": ""
         }
       ]
