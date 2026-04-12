@@ -7,10 +7,11 @@
   "displayCategory": "Mains",
   "cScale": 1,
   "ldlActive": true,
-  "yield": 8,
+  "cScaleSummary": "C1 because the only cholesterol contributors are the small amounts of Parmigiano-Reggiano, low-fat sharp cheddar, and plain Greek yogurt, which keep the cholesterol per serving in the 1 to 25 mg range when divided across 6 servings.",
+  "ldlActiveSummary": "LDL-Active because the recipe is built around black beans, lentils, mushrooms, onions, celery, tomatoes, chiles, and corn, stays low in animal fat, and develops flavor through aromatics, spice, simmering, and structure rather than saturated fat.",
+  "yield": 6,
   "yieldUnit": "servings",
-  "tags": [
-  ],
+  "tags": [],
   "intro": "Tamale pie is an early 20th-century American casserole inspired by Mexican tamales and chili con carne, created as a practical oven-baked alternative to labor-intensive, corn-husk-wrapped tamales. Popularized in Texas, California, and the Midwest, it became a staple of mid-century home cooking, layering chili-style filling with cornmeal into a single, family-style dish that reflects the adaptable, borderland roots of Tex-Mex comfort food.\n\n\nThis version follows that same spirit of adaptation, replacing the traditional beef-heavy filling with vegetables while keeping the cornmeal and chile backbone intact. It honors tamale pie’s history as practical, flexible comfort food.",
   "ingredientGroups": [
     {
@@ -48,14 +49,14 @@
         },
         {
           "amount": 1,
-          "unit": "",
-          "item": "celery stalk",
+          "unit": "stalk",
+          "item": "celery",
           "prep": ""
         },
         {
           "amount": 4,
-          "unit": "",
-          "item": "garlic cloves",
+          "unit": "cloves",
+          "item": "garlic",
           "prep": ""
         },
         {
@@ -165,6 +166,10 @@
       ]
     },
     {
+      "title": "Preheat the oven to 350°F on Convection Bake.",
+      "items": []
+    },
+    {
       "title": "Make the Polenta",
       "items": [
         "In a bowl, stir ¾ cup yellow cornmeal into 1 cup cold water to form a smooth slurry. In a saucepan, bring 2 cups cold water to a boil. Slowly pour the slurry into the boiling water while stirring. Add 1 tablespoon olive oil and ½ teaspoon salt. Reduce heat to low, cover, and cook 30 minutes, stirring every 5 minutes. The mixture should be soft and spoonable. If it becomes too thick, thin with 1 to 2 tablespoons hot water. Let rest in the pan 10 minutes before assembling; it may cool to room temperature."
@@ -185,7 +190,7 @@
     {
       "title": "Prepare the Mise en Place",
       "items": [
-        "While the beans, lentils, and cornmeal cook, prepare the following:\n\n8 ounces cremini mushrooms, 4 ounces finely minced and 4 ounces small chopped\n\n2 small onions, chopped\n\n1 celery stalk, finely chopped\n\n4 garlic cloves, minced\n\n2 tablespoons chili powder\n\n1 tablespoon ground cumin\n\n½ teaspoon smoked paprika\n\nOpen and drain the 4 ounce can of diced green chiles\n\n\n\nHave these ingredients measured and ready before beginning the filling."
+        "While the beans, lentils, and cornmeal cook, prepare the following:\n\n8 ounces cremini mushrooms, 4 ounces finely minced and 4 ounces small chopped\n\n2 small onions, chopped\n\n1 celery stalk, finely chopped\n\n4 garlic cloves, minced\n\n2 tablespoons chili powder\n\n1 tablespoon ground cumin\n\n½ teaspoon smoked paprika\n\nOpen and drain the 4 ounce can of diced green chiles\n\n\nHave these ingredients measured and ready before beginning the filling."
       ]
     },
     {
@@ -197,7 +202,7 @@
         "Stir in the 4 cloves of minced garlic, 2 Tbsp chili powder, 1 Tbsp cumin, and ½ tsp smoked paprika and cook 45 seconds.",
         "Reduce heat to medium-low. Add the cooked black beans and mash about one quarter of them directly in the pan. Add the cooked lentils.",
         "Add 5 whole San Marzano tomatoes, hand crushed, with 2 tablespoons of their liquid.",
-        "Add the 4 ounce can diced green chiles and the entire 10 ounce bag of frozen corn.",
+        "Add the 4 ounce can diced green chiles and the entire 10 ounce bag of frozen corn. ",
         "Add 2 tablespoons of the reserved bean cooking liquid.",
         "Simmer 6 minutes over medium-low heat. Taste and adjust salt if needed. Remove from heat."
       ]
