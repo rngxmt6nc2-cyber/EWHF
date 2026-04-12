@@ -7,6 +7,8 @@
   "displayCategory": "Vegetables & Sides",
   "cScale": 1,
   "ldlActive": false,
+  "cScaleSummary": "C1 because the cholesterol comes from the chopped egg whites and the plain Greek yogurt. The potatoes, olive oil, dill pickle juice, celery, onion, dill pickles, carrot, fresh dill, and paprika do not contribute cholesterol, so the per-serving cholesterol remains low.",
+  "ldlActiveSummary": "LDL-Active is false because although the salad is lighter than classic deli potato salad and avoids mayonnaise and egg yolks, it is still primarily a starchy side rather than a clearly fiber-forward recipe built around core LDL-supportive ingredients like legumes, whole grains, nuts, or seeds.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
@@ -18,8 +20,8 @@
         {
           "amount": 4,
           "unit": "large",
-          "item": "egg whites (from 4 hard-boiled eggs)",
-          "prep": "chopped"
+          "item": "egg whites",
+          "prep": "from 4 hard-boiled eggs, chopped"
         },
         {
           "amount": 1,
@@ -78,26 +80,26 @@
         {
           "amount": 0.5,
           "unit": "cup",
-          "item": "celery",
-          "prep": "finely diced"
+          "item": "finely diced celery",
+          "prep": ""
         },
         {
           "amount": 0.25,
           "unit": "cup",
-          "item": "onion",
-          "prep": "finely minced (soaked in cold water 5 minutes and drained)"
+          "item": "finely minced onion",
+          "prep": "soaked in cold water 5 minutes and drained"
         },
         {
           "amount": 0.3333333333,
           "unit": "cup",
-          "item": "dill pickles",
-          "prep": "finely chopped"
+          "item": "finely chopped dill pickles",
+          "prep": ""
         },
         {
           "amount": 2,
           "unit": "tbsp",
-          "item": "carrot",
-          "prep": "finely grated"
+          "item": "finely grated carrot",
+          "prep": ""
         },
         {
           "amount": 2,
