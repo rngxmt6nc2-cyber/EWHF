@@ -7,10 +7,12 @@
   "displayCategory": "Condiments & Toppings",
   "cScale": 0,
   "ldlActive": false,
+  "cScaleSummary": "",
+  "ldlActiveSummary": "",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
-  "intro": "Tzatziki is the cool yogurt-cucumber sauce served across Greece and the Eastern Mediterranean alongside grilled meats, vegetables, and warm flatbread. It is built on strained yogurt, fresh garlic, and cucumber, producing a bright, tangy contrast to rich or smoky foods. Traditional versions rely on thick sheep or goat yogurt, but modern Greek yogurt works beautifully and provides the same dense texture. The key technique is removing excess water from the cucumber so the sauce stays thick and creamy instead of watery.",
+  "intro": "Tzatziki is the cool yogurt-cucumber sauce served across Greece and the Eastern Mediterranean alongside grilled meats, vegetables, and warm flatbread. It is built on strained yogurt, fresh garlic, and cucumber, producing a bright, tangy contrast to rich or smoky foods. Traditional versions rely on thick sheep or goat yogurt, but modern Greek yogurt works beautifully and provides the same dense texture. The key technique is removing excess water from the cucumber so the sauce stays thick and creamy instead of watery. ",
   "ingredientGroups": [
     {
       "title": "Cucumber Base",
@@ -69,7 +71,7 @@
         },
         {
           "amount": 2,
-          "unit": "tablespoon",
+          "unit": "tablespoons",
           "item": "fresh parsley",
           "prep": "finely chopped"
         }
