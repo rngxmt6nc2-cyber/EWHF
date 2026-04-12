@@ -5,8 +5,10 @@
   "sortOrder": 0,
   "category": "Soups & Stews",
   "displayCategory": "Soups & Stews",
-  "cScale": 0,
+  "cScale": 1,
   "ldlActive": true,
+  "cScaleSummary": "C1 because the cholesterol comes from the chicken stock and the chicken and beef Better Than Bouillon bases. The cannellini beans, lentils, vegetables, kale, parsley, miso, olive oil, lemon, and spices do not contribute cholesterol, so the per-serving cholesterol remains low.",
+  "ldlActiveSummary": "LDL-Active because the soup is strongly legume-forward, fiber-forward, and plant-rich, with flavor built through aromatics, tomato paste, spices, miso, greens, and lemon rather than saturated fat. Its overall structure is highly supportive of LDL lowering.",
   "yield": 8,
   "yieldUnit": "servings",
   "tags": [],
@@ -105,8 +107,8 @@
         },
         {
           "amount": 0.5,
-          "unit": "to 1 teaspoon",
-          "item": "chili flakes",
+          "unit": "",
+          "item": "–1 teaspoon chili flakes",
           "prep": ""
         },
         {
@@ -194,7 +196,7 @@
           "amount": 0,
           "unit": "",
           "item": "Kosher salt",
-          "prep": "(for massaging kale)"
+          "prep": "for massaging kale"
         }
       ]
     },
@@ -202,9 +204,9 @@
       "title": "Finish",
       "items": [
         {
-          "amount": 1,
+          "amount": 0,
           "unit": "",
-          "item": "Juice of lemon",
+          "item": "Juice of 1 lemon",
           "prep": ""
         },
         {
