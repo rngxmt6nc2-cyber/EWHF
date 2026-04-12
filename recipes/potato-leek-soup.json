@@ -7,6 +7,8 @@
   "displayCategory": "Soups & Stews",
   "cScale": 1,
   "ldlActive": true,
+  "cScaleSummary": "C1 because the meaningful cholesterol contributor is the chicken stock used to cook the barley and build the soup. The potatoes, leeks, onion, mushrooms, barley, olive oil, herbs, and lemon juice do not contribute cholesterol, so the per-serving cholesterol remains low.",
+  "ldlActiveSummary": "LDL-Active because the soup is built around vegetables and barley, uses modest unsaturated oil, and develops flavor through caramelization, mushroom browning, blending, herbs, and acid rather than cream or heavy animal fat. Its structure is hearty and supportive of LDL lowering.",
   "yield": 6,
   "yieldUnit": "servings",
   "tags": [],
@@ -115,7 +117,7 @@
         },
         {
           "amount": 3,
-          "unit": "to 4 cups",
+          "unit": "cups",
           "item": "chicken stock",
           "prep": "start with 3, adjust later"
         }
@@ -127,8 +129,8 @@
         {
           "amount": 0.5,
           "unit": "cup",
-          "item": "fresh parsley",
-          "prep": "finely chopped"
+          "item": "finely chopped fresh parsley",
+          "prep": ""
         },
         {
           "amount": 1,
