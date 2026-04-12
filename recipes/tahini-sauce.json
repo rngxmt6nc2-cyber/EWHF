@@ -7,6 +7,8 @@
   "displayCategory": "Condiments & Toppings",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients; tahini, lemon juice, garlic, parsley, cumin, cayenne, salt, and water contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the recipe is entirely plant-based, built on sesame tahini and aromatics, contains no saturated animal fat, and develops flavor through acid, garlic, spice, and emulsion technique rather than fat.",
   "yield": 8,
   "yieldUnit": "servings",
   "tags": [],
@@ -54,8 +56,8 @@
         {
           "amount": 0.5,
           "unit": "teaspoon",
-          "item": "cumin",
-          "prep": "ground"
+          "item": "ground cumin",
+          "prep": ""
         },
         {
           "amount": 0.25,
