@@ -7,6 +7,8 @@
   "displayCategory": "Mains",
   "cScale": 0,
   "ldlActive": false,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients that contribute cholesterol. The seitan, mushrooms, breadcrumbs, stock, mustard, soy sauce, herbs, cornstarch, flour, and olive oil all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is false because the dish is primarily a dense seitan-based centerpiece rather than a clearly fiber-forward recipe built around core LDL-supportive ingredients like legumes, whole grains, nuts, seeds, or vegetables. It is cholesterol-free, but not strongly LDL-lowering in structure.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
@@ -31,7 +33,7 @@
           "amount": 4,
           "unit": "oz",
           "item": "cremini mushrooms",
-          "prep": "finely chopped"
+          "prep": "finitely chopped"
         },
         {
           "amount": 2,
@@ -42,8 +44,8 @@
         {
           "amount": 2,
           "unit": "tbsp",
-          "item": "onion",
-          "prep": "very finely chopped"
+          "item": "very finely chopped onion",
+          "prep": ""
         },
         {
           "amount": 2,
@@ -95,14 +97,14 @@
         {
           "amount": 0.5,
           "unit": "tsp",
-          "item": "fresh thyme",
-          "prep": "finely chopped"
+          "item": "finely chopped fresh thyme",
+          "prep": ""
         },
         {
           "amount": 0.125,
           "unit": "tsp",
-          "item": "fresh sage",
-          "prep": "finely chopped"
+          "item": "finely chopped fresh sage",
+          "prep": ""
         },
         {
           "amount": 3,
