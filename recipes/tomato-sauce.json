@@ -1,12 +1,14 @@
 {
-  "id": "tomato-sauce",
-  "title": "Tomato Sauce",
+  "id": "classic-tomato-sauce",
+  "title": "Classic Tomato Sauce",
   "section": "",
   "sortOrder": 0,
   "category": "Sauces & Bases",
   "displayCategory": "Sauces & Bases",
   "cScale": 0,
   "ldlActive": false,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients; olive oil, garlic, oregano, red pepper flakes, tomatoes, onion, basil, and fresh oregano contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is no because the sauce is cholesterol-free and low in saturated fat but functions mainly as a neutral tomato base rather than a fiber-forward dish built around ingredients that actively support lowering LDL.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
@@ -35,15 +37,15 @@
         },
         {
           "amount": 0,
-          "unit": "Pinch",
+          "unit": "",
           "item": "red pepper flakes",
-          "prep": ""
+          "prep": "Pinch"
         },
         {
           "amount": 0,
-          "unit": "Pinch",
+          "unit": "",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "Pinch"
         }
       ]
     },
@@ -53,14 +55,14 @@
         {
           "amount": 1,
           "unit": "(28 oz) can",
-          "item": "whole peeled tomatoes",
-          "prep": "with their juice"
+          "item": "whole peeled tomatoes with their juice",
+          "prep": ""
         },
         {
           "amount": 0,
-          "unit": "Pinch",
+          "unit": "",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "Pinch"
         }
       ]
     },
@@ -75,8 +77,8 @@
         },
         {
           "amount": 2,
-          "unit": "",
-          "item": "basil sprigs",
+          "unit": "basil sprigs",
+          "item": "",
           "prep": ""
         },
         {
