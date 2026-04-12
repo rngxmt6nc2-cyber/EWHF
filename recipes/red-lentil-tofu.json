@@ -7,12 +7,12 @@
   "displayCategory": "Sauces & Bases",
   "cScale": 0,
   "ldlActive": true,
-  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients; red lentils, water, and salt contribute 0 mg cholesterol.",
-  "ldlActiveSummary": "LDL-Active because the recipe is built from lentils, is fiber-forward, contains no saturated animal fat, and relies on structure and cooking technique rather than added fat.",
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients that contribute cholesterol. The split red lentils, water, and salt all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the recipe is built entirely from red lentils, making it legume-based, fiber-forward, and supportive of LDL lowering. Its structure and utility come from starch-and-protein gelation rather than saturated fat.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
-  "intro": "Red lentil tofu is a modern pantry staple that borrows the logic of traditional bean-based protein foods while taking a simpler, soy-free path. Split red lentils blend smoothly, cook into a glossy starch-and-protein base, and set into a firm block that can be sliced, cubed, or pan-seared. This version is written specifically in the extra-firm lane, giving it the structure needed for roasting, browning, and composed dishes where a sturdier tofu is more useful than a soft custardy set.",
+  "intro": "Red lentil tofu is a modern pantry staple that borrows the logic of traditional bean-based protein foods while taking a simpler, soy-free path. Split red lentils blend smoothly, cook into a glossy starch-and-protein base, and set into a firm block that can be sliced, cubed, or pan-seared. This version is written specifically in the extra-firm lane, giving it the structure needed for roasting, browning, and composed dishes where a sturdier tofu is more useful than a soft custardy set. ",
   "ingredientGroups": [
     {
       "title": "Lentil Soak",
@@ -26,8 +26,8 @@
         {
           "amount": 1.5,
           "unit": "cups",
-          "item": "water",
-          "prep": "boiling"
+          "item": "boiling water",
+          "prep": ""
         }
       ]
     },
@@ -37,8 +37,8 @@
         {
           "amount": 1,
           "unit": "cup",
-          "item": "water",
-          "prep": "room temperature"
+          "item": "room temperature water",
+          "prep": ""
         }
       ]
     },
