@@ -7,10 +7,11 @@
   "displayCategory": "Vegetables & Sides",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the only cholesterol contributor is the very small amount of fish sauce, which remains effectively negligible when divided across 4 servings. The tomatoes, onion, olive oil, stock, soy sauce, salt, and black pepper do not materially contribute cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the dish is vegetable-forward, uses modest olive oil, and builds flavor through slow onion cooking, tomato structure, restrained stock use, and umami rather than saturated fat. Its overall structure supports LDL-friendly eating.",
   "yield": 4,
   "yieldUnit": "servings",
-  "tags": [
-  ],
+  "tags": [],
   "intro": "Stewed tomatoes like this show up all over Midwestern and Mid-Atlantic tables, especially next to baked macaroni and cheese. The goal is contrast. Soft, rich pasta against bright, savory tomato with just enough body to cling. This version keeps the traditional structure, relying on high-quality whole tomatoes, controlled onion sweetness, and a restrained finish so the dish stays clean and defined.",
   "ingredientGroups": [
     {
