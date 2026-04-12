@@ -7,10 +7,12 @@
   "displayCategory": "Soups & Stews",
   "cScale": 1,
   "ldlActive": true,
+  "cScaleSummary": "C1 because the only meaningful cholesterol contributor is the beef stock. The white beans, mushrooms, barley, olive oil, onion, garlic, pepperoncini peppers, brine, herbs, and bread do not contribute cholesterol, so the per-serving cholesterol remains low.",
+  "ldlActiveSummary": "LDL-Active because the stew is built around white beans, barley, mushrooms, and aromatics, making it legume-forward and fiber-forward. Flavor is developed through browning, pepperoncini acidity, herbs, and broth rather than heavy animal fat.",
   "yield": 6,
   "yieldUnit": "servings",
   "tags": [],
-  "intro": "Pepperoncini braises became popular in American home kitchens because the peppers and their brine deliver salt, acidity, and gentle heat in one ingredient. Many versions rely on fatty cuts of beef cooked slowly in a crockpot. This stew keeps the same garlic and pepperoncini backbone but builds the body with mushrooms, white beans, and pearled barley. The result is hearty, rustic, and bright instead of heavy, with a broth designed to be soaked up with hot crusty bread.",
+  "intro": "Pepperoncini braises became popular in American home kitchens because the peppers and their brine deliver salt, acidity, and gentle heat in one ingredient. Many versions rely on fatty cuts of beef cooked slowly in a crockpot. This stew keeps the same garlic and pepperoncini backbone but builds the body with mushrooms, white beans, and pearled barley. The result is hearty, rustic, and bright instead of heavy, with a broth designed to be soaked up with hot crusty bread. ",
   "ingredientGroups": [
     {
       "title": "Bean Prep",
@@ -105,14 +107,14 @@
         {
           "amount": 1,
           "unit": "tablespoon",
-          "item": "fresh Mediterranean oregano",
-          "prep": "chopped"
+          "item": "chopped fresh Mediterranean oregano",
+          "prep": ""
         },
         {
           "amount": 2,
           "unit": "tablespoons",
-          "item": "fresh Italian parsley",
-          "prep": "chopped"
+          "item": "chopped fresh Italian parsley",
+          "prep": ""
         }
       ]
     },
