@@ -1,16 +1,18 @@
 {
   "id": "pozole-verde",
-  "title": "Pozole Verde",
+  "title": "Pozole verde",
   "section": "",
   "sortOrder": 0,
   "category": "Soups & Stews",
   "displayCategory": "Soups & Stews",
   "cScale": 0,
-  "ldlActive": false,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients that contribute cholesterol. The tofu, hominy, vegetables, greens, cilantro, pumpkin seeds, broth, olive oil, lime, and garnishes all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the stew is built around plant-based ingredients including tofu, hominy, greens, chiles, and pumpkin seeds, with flavor developed through charring, blending, herbs, lime, and fresh garnishes rather than saturated fat. Its overall structure is supportive of LDL lowering.",
   "yield": 2,
   "yieldUnit": "servings",
   "tags": [],
-  "intro": "Pozole verde is a green hominy stew rooted in central and southern Mexico, where pepitas, chiles, herbs, and greens give the broth its earthy depth and vivid color. This version keeps that bright, savory identity while leaning lighter, using tofu for substance and hominy for the stew’s classic texture. It eats like a real bowl of pozole, not a compromise, with charred aromatics, a smooth verde base, and the fresh finish of lime, cilantro, and crisp garnishes.",
+  "intro": "Pozole verde is a green hominy stew rooted in central and southern Mexico, where herbs, chiles, and seeds give the broth its vivid color and earthy depth. This version keeps that bright, savory identity while leaning lighter, using tofu for substance and hominy for the stew’s classic chew. It still eats like a true bowl of pozole, with charred aromatics, a smooth verde base, and a fresh finish from lime and crisp garnishes. The result is clean, lively, and satisfying without losing the dish’s regional soul. ",
   "ingredientGroups": [
     {
       "title": "Verde Base",
@@ -29,8 +31,8 @@
         },
         {
           "amount": 1,
-          "unit": "",
-          "item": "small jalapeño",
+          "unit": "small",
+          "item": "jalapeño",
           "prep": "seeded"
         },
         {
@@ -42,14 +44,14 @@
         {
           "amount": 1.5,
           "unit": "cups",
-          "item": "greens",
-          "prep": "chopped"
+          "item": "chopped greens",
+          "prep": ""
         },
         {
           "amount": 0.25,
           "unit": "cup",
-          "item": "fresh cilantro",
-          "prep": "chopped"
+          "item": "chopped fresh cilantro",
+          "prep": ""
         },
         {
           "amount": 0.5,
@@ -70,10 +72,10 @@
           "prep": "to taste"
         },
         {
-          "amount": 0.5,
+          "amount": 0,
           "unit": "",
-          "item": "lime",
-          "prep": "juice of"
+          "item": "juice of 1/2 lime",
+          "prep": ""
         }
       ]
     },
@@ -89,7 +91,7 @@
         {
           "amount": 1.5,
           "unit": "cups",
-          "item": "low-sodium vegetable broth",
+          "item": "vegetable broth",
           "prep": ""
         }
       ]
@@ -112,42 +114,42 @@
       ]
     },
     {
-      "title": "Serve with optional garnishes:",
+      "title": "To Serve",
       "items": [
         {
           "amount": 0,
           "unit": "",
-          "item": "Sliced avocado",
+          "item": "sliced avocado",
           "prep": ""
         },
         {
           "amount": 0,
           "unit": "",
-          "item": "Finely chopped red onion",
+          "item": "finely chopped red onion",
           "prep": ""
         },
         {
           "amount": 0,
           "unit": "",
-          "item": "Shredded lettuce or cabbage",
+          "item": "shredded lettuce or cabbage",
           "prep": ""
         },
         {
           "amount": 0,
           "unit": "",
-          "item": "Baked corn tortilla strips",
+          "item": "baked corn tortilla strips",
           "prep": ""
         },
         {
           "amount": 0,
           "unit": "",
-          "item": "Lime wedges",
+          "item": "lime wedges",
           "prep": ""
         },
         {
           "amount": 0,
           "unit": "",
-          "item": "Hot sauce",
+          "item": "hot sauce",
           "prep": ""
         }
       ]
@@ -187,7 +189,7 @@
     {
       "title": "Serve",
       "items": [
-        "Ladle into bowls and serve hot."
+        "Ladle into bowls and serve hot with avocado, red onion, shredded lettuce or cabbage, baked corn tortilla strips, lime wedges, and hot sauce."
       ]
     }
   ]
