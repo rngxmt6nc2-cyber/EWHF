@@ -7,6 +7,8 @@
   "displayCategory": "Mains",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe is built almost entirely from cholesterol-free ingredients including peppers, rice, olive oil, onion, garlic, plant-based crumbles, stock, herbs, spices, V8 vegetable juice, and roasted red pepper. The small amount of Worcestershire sauce does not materially raise the per-serving cholesterol enough to move the dish out of C0.",
+  "ldlActiveSummary": "LDL-Active because the dish is built around vegetables, rice, and plant-based protein, with flavor developed through browning, tomato paste, herbs, spices, acid, and reduction rather than saturated fat. Its overall structure is supportive of LDL lowering.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
@@ -194,7 +196,7 @@
           "amount": 8,
           "unit": "",
           "item": "jalapeño slices",
-          "prep": "(2 per pepper)"
+          "prep": "2 per pepper"
         },
         {
           "amount": 2,
@@ -276,26 +278,84 @@
         {
           "amount": 0,
           "unit": "",
-          "item": "Salt to taste",
-          "prep": ""
+          "item": "Salt",
+          "prep": "to taste"
         }
       ]
     }
   ],
   "stepGroups": [
     {
-      "title": "Instructions",
+      "title": "Prepare the peppers",
       "items": [
-        "Prepare the peppers\nBring salted water to a boil. Add peppers and cook 4–5 minutes until just beginning to soften. Drain upside down. Lightly salt inside and coat outside with olive oil.",
-        "Cook the rice\nBring salted water to a boil. Add rice and cook 7 minutes. Drain immediately and spread to steam dry.",
-        "Build the filling base\nHeat olive oil over medium heat. Add onion and cook until soft and lightly golden, 8–10 minutes.\nAdd tomato paste and cook until darkened and slightly sticky.\nAdd garlic and cook briefly.\nAdd crumbles over medium-high heat. Let them sit, then cook until lightly browned and moisture is driven off. Add stock, soy sauce, and Worcestershire. Cook until absorbed and cohesive.",
-        "Finish the filling\nReduce heat to low. Add rice, herbs, spices, salt, and pepper. Mix thoroughly.\nAdd red wine vinegar and fold in.\nThe filling should hold together when pressed but remain light. Adjust slightly with stock or heat if needed.\nRest 2–3 minutes.",
-        "Fill the peppers\nPlace peppers upright in a snug vessel. Fill fully, pressing lightly to remove air gaps. Leave ¼ inch at top. Add jalapeño slices.",
-        "Add braising liquid\nPour liquid to reach roughly halfway up the peppers.",
-        "Braise the peppers\nCover and bake at 375°F for 20 minutes.\nCheck for doneness: a knife should pass easily through the pepper wall while it still holds shape.\nUncover and bake 6–8 minutes to lightly set the tops.\nRemove and rest 5 minutes.",
-        "Build the finishing sauce\nHeat olive oil over medium heat. Add onion and cook slowly until fully softened.\nAdd tomato paste and cook until darkened.\nAdd garlic and cook gently.\nAdd roasted red pepper and fully break down into the base.\nAdd stock and ½ cup braising liquid. Simmer and reduce until cohesive and lightly thickened.Add paprika and simmer briefly.",
-        "Finish the sauce\nAdd red wine vinegar and lemon juice. Adjust salt.",
-        "Serving\nSpoon sauce onto the plate and place peppers on top. Finish with parsley."
+        "Bring salted water to a boil. Add peppers and cook 4–5 minutes until just beginning to soften. Drain upside down. Lightly salt inside and coat outside with olive oil."
+      ]
+    },
+    {
+      "title": "Cook the rice",
+      "items": [
+        "Bring salted water to a boil. Add rice and cook 7 minutes. Drain immediately and spread to steam dry."
+      ]
+    },
+    {
+      "title": "Build the filling base",
+      "items": [
+        "Heat olive oil over medium heat. Add onion and cook until soft and lightly golden, 8–10 minutes.",
+        "Add tomato paste and cook until darkened and slightly sticky.",
+        "Add garlic and cook briefly.",
+        "Add crumbles over medium-high heat. Let them sit, then cook until lightly browned and moisture is driven off. Add stock, soy sauce, and Worcestershire. Cook until absorbed and cohesive."
+      ]
+    },
+    {
+      "title": "Finish the filling",
+      "items": [
+        "Reduce heat to low. Add rice, herbs, spices, salt, and pepper. Mix thoroughly.",
+        "Add red wine vinegar and fold in.",
+        "The filling should hold together when pressed but remain light. Adjust slightly with stock or heat if needed.",
+        "Rest 2–3 minutes."
+      ]
+    },
+    {
+      "title": "Fill the peppers",
+      "items": [
+        "Place peppers upright in a snug vessel. Fill fully, pressing lightly to remove air gaps. Leave ¼ inch at top. Add jalapeño slices."
+      ]
+    },
+    {
+      "title": "Add braising liquid",
+      "items": [
+        "Pour liquid to reach roughly halfway up the peppers."
+      ]
+    },
+    {
+      "title": "Braise the peppers",
+      "items": [
+        "Cover and bake at 375°F for 20 minutes.",
+        "Check for doneness: a knife should pass easily through the pepper wall while it still holds shape.",
+        "Uncover and bake 6–8 minutes to lightly set the tops.",
+        "Remove and rest 5 minutes."
+      ]
+    },
+    {
+      "title": "Build the finishing sauce",
+      "items": [
+        "Heat olive oil over medium heat. Add onion and cook slowly until fully softened.",
+        "Add tomato paste and cook until darkened.",
+        "Add garlic and cook gently.",
+        "Add roasted red pepper and fully break down into the base.",
+        "Add stock and ½ cup braising liquid. Simmer and reduce until cohesive and lightly thickened.Add paprika and simmer briefly."
+      ]
+    },
+    {
+      "title": "Finish the sauce",
+      "items": [
+        "Add red wine vinegar and lemon juice. Adjust salt."
+      ]
+    },
+    {
+      "title": "Serving",
+      "items": [
+        "Spoon sauce onto the plate and place peppers on top. Finish with parsley."
       ]
     }
   ]
