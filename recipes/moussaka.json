@@ -7,6 +7,8 @@
   "displayCategory": "Mains",
   "cScale": 1,
   "ldlActive": true,
+  "cScaleSummary": "C1 because the cholesterol comes from the plain Greek yogurt, the egg whites, and the chicken stock in the topping and ragu. The lentils, mushrooms, eggplant, potato, olive oil, tomatoes, and seasonings contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the dish is structured around lentils, mushrooms, eggplant, and potato, with flavor developed through grilling, reduction, tomato concentration, aromatics, and spice rather than heavy saturated fat. Even with some yogurt and egg white in the topping, the overall design remains supportive of LDL lowering.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
