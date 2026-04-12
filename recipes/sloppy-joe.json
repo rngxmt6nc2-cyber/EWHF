@@ -7,6 +7,8 @@
   "displayCategory": "Mains",
   "cScale": 1,
   "ldlActive": false,
+  "cScaleSummary": "C1 because the main cholesterol contributor is the American cheese used in the final broiled assembly. The TVP, olive oil, onion, bell pepper, garlic, tomato products, mustard, seasonings, and stock do not materially contribute cholesterol, so the per-serving cholesterol remains low.",
+  "ldlActiveSummary": "LDL-Active is false because although the recipe swaps TVP for beef, it is still built as a comfort-food sandwich with buns and processed cheese rather than a clearly fiber-forward recipe structured around core LDL-supportive ingredients.",
   "yield": 2,
   "yieldUnit": "servings",
   "tags": [],
