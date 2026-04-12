@@ -7,6 +7,8 @@
   "displayCategory": "Soups & Stews",
   "cScale": 0,
   "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients; olive oil, tomato, blood orange, silken tofu, almond milk, and the remaining ingredients contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the recipe is entirely plant-based, low in saturated fat, and builds structure and flavor through tomato, tofu, citrus, olive oil, simmering, and infusion rather than animal fat.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
@@ -90,7 +92,7 @@
           "amount": 1,
           "unit": "tbsp",
           "item": "blood orange juice",
-          "prep": "1 to 1 1/2 tbsp"
+          "prep": "1 to 1 1/2"
         }
       ]
     },
