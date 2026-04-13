@@ -7,6 +7,8 @@
   "displayCategory": "Pasta & Noodles",
   "cScale": 2,
   "ldlActive": false,
+  "cScaleSummary": "",
+  "ldlActiveSummary": "",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
@@ -17,8 +19,8 @@
       "items": [
         {
           "amount": 2,
-          "unit": "to 3",
-          "item": "boneless skinless chicken thighs",
+          "unit": "",
+          "item": "to 3 boneless skinless chicken thighs",
           "prep": "(about 12 oz)"
         },
         {
