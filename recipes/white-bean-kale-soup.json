@@ -1,21 +1,17 @@
 {
   "id": "white-bean-kale-soup",
   "title": "White Bean Kale Soup",
-  "section": "Soups",
+  "section": "",
   "sortOrder": 0,
-  "yield": "4 generous servings",
-  "category": "Soup",
-  "cScale": 0,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 1,
   "ldlActive": true,
-  "tags": [
-    "white beans",
-    "kale",
-    "soup",
-    "ldl-active",
-    "c0",
-    "italian-inspired",
-    "comfort food"
-  ],
+  "cScaleSummary": "C1 because the only cholesterol contributor is the chicken stock; the beans, olive oil, vegetables, kale, herbs, lemon, and bread are plant-based and contribute 0 mg cholesterol, so the per-serving cholesterol remains modest.",
+  "ldlActiveSummary": "LDL-Active because the recipe is built around fiber-forward beans, kale, and vegetables, stays low in saturated fat, and develops richness through aromatics, tomato paste, simmering, and mashed beans rather than animal fat.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
   "intro": "This rustic white bean and kale soup turns a short list of pantry ingredients into something deeply comforting and satisfying. White beans give the broth body and richness without cream, while kale brings texture and substance. Onion, carrot, celery, garlic, rosemary, and a little tomato paste build the base, and some of the beans are mashed into the soup so it eats like a real meal. A squeeze of lemon at the end keeps the whole pot bright and balanced.",
   "ingredientGroups": [
     {
@@ -24,17 +20,20 @@
         {
           "amount": 0.5,
           "unit": "pound",
-          "ingredient": "dried cannellini or Great Northern beans, soaked overnight and drained"
+          "item": "dried cannellini or Great Northern beans",
+          "prep": "soaked overnight and drained"
         },
         {
           "amount": 6,
           "unit": "cups",
-          "ingredient": "water"
+          "item": "water",
+          "prep": ""
         },
         {
           "amount": 1,
           "unit": "",
-          "ingredient": "bay leaf"
+          "item": "bay leaf",
+          "prep": ""
         }
       ]
     },
@@ -44,57 +43,68 @@
         {
           "amount": 2,
           "unit": "tablespoons",
-          "ingredient": "olive oil"
+          "item": "olive oil",
+          "prep": ""
         },
         {
           "amount": 1,
-          "unit": "",
-          "ingredient": "medium yellow onion, diced"
+          "unit": "medium",
+          "item": "yellow onion",
+          "prep": "diced"
         },
         {
           "amount": 1,
-          "unit": "",
-          "ingredient": "medium carrot, diced"
+          "unit": "medium",
+          "item": "carrot",
+          "prep": "diced"
         },
         {
           "amount": 1,
-          "unit": "",
-          "ingredient": "celery stalk, diced"
+          "unit": "stalk",
+          "item": "celery",
+          "prep": "diced"
         },
         {
           "amount": 4,
           "unit": "cloves",
-          "ingredient": "garlic, minced"
+          "item": "garlic",
+          "prep": "minced"
         },
         {
           "amount": 2,
           "unit": "teaspoons",
-          "ingredient": "tomato paste"
+          "item": "tomato paste",
+          "prep": ""
         },
         {
           "amount": 1,
           "unit": "teaspoon",
-          "ingredient": "chopped fresh rosemary"
+          "item": "fresh rosemary",
+          "prep": "chopped"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
-          "ingredient": "crushed red pepper"
+          "item": "crushed red pepper",
+          "prep": ""
         },
         {
           "amount": 0.75,
           "unit": "teaspoon",
-          "ingredient": "kosher salt, plus more to taste"
+          "item": "kosher salt",
+          "prep": "plus more to taste"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
-          "ingredient": "black pepper"
+          "item": "black pepper",
+          "prep": ""
         },
         {
           "amount": 3,
           "unit": "cups",
-          "ingredient": "chicken stock, plus more as needed"
+          "item": "chicken stock",
+          "prep": "plus more as needed"
         }
       ]
     },
@@ -104,17 +114,20 @@
         {
           "amount": 4,
           "unit": "ounces",
-          "ingredient": "kale, stems removed, leaves chopped"
+          "item": "kale",
+          "prep": "stems removed, leaves chopped"
         },
         {
           "amount": 2,
           "unit": "teaspoons",
-          "ingredient": "lemon juice"
+          "item": "lemon juice",
+          "prep": ""
         },
         {
           "amount": 1,
           "unit": "tablespoon",
-          "ingredient": "chopped fresh parsley"
+          "item": "fresh parsley",
+          "prep": "chopped"
         }
       ]
     },
@@ -124,12 +137,14 @@
         {
           "amount": 0,
           "unit": "",
-          "ingredient": "toasted whole grain bread"
+          "item": "toasted whole grain bread",
+          "prep": ""
         },
         {
           "amount": 0,
           "unit": "",
-          "ingredient": "extra virgin olive oil for finishing"
+          "item": "extra virgin olive oil for finishing",
+          "prep": ""
         }
       ]
     }
