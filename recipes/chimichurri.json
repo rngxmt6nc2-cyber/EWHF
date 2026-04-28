@@ -1,7 +1,7 @@
 {
   "id": "chimichurri",
   "title": "Chimichurri",
-  "section": "",
+  "section": "Sauces & Bases",
   "sortOrder": 0,
   "category": "Sauces & Bases",
   "displayCategory": "Sauces & Bases",
@@ -15,28 +15,28 @@
   "intro": "Argentine chimichurri is a sharp, herb-heavy sauce built for grilled meats, but it works just as well on roasted vegetables, beans, potatoes, grilled mushrooms, chicken, fish, or as a punchy sandwich spread. It should taste bright, garlicky, grassy, and a little aggressive. It is not pesto. Keep it loose, chopped, and vinegar-forward.",
   "ingredientGroups": [
     {
-      "title": "Herb base",
+      "title": "Herb Base",
       "items": [
         {
-          "amount": 1,
+          "amount": "1",
           "unit": "cup",
           "item": "fresh flat-leaf parsley",
           "prep": "finely chopped"
         },
         {
-          "amount": 2,
+          "amount": "2",
           "unit": "tablespoons",
           "item": "fresh oregano",
           "prep": "finely chopped"
         },
         {
-          "amount": 3,
+          "amount": "3",
           "unit": "cloves",
           "item": "garlic",
           "prep": "finely minced"
         },
         {
-          "amount": 1,
+          "amount": "1",
           "unit": "small",
           "item": "shallot",
           "prep": "finely minced"
@@ -44,43 +44,37 @@
       ]
     },
     {
-      "title": "Acid and seasoning",
+      "title": "Acid and Seasoning",
       "items": [
         {
-          "amount": 3,
+          "amount": "3",
           "unit": "tablespoons",
-          "item": "red wine vinegar",
-          "prep": ""
+          "item": "red wine vinegar"
         },
         {
-          "amount": 1,
+          "amount": "1",
           "unit": "tablespoon",
-          "item": "fresh lemon juice",
-          "prep": ""
+          "item": "fresh lemon juice"
         },
         {
-          "amount": 1,
+          "amount": "1",
           "unit": "teaspoon",
-          "item": "kosher salt",
-          "prep": ""
+          "item": "kosher salt"
         },
         {
-          "amount": 0.5,
+          "amount": "0.5",
           "unit": "teaspoon",
-          "item": "black pepper",
-          "prep": ""
+          "item": "black pepper"
         },
         {
-          "amount": 0.5,
+          "amount": "0.5",
           "unit": "teaspoon",
-          "item": "crushed red pepper flakes",
-          "prep": ""
+          "item": "crushed red pepper flakes"
         },
         {
-          "amount": 0.5,
+          "amount": "0.5",
           "unit": "teaspoon",
-          "item": "smoked paprika",
-          "prep": ""
+          "item": "smoked paprika"
         }
       ]
     },
@@ -88,41 +82,40 @@
       "title": "Oil",
       "items": [
         {
-          "amount": 0.5,
+          "amount": "0.5",
           "unit": "cup",
-          "item": "extra-virgin olive oil",
-          "prep": ""
+          "item": "extra-virgin olive oil"
         }
       ]
     }
   ],
   "stepGroups": [
     {
-      "title": "Make the herb base",
+      "title": "Make the Herb Base",
       "items": [
         "Finely chop 1 cup fresh flat-leaf parsley and 2 tablespoons fresh oregano. Finely mince 3 cloves garlic and 1 small shallot. Add everything to a bowl."
       ]
     },
     {
-      "title": "Season and acidify",
+      "title": "Season and Acidify",
       "items": [
         "Add 3 tablespoons red wine vinegar, 1 tablespoon fresh lemon juice, 1 teaspoon kosher salt, 0.5 teaspoon black pepper, 0.5 teaspoon crushed red pepper flakes, and 0.5 teaspoon smoked paprika. Stir well and let the mixture sit for 10 minutes so the garlic and shallot soften in the vinegar."
       ]
     },
     {
-      "title": "Finish with oil",
+      "title": "Finish with Oil",
       "items": [
         "Stir in 0.5 cup extra-virgin olive oil. Do not blend it. Chimichurri should stay loose and rustic, not creamy."
       ]
     },
     {
-      "title": "Rest before serving",
+      "title": "Rest Before Serving",
       "items": [
         "Let the chimichurri sit at least 30 minutes before serving. Taste and adjust only with salt or vinegar. It should be sharper than expected when tasted by itself, because grilled food will tame it."
       ]
     },
     {
-      "title": "Best uses",
+      "title": "Best Uses",
       "items": [
         "Serve with grilled chicken, grilled steak, roasted potatoes, grilled mushrooms, white beans, rice bowls, roasted cauliflower, sandwiches, eggs, or shrimp."
       ]
