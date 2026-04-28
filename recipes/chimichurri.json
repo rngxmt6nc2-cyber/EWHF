@@ -1,13 +1,13 @@
 {
   "id": "chimichurri",
   "title": "Chimichurri",
-  "section": "Sauces & Bases",
+  "section": "",
   "sortOrder": 0,
   "category": "Sauces & Bases",
   "displayCategory": "Sauces & Bases",
   "cScale": 0,
   "ldlActive": true,
-  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The parsley, oregano, garlic, shallot, vinegar, lemon juice, spices, and olive oil contribute 0 mg cholesterol.",
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients. The parsley, oregano, garlic, shallot, vinegar, lemon juice, spices, and olive oil contribute 0 mg cholesterol.",
   "ldlActiveSummary": "LDL-Active because the sauce is plant-based, uses extra-virgin olive oil as the fat source, and builds flavor through fresh herbs, garlic, vinegar, lemon, and spices rather than saturated fat or cholesterol-containing ingredients.",
   "yield": 8,
   "yieldUnit": "servings",
@@ -15,28 +15,28 @@
   "intro": "Argentine chimichurri is a sharp, herb-heavy sauce built for grilled meats, but it works just as well on roasted vegetables, beans, potatoes, grilled mushrooms, chicken, fish, or as a punchy sandwich spread. It should taste bright, garlicky, grassy, and a little aggressive. It is not pesto. Keep it loose, chopped, and vinegar-forward.",
   "ingredientGroups": [
     {
-      "title": "Herb Base",
+      "title": "Herb base",
       "items": [
         {
-          "amount": "1",
+          "amount": 1,
           "unit": "cup",
           "item": "fresh flat-leaf parsley",
           "prep": "finely chopped"
         },
         {
-          "amount": "2",
+          "amount": 2,
           "unit": "tablespoons",
           "item": "fresh oregano",
           "prep": "finely chopped"
         },
         {
-          "amount": "3",
-          "unit": "cloves",
-          "item": "garlic",
+          "amount": 3,
+          "unit": "medium",
+          "item": "garlic cloves",
           "prep": "finely minced"
         },
         {
-          "amount": "1",
+          "amount": 1,
           "unit": "small",
           "item": "shallot",
           "prep": "finely minced"
@@ -44,80 +44,87 @@
       ]
     },
     {
-      "title": "Acid and Seasoning",
+      "title": "Acid and seasoning",
       "items": [
         {
-          "amount": "3",
+          "amount": 3,
           "unit": "tablespoons",
-          "item": "red wine vinegar"
+          "item": "red wine vinegar",
+          "prep": ""
         },
         {
-          "amount": "1",
+          "amount": 1,
           "unit": "tablespoon",
-          "item": "fresh lemon juice"
+          "item": "fresh lemon juice",
+          "prep": ""
         },
         {
-          "amount": "1",
+          "amount": 0.5,
           "unit": "teaspoon",
-          "item": "kosher salt"
+          "item": "kosher salt",
+          "prep": ""
         },
         {
-          "amount": "0.5",
+          "amount": 0.5,
           "unit": "teaspoon",
-          "item": "black pepper"
+          "item": "black pepper",
+          "prep": ""
         },
         {
-          "amount": "0.5",
+          "amount": 0.5,
           "unit": "teaspoon",
-          "item": "crushed red pepper flakes"
+          "item": "crushed red pepper flakes",
+          "prep": ""
         },
         {
-          "amount": "0.5",
+          "amount": 0.5,
           "unit": "teaspoon",
-          "item": "smoked paprika"
+          "item": "smoked paprika",
+          "prep": ""
         }
       ]
     },
     {
-      "title": "Oil",
+      "title": "Finish",
       "items": [
         {
-          "amount": "0.5",
+          "amount": 0.5,
           "unit": "cup",
-          "item": "extra-virgin olive oil"
+          "item": "extra-virgin olive oil",
+          "prep": ""
         }
       ]
     }
   ],
   "stepGroups": [
     {
-      "title": "Make the Herb Base",
+      "title": "Make the herb base",
       "items": [
-        "Finely chop 1 cup fresh flat-leaf parsley and 2 tablespoons fresh oregano. Finely mince 3 cloves garlic and 1 small shallot. Add everything to a bowl."
+        "Finely chop 1 cup fresh parsley and 2 tablespoons fresh oregano. Mince 3 cloves garlic and 1 small shallot as finely as possible. Add everything to a bowl."
       ]
     },
     {
-      "title": "Season and Acidify",
+      "title": "Season and acidify",
       "items": [
-        "Add 3 tablespoons red wine vinegar, 1 tablespoon fresh lemon juice, 1 teaspoon kosher salt, 0.5 teaspoon black pepper, 0.5 teaspoon crushed red pepper flakes, and 0.5 teaspoon smoked paprika. Stir well and let the mixture sit for 10 minutes so the garlic and shallot soften in the vinegar."
+        "Add 3 tablespoons red wine vinegar, 1 tablespoon fresh lemon juice, ½ teaspoon kosher salt, ½ teaspoon black pepper, ½ teaspoon crushed red pepper flakes, and ½ teaspoon smoked paprika. Stir well and let it sit for 10 minutes so the garlic and shallot soften in the vinegar."
       ]
     },
     {
-      "title": "Finish with Oil",
+      "title": "Finish with oil",
       "items": [
-        "Stir in 0.5 cup extra-virgin olive oil. Do not blend it. Chimichurri should stay loose and rustic, not creamy."
+        "Stir in ½ cup extra-virgin olive oil. Do not blend it. Chimichurri should stay loose and rustic, not creamy."
       ]
     },
     {
-      "title": "Rest Before Serving",
+      "title": "Rest before serving",
       "items": [
-        "Let the chimichurri sit at least 30 minutes before serving. Taste and adjust only with salt or vinegar. It should be sharper than expected when tasted by itself, because grilled food will tame it."
+        "Let it sit at least 30 minutes before serving. Taste and adjust only with salt or vinegar. It should be sharper than you think when tasted by itself, because grilled food will tame it."
       ]
     },
     {
-      "title": "Best Uses",
+      "title": "Store and refresh",
       "items": [
-        "Serve with grilled chicken, grilled steak, roasted potatoes, grilled mushrooms, white beans, rice bowls, roasted cauliflower, sandwiches, eggs, or shrimp."
+        "Chimichurri is best the day it is made, but it can be refrigerated for up to 3 days. Bring it fully to room temperature before serving, stir well, and refresh with a small splash of red wine vinegar if needed."
       ]
     }
   ]
