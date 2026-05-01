@@ -1,0 +1,209 @@
+{
+  "id": "welsh-rarebit-toasts",
+  "title": "Welsh Rarebit Toasts",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no meaningful cholesterol-contributing ingredients. The cashews, potato, carrot, beer, nutritional yeast, miso, mustard, vinegar, seasonings, bread, olive oil, and chives contribute 0 mg cholesterol, and the Worcestershire sauce is used in a trace amount.",
+  "ldlActiveSummary": "LDL-Active because the recipe is built from whole-grain bread, vegetables, cashews, fermented umami ingredients, mustard, and unsaturated fat while avoiding butter, cream, cheese, egg, and animal fat.",
+  "yield": 2,
+  "yieldUnit": "generous servings",
+  "tags": [],
+  "intro": "Welsh rarebit is one of Britain’s great pub-food ideas: toast buried under a sharp, savory, beer-laced cheese sauce and broiled until browned and bubbling. The dish is Welsh in name, but its appeal is universal: bread, heat, mustard, ale, and a salty tang that eats bigger than the ingredients. This EWHF version keeps the spirit intact while rebuilding the sauce from plants, using potato, carrot, cashew, miso, mustard, Worcestershire, and beer to create a glossy rarebit-style topping with no cholesterol.",
+  "ingredientGroups": [
+    {
+      "title": "Beer-Mustard Sauce",
+      "items": [
+        {
+          "amount": 0.333,
+          "unit": "cup",
+          "item": "raw cashews",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "peeled Yukon gold potato",
+          "prep": "diced"
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "carrot",
+          "prep": "diced"
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "brown ale, mild ale, amber lager, or non-hoppy lager",
+          "prep": ""
+        },
+        {
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "nutritional yeast",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "white miso",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "dry mustard",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "apple cider vinegar",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Worcestershire sauce",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "garlic powder",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "onion powder",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "cayenne pepper",
+          "prep": ""
+        },
+        {
+          "amount": 0.75,
+          "unit": "teaspoon",
+          "item": "Diamond Crystal kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "tapioca starch",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Toast",
+      "items": [
+        {
+          "amount": 4,
+          "unit": "thick slices",
+          "item": "whole-grain sourdough or sturdy whole wheat bread",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Broiler Dusting",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "nutritional yeast",
+          "prep": ""
+        },
+        {
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "smoked paprika",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "finely sliced chives",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Soften the Base",
+      "items": [
+        "Cover the cashews with boiling water and soak for 20 minutes. Drain.",
+        "Place the diced potato and carrot in a small saucepan, cover with water, and simmer until completely tender, 10 to 12 minutes. Drain well."
+      ]
+    },
+    {
+      "title": "Blend the Sauce",
+      "items": [
+        "Add the drained cashews, cooked potato, cooked carrot, beer, nutritional yeast, white miso, Dijon mustard, dry mustard, apple cider vinegar, Worcestershire sauce, garlic powder, onion powder, smoked paprika, cayenne pepper, Diamond Crystal kosher salt, and tapioca starch to a blender.",
+        "Blend until completely smooth. The sauce should look glossy and pourable but not thin. If the blender struggles, add 1 tablespoon water, but avoid loosening it more than necessary."
+      ]
+    },
+    {
+      "title": "Cook the Sauce",
+      "items": [
+        "Pour the blended sauce into a small saucepan. Cook over medium-low heat, whisking constantly, until the sauce thickens, turns glossy, and begins to pull slightly from the bottom of the pan, 4 to 6 minutes.",
+        "Do not let the sauce boil hard. Gentle bubbling is enough to activate the tapioca starch without making the sauce gluey.",
+        "The finished sauce should be thicker than a normal cheese sauce. It should mound softly on a spoon. This matters because it has to sit on toast without soaking through."
+      ]
+    },
+    {
+      "title": "Toast the Bread",
+      "items": [
+        "Brush the bread lightly with the extra-virgin olive oil. Toast until deeply crisp on both sides. The bread should be darker and drier than normal breakfast toast so it can hold the sauce."
+      ]
+    },
+    {
+      "title": "Broil the Rarebit",
+      "items": [
+        "Heat the broiler.",
+        "Place the toast on a baking sheet. Spoon the hot beer-mustard sauce thickly over each slice, spreading it all the way to the edges.",
+        "Mix the nutritional yeast and smoked paprika for the broiler dusting. Sprinkle the mixture lightly over the sauced toasts.",
+        "Broil until the tops are browned, bubbling, and lightly blistered, 2 to 4 minutes. Watch closely."
+      ]
+    },
+    {
+      "title": "Finish and Serve",
+      "items": [
+        "Scatter the chives over the hot rarebit toasts. Serve immediately, while the tops are bubbling and the toast is still crisp."
+      ]
+    }
+  ]
+}
