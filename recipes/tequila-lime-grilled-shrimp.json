@@ -1,0 +1,184 @@
+{
+  "id": "tequila-lime-grilled-shrimp",
+  "title": "Tequila–Lime Grilled Shrimp",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Small Plates",
+  "displayCategory": "Small Plates",
+  "cScale": 4,
+  "ldlActive": false,
+  "cScaleSummary": "C4 because shrimp is the only cholesterol-contributing ingredient. Two pounds of shrimp contains approximately 1,600 to 1,800 mg cholesterol total, which is about 200 to 225 mg per serving at 8 servings.",
+  "ldlActiveSummary": "LDL-Active is false because, although the recipe is low in saturated fat and uses olive oil, it is built around shrimp and does not include meaningful fiber-forward LDL-supportive ingredients such as legumes, whole grains, vegetables, nuts, or seeds.",
+  "yield": 8,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Tequila-lime grilled shrimp sits between Mexican coastal cooking and Florida grill food, built around citrus, garlic, blanco tequila, and quick high-heat cooking. The tequila is reduced hard so it leaves brightness and edge without tasting boozy, while lime juice, orange juice, and zest give the glaze a clean citrus backbone. The shrimp are grilled hot and fast, then coated off heat so they stay juicy instead of steamy. Finished with parsley, lime, and citrus salt, the dish works warm or at room temperature.",
+  "ingredientGroups": [
+    {
+      "title": "Shrimp",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "pounds",
+          "item": "large shrimp",
+          "prep": "16–20 count, peeled and deveined, tails on"
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Tequila-Lime Glaze",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "onion",
+          "prep": "finely chopped"
+        },
+        {
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "finely chopped"
+        },
+        {
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "blanco tequila",
+          "prep": ""
+        },
+        {
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "fresh lime juice",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "orange juice",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "lime zest",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Citrus Salt",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "lime zest",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "orange zest",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh parsley",
+          "prep": "chopped"
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh lime juice",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Make the Tequila-Lime Glaze",
+      "items": [
+        "Heat the olive oil in a pan over medium heat. Add the finely chopped onion and cook for 2 to 3 minutes, until softened but not browned. Add the garlic and cook for 30 seconds, just until fragrant. Add the blanco tequila and let it reduce hard for 30 to 45 seconds. Add the fresh lime juice, orange juice, and lime zest, then simmer for 2 to 3 minutes, until slightly thickened. Stir in the kosher salt and black pepper, remove from the heat, and set aside."
+      ]
+    },
+    {
+      "title": "Make the Citrus Salt",
+      "items": [
+        "Combine the kosher salt, lime zest, and orange zest in a small bowl. Rub the zest into the salt with your fingers until fragrant and evenly distributed."
+      ]
+    },
+    {
+      "title": "Prep the Shrimp",
+      "items": [
+        "Pat the shrimp completely dry. Toss with the olive oil, kosher salt, and black pepper until evenly coated."
+      ]
+    },
+    {
+      "title": "Grill the Shrimp",
+      "items": [
+        "Preheat the grill until hot and make sure the grates are clean. Grill the shrimp for 1 to 2 minutes per side, pulling them as soon as they are opaque with light char. Do not overcook them."
+      ]
+    },
+    {
+      "title": "Glaze the Shrimp",
+      "items": [
+        "Gently reheat the glaze if needed, but do not reduce it further. Off heat, toss the grilled shrimp with the warm glaze just until coated."
+      ]
+    },
+    {
+      "title": "Finish and Serve",
+      "items": [
+        "Add the chopped parsley and fresh lime juice to the glazed shrimp and toss gently. Taste and finish with citrus salt as needed. Spread the shrimp out on a platter and let them sit for 10 to 20 minutes before serving warm or at room temperature."
+      ]
+    }
+  ]
+}
