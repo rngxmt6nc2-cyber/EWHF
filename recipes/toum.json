@@ -1,0 +1,72 @@
+{
+  "id": "toum",
+  "title": "Toum",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Sauces & Bases",
+  "displayCategory": "Sauces & Bases",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients. The garlic, lemon juice, kosher salt, grapeseed oil, and ice water contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the sauce is cholesterol-free, low in saturated fat, and uses unsaturated grapeseed oil with garlic, lemon, and emulsion technique to build flavor and texture without animal fat.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Toum is Lebanon’s classic garlic sauce, a bright, whipped emulsion served with grilled meats, potatoes, vegetables, flatbreads, and sandwiches. Traditional toum gets its creamy body not from dairy or eggs, but from the forceful blending of garlic, lemon, salt, oil, and a little cold water until the mixture suspends into a fluffy sauce. It is sharp, clean, and assertive, with a texture closer to aioli than vinaigrette, while remaining naturally cholesterol-free and firmly in the EWHF lane.",
+  "ingredientGroups": [
+    {
+      "title": "Garlic Base",
+      "items": [
+        {
+          "amount": 4,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "peeled"
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "lemon",
+          "prep": "Juice of"
+        }
+      ]
+    },
+    {
+      "title": "Emulsion",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "grapeseed oil",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "ice water",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Build the Garlic Base",
+      "items": [
+        "Place the garlic cloves and kosher salt in a blender or food processor. Blend until the garlic is finely minced and beginning to break down into a paste. Add the lemon juice and continue blending until the mixture is smooth and evenly combined."
+      ]
+    },
+    {
+      "title": "Build the Emulsion",
+      "items": [
+        "With the motor running, drizzle in the grapeseed oil very slowly, almost drop by drop at first. Alternate the oil with small splashes of the ice water to keep the emulsion light and stable. Continue blending until the sauce becomes thick, white, fluffy, and fully emulsified, with the texture of whipped aioli."
+      ]
+    }
+  ]
+}
