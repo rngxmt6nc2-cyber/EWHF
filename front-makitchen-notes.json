@@ -1,0 +1,42 @@
+{
+"title": "About EWHF",
+"subtitle": "Stay on This Side of the Dirt Longer",
+"tagline": "A practical guide to better cholesterol and food worth eating.",
+"sections": [
+{
+"id": "about-ewhf",
+"subject": "About EWHF",
+"items": []
+},
+{
+"id": "the-ratings",
+"subject": "The Ratings",
+"items": [
+"The C-Scale is a completely made-up EWHF rating system. It is not an official medical scale, government standard, or nutrition-label category. It is simply a practical way to show estimated dietary cholesterol per serving in plain language."
+],
+"scaleTable": [
+{ "label": "C0", "value": "0 mg cholesterol per serving" },
+{ "label": "C1", "value": "1 to 25 mg cholesterol per serving" },
+{ "label": "C2", "value": "26 to 75 mg cholesterol per serving" },
+{ "label": "C3", "value": "76 to 150 mg cholesterol per serving" },
+{ "label": "C4", "value": "151 to 300 mg cholesterol per serving" },
+{ "label": "C5", "value": "301 mg or more cholesterol per serving" }
+]
+},
+{
+"id": "cooking-the-ewhf-way",
+"subject": "Cooking the EWHF Way",
+"items": []
+},
+{
+"id": "using-this-cookbook-and-app",
+"subject": "Using This Cookbook and App",
+"items": []
+},
+{
+"id": "kitchen-notes",
+"subject": "Kitchen Notes",
+"items": []
+}
+]
+}
