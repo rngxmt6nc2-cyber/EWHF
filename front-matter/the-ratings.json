@@ -1,14 +1,4 @@
 {
-"title": "About EWHF",
-"subtitle": "Stay on This Side of the Dirt Longer",
-"tagline": "A practical guide to better cholesterol and food worth eating.",
-"sections": [
-{
-"id": "about-ewhf",
-"subject": "About EWHF",
-"items": []
-},
-{
 "id": "the-ratings",
 "subject": "The Ratings",
 "items": [
@@ -18,29 +8,14 @@
 "C0 means the recipe contains no cholesterol. Higher numbers mean the recipe includes increasing amounts of cholesterol from animal-derived ingredients such as meat, poultry, seafood, eggs, or dairy.",
 "The scale is not a judgment of whether a recipe is “good” or “bad.” It is a practical label. It helps show where a recipe fits, from everyday C0 staples to moderate recipes with some animal protein to occasional higher-cholesterol dishes.",
 "C5 does not mean forbidden. It means pay attention. A C5 recipe can still have a place at holidays, restaurants, parties, travel, family meals, or anywhere real life shows up. The point is pattern, not panic. A higher-cholesterol meal works best when the meals around it are lower on the scale. If dinner is C5, let the rest of the day lean C0, C1, or C2. If a weekend includes a richer meal, let the next few meals pull the average back down.",
-"C5 should not be the default setting. It should be surrounded by lower C numbers, more fiber, more plants, and better structure. That way the occasional higher-cholesterol dish stays occasional, not accidental.",
-"C0: 0 mg cholesterol per serving",
-"C1: 1 to 25 mg cholesterol per serving",
-"C2: 26 to 75 mg cholesterol per serving",
-"C3: 76 to 150 mg cholesterol per serving",
-"C4: 151 to 300 mg cholesterol per serving",
-"C5: 301 mg or more cholesterol per serving"
-]
-},
-{
-"id": "cooking-the-ewhf-way",
-"subject": "Cooking the EWHF Way",
-"items": []
-},
-{
-"id": "using-this-cookbook-and-app",
-"subject": "Using This Cookbook and App",
-"items": []
-},
-{
-"id": "kitchen-notes",
-"subject": "Kitchen Notes",
-"items": []
-}
+"C5 should not be the default setting. It should be surrounded by lower C numbers, more fiber, more plants, and better structure. That way the occasional higher-cholesterol dish stays occasional, not accidental."
+],
+"scaleTable": [
+{ "label": "C0", "value": "0 mg cholesterol per serving" },
+{ "label": "C1", "value": "1 to 25 mg cholesterol per serving" },
+{ "label": "C2", "value": "26 to 75 mg cholesterol per serving" },
+{ "label": "C3", "value": "76 to 150 mg cholesterol per serving" },
+{ "label": "C4", "value": "151 to 300 mg cholesterol per serving" },
+{ "label": "C5", "value": "301 mg or more cholesterol per serving" }
 ]
 }
