@@ -5,10 +5,10 @@
   "sortOrder": 0,
   "category": "Condiments & Toppings",
   "displayCategory": "Condiments & Toppings",
-  "cScale": 0,
+  "cScale": 1,
   "ldlActive": false,
-  "cScaleSummary": "",
-  "ldlActiveSummary": "",
+  "cScaleSummary": "C1 because the recipe metadata provides C-Scale: 1. The seasoning itself contains no cholesterol-contributing animal-derived ingredients; the salt, celery seed, spices, herbs, and peppers contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is false because this is a seasoning blend. It is low in cholesterol, but it is not structurally fiber-forward and does not meaningfully contribute legumes, whole grains, nuts, seeds, vegetables, or other LDL-supportive ingredients in serving-sized amounts.",
   "yield": 12,
   "yieldUnit": "servings",
   "tags": [],
@@ -18,90 +18,105 @@
       "title": "Ingredients",
       "items": [
         {
+          "id": "fine-sea-salt",
           "amount": 1,
           "unit": "tbsp",
           "item": "fine sea salt",
           "prep": ""
         },
         {
+          "id": "celery-seed",
           "amount": 2,
           "unit": "tsp",
           "item": "celery seed",
           "prep": "finely ground"
         },
         {
+          "id": "sweet-paprika",
           "amount": 1,
           "unit": "tbsp",
           "item": "sweet paprika",
           "prep": ""
         },
         {
+          "id": "smoked-paprika",
           "amount": 0.5,
           "unit": "tsp",
           "item": "smoked paprika",
           "prep": ""
         },
         {
+          "id": "ground-bay-leaf",
           "amount": 1,
           "unit": "tsp",
           "item": "ground bay leaf",
           "prep": ""
         },
         {
+          "id": "dried-thyme",
           "amount": 0.5,
           "unit": "tsp",
           "item": "dried thyme",
           "prep": ""
         },
         {
+          "id": "dried-dill",
           "amount": 0.5,
           "unit": "tsp",
           "item": "dried dill",
           "prep": ""
         },
         {
+          "id": "dry-mustard",
           "amount": 0.5,
           "unit": "tsp",
           "item": "dry mustard",
           "prep": ""
         },
         {
+          "id": "ground-black-pepper",
           "amount": 0.5,
           "unit": "tsp",
           "item": "ground black pepper",
           "prep": ""
         },
         {
+          "id": "ground-white-pepper",
           "amount": 0.25,
           "unit": "tsp",
           "item": "ground white pepper",
           "prep": ""
         },
         {
+          "id": "ground-mace",
           "amount": 0.25,
           "unit": "tsp",
           "item": "ground mace",
           "prep": ""
         },
         {
+          "id": "ground-nutmeg",
           "amount": 0.125,
           "unit": "tsp",
           "item": "ground nutmeg",
           "prep": ""
         },
         {
+          "id": "ground-ginger",
           "amount": 0.125,
           "unit": "tsp",
           "item": "ground ginger",
           "prep": ""
         },
         {
+          "id": "crushed-red-pepper-flakes",
           "amount": 0.25,
           "unit": "tsp",
           "item": "crushed red pepper flakes",
           "prep": ""
         },
         {
+          "id": "cayenne",
           "amount": 0.125,
           "unit": "tsp",
           "item": "cayenne",
@@ -114,11 +129,11 @@
     {
       "title": "Instructions",
       "items": [
-        "Grind the celery seed to a fine powder. This is critical. Whole or coarse celery seed won’t distribute evenly and you’ll lose that signature flavor.",
-        "Combine the ground celery seed and fine sea salt in a bowl. Mix thoroughly so the celery flavor is evenly carried by the salt.",
-        "Add the sweet and smoked paprika. Whisk until the color is uniform.",
-        "Stir in the bay leaf, thyme, dill, mustard, and peppers. Mix well.",
-        "Add the mace, nutmeg, ginger, red pepper flakes, and cayenne. Whisk until fully blended.",
+        "Grind the celery seed ({{quantity:celery-seed}}) to a fine powder. This is critical. Whole or coarse celery seed won’t distribute evenly and you’ll lose that signature flavor.",
+        "Combine the ground celery seed and fine sea salt ({{quantity:fine-sea-salt}}) in a bowl. Mix thoroughly so the celery flavor is evenly carried by the salt.",
+        "Add the sweet and smoked paprika ({{quantity:sweet-paprika}}, {{quantity:smoked-paprika}}). Whisk until the color is uniform.",
+        "Stir in the bay leaf ({{quantity:ground-bay-leaf}}), thyme ({{quantity:dried-thyme}}), dill ({{quantity:dried-dill}}), mustard ({{quantity:dry-mustard}}), and peppers ({{quantity:ground-black-pepper}}, {{quantity:ground-white-pepper}}). Mix well.",
+        "Add the mace ({{quantity:ground-mace}}), nutmeg ({{quantity:ground-nutmeg}}), ginger ({{quantity:ground-ginger}}), red pepper flakes ({{quantity:crushed-red-pepper-flakes}}), and cayenne ({{quantity:cayenne}}). Whisk until fully blended.",
         "Pulse briefly in a spice grinder if needed for a tighter blend.",
         "Let sit at least 12 hours before using."
       ]
