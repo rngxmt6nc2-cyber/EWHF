@@ -1,3 +1,4 @@
+
 {
   "id": "cacio-e-pepe",
   "title": "Cacio e Pepe",
@@ -7,29 +8,32 @@
   "displayCategory": "Pasta & Noodles",
   "cScale": 1,
   "ldlActive": true,
-  "cScaleSummary": "C1 because the only meaningful cholesterol contributor is the small amount of grated Parmesan-style cheese in the finish. The onion, beans, miso, olive oil, pepper, lemon juice, pasta, and pasta water contribute 0 mg cholesterol, so the per-serving cholesterol remains low.",
-  "ldlActiveSummary": "LDL-Active because the dish is structured around pasta, caramelized onions, white beans, and olive oil, with flavor built through browning, pepper blooming, emulsification, and acid rather than butter, cream, or a heavy cheese load. The beans and onions make the sauce more fiber-forward and supportive of LDL lowering.",
+  "cScaleSummary": "C1 because the only cholesterol-contributing ingredient is the grated Parmesan-style “shaky cheese.” The pasta, onion, white beans, miso, olive oil, lemon juice, black pepper, water, and salt contribute 0 mg cholesterol. The small amount of cheese contributes only a small amount of cholesterol per serving.",
+  "ldlActiveSummary": "LDL-Active is true because the recipe replaces most of the cheese with a fiber-supportive white bean and caramelized onion sauce, uses olive oil as the fat source, and builds flavor through browning, pepper blooming, miso, starch emulsification, and acid rather than butter, cream, or heavy cheese.",
   "yield": 4,
   "yieldUnit": "Servings",
   "tags": [],
-  "intro": "Cacio e pepe is one of Rome’s most elemental pasta dishes. Shepherds in Lazio carried dried pasta, black pepper, and aged sheep’s milk cheese because they traveled well. When pasta is tossed with pepper, cheese, and starchy pasta water, the mixture emulsifies into a creamy sauce without cream or butter.\n\nThis version keeps the Roman technique but replaces most of the cheese with a blended sauce of caramelized onions, white beans, and a small amount of white miso. The onions provide deep browned flavor, the beans create body and emulsification, and the miso supplies fermented sharpness. A small sprinkle of grated “shaky” Parmesan-style cheese at the end adds a familiar aged-cheese aroma without letting cheese dominate the dish.",
+  "intro": "Cacio e pepe is one of Rome’s most elemental pasta dishes. Shepherds in Lazio carried dried pasta, black pepper, and aged sheep’s milk cheese because they traveled well. When pasta is tossed with pepper, cheese, and starchy pasta water, the mixture emulsifies into a creamy sauce without cream or butter.\nThis version keeps the Roman technique but replaces most of the cheese with a blended sauce of caramelized onions, white beans, and a small amount of white miso. The onions provide deep browned flavor, the beans create body and emulsification, and the miso supplies fermented sharpness. A small sprinkle of grated “shaky” Parmesan-style cheese at the end adds a familiar aged-cheese aroma without letting cheese dominate the dish.",
   "ingredientGroups": [
     {
       "title": "Caramelized onion base",
       "items": [
         {
+          "id": "olive-oil-onion-base",
           "amount": 1,
           "unit": "tbsp",
           "item": "olive oil",
           "prep": ""
         },
         {
+          "id": "yellow-onion",
           "amount": 1,
           "unit": "large",
           "item": "yellow onion",
           "prep": "thinly sliced"
         },
         {
+          "id": "kosher-salt-onion-base",
           "amount": 0.5,
           "unit": "tsp",
           "item": "kosher salt",
@@ -41,18 +45,21 @@
       "title": "Sauce base",
       "items": [
         {
-          "amount": 0.3333333333,
+          "id": "cooked-white-beans",
+          "amount": 0.333,
           "unit": "cup",
           "item": "cooked white beans",
           "prep": ""
         },
         {
+          "id": "white-miso",
           "amount": 0.75,
           "unit": "tsp",
           "item": "white miso",
           "prep": ""
         },
         {
+          "id": "hot-pasta-cooking-water",
           "amount": 0.75,
           "unit": "cup",
           "item": "hot pasta cooking water",
@@ -64,18 +71,21 @@
       "title": "Pasta",
       "items": [
         {
+          "id": "dry-spaghetti-or-tonnarelli",
           "amount": 8,
           "unit": "oz",
           "item": "dry spaghetti or tonnarelli",
           "prep": ""
         },
         {
+          "id": "water",
           "amount": 2,
           "unit": "quarts",
           "item": "water",
           "prep": ""
         },
         {
+          "id": "kosher-salt-pasta",
           "amount": 1.5,
           "unit": "tsp",
           "item": "kosher salt",
@@ -87,12 +97,14 @@
       "title": "Pepper oil",
       "items": [
         {
+          "id": "black-peppercorns",
           "amount": 2,
           "unit": "tsp",
           "item": "whole black peppercorns",
           "prep": "coarsely crushed"
         },
         {
+          "id": "olive-oil-pepper-oil",
           "amount": 1,
           "unit": "tbsp",
           "item": "olive oil",
@@ -104,12 +116,14 @@
       "title": "Finish",
       "items": [
         {
+          "id": "lemon-juice",
           "amount": 1,
           "unit": "tsp",
           "item": "lemon juice",
           "prep": ""
         },
         {
+          "id": "parmesan-style-shaky-cheese",
           "amount": 1,
           "unit": "tbsp",
           "item": "grated Parmesan-style “shaky cheese”",
@@ -122,7 +136,7 @@
     {
       "title": "Caramelize the onions",
       "items": [
-        "Heat a wide heavy skillet or Dutch oven over medium heat. Add the olive oil, sliced onion, and salt and spread into an even layer.",
+        "Heat a wide heavy skillet or Dutch oven over medium heat. Add the olive oil ({{quantity:olive-oil-onion-base}}), sliced onion ({{quantity:yellow-onion}}), and salt ({{quantity:kosher-salt-onion-base}}) and spread into an even layer.",
         "Do not stir for about 45 to 60 minutes. The onions will release liquid and cook in their own juices, softening and concentrating without burning.",
         "Once the liquid has mostly evaporated and the onions begin to sizzle, start stirring every few minutes and scraping the pan to reincorporate browned bits.",
         "Continue cooking until the onions are deep brown, jammy, and very soft, about another 45 to 60 minutes (roughly 1½ to 2 hours total). If sticking becomes aggressive, add a tablespoon of water and scrape the pan clean."
@@ -131,21 +145,21 @@
     {
       "title": "Cook the pasta",
       "items": [
-        "Bring the water to a boil in a large pot. Add the kosher salt and pasta. Cook until just barely al dente.",
+        "Bring the water ({{quantity:water}}) to a boil in a large pot. Add the kosher salt ({{quantity:kosher-salt-pasta}}) and pasta ({{quantity:dry-spaghetti-or-tonnarelli}}). Cook until just barely al dente.",
         "Before draining, reserve at least 1 cup of the pasta cooking water."
       ]
     },
     {
       "title": "Blend the sauce",
       "items": [
-        "Transfer the caramelized onions to a blender. Add the white beans, white miso, and about ¾ cup of the hot pasta water.",
+        "Transfer the caramelized onions to a blender. Add the white beans ({{quantity:cooked-white-beans}}), white miso ({{quantity:white-miso}}), and about {{quantity:hot-pasta-cooking-water}} of the hot pasta water.",
         "Blend until completely smooth. The sauce should be about the consistency of light cream."
       ]
     },
     {
       "title": "Bloom the pepper",
       "items": [
-        "Place a wide skillet over medium heat. Add the olive oil and the crushed pepper. Cook for about 30 seconds until very fragrant.",
+        "Place a wide skillet over medium heat. Add the olive oil ({{quantity:olive-oil-pepper-oil}}) and the crushed pepper ({{quantity:black-peppercorns}}). Cook for about 30 seconds until very fragrant.",
         "Add about 2 tablespoons of pasta water and let it simmer briefly. The starch helps distribute the pepper flavor through the sauce."
       ]
     },
@@ -159,8 +173,8 @@
     {
       "title": "Finish",
       "items": [
-        "Remove the pan from the heat. Add the lemon juice and toss once more.",
-        "Plate the pasta and finish with a light sprinkle of the grated Parmesan-style cheese."
+        "Remove the pan from the heat. Add the lemon juice ({{quantity:lemon-juice}}) and toss once more.",
+        "Plate the pasta and finish with a light sprinkle of the grated Parmesan-style cheese ({{quantity:parmesan-style-shaky-cheese}})."
       ]
     },
     {
