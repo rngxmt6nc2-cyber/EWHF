@@ -1,3 +1,4 @@
+d7k2pa
 {
   "id": "chicken-stock",
   "title": "Chicken Stock",
@@ -7,41 +8,46 @@
   "displayCategory": "Sauces & Bases",
   "cScale": 1,
   "ldlActive": false,
-  "cScaleSummary": "C1 because the stock is made from chicken bones, drumsticks, neck, and attached tissues, which contribute some cholesterol during extraction even though the fat is removed after chilling. Defatting improves the profile, but does not make the finished stock cholesterol-free.",
-  "ldlActiveSummary": "LDL-Active is false because this is a foundational stock rather than a fiber-forward dish built from legumes, whole grains, vegetables, nuts, or seeds. It can support LDL-friendly cooking, but on its own it is neutral rather than actively LDL-lowering.",
+  "cScaleSummary": "C1 because the recipe is made from chicken bones, skin, neck, drumsticks, and carcass, which are animal-derived cholesterol-contributing ingredients. The finished stock is strained, chilled, and defatted, so the remaining cholesterol per serving is expected to be low but not zero.",
+  "ldlActiveSummary": "LDL-Active is false because the stock is animal-based and not fiber-forward. Although the fat is removed after chilling and the stock can support lean, low-cholesterol cooking, the recipe itself does not contain meaningful LDL-lowering ingredients such as legumes, whole grains, vegetables in serving quantity, nuts, seeds, or unsaturated oils.",
   "yield": 6,
   "yieldUnit": "Quarts",
   "tags": [],
-  "intro": "",
+  "intro": "Chicken stock is one of the quiet foundations of serious cooking. Across French, Italian, Jewish, Chinese, and American home traditions, a good stock turns bones, connective tissue, aromatics, and time into body, depth, and comfort.",
   "ingredientGroups": [
     {
       "title": "Ingredients I – Pressure Extraction",
       "items": [
         {
+          "id": "whole-chicken",
           "amount": 1,
-          "unit": "whole",
-          "item": "chicken",
-          "prep": "minus breast and thigh meat"
+          "unit": "",
+          "item": "whole chicken",
+          "prep": "breast and thigh meat removed"
         },
         {
+          "id": "additional-drumsticks",
           "amount": 4,
           "unit": "",
-          "item": "drumsticks",
-          "prep": "in addition to the 2 on the chicken"
-        },
-        {
-          "amount": 1,
-          "unit": "",
-          "item": "Chicken neck",
+          "item": "additional drumsticks",
           "prep": ""
         },
         {
+          "id": "chicken-neck",
+          "amount": 1,
+          "unit": "",
+          "item": "chicken neck",
+          "prep": ""
+        },
+        {
+          "id": "cold-water",
           "amount": 3,
-          "unit": "Quarts",
+          "unit": "quarts",
           "item": "cold water",
           "prep": ""
         },
         {
+          "id": "apple-cider-vinegar",
           "amount": 1,
           "unit": "teaspoon",
           "item": "apple cider vinegar",
@@ -53,54 +59,63 @@
       "title": "Ingredients II – Aromatic Simmer",
       "items": [
         {
+          "id": "carrot",
           "amount": 1,
           "unit": "",
           "item": "carrot",
-          "prep": "peeled & cut into large pieces"
+          "prep": "peeled & broken into large pieces"
         },
         {
+          "id": "celery-stalk",
           "amount": 1,
           "unit": "",
           "item": "celery stalk",
-          "prep": "cut into large pieces"
+          "prep": "broken into large pieces"
         },
         {
+          "id": "medium-onion",
           "amount": 1,
-          "unit": "medium",
-          "item": "onion",
+          "unit": "",
+          "item": "medium onion",
           "prep": "peeled & cut in half"
         },
         {
+          "id": "garlic-cloves",
           "amount": 2,
           "unit": "",
           "item": "Garlic cloves",
-          "prep": "smashed"
+          "prep": ""
         },
         {
+          "id": "bay-leaf",
           "amount": 1,
           "unit": "",
           "item": "bay leaf",
           "prep": ""
         },
         {
+          "id": "fresh-parsley",
           "amount": 10,
           "unit": "sprigs",
           "item": "fresh parsley",
           "prep": ""
         },
         {
+          "id": "fresh-thyme",
           "amount": 3,
           "unit": "sprigs",
           "item": "fresh thyme",
           "prep": ""
         },
         {
+          "id": "whole-black-pepper-corns",
           "amount": 20,
           "unit": "",
           "item": "whole black pepper corns",
           "prep": ""
         },
         {
+          "id": "hot-tap-water",
           "amount": 2,
           "unit": "Quarts",
           "item": "hot tap water",
