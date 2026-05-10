@@ -7,7 +7,7 @@
   "displayCategory": "Condiments & Toppings",
   "cScale": 1,
   "ldlActive": false,
-  "cScaleSummary": "C1 because the recipe metadata provides C-Scale: 1. The seasoning itself contains no cholesterol-contributing animal-derived ingredients; the salt, celery seed, spices, herbs, and peppers contribute 0 mg cholesterol.",
+  "cScaleSummary": "C1 because this seasoning blend contains no cholesterol-contributing ingredients. The salt, celery seed, paprika, bay leaf, thyme, dill, mustard, peppers, mace, nutmeg, ginger, red pepper flakes, and cayenne all contribute 0 mg cholesterol. The C1 rating is conservative for how the seasoning is intended to be used with seafood, but the seasoning blend itself contains 0 mg cholesterol..",
   "ldlActiveSummary": "LDL-Active is false because this is a seasoning blend. It is low in cholesterol, but it is not structurally fiber-forward and does not meaningfully contribute legumes, whole grains, nuts, seeds, vegetables, or other LDL-supportive ingredients in serving-sized amounts.",
   "yield": 12,
   "yieldUnit": "servings",
