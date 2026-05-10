@@ -7,8 +7,8 @@
   "displayCategory": "Mains",
   "cScale": 2,
   "ldlActive": false,
-  "cScaleSummary": "C2 because the main cholesterol contributor is the boneless skinless chicken thighs, with a smaller possible contribution from the prepared tzatziki if dairy-based. The pita, olive oil, lemon, garlic, oregano, onion, and tomatoes contribute 0 mg cholesterol.",
-  "ldlActiveSummary": "LDL-Active is false because the dish is centered on animal protein and is not meaningfully fiber-forward, even though it uses olive oil, lemon, garlic, and herbs for flavor. It is relatively clean but not actively structured to support LDL lowering.",
+  "cScaleSummary": "C2 because the cholesterol-contributing ingredients are the boneless skinless chicken thighs and prepared tzatziki. The lemon, garlic, salt, pepper, oregano, olive oil, onion, pita, and tomatoes contribute 0 mg cholesterol. Spread across 4 servings, the animal-derived ingredients place the recipe in the 26–75 mg cholesterol range per serving.",
+  "ldlActiveSummary": "LDL-Active is false because the recipe is centered on chicken thighs and prepared tzatziki rather than a fiber-forward structure built around legumes, whole grains, vegetables, nuts, or seeds. It uses olive oil, lemon, garlic, oregano, onion, and tomatoes, but the overall dish is not actively LDL-supportive.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
@@ -18,48 +18,56 @@
       "title": "Chicken Marinade",
       "items": [
         {
+          "id": "lemon-zest",
           "amount": 1,
           "unit": "",
           "item": "lemon",
           "prep": "zest only"
         },
         {
+          "id": "garlic",
           "amount": 3,
           "unit": "cloves",
           "item": "garlic",
           "prep": "minced into a paste with kosher salt"
         },
         {
+          "id": "kosher-salt-marinade",
           "amount": 1.5,
           "unit": "teaspoons",
           "item": "kosher salt",
           "prep": ""
         },
         {
+          "id": "black-pepper",
           "amount": 1,
           "unit": "teaspoon",
           "item": "freshly ground black pepper",
           "prep": ""
         },
         {
+          "id": "fresh-oregano",
           "amount": 1.5,
           "unit": "tablespoons",
           "item": "fresh oregano leaves",
           "prep": "finely chopped"
         },
         {
+          "id": "olive-oil-marinade",
           "amount": 3,
           "unit": "tablespoons",
           "item": "olive oil",
           "prep": ""
         },
         {
+          "id": "lemon-juice-marinade",
           "amount": 2,
           "unit": "tablespoons",
           "item": "lemon juice",
           "prep": ""
         },
         {
+          "id": "chicken-thighs",
           "amount": 1.5,
           "unit": "pounds",
           "item": "boneless skinless chicken thighs",
@@ -71,18 +79,21 @@
       "title": "Onion Lemon Salad",
       "items": [
         {
+          "id": "red-onion",
           "amount": 0.5,
           "unit": "large",
           "item": "red onion",
           "prep": "sliced very thin"
         },
         {
+          "id": "kosher-salt-onion-salad",
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "kosher salt",
           "prep": ""
         },
         {
+          "id": "lemon-juice-onion-salad",
           "amount": 1,
           "unit": "tablespoon",
           "item": "lemon juice",
@@ -94,18 +105,21 @@
       "title": "Assembling",
       "items": [
         {
+          "id": "pita-breads",
           "amount": 4,
           "unit": "",
           "item": "pita breads",
           "prep": ""
         },
         {
+          "id": "tomatoes",
           "amount": 0,
           "unit": "",
           "item": "Tomatoes",
           "prep": "cut into wedges"
         },
         {
+          "id": "prepared-tzatziki",
           "amount": 0,
           "unit": "",
           "item": "Prepared tzatziki",
@@ -118,13 +132,13 @@
     {
       "title": "Marinate the Chicken",
       "items": [
-        "Place the lemon zest, garlic paste, kosher salt, black pepper, and chopped oregano in a large bowl. Add the olive oil and lemon juice and whisk to form a loose marinade. Add the chicken pieces and mix thoroughly so every piece is coated. Cover and refrigerate for about 2 hours. Do not marinate longer than 4 hours or the lemon will begin tightening the meat."
+        "Place the lemon zest ({{quantity:lemon-zest}}), garlic paste ({{quantity:garlic}}), kosher salt ({{quantity:kosher-salt-marinade}}), black pepper ({{quantity:black-pepper}}), and chopped oregano ({{quantity:fresh-oregano}}) in a large bowl. Add the olive oil ({{quantity:olive-oil-marinade}}) and lemon juice ({{quantity:lemon-juice-marinade}}) and whisk to form a loose marinade. Add the chicken pieces ({{quantity:chicken-thighs}}) and mix thoroughly so every piece is coated. Cover and refrigerate for about 2 hours. Do not marinate longer than 4 hours or the lemon will begin tightening the meat."
       ]
     },
     {
       "title": "Prepare the Onion Lemon Salad",
       "items": [
-        "Place the sliced red onion in a bowl. Sprinkle with the kosher salt and lemon juice. Toss well and let sit at room temperature for about 10 minutes until the onion softens."
+        "Place the sliced red onion ({{quantity:red-onion}}) in a bowl. Sprinkle with the kosher salt ({{quantity:kosher-salt-onion-salad}}) and lemon juice ({{quantity:lemon-juice-onion-salad}}). Toss well and let sit at room temperature for about 10 minutes until the onion softens."
       ]
     },
     {
@@ -148,7 +162,7 @@
     {
       "title": "Wrap and Serve",
       "items": [
-        "Remove the chicken from the skewers. Finish the chicken with a small pinch of kosher salt. Lay out the warm pita and spread each with tzatziki. Divide the chicken among them, then add the onion lemon salad and tomato wedges. Fold each pita around the filling, keeping the filling centered and compact so it eats cleanly out of the hand. "
+        "Remove the chicken from the skewers. Finish the chicken with a small pinch of kosher salt. Lay out the warm pita ({{quantity:pita-breads}}) and spread each with tzatziki ({{quantity:prepared-tzatziki}}). Divide the chicken among them, then add the onion lemon salad and tomato wedges ({{quantity:tomatoes}}). Fold each pita around the filling, keeping the filling centered and compact so it eats cleanly out of the hand."
       ]
     }
   ]
