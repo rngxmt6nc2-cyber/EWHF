@@ -1,0 +1,245 @@
+{
+  "id": "tex-mex-black-bean-skillet",
+  "title": "Tex-Mex Black Bean Skillet",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Rice, Beans & Legumes",
+  "displayCategory": "Rice, Beans & Legumes",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The black beans, vegetables, corn tortillas, olive oil, stock, lime, herbs, and spices contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL Active because the recipe is built around beans, vegetables, corn tortillas, unsaturated oil, aromatics, and spices, with flavor developed through charring, blooming, simmering, and crisping rather than cheese, sour cream, butter, or animal fat.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Tex-Mex cooking is built on borderland comfort: beans, chiles, cumin, corn, peppers, and bright garnishes layered into something casual but deeply satisfying. This skillet keeps that spirit without relying on cheese, sour cream, or greasy toppings. The beans give it body, roasted poblanos add smoke, and crisp tortilla strips bring the crunch that makes the dish feel complete.",
+  "ingredientGroups": [
+    {
+      "title": "Beans",
+      "items": [
+        {
+          "id": "dried-black-beans",
+          "amount": 1,
+          "unit": "cup",
+          "item": "dried black beans",
+          "prep": "soaked overnight or quick-soaked"
+        },
+        {
+          "id": "water-beans",
+          "amount": 4,
+          "unit": "cups",
+          "item": "water",
+          "prep": "for cooking beans"
+        },
+        {
+          "id": "bay-leaf",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt-beans",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Crisp Tortilla Strips",
+      "items": [
+        {
+          "id": "corn-tortillas",
+          "amount": 4,
+          "unit": "",
+          "item": "corn tortillas",
+          "prep": "cut into thin strips"
+        },
+        {
+          "id": "olive-oil-tortillas",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt-tortillas",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Skillet Base",
+      "items": [
+        {
+          "id": "poblano-peppers",
+          "amount": 2,
+          "unit": "medium",
+          "item": "poblano peppers",
+          "prep": "charred, peeled, seeded, and diced"
+        },
+        {
+          "id": "olive-oil-skillet",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "medium",
+          "item": "yellow onion",
+          "prep": "diced"
+        },
+        {
+          "id": "red-bell-pepper",
+          "amount": 1,
+          "unit": "medium",
+          "item": "red bell pepper",
+          "prep": "diced"
+        },
+        {
+          "id": "garlic-cloves",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "tomato-paste",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "ground-cumin",
+          "amount": 1.5,
+          "unit": "teaspoons",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "id": "chili-powder",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "chili powder",
+          "prep": ""
+        },
+        {
+          "id": "smoked-paprika",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "id": "mexican-oregano",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fresh Mexican oregano",
+          "prep": "chopped"
+        },
+        {
+          "id": "kosher-salt-skillet",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "vegetable-stock",
+          "amount": 1,
+          "unit": "cup",
+          "item": "low-sodium vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "corn-kernels",
+          "amount": 1,
+          "unit": "cup",
+          "item": "corn kernels",
+          "prep": "charred in a dry skillet"
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "lime-juice",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "lime juice",
+          "prep": ""
+        },
+        {
+          "id": "fresh-cilantro",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fresh cilantro",
+          "prep": "chopped"
+        },
+        {
+          "id": "scallions",
+          "amount": 2,
+          "unit": "",
+          "item": "scallions",
+          "prep": "thinly sliced"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Beans",
+      "items": [
+        "Combine {{quantity:dried-black-beans}} dried black beans, {{quantity:water-beans}} water, and {{quantity:bay-leaf}} bay leaf in a pot.",
+        "Simmer for 60 to 90 minutes, until the beans are tender but not falling apart, adding water as needed to keep them barely covered.",
+        "Stir in {{quantity:kosher-salt-beans}} kosher salt during the final 10 minutes of cooking.",
+        "Drain the beans and discard the bay leaf."
+      ]
+    },
+    {
+      "title": "Crisp the Tortilla Strips",
+      "items": [
+        "Heat the oven to 400°F.",
+        "Toss {{quantity:corn-tortillas}} corn tortillas with {{quantity:olive-oil-tortillas}} olive oil and {{quantity:kosher-salt-tortillas}} kosher salt.",
+        "Spread the tortilla strips on a sheet pan and bake for 8 to 12 minutes, tossing once, until crisp and lightly browned. Set aside."
+      ]
+    },
+    {
+      "title": "Char the Poblanos and Corn",
+      "items": [
+        "Char {{quantity:poblano-peppers}} poblano peppers over an open flame, under a broiler, or in a dry hot skillet until blistered on all sides.",
+        "Cover the poblanos for 10 minutes, then peel, seed, and dice them.",
+        "Char {{quantity:corn-kernels}} corn kernels in a dry skillet over medium-high heat for 4 to 6 minutes, stirring occasionally, until browned in spots."
+      ]
+    },
+    {
+      "title": "Build the Skillet Base",
+      "items": [
+        "Heat {{quantity:olive-oil-skillet}} olive oil in a wide skillet over medium heat.",
+        "Add {{quantity:yellow-onion}} yellow onion and {{quantity:red-bell-pepper}} red bell pepper. Cook for 7 to 9 minutes, stirring often, until softened and lightly browned at the edges.",
+        "Add {{quantity:garlic-cloves}} garlic and cook for 30 seconds.",
+        "Add {{quantity:tomato-paste}} tomato paste, {{quantity:ground-cumin}} ground cumin, {{quantity:chili-powder}} chili powder, {{quantity:smoked-paprika}} smoked paprika, {{quantity:mexican-oregano}} fresh Mexican oregano, and {{quantity:kosher-salt-skillet}} kosher salt. Cook for 1 minute, stirring constantly, until the tomato paste darkens slightly and the spices smell toasted.",
+        "Stir in the cooked black beans, diced poblanos, charred corn, and {{quantity:vegetable-stock}} low-sodium vegetable stock.",
+        "Simmer for 8 to 10 minutes, stirring occasionally, until the mixture is saucy but not soupy. Mash a few spoonfuls of beans against the side of the skillet to thicken the sauce."
+      ]
+    },
+    {
+      "title": "Finish and Serve",
+      "items": [
+        "Stir in {{quantity:lime-juice}} lime juice.",
+        "Finish with {{quantity:fresh-cilantro}} fresh cilantro and {{quantity:scallions}} scallions.",
+        "Top each serving with the crisp tortilla strips and serve hot."
+      ]
+    }
+  ]
+}
