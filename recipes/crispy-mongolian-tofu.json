@@ -9,8 +9,8 @@
   "ldlActive": true,
   "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The tofu, broccoli, scallions, soy sauce, date paste, vinegars, aromatics, cornstarch, oil, and sesame seeds contribute 0 mg cholesterol.",
   "ldlActiveSummary": "LDL Active because the recipe is built around soy protein, vegetables, aromatics, and a small amount of unsaturated oil, with flavor and texture developed through pressing, tearing, roasting, charring, and glazing rather than saturated fat or cholesterol-containing ingredients.",
-  "yield": 2,
-  "yieldUnit": "generous servings",
+  "yield": 3,
+  "yieldUnit": "servings",
   "tags": [],
   "intro": "Mongolian-style stir-fries are built around a glossy soy-garlic-ginger sauce, lots of scallions, and a sweet-savory finish. This EWHF version keeps the takeout character but rebuilds the texture around torn tofu. Pressing the tofu hard and tearing it by hand creates rough edges that catch starch, crisp deeply, and hold the sauce without turning into soft cubes. Broccoli adds char, color, and structure so the dish eats like a full main.",
   "ingredientGroups": [
