@@ -1,0 +1,224 @@
+{
+  "id": "apple-cinnamon-breakfast-pastry",
+  "title": "Apple-Cinnamon Breakfast Pastry",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Breads & Doughs",
+  "displayCategory": "Breads & Doughs",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The apples, dates, flour, olive oil, applesauce, oat milk, nuts, cider, lemon, and spices contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL Active because the pastry is cholesterol-free, uses fruit and dates for sweetness, includes whole-grain flour, and uses unsaturated fat from olive oil and nuts rather than butter, cream, shortening, or saturated animal fat.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Apple-cinnamon breakfast pastry sits in the familiar lane of hand pies, turnovers, and morning bakery cases, but this version keeps the structure lean and breakfast-friendly. The sweetness comes from apples, Medjool dates, and reduced apple cider, while cinnamon, lemon, vanilla, and a crisp-edged dough make it feel like a pastry instead of a compromise.",
+  "ingredientGroups": [
+    {
+      "title": "Apple-Date Filling",
+      "items": [
+        {
+          "id": "apples",
+          "amount": 2,
+          "unit": "medium",
+          "item": "apples",
+          "prep": "peeled and diced small"
+        },
+        {
+          "id": "medjool-dates",
+          "amount": 3,
+          "unit": "",
+          "item": "Medjool dates",
+          "prep": "pitted and finely chopped"
+        },
+        {
+          "id": "apple-cider-filling",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "apple cider",
+          "prep": ""
+        },
+        {
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "lemon-zest",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "lemon zest",
+          "prep": ""
+        },
+        {
+          "id": "cinnamon",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "cinnamon",
+          "prep": ""
+        },
+        {
+          "id": "vanilla-extract",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "vanilla extract",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt-filling",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "walnuts",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "walnuts",
+          "prep": "finely chopped"
+        }
+      ]
+    },
+    {
+      "title": "Apple-Cider Glaze",
+      "items": [
+        {
+          "id": "apple-cider-glaze",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "apple cider",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Pastry Dough",
+      "items": [
+        {
+          "id": "white-whole-wheat-flour",
+          "amount": 1,
+          "unit": "cup",
+          "item": "white whole wheat flour",
+          "prep": ""
+        },
+        {
+          "id": "all-purpose-flour",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "id": "baking-powder",
+          "amount": 1.5,
+          "unit": "teaspoons",
+          "item": "baking powder",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt-dough",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "olive-oil",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "unsweetened-applesauce",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "unsweetened applesauce",
+          "prep": ""
+        },
+        {
+          "id": "oat-milk",
+          "amount": 4,
+          "unit": "tablespoons",
+          "item": "cold unsweetened oat milk",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Bench Flour",
+      "items": [
+        {
+          "id": "bench-flour",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "all-purpose flour",
+          "prep": "for rolling"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Make the Apple-Date Filling",
+      "items": [
+        "Combine {{quantity:apples}} apples, {{quantity:medjool-dates}} Medjool dates, {{quantity:apple-cider-filling}} apple cider, {{quantity:lemon-juice}} lemon juice, {{quantity:lemon-zest}} lemon zest, {{quantity:cinnamon}} cinnamon, {{quantity:vanilla-extract}} vanilla extract, and {{quantity:kosher-salt-filling}} kosher salt in a small saucepan.",
+        "Cook over medium heat for 8 to 10 minutes, stirring often, until the apples soften and the dates break down into a sticky, jammy coating.",
+        "Mash about one-third of the apples against the side of the pan with a spoon. The filling should be thick, glossy, and spoonable, not wet.",
+        "Stir in {{quantity:walnuts}} walnuts.",
+        "Spread the filling on a plate and cool completely before assembling the pastries. Warm filling will soften the dough and make the pastries harder to seal."
+      ]
+    },
+    {
+      "title": "Reduce the Apple Cider",
+      "items": [
+        "Pour {{quantity:apple-cider-glaze}} apple cider into a small saucepan.",
+        "Simmer over medium heat for 8 to 12 minutes, until reduced to about 2 tablespoons.",
+        "The cider should be syrupy enough to lightly coat a spoon, but not thick like caramel. Set aside."
+      ]
+    },
+    {
+      "title": "Make the Pastry Dough",
+      "items": [
+        "Whisk together {{quantity:white-whole-wheat-flour}} white whole wheat flour, {{quantity:all-purpose-flour}} all-purpose flour, {{quantity:baking-powder}} baking powder, and {{quantity:kosher-salt-dough}} kosher salt in a mixing bowl.",
+        "Add {{quantity:olive-oil}} olive oil and {{quantity:unsweetened-applesauce}} unsweetened applesauce.",
+        "Mix with a fork until the flour looks evenly moistened and slightly pebbly.",
+        "Add {{quantity:oat-milk}} cold unsweetened oat milk and mix gently, stopping as soon as the dough comes together.",
+        "Turn the dough onto a surface dusted with {{quantity:bench-flour}} all-purpose flour and knead 5 or 6 times, just until smooth.",
+        "Shape the dough into a disk, cover, and rest for 15 minutes."
+      ]
+    },
+    {
+      "title": "Assemble the Pastries",
+      "items": [
+        "Heat the oven to 400°F and line a baking sheet with parchment paper.",
+        "Roll the rested dough into a thin rectangle, about 1/8 inch thick, using the remaining bench flour only as needed to prevent sticking.",
+        "Trim the edges, then cut the dough into 6 roughly equal rectangles.",
+        "Place one-sixth of the cooled apple-date filling on one half of each rectangle, leaving a clean border around the edges.",
+        "Fold the dough over the filling to make pockets.",
+        "Press the edges firmly with your fingers, then crimp with a fork.",
+        "Cut 2 small vents in the top of each pastry.",
+        "Brush the tops lightly with the reduced apple cider."
+      ]
+    },
+    {
+      "title": "Bake and Finish",
+      "items": [
+        "Bake the pastries at 400°F for 18 to 22 minutes, until the edges are browned and the tops are firm and lightly golden.",
+        "Brush the hot pastries with the remaining reduced apple cider as soon as they come out of the oven.",
+        "Let the pastries rest for 10 minutes before serving so the filling settles and the crust firms slightly."
+      ]
+    },
+    {
+      "title": "Make-Ahead Freezer Method",
+      "items": [
+        "To freeze before baking, assemble and vent the pastries but do not brush them with reduced apple cider.",
+        "Freeze the unbaked pastries flat on parchment until solid, then vacuum seal gently or seal in an airtight freezer bag.",
+        "Bake frozen pastries directly from the freezer at 400°F for 24 to 30 minutes, brushing with reduced apple cider before baking and again after baking."
+      ]
+    }
+  ]
+}
