@@ -1,7 +1,7 @@
 {
   "id": "khichuri",
   "title": "Khichuri",
-  "section": "",
+  "section": "Rice, Beans & Legumes",
   "sortOrder": 0,
   "category": "Rice, Beans & Legumes",
   "displayCategory": "Rice, Beans & Legumes",
@@ -272,7 +272,7 @@
     {
       "title": "Cook the Khichuri",
       "items": [
-        "Add the rinsed moong dal, rinsed rice, potato cubes ({{quantity:yukon-gold-potato}}), {{ingredient:water-cooking}}, and {{ingredient:kosher-salt}}. Stir well, scraping the bottom of the pot.",
+        "Add the rinsed moong dal, rinsed rice, potato cubes ({{quantity:yukon-gold-potato}}), water ({{quantity:water-cooking}}), and kosher salt ({{quantity:kosher-salt}}). Stir well, scraping the bottom of the pot.",
         "Bring to a boil, then reduce the heat to low. Cover and simmer for 25 to 30 minutes, stirring occasionally, until the rice and dal are soft and the potato is tender.",
         "The texture should be thick, soft, and spoonable. If it tightens too much before the rice and dal are fully tender, add water 1/2 cup at a time."
       ]
