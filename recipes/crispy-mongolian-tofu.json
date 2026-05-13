@@ -1,0 +1,257 @@
+{
+  "id": "crispy-mongolian-tofu",
+  "title": "Crispy Mongolian Tofu",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The tofu, broccoli, scallions, soy sauce, date paste, vinegars, aromatics, cornstarch, oil, and sesame seeds contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL Active because the recipe is built around soy protein, vegetables, aromatics, and a small amount of unsaturated oil, with flavor and texture developed through pressing, tearing, roasting, charring, and glazing rather than saturated fat or cholesterol-containing ingredients.",
+  "yield": 2,
+  "yieldUnit": "generous servings",
+  "tags": [],
+  "intro": "Mongolian-style stir-fries are built around a glossy soy-garlic-ginger sauce, lots of scallions, and a sweet-savory finish. This EWHF version keeps the takeout character but rebuilds the texture around torn tofu. Pressing the tofu hard and tearing it by hand creates rough edges that catch starch, crisp deeply, and hold the sauce without turning into soft cubes. Broccoli adds char, color, and structure so the dish eats like a full main.",
+  "ingredientGroups": [
+    {
+      "title": "Tofu",
+      "items": [
+        {
+          "id": "extra-firm-tofu",
+          "amount": 14,
+          "unit": "ounces",
+          "item": "extra-firm tofu",
+          "prep": ""
+        },
+        {
+          "id": "soy-sauce-tofu",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "rice-vinegar-tofu",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "rice vinegar",
+          "prep": ""
+        },
+        {
+          "id": "garlic-powder",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "garlic powder",
+          "prep": ""
+        },
+        {
+          "id": "white-pepper-tofu",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "white pepper",
+          "prep": ""
+        },
+        {
+          "id": "neutral-oil-tofu",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "neutral oil",
+          "prep": ""
+        },
+        {
+          "id": "cornstarch-tofu",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "cornstarch",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Broccoli",
+      "items": [
+        {
+          "id": "broccoli-florets",
+          "amount": 3,
+          "unit": "cups",
+          "item": "broccoli florets",
+          "prep": "cut small"
+        },
+        {
+          "id": "neutral-oil-broccoli",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "neutral oil",
+          "prep": ""
+        },
+        {
+          "id": "garlic-clove-broccoli",
+          "amount": 1,
+          "unit": "small clove",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "kosher-salt-broccoli",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Mongolian Sauce",
+      "items": [
+        {
+          "id": "soy-sauce-sauce",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "water-sauce",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "date-paste",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "date paste",
+          "prep": ""
+        },
+        {
+          "id": "rice-vinegar-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "rice vinegar",
+          "prep": ""
+        },
+        {
+          "id": "chinese-black-vinegar",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Chinese black vinegar",
+          "prep": ""
+        },
+        {
+          "id": "fresh-ginger",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh ginger",
+          "prep": "minced"
+        },
+        {
+          "id": "garlic-cloves-sauce",
+          "amount": 2,
+          "unit": "large cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "scallion-whites",
+          "amount": 4,
+          "unit": "",
+          "item": "scallion whites",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "white-pepper-sauce",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "white pepper",
+          "prep": ""
+        },
+        {
+          "id": "cornstarch-slurry",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "cornstarch",
+          "prep": ""
+        },
+        {
+          "id": "water-slurry",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "water",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "scallion-greens",
+          "amount": 4,
+          "unit": "",
+          "item": "scallion greens",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "toasted-sesame-seeds",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "toasted sesame seeds",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Press the Tofu Hard",
+      "items": [
+        "Drain {{quantity:extra-firm-tofu}} extra-firm tofu and wrap it in a clean towel. Place it on a plate or cutting board, set another board or plate on top, and weight it heavily with cans, a skillet, or another firm weight.",
+        "Press for 45 to 60 minutes, until the tofu feels denser and drier. This step matters: wet tofu steams, while hard-pressed tofu browns."
+      ]
+    },
+    {
+      "title": "Tear and Season the Tofu",
+      "items": [
+        "Heat the oven to 425°F.",
+        "Tear the pressed tofu by hand into irregular 1- to 1 1/2-inch chunks. Do not cube it. The torn edges create the crisp ridges.",
+        "Place the tofu in a bowl. Add {{quantity:soy-sauce-tofu}} low-sodium soy sauce, {{quantity:rice-vinegar-tofu}} rice vinegar, {{quantity:garlic-powder}} garlic powder, {{quantity:white-pepper-tofu}} white pepper, and {{quantity:neutral-oil-tofu}} neutral oil. Toss gently until evenly coated.",
+        "Sprinkle {{quantity:cornstarch-tofu}} cornstarch over the tofu and toss again until the pieces have a thin, dry, uneven coating. The tofu should not look battered or wet."
+      ]
+    },
+    {
+      "title": "Crisp the Tofu",
+      "items": [
+        "Spread the tofu on a parchment-lined sheet pan with space between the pieces.",
+        "Roast at 425°F for 20 to 25 minutes, turning once halfway through, until the tofu is browned at the edges and crisp on the ridges.",
+        "Do not sauce the tofu yet. It needs to be fully crisp before it hits the glaze."
+      ]
+    },
+    {
+      "title": "Cook the Broccoli",
+      "items": [
+        "While the tofu roasts, toss {{quantity:broccoli-florets}} broccoli florets with {{quantity:neutral-oil-broccoli}} neutral oil, {{quantity:garlic-clove-broccoli}} minced garlic, and {{quantity:kosher-salt-broccoli}} kosher salt.",
+        "Spread the broccoli on a second sheet pan and roast at 425°F for 12 to 15 minutes, until bright green with browned edges. The broccoli should be tender but not soft."
+      ]
+    },
+    {
+      "title": "Make the Mongolian Sauce",
+      "items": [
+        "In a small bowl, stir together {{quantity:soy-sauce-sauce}} low-sodium soy sauce, {{quantity:water-sauce}} water, {{quantity:date-paste}} date paste, {{quantity:rice-vinegar-sauce}} rice vinegar, {{quantity:chinese-black-vinegar}} Chinese black vinegar, {{quantity:fresh-ginger}} fresh ginger, {{quantity:garlic-cloves-sauce}} garlic, {{quantity:scallion-whites}} scallion whites, and {{quantity:white-pepper-sauce}} white pepper.",
+        "In a separate small bowl, stir {{quantity:cornstarch-slurry}} cornstarch with {{quantity:water-slurry}} water to make a slurry.",
+        "Pour the sauce mixture into a skillet or wok over medium heat. Bring it to a simmer and cook for 1 to 2 minutes, stirring, until the garlic and ginger are fragrant.",
+        "Stir in the cornstarch slurry and cook for 30 to 60 seconds, until the sauce turns glossy and lightly thickened."
+      ]
+    },
+    {
+      "title": "Glaze and Finish",
+      "items": [
+        "Add the roasted broccoli to the sauce and toss to coat.",
+        "Add the crisp tofu last. Toss for 20 to 30 seconds, just long enough to coat the craggy edges without soaking them.",
+        "Remove from the heat. Finish with {{quantity:scallion-greens}} scallion greens and {{quantity:toasted-sesame-seeds}} toasted sesame seeds.",
+        "Serve immediately."
+      ]
+    }
+  ]
+}
