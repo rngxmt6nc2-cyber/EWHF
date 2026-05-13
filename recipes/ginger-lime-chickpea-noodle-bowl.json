@@ -1,0 +1,87 @@
+{
+  "id": "ginger-lime-chickpea-noodle-bowl",
+  "title": "Ginger-Lime Chickpea Noodle Bowl",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Pasta & Noodles",
+  "displayCategory": "Pasta & Noodles",
+  "cScale": 1,
+  "ldlActive": true,
+  "cScaleSummary": "C1 because the recipe uses rice noodles, chickpeas, vegetables, aromatics, lime, and a small amount of olive oil, all of which contribute 0 mg cholesterol per serving.",
+  "ldlActiveSummary": "LDL-Active is true because this bowl centers legumes and vegetables for fiber, uses olive oil for unsaturated fat, and builds flavor with ginger, garlic, miso, and lime instead of butter, cream, or animal fat.",
+  "yield": 4,
+  "yieldUnit": "Servings",
+  "tags": [],
+  "intro": "This noodle bowl is built for weeknights: chewy rice noodles, a bright ginger-lime broth, and crispy-edged chickpeas. The sauce starts with aromatics and white miso, then gets rounded out with noodle water so it clings to every strand. Baby spinach wilts in at the end for color and extra potassium-rich greens.",
+  "ingredientGroups": [
+    {
+      "title": "Noodles",
+      "items": [
+        { "id": "rice-noodles", "amount": 8, "unit": "oz", "item": "wide rice noodles", "prep": "" },
+        { "id": "water", "amount": 2, "unit": "quarts", "item": "water", "prep": "" }
+      ]
+    },
+    {
+      "title": "Crispy chickpeas",
+      "items": [
+        { "id": "olive-oil-chickpeas", "amount": 1, "unit": "tbsp", "item": "olive oil", "prep": "" },
+        { "id": "chickpeas", "amount": 1.5, "unit": "cups", "item": "cooked chickpeas", "prep": "patted dry" },
+        { "id": "smoked-paprika", "amount": 0.5, "unit": "tsp", "item": "smoked paprika", "prep": "" },
+        { "id": "kosher-salt", "amount": 0.5, "unit": "tsp", "item": "kosher salt", "prep": "" }
+      ]
+    },
+    {
+      "title": "Ginger-lime sauce",
+      "items": [
+        { "id": "olive-oil-sauce", "amount": 1, "unit": "tbsp", "item": "olive oil", "prep": "" },
+        { "id": "fresh-ginger", "amount": 1, "unit": "tbsp", "item": "fresh ginger", "prep": "finely grated" },
+        { "id": "garlic", "amount": 3, "unit": "cloves", "item": "garlic", "prep": "minced" },
+        { "id": "white-miso", "amount": 1, "unit": "tbsp", "item": "white miso", "prep": "" },
+        { "id": "lime-zest", "amount": 1, "unit": "tsp", "item": "lime zest", "prep": "" },
+        { "id": "lime-juice", "amount": 2, "unit": "tbsp", "item": "lime juice", "prep": "" },
+        { "id": "maple-syrup", "amount": 1, "unit": "tsp", "item": "maple syrup", "prep": "" },
+        { "id": "reserved-noodle-water", "amount": 1, "unit": "cup", "item": "reserved noodle cooking water", "prep": "hot" }
+      ]
+    },
+    {
+      "title": "Vegetables and finish",
+      "items": [
+        { "id": "spinach", "amount": 4, "unit": "cups", "item": "baby spinach", "prep": "loosely packed" },
+        { "id": "scallions", "amount": 3, "unit": "whole", "item": "scallions", "prep": "thinly sliced" },
+        { "id": "black-pepper", "amount": 0.25, "unit": "tsp", "item": "black pepper", "prep": "freshly ground" }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the noodles",
+      "items": [
+        "Bring the water ({{quantity:water}}) to a boil. Add the rice noodles ({{quantity:rice-noodles}}) and cook until just tender according to package directions.",
+        "Reserve about {{quantity:reserved-noodle-water}} of the hot cooking water, then drain the noodles and set aside."
+      ]
+    },
+    {
+      "title": "Crisp the chickpeas",
+      "items": [
+        "Heat a large skillet over medium-high heat. Add olive oil ({{quantity:olive-oil-chickpeas}}), chickpeas ({{quantity:chickpeas}}), smoked paprika ({{quantity:smoked-paprika}}), and kosher salt ({{quantity:kosher-salt}}).",
+        "Cook, tossing occasionally, until the chickpeas are golden at the edges, 6 to 8 minutes. Transfer to a bowl."
+      ]
+    },
+    {
+      "title": "Build the sauce",
+      "items": [
+        "Lower heat to medium. In the same skillet add olive oil ({{quantity:olive-oil-sauce}}), ginger ({{quantity:fresh-ginger}}), and garlic ({{quantity:garlic}}). Cook for 30 to 60 seconds until fragrant.",
+        "Whisk in white miso ({{quantity:white-miso}}), lime zest ({{quantity:lime-zest}}), lime juice ({{quantity:lime-juice}}), maple syrup ({{quantity:maple-syrup}}), and about half of the reserved noodle water.",
+        "Simmer briefly, then add more noodle water as needed until the sauce is glossy and lightly coats a spoon."
+      ]
+    },
+    {
+      "title": "Finish and serve",
+      "items": [
+        "Add the drained noodles and spinach ({{quantity:spinach}}) to the skillet. Toss for 1 to 2 minutes until spinach wilts and noodles are coated.",
+        "Fold in half the crispy chickpeas and half the scallions ({{quantity:scallions}}). Season with black pepper ({{quantity:black-pepper}}).",
+        "Serve in bowls topped with the remaining chickpeas and scallions."
+      ]
+    }
+  ]
+}
