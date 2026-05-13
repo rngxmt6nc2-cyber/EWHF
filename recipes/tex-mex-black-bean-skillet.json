@@ -198,9 +198,16 @@
   ],
   "stepGroups": [
     {
+      "title": "Soak the Beans",
+      "items": [
+        "Soak {{quantity:dried-black-beans}} dried black beans overnight in plenty of water, then drain before cooking.",
+        "For a quick soak, cover {{quantity:dried-black-beans}} dried black beans with water in a pressure cooker, bring to pressure for 1 minute, release naturally for 10 minutes, then drain before cooking."
+      ]
+    },
+    {
       "title": "Cook the Beans",
       "items": [
-        "Combine {{quantity:dried-black-beans}} dried black beans, {{quantity:water-beans}} water, and {{quantity:bay-leaf}} bay leaf in a pot.",
+        "Combine the soaked black beans, {{quantity:water-beans}} water, and {{quantity:bay-leaf}} bay leaf in a pot.",
         "Simmer for 60 to 90 minutes, until the beans are tender but not falling apart, adding water as needed to keep them barely covered.",
         "Stir in {{quantity:kosher-salt-beans}} kosher salt during the final 10 minutes of cooking.",
         "Drain the beans and discard the bay leaf."
