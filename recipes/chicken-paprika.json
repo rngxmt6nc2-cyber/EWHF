@@ -1,0 +1,223 @@
+{
+  "id": "chicken-paprika",
+  "title": "Chicken Paprika",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 2,
+  "ldlActive": true,
+  "cScaleSummary": "C2 because the only meaningful cholesterol-contributing ingredient is 12 ounces of boneless skinless chicken breast spread across 4 servings. The regular egg-free noodles, vegetables, silken tofu, olive oil, flour, stock, herbs, and spices contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL Active because the recipe uses lean chicken in a controlled portion, regular egg-free noodles, vegetables, olive oil, and silken tofu for body and creaminess, while building flavor through paprika blooming, browning, aromatics, and a glossy sauce rather than butter, cream, sour cream, or animal fat.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Chicken paprika sits in the broad Central European family of paprika-rich chicken dishes, where the flavor comes from slowly softened onions, sweet paprika, and a warm red sauce that clings to noodles. This version keeps the comfort-food shape of the dish while using lean chicken, regular egg-free noodles, and a silken tofu finish to give the sauce body without turning it heavy.",
+  "ingredientGroups": [
+    {
+      "title": "Noodles",
+      "items": [
+        {
+          "id": "water-noodles",
+          "amount": 8,
+          "unit": "cups",
+          "item": "water",
+          "prep": "for boiling noodles"
+        },
+        {
+          "id": "kosher-salt-noodles",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": "for noodle water"
+        },
+        {
+          "id": "regular-wide-noodles",
+          "amount": 8,
+          "unit": "ounces",
+          "item": "regular egg-free wide noodles",
+          "prep": "not whole wheat"
+        }
+      ]
+    },
+    {
+      "title": "Chicken",
+      "items": [
+        {
+          "id": "chicken-breast",
+          "amount": 12,
+          "unit": "ounces",
+          "item": "boneless skinless chicken breast",
+          "prep": "cut into bite-size pieces"
+        },
+        {
+          "id": "kosher-salt-chicken",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "sweet-paprika-chicken",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "sweet Hungarian paprika",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-chicken",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "olive-oil-chicken",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Paprika Sauce",
+      "items": [
+        {
+          "id": "silken-tofu",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "silken tofu",
+          "prep": ""
+        },
+        {
+          "id": "vegetable-stock",
+          "amount": 1,
+          "unit": "cup",
+          "item": "low-sodium vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "olive-oil-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "medium",
+          "item": "yellow onion",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "red-bell-pepper",
+          "amount": 1,
+          "unit": "medium",
+          "item": "red bell pepper",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "garlic-cloves",
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "sweet-paprika-sauce",
+          "amount": 1.5,
+          "unit": "tablespoons",
+          "item": "sweet Hungarian paprika",
+          "prep": ""
+        },
+        {
+          "id": "smoked-paprika",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "id": "all-purpose-flour",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt-sauce",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "parsley",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh parsley",
+          "prep": "chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Noodles",
+      "items": [
+        "Bring {{quantity:water-noodles}} water and {{quantity:kosher-salt-noodles}} kosher salt to a boil in a medium pot.",
+        "Add {{quantity:regular-wide-noodles}} regular egg-free wide noodles and cook until tender according to the package timing.",
+        "Reserve 1/2 cup of the noodle cooking water, then drain the noodles and set them aside."
+      ]
+    },
+    {
+      "title": "Season and Brown the Chicken",
+      "items": [
+        "Season {{quantity:chicken-breast}} boneless skinless chicken breast with {{quantity:kosher-salt-chicken}} kosher salt, {{quantity:sweet-paprika-chicken}} sweet Hungarian paprika, and {{quantity:black-pepper-chicken}} black pepper.",
+        "Heat {{quantity:olive-oil-chicken}} olive oil in a wide skillet over medium-high heat.",
+        "Add the chicken in a single layer and brown for 2 to 3 minutes per side, until the surface has color but the center is not fully cooked through.",
+        "Transfer the browned chicken to a plate. It will finish cooking in the sauce."
+      ]
+    },
+    {
+      "title": "Blend the Creamy Base",
+      "items": [
+        "Blend {{quantity:silken-tofu}} silken tofu, {{quantity:vegetable-stock}} low-sodium vegetable stock, and {{quantity:lemon-juice}} lemon juice until completely smooth."
+      ]
+    },
+    {
+      "title": "Build the Paprika Sauce",
+      "items": [
+        "Reduce the skillet heat to medium and add {{quantity:olive-oil-sauce}} olive oil.",
+        "Add {{quantity:yellow-onion}} yellow onion and {{quantity:red-bell-pepper}} red bell pepper. Cook for 8 to 10 minutes, stirring often, until softened and lightly browned at the edges.",
+        "Add {{quantity:garlic-cloves}} garlic and cook for 30 seconds.",
+        "Pull the skillet briefly off the heat. Stir in {{quantity:sweet-paprika-sauce}} sweet Hungarian paprika, {{quantity:smoked-paprika}} smoked paprika, and {{quantity:all-purpose-flour}} all-purpose flour until the vegetables are evenly coated. Keeping the pan off direct heat during this step prevents the paprika from turning bitter.",
+        "Return the skillet to medium heat and slowly stir in the blended tofu-stock mixture.",
+        "Add {{quantity:kosher-salt-sauce}} kosher salt and simmer for 3 to 4 minutes, stirring often, until the sauce turns glossy and lightly thickened."
+      ]
+    },
+    {
+      "title": "Finish the Chicken",
+      "items": [
+        "Return the browned chicken and any plate juices to the skillet.",
+        "Simmer for 4 to 6 minutes, stirring occasionally, until the chicken is cooked through and the sauce clings to the pieces.",
+        "Add the drained noodles and toss gently to coat. Use the reserved noodle cooking water, 1 tablespoon at a time, only as needed to loosen the sauce so it coats the noodles without becoming soupy.",
+        "Finish with {{quantity:parsley}} fresh parsley and serve hot."
+      ]
+    }
+  ]
+}
