@@ -1,0 +1,247 @@
+{
+  "id": "chicken-with-mushrooms",
+  "title": "Chicken with Mushrooms",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 2,
+  "ldlActive": true,
+  "cScaleSummary": "C2 because boneless skinless chicken is the primary cholesterol-contributing ingredient. The jasmine rice, mushrooms, onion, garlic, olive oil, flour, cornstarch, seasonings, lemon juice, and parsley contribute little to no cholesterol, keeping the estimated cholesterol per serving within the C2 range.",
+  "ldlActiveSummary": "LDL-Active because the recipe uses lean chicken, mushrooms, onion, garlic, olive oil, herbs, stock, and a light pan sauce rather than butter, cream, animal fat, or heavy cheese. Flavor is built through browning, deglazing, aromatics, and acid rather than saturated fat.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "This is a straightforward rice-bowl dinner built around the classic comfort-food pairing of chicken, mushrooms, onion, garlic, and pan juices. It sits somewhere between a weeknight chicken sauté, mushroom gravy, and a simple rice plate: familiar, warm, not fussy, and easy to build with good technique instead of heavy fat.",
+  "ingredientGroups": [
+    {
+      "title": "Jasmine Rice",
+      "items": [
+        {
+          "id": "jasmine-rice",
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "jasmine rice",
+          "prep": "rinsed until the water runs mostly clear"
+        },
+        {
+          "id": "water",
+          "amount": 2.25,
+          "unit": "cups",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "salt-rice",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Chicken and seasoning",
+      "items": [
+        {
+          "id": "chicken",
+          "amount": 1.25,
+          "unit": "pounds",
+          "item": "boneless skinless chicken breast or chicken tenders",
+          "prep": "cut into bite-size pieces"
+        },
+        {
+          "id": "salt-chicken",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "paprika",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "paprika",
+          "prep": ""
+        },
+        {
+          "id": "thyme",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "dried thyme",
+          "prep": "or 1 1/2 teaspoons fresh thyme leaves"
+        },
+        {
+          "id": "flour",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "flour",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Mushrooms and aromatics",
+      "items": [
+        {
+          "id": "olive-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "onion",
+          "amount": 1,
+          "unit": "medium",
+          "item": "onion",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "mushrooms",
+          "amount": 12,
+          "unit": "ounces",
+          "item": "mushrooms",
+          "prep": "sliced"
+        },
+        {
+          "id": "salt-mushrooms",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        }
+      ]
+    },
+    {
+      "title": "Sauce",
+      "items": [
+        {
+          "id": "chicken-stock",
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "chicken stock",
+          "prep": ""
+        },
+        {
+          "id": "soy-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "dijon-mustard",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "id": "worcestershire-sauce",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Worcestershire sauce",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Thickener and finish",
+      "items": [
+        {
+          "id": "cornstarch",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "cornstarch",
+          "prep": ""
+        },
+        {
+          "id": "cold-water",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "cold water",
+          "prep": ""
+        },
+        {
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "parsley",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh parsley",
+          "prep": "chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Rice",
+      "items": [
+        "Rinse the jasmine rice ({{quantity:jasmine-rice}}) until the water runs mostly clear. Add the rice, water ({{quantity:water}}), and kosher salt ({{quantity:salt-rice}}) to a saucepan. Bring to a boil, reduce to low, cover, and cook for 15 minutes.",
+        "Turn off the heat and let the rice sit, covered, for 10 minutes. Fluff with a fork."
+      ]
+    },
+    {
+      "title": "Season and Lightly Coat the Chicken",
+      "items": [
+        "In a bowl, combine the chicken ({{quantity:chicken}}), kosher salt ({{quantity:salt-chicken}}), black pepper ({{quantity:black-pepper}}), paprika ({{quantity:paprika}}), thyme ({{quantity:thyme}}), and flour ({{quantity:flour}}). Toss until the chicken is evenly coated."
+      ]
+    },
+    {
+      "title": "Brown the Chicken",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil}}) in a large skillet over medium-high heat. Add the chicken in a single layer and cook until lightly browned on the outside, about 3 to 4 minutes. The chicken does not need to be fully cooked yet.",
+        "Remove the chicken to a plate."
+      ]
+    },
+    {
+      "title": "Brown the Mushrooms and Onion",
+      "items": [
+        "Add the onion ({{quantity:onion}}), mushrooms ({{quantity:mushrooms}}), and kosher salt ({{quantity:salt-mushrooms}}) to the same skillet. Cook over medium-high heat until the mushrooms release their water, the water cooks off, and the mushrooms begin to brown, about 8 to 10 minutes.",
+        "Do not rush this step. The flavor comes from letting the mushrooms actually brown, not just soften."
+      ]
+    },
+    {
+      "title": "Build the Sauce",
+      "items": [
+        "Add the garlic ({{quantity:garlic}}). Cook for 30 seconds, stirring constantly.",
+        "Add the chicken stock ({{quantity:chicken-stock}}), low-sodium soy sauce ({{quantity:soy-sauce}}), Dijon mustard ({{quantity:dijon-mustard}}), and Worcestershire sauce ({{quantity:worcestershire-sauce}}). Scrape up the browned bits from the bottom of the pan.",
+        "Return the chicken and any juices to the skillet. Simmer for 5 to 7 minutes, until the chicken is cooked through."
+      ]
+    },
+    {
+      "title": "Thicken and Finish",
+      "items": [
+        "Stir together the cornstarch ({{quantity:cornstarch}}) and cold water ({{quantity:cold-water}}). Add the slurry to the skillet and simmer for 1 to 2 minutes, until the sauce lightly thickens.",
+        "Turn off the heat. Stir in the lemon juice ({{quantity:lemon-juice}}) and chopped fresh parsley ({{quantity:parsley}})."
+      ]
+    },
+    {
+      "title": "Serve",
+      "items": [
+        "Spoon the jasmine rice into bowls or onto plates. Top with the chicken, mushrooms, and sauce."
+      ]
+    }
+  ]
+}
