@@ -76,6 +76,18 @@
         "A higher C number does not automatically mean a recipe is forbidden. It means the recipe carries more dietary cholesterol and should be understood in context. A C5 dish, for example, may still fit into real life when it is surrounded by lower-C meals and not treated as an everyday pattern.",
         "The C-Scale is an estimate, not lab testing. It depends on ingredient quantities, serving size, and real-world assumptions. Its job is to make the cholesterol impact easier to see, not to turn cooking into math homework."
       ]
+    },
+    {
+      "id": "what-ldl-active-means",
+      "title": "What LDL Active Means",
+      "sortOrder": "",
+      "category": "",
+      "body": [
+        "LDL Active is separate from the C-Scale. The C-Scale estimates dietary cholesterol per serving. LDL Active looks at whether the recipe actively supports a better LDL pattern through its ingredients, structure, and cooking approach.",
+        "A recipe can be low in cholesterol without being especially LDL Active. Plain sugar, refined starch, or a mostly empty side dish may have little or no cholesterol, but that does not mean it is doing much useful work. LDL Active is meant to identify recipes that bring something positive to the table.",
+        "Recipes are more likely to be marked LDL Active when they lean on beans, lentils, whole grains, vegetables, herbs, spices, nuts, seeds, olive oil, and other unsaturated-fat or fiber-forward ingredients. Soluble fiber, legumes, and plant-heavy structure matter here because they support the overall eating pattern, not just the cholesterol count.",
+        "LDL Active is still a practical EWHF judgment, not a medical certification. It does not mean a recipe is medicine, and it does not promise a specific lab result. It means the recipe fits the project’s goal of cooking food that is satisfying, lower in cholesterol, and built around ingredients that help move the pattern in the right direction."
+      ]
     }
   ]
 }
