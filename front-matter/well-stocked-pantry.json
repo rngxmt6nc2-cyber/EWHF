@@ -1,0 +1,180 @@
+{
+  "id": "well-stocked-pantry",
+  "title": "The Well-Stocked Pantry",
+  "subtitle": "Useful staples to keep around so EWHF cooking is easier on an ordinary day.",
+  "items": [
+    {
+      "id": "stocks-and-broths",
+      "title": "Stocks and Broths",
+      "sortOrder": "",
+      "category": "",
+      "body": [
+        "Keep a few flavor-building liquids available. They make soups, stews, grains, sauces, beans, and pan reductions taste fuller without needing cream or heavy finishes.",
+        "• Chicken stock",
+        "• Beef stock",
+        "• Vegetable stock",
+        "• Bean broth",
+        "• Mushroom broth",
+        "• Low-sodium backup base"
+      ]
+    },
+    {
+      "id": "beans-lentils-and-legumes",
+      "title": "Beans, Lentils, and Legumes",
+      "sortOrder": "",
+      "category": "",
+      "body": [
+        "Beans and lentils are some of the most useful EWHF staples. They bring fiber, body, protein, and substance while keeping recipes satisfying and low in cholesterol.",
+        "• Dried black beans",
+        "• Dried chickpeas",
+        "• Dried cannellini or Great Northern beans",
+        "• Dried lentils",
+        "• Dried split peas",
+        "• A few cans of beans for backup"
+      ]
+    },
+    {
+      "id": "grains-rice-and-pasta",
+      "title": "Grains, Rice, and Pasta",
+      "sortOrder": "",
+      "category": "",
+      "body": [
+        "Grains, rice, and pasta turn vegetables, beans, sauces, and leftovers into actual meals. Keep a useful range, not every grain on earth.",
+        "• Jasmine rice",
+        "• Brown rice",
+        "• Barley",
+        "• Farro",
+        "• Bulgur",
+        "• Rolled oats",
+        "• Regular pasta",
+        "• Rice noodles"
+      ]
+    },
+    {
+      "id": "tomatoes-and-vegetables",
+      "title": "Tomatoes and Vegetables",
+      "sortOrder": "",
+      "category": "",
+      "body": [
+        "Shelf-stable and frozen vegetables make it easier to cook when fresh produce is low. Tomatoes, peppers, greens, mushrooms, peas, and corn can all turn a basic dish into dinner.",
+        "• Canned whole tomatoes",
+        "• Canned crushed tomatoes",
+        "• Tomato paste",
+        "• Roasted red peppers",
+        "• Frozen peas",
+        "• Frozen corn",
+        "• Frozen spinach",
+        "• Dried mushrooms"
+      ]
+    },
+    {
+      "id": "acid-and-brightness",
+      "title": "Acid and Brightness",
+      "sortOrder": "",
+      "category": "",
+      "body": [
+        "Acid keeps low-cholesterol food from tasting heavy or flat. Use it carefully at the end to brighten beans, soups, grains, vegetables, and sauces.",
+        "• Red wine vinegar",
+        "• White wine vinegar",
+        "• Rice vinegar",
+        "• Apple cider vinegar",
+        "• Lemons",
+        "• Limes",
+        "• Dijon mustard",
+        "• Pepperoncini or pickled peppers"
+      ]
+    },
+    {
+      "id": "savory-flavor-builders",
+      "title": "Savory Flavor Builders",
+      "sortOrder": "",
+      "category": "",
+      "body": [
+        "These ingredients add depth, salt, savoriness, richness, or sharpness in small amounts. They are useful when a dish needs more than salt but not more heaviness.",
+        "• Soy sauce",
+        "• Miso",
+        "• Nutritional yeast",
+        "• Tahini",
+        "• Capers",
+        "• Olives",
+        "• Hot sauce",
+        "• Chile crisp or chile oil, used carefully",
+        "• Worcestershire sauce, when the recipe allows it"
+      ]
+    },
+    {
+      "id": "spices-and-dry-seasonings",
+      "title": "Spices and Dry Seasonings",
+      "sortOrder": "",
+      "category": "",
+      "body": [
+        "A practical spice shelf gives the cook options without becoming clutter. These are the everyday seasonings that support many EWHF recipes.",
+        "• Kosher salt",
+        "• Black pepper",
+        "• Smoked paprika",
+        "• Sweet paprika",
+        "• Cumin",
+        "• Coriander",
+        "• Oregano",
+        "• Thyme",
+        "• Bay leaves",
+        "• Chili powder",
+        "• Cayenne",
+        "• Garlic powder",
+        "• Onion powder",
+        "• Curry powder"
+      ]
+    },
+    {
+      "id": "texture-helpers",
+      "title": "Texture Helpers",
+      "sortOrder": "",
+      "category": "",
+      "body": [
+        "Texture helpers make soups, stews, beans, vegetables, and bowls feel finished. They add crunch, chew, or contrast so the dish does not eat soft all the way through.",
+        "• Panko breadcrumbs",
+        "• Whole wheat breadcrumbs",
+        "• Cornmeal",
+        "• Masa harina",
+        "• Sesame seeds",
+        "• Pumpkin seeds",
+        "• Walnuts or almonds",
+        "• Crispy shallots or onions, used as a controlled garnish"
+      ]
+    },
+    {
+      "id": "freezer-staples",
+      "title": "Freezer Staples",
+      "sortOrder": "",
+      "category": "",
+      "body": [
+        "The freezer is part of the pantry. It lets future meals borrow time from past cooking, which is especially useful when recipes depend on stock, beans, sauces, or cooked grains.",
+        "• Portioned stock",
+        "• Cooked beans",
+        "• Cooked grains",
+        "• Breadcrumbs",
+        "• Sauces",
+        "• Roasted peppers",
+        "• Leftover soup or stew bases"
+      ]
+    },
+    {
+      "id": "fresh-staples-worth-replacing-often",
+      "title": "Fresh Staples Worth Replacing Often",
+      "sortOrder": "",
+      "category": "",
+      "body": [
+        "A few fresh ingredients are worth keeping in regular rotation. They make pantry cooking taste alive instead of stored.",
+        "• Garlic",
+        "• Onions",
+        "• Carrots",
+        "• Celery",
+        "• Parsley",
+        "• Scallions",
+        "• Cilantro, if used",
+        "• Fresh herbs",
+        "• Leafy greens"
+      ]
+    }
+  ]
+}
