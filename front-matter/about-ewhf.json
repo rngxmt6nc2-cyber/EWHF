@@ -63,6 +63,19 @@
         "Texture is the other big advantage. With dried beans, the cook can stop them when they are exactly right: creamy but intact for salads and bowls, softer for soups and stews, or fully collapsing when the beans are meant to thicken the dish. Canned beans are already cooked, so there is much less room to steer the result.",
         "Dried beans also create their own cooking broth. That broth brings body, starch, and flavor without cream, butter, or animal fat. In EWHF cooking, that is a major advantage. It turns a simple pot of beans into a base for soups, stews, rice dishes, sauces, and satisfying low-cholesterol meals."
       ]
+    },
+    {
+      "id": "the-c-scale",
+      "title": "The C-Scale",
+      "sortOrder": "",
+      "category": "",
+      "body": [
+        "The C-Scale is a completely made-up EWHF rating system. It is not an official medical scale, government standard, or nutrition-label category. It is simply a practical way to show estimated dietary cholesterol per serving in plain language.",
+        "Older nutrition guidance often treated dietary cholesterol as something to keep under a fixed daily number, commonly 300 mg per day. Current guidance is less focused on one universal limit and more focused on overall eating patterns, especially saturated fat, fiber, and the balance of foods over time.",
+        "EWHF still shows cholesterol because it is useful information. The C-Scale gives each recipe a simple rating from C0 through C5 based on estimated cholesterol per serving: C0 means 0 mg, C1 means 1 to 25 mg, C2 means 26 to 75 mg, C3 means 76 to 150 mg, C4 means 151 to 300 mg, and C5 means 301 mg or more.",
+        "A higher C number does not automatically mean a recipe is forbidden. It means the recipe carries more dietary cholesterol and should be understood in context. A C5 dish, for example, may still fit into real life when it is surrounded by lower-C meals and not treated as an everyday pattern.",
+        "The C-Scale is an estimate, not lab testing. It depends on ingredient quantities, serving size, and real-world assumptions. Its job is to make the cholesterol impact easier to see, not to turn cooking into math homework."
+      ]
     }
   ]
 }
