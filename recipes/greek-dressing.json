@@ -1,0 +1,135 @@
+{
+  "id": "greek-dressing",
+  "title": "Greek Dressing",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Sauces & Bases",
+  "displayCategory": "Sauces & Bases",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients. The vinegar, lemon juice, acids, seasonings, aquafaba, mustard, nutritional yeast, and olive oil contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the dressing is plant-based, uses extra-virgin olive oil as the fat source, and gets body from aquafaba and emulsion technique rather than dairy, saturated animal fat, or cholesterol-containing ingredients.",
+  "yield": 8,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Greek diner dressing is a sharp, oregano-heavy salad dressing with enough body to cling to cold lettuce, tomatoes, onions, cucumbers, beans, or grilled vegetables. The classic flavor lands somewhere between vinaigrette and creamy dressing: tangy, herbal, garlicky, and rounded without needing dairy. This version uses a careful acid blend, aquafaba, and a strong emulsion to create that familiar diner-style cling while keeping the dressing bright and clean.",
+  "ingredientGroups": [
+    {
+      "title": "Acid and seasoning base",
+      "items": [
+        {
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "red wine vinegar",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "malic acid",
+          "prep": ""
+        },
+        {
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "lactic acid powder",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "dried oregano",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "garlic powder",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "onion powder",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "nutritional yeast",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Emulsion",
+      "items": [
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "aquafaba",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "cold water",
+          "prep": ""
+        },
+        {
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Build the acid base",
+      "items": [
+        "Combine 3 tablespoons red wine vinegar, 1 tablespoon fresh lemon juice, ⅛ teaspoon malic acid, ⅛ teaspoon lactic acid powder, 1 teaspoon dried oregano, ½ teaspoon garlic powder, ½ teaspoon onion powder, ½ teaspoon fine sea salt, ¼ teaspoon black pepper, 1 teaspoon nutritional yeast, and ½ teaspoon Dijon mustard in a tall blending jar.",
+        "Whisk the mixture thoroughly and let it stand for 5 minutes so the dried oregano hydrates and the powdered seasonings dissolve into the acid base."
+      ]
+    },
+    {
+      "title": "Emulsify the dressing",
+      "items": [
+        "Add ¼ cup aquafaba and 1 tablespoon cold water to the acid base. Blend with an immersion blender for 10 seconds to aerate and loosen the mixture.",
+        "With the immersion blender running, slowly stream in 3 tablespoons extra-virgin olive oil. Continue blending for 20 to 30 seconds, until the dressing turns opaque, creamy, and lightly thickened."
+      ]
+    },
+    {
+      "title": "Chill and set",
+      "items": [
+        "Transfer the dressing to a jar and refrigerate for at least 1 hour before serving. The rest allows the oregano to soften, the acid to round out, and the emulsion to develop a diner-style cling.",
+        "Shake well before serving. Refrigerate for up to 5 days."
+      ]
+    }
+  ]
+}
