@@ -1,0 +1,294 @@
+{
+  "id": "pasta-e-fagioli",
+  "title": "Pasta e Fagioli",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The cannellini beans, ditalini, escarole, vegetables, tomato, herbs, vegetable stock, vinegar, and olive oil contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the recipe is built around beans, escarole, vegetables, tomato, herbs, vegetable stock, and extra-virgin olive oil, with soluble fiber from the beans and flavor developed through aromatics, tomato paste browning, herb blooming, and bean-starch thickening rather than saturated fat or cholesterol-containing ingredients.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Pasta e fagioli is one of the great Italian bean-and-pasta dishes, built from pantry staples and shaped by region, household, and memory. Some versions are brothy, some are nearly stew-thick, some lean red with tomato, and others stay pale and bean-forward. This version sits in the Italian-American comfort zone: creamy cannellini beans, ditalini, escarole, garlic, tomato, rosemary, and a broth thickened by the beans themselves rather than cream or cheese.",
+  "ingredientGroups": [
+    {
+      "title": "Bean Base",
+      "items": [
+        {
+          "id": "dried-cannellini-beans",
+          "amount": 1.25,
+          "unit": "cups",
+          "item": "dried cannellini beans",
+          "prep": ""
+        },
+        {
+          "id": "soaking-water",
+          "amount": 6,
+          "unit": "cups",
+          "item": "water",
+          "prep": "for soaking"
+        },
+        {
+          "id": "bean-cooking-stock",
+          "amount": 6,
+          "unit": "cups",
+          "item": "vegetable stock",
+          "prep": "for cooking the beans"
+        },
+        {
+          "id": "bay-leaf",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        },
+        {
+          "id": "smashed-garlic",
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "smashed"
+        },
+        {
+          "id": "salt-beans",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Soup Base",
+      "items": [
+        {
+          "id": "olive-oil-base",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        },
+        {
+          "id": "onion",
+          "amount": 1,
+          "unit": "medium",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "carrot",
+          "amount": 1,
+          "unit": "medium",
+          "item": "carrot",
+          "prep": "finely diced"
+        },
+        {
+          "id": "celery",
+          "amount": 1,
+          "unit": "rib",
+          "item": "celery",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 4,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "salt-soup",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "red-pepper-flakes",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "crushed red pepper flakes",
+          "prep": ""
+        },
+        {
+          "id": "tomato-paste",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "rosemary",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fresh rosemary",
+          "prep": "minced"
+        },
+        {
+          "id": "oregano",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fresh oregano",
+          "prep": "minced"
+        },
+        {
+          "id": "parsley-stems",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh parsley stems",
+          "prep": "minced"
+        },
+        {
+          "id": "vegetable-stock",
+          "amount": 4,
+          "unit": "cups",
+          "item": "vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "crushed-tomatoes",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "crushed tomatoes",
+          "prep": ""
+        },
+        {
+          "id": "reserved-bean-cooking-liquid",
+          "amount": 2,
+          "unit": "cups",
+          "item": "reserved bean cooking liquid",
+          "prep": ""
+        },
+        {
+          "id": "mashed-cannellini-beans",
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "cooked cannellini beans from the Bean Base",
+          "prep": "mashed lightly"
+        },
+        {
+          "id": "whole-cannellini-beans",
+          "amount": 2.5,
+          "unit": "cups",
+          "item": "cooked cannellini beans from the Bean Base",
+          "prep": "left whole"
+        }
+      ]
+    },
+    {
+      "title": "Pasta, Greens, and Finish",
+      "items": [
+        {
+          "id": "ditalini",
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "ditalini",
+          "prep": ""
+        },
+        {
+          "id": "escarole",
+          "amount": 4,
+          "unit": "cups",
+          "item": "escarole",
+          "prep": "chopped"
+        },
+        {
+          "id": "red-wine-vinegar",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "red wine vinegar",
+          "prep": ""
+        },
+        {
+          "id": "parsley",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh parsley",
+          "prep": "minced"
+        },
+        {
+          "id": "olive-oil-finish",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "extra-virgin olive oil",
+          "prep": "for finishing"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Soak the Beans",
+      "items": [
+        "Place the dried cannellini beans ({{quantity:dried-cannellini-beans}}) in a large bowl with the soaking water ({{quantity:soaking-water}}). Soak overnight.",
+        "Drain and rinse the beans."
+      ]
+    },
+    {
+      "title": "Cook the Beans",
+      "items": [
+        "Place the soaked beans in a pot with the vegetable stock ({{quantity:bean-cooking-stock}}), bay leaf ({{quantity:bay-leaf}}), smashed garlic ({{quantity:smashed-garlic}}), and kosher salt ({{quantity:salt-beans}}).",
+        "Bring to a gentle simmer and cook until tender, 60 to 90 minutes. The beans should be creamy inside but not falling apart.",
+        "Drain the beans, reserving the bean cooking liquid ({{quantity:reserved-bean-cooking-liquid}}). Discard the bay leaf and smashed garlic.",
+        "Mash the cooked cannellini beans ({{quantity:mashed-cannellini-beans}}) lightly with a fork. Leave the remaining cooked cannellini beans ({{quantity:whole-cannellini-beans}}) whole."
+      ]
+    },
+    {
+      "title": "Build the Soup Base",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil-base}}) in a heavy soup pot over medium heat.",
+        "Add the onion ({{quantity:onion}}), carrot ({{quantity:carrot}}), and celery ({{quantity:celery}}). Cook for 8 to 10 minutes, stirring often, until the vegetables soften and the onion turns lightly golden at the edges.",
+        "Add the minced garlic ({{quantity:garlic}}), kosher salt ({{quantity:salt-soup}}), black pepper ({{quantity:black-pepper}}), and crushed red pepper flakes ({{quantity:red-pepper-flakes}}). Cook for 1 minute.",
+        "Add the tomato paste ({{quantity:tomato-paste}}). Cook for 3 to 4 minutes, stirring constantly, until the tomato paste darkens slightly and begins to stick to the bottom of the pot.",
+        "Add the rosemary ({{quantity:rosemary}}), oregano ({{quantity:oregano}}), and parsley stems ({{quantity:parsley-stems}}). Stir for 30 seconds."
+      ]
+    },
+    {
+      "title": "Simmer the Soup",
+      "items": [
+        "Add the vegetable stock ({{quantity:vegetable-stock}}), crushed tomatoes ({{quantity:crushed-tomatoes}}), reserved bean cooking liquid ({{quantity:reserved-bean-cooking-liquid}}), mashed cannellini beans ({{quantity:mashed-cannellini-beans}}), and whole cannellini beans ({{quantity:whole-cannellini-beans}}).",
+        "Bring to a simmer. Cook uncovered for 20 minutes, stirring occasionally, until the broth thickens slightly and the beans taste fully integrated."
+      ]
+    },
+    {
+      "title": "Cook the Pasta and Greens",
+      "items": [
+        "Add the ditalini ({{quantity:ditalini}}) directly to the soup.",
+        "Simmer for 4 minutes, stirring often so the pasta does not stick to the bottom.",
+        "Add the escarole ({{quantity:escarole}}).",
+        "Continue simmering for 4 to 6 minutes, until the ditalini is just tender and the escarole is wilted but still visible in the soup.",
+        "If the soup gets too thick before the pasta is done, add vegetable stock, 1/4 cup at a time."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Turn off the heat.",
+        "Stir in the red wine vinegar ({{quantity:red-wine-vinegar}}), minced parsley ({{quantity:parsley}}), and finishing olive oil ({{quantity:olive-oil-finish}}).",
+        "Rest for 5 minutes before serving so the pasta, beans, greens, and broth settle together."
+      ]
+    },
+    {
+      "title": "Final Texture",
+      "items": [
+        "The finished soup should be thick, glossy, and spoonable, not watery. The mashed beans should give the broth body without making it feel like puree. The ditalini should stay distinct, the escarole should remain visible, and the beans should carry most of the creaminess."
+      ]
+    },
+    {
+      "title": "Leftover Note",
+      "items": [
+        "The ditalini will continue absorbing liquid as the soup sits. When reheating leftovers, loosen the soup with water or vegetable stock, a few tablespoons at a time, until it returns to a spoonable texture."
+      ]
+    }
+  ]
+}
