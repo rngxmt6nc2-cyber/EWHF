@@ -1,0 +1,236 @@
+{
+  "id": "lentil-patties",
+  "title": "Lentil Patties",
+  "section": "Mains",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The lentils, mushrooms, water chestnuts, oats, flaxseed, vegetables, olive oil, seasonings, lemon juice, and herbs contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the recipe is built around lentils, oats, flaxseed, mushrooms, vegetables, and unsaturated oil, with soluble fiber, legume structure, and flavor developed through moisture control, browning, and seasoning rather than saturated fat or cholesterol-containing ingredients.",
+  "yield": 10,
+  "yieldUnit": "patties",
+  "tags": [],
+  "intro": "Lentil patties do not need to pretend to be anything else. Around the world, cooks have long shaped legumes into simple cakes, fritters, cutlets, and patties because they are inexpensive, filling, and satisfying when browned well. This is just a really good lentil patty.",
+  "ingredientGroups": [
+    {
+      "title": "Lentils",
+      "items": [
+        {
+          "id": "red-lentils",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "red lentils",
+          "prep": "rinsed"
+        },
+        {
+          "id": "green-or-brown-lentils",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "green or brown lentils",
+          "prep": "rinsed"
+        },
+        {
+          "id": "water",
+          "amount": 2,
+          "unit": "cups",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt-lentils",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Mushroom Base",
+      "items": [
+        {
+          "id": "olive-oil-mushrooms",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "cremini-mushrooms",
+          "amount": 8,
+          "unit": "ounces",
+          "item": "cremini mushrooms",
+          "prep": "finely chopped"
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "low-sodium-soy-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "ground-cumin",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "id": "smoked-paprika",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "id": "ground-coriander",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "ground coriander",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Binder and Texture",
+      "items": [
+        {
+          "id": "old-fashioned-oats",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "old-fashioned oats",
+          "prep": "pulsed into coarse oat flour"
+        },
+        {
+          "id": "ground-flaxseed",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "ground flaxseed",
+          "prep": ""
+        },
+        {
+          "id": "water-flaxseed",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "water-chestnuts",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "canned sliced water chestnuts",
+          "prep": "drained, patted dry, and finely diced"
+        },
+        {
+          "id": "scallions",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "scallions",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "fresh-parsley",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh parsley",
+          "prep": "chopped"
+        },
+        {
+          "id": "lemon-zest",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "lemon zest",
+          "prep": ""
+        },
+        {
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "lemon juice",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Searing",
+      "items": [
+        {
+          "id": "olive-oil-searing",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Lentils",
+      "items": [
+        "Combine the red lentils ({{quantity:red-lentils}}), green or brown lentils ({{quantity:green-or-brown-lentils}}), water ({{quantity:water}}), and kosher salt ({{quantity:kosher-salt-lentils}}) in a medium saucepan.",
+        "Bring to a boil, then reduce to a simmer. Cook for 18 to 22 minutes, until the red lentils have collapsed and the green or brown lentils are tender but still mostly intact.",
+        "Drain thoroughly in a fine-mesh strainer. Spread the lentils on a plate or small sheet pan and let them steam off for 10 minutes. The mixture should be warm, thick, and not watery."
+      ]
+    },
+    {
+      "title": "Cook the Mushroom Base",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil-mushrooms}}) in a wide skillet over medium-high heat.",
+        "Add the cremini mushrooms ({{quantity:cremini-mushrooms}}) and cook for 6 to 8 minutes, stirring often, until they release their liquid and the pan goes nearly dry.",
+        "Add the yellow onion ({{quantity:yellow-onion}}) and cook for another 4 to 5 minutes, until the onion softens and the mushroom mixture begins to brown.",
+        "Add the garlic ({{quantity:garlic}}), low-sodium soy sauce ({{quantity:low-sodium-soy-sauce}}), ground cumin ({{quantity:ground-cumin}}), smoked paprika ({{quantity:smoked-paprika}}), ground coriander ({{quantity:ground-coriander}}), and black pepper ({{quantity:black-pepper}}). Cook for 1 to 2 minutes more, until the mixture is fragrant and dry enough to mound on a spoon without leaking liquid.",
+        "Transfer the mushroom base to a mixing bowl and let cool for 10 minutes."
+      ]
+    },
+    {
+      "title": "Build the Binder",
+      "items": [
+        "In a small bowl, stir together the ground flaxseed ({{quantity:ground-flaxseed}}) and water ({{quantity:water-flaxseed}}). Let stand for 5 minutes, until slightly thickened.",
+        "Add the drained lentils to the mushroom base. Mash about half of the mixture against the side of the bowl with a fork or potato masher. Leave plenty of whole lentils intact.",
+        "Add the oat flour ({{quantity:old-fashioned-oats}}) and flaxseed mixture. Mix firmly until the patty mixture holds together when pressed.",
+        "Fold in the water chestnuts ({{quantity:water-chestnuts}}), scallions ({{quantity:scallions}}), fresh parsley ({{quantity:fresh-parsley}}), lemon zest ({{quantity:lemon-zest}}), and lemon juice ({{quantity:lemon-juice}}). Do not mash after adding the water chestnuts. They should stay crisp."
+      ]
+    },
+    {
+      "title": "Chill and Shape",
+      "items": [
+        "Refrigerate the mixture for 30 minutes.",
+        "Divide into 10 portions. Shape into patties about 2 1/2 inches wide and 1/2 inch thick. Press the edges firmly so they do not crumble in the pan."
+      ]
+    },
+    {
+      "title": "Sear the Patties",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil-searing}}) in a wide skillet over medium heat.",
+        "Add the patties in batches, leaving space between them. Cook for 3 to 4 minutes per side, until browned and set. Do not move them too early. Let the first side form a crust before flipping.",
+        "Transfer to a rack or plate and let stand for 5 minutes before serving."
+      ]
+    }
+  ]
+}
