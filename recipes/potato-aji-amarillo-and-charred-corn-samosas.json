@@ -1,0 +1,255 @@
+{
+  "id": "potato-aji-amarillo-and-charred-corn-samosas",
+  "title": "Potato, Aji Amarillo, and Charred Corn Samosas",
+  "section": "Small Plates",
+  "sortOrder": 0,
+  "category": "Small Plates",
+  "displayCategory": "Small Plates",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The flour, potatoes, corn, olive oil, aromatics, spices, lime juice, and herbs contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the recipe uses a cholesterol-free vegetable filling, whole-grain flour, corn, potatoes, herbs, spices, and unsaturated oil, with flavor and texture built through charring, spice blooming, steam-drying, and high-heat baking rather than saturated fat or cholesterol-containing ingredients.",
+  "yield": 8,
+  "yieldUnit": "samosas",
+  "tags": [],
+  "intro": "A good samosa is all about contrast: a crisp, sturdy shell wrapped around a warm, savory filling that is bold enough to stand on its own. Across South Asian cooking, samosas show up as snacks, street food, party food, and comfort food, with each kitchen shaping the filling to its own taste. They are familiar, portable, and satisfying, but they still leave plenty of room for a cook to make them personal.",
+  "ingredientGroups": [
+    {
+      "title": "Dough",
+      "items": [
+        {
+          "id": "all-purpose-flour",
+          "amount": 1,
+          "unit": "cup",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "id": "whole-wheat-pastry-flour",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "whole wheat pastry flour",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-dough",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "olive-oil-dough",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "hot-water-dough",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "hot water",
+          "prep": "plus 1 tablespoon more if needed"
+        }
+      ]
+    },
+    {
+      "title": "Filling",
+      "items": [
+        {
+          "id": "yukon-gold-potatoes",
+          "amount": 1,
+          "unit": "pound",
+          "item": "Yukon Gold potatoes",
+          "prep": "peeled and cut into 1-inch chunks"
+        },
+        {
+          "id": "fine-sea-salt-filling",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": "divided"
+        },
+        {
+          "id": "corn-kernels",
+          "amount": 1,
+          "unit": "cup",
+          "item": "corn kernels",
+          "prep": "fresh or frozen and fully thawed"
+        },
+        {
+          "id": "olive-oil-filling",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "fresh-ginger",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "fresh ginger",
+          "prep": "minced"
+        },
+        {
+          "id": "garlic",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "cumin-seeds",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "cumin seeds",
+          "prep": ""
+        },
+        {
+          "id": "ground-coriander",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "ground coriander",
+          "prep": ""
+        },
+        {
+          "id": "ground-turmeric",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "ground turmeric",
+          "prep": ""
+        },
+        {
+          "id": "garam-masala",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "garam masala",
+          "prep": ""
+        },
+        {
+          "id": "aji-amarillo-paste",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "aji amarillo paste",
+          "prep": ""
+        },
+        {
+          "id": "water-filling",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "fresh-lime-juice",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh lime juice",
+          "prep": ""
+        },
+        {
+          "id": "fresh-cilantro",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fresh cilantro",
+          "prep": "chopped"
+        }
+      ]
+    },
+    {
+      "title": "Assembly and Baking",
+      "items": [
+        {
+          "id": "olive-oil-brushing",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": "for brushing"
+        },
+        {
+          "id": "water-sealing",
+          "amount": 0,
+          "unit": "",
+          "item": "water",
+          "prep": "for sealing"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Make the Dough",
+      "items": [
+        "Combine the all-purpose flour ({{quantity:all-purpose-flour}}), whole wheat pastry flour ({{quantity:whole-wheat-pastry-flour}}), and fine sea salt ({{quantity:fine-sea-salt-dough}}) in a medium bowl.",
+        "Add the olive oil ({{quantity:olive-oil-dough}}) and rub it into the flour with your fingertips until the mixture looks slightly sandy and holds together in small clumps when squeezed.",
+        "Add the hot water ({{quantity:hot-water-dough}}) and mix until a firm dough forms. If dry flour remains, add 1 tablespoon more hot water.",
+        "Knead the dough in the bowl for 2 minutes, just until smooth and cohesive.",
+        "Cover and rest for 30 minutes."
+      ]
+    },
+    {
+      "title": "Cook the Potatoes",
+      "items": [
+        "Place the potatoes ({{quantity:yukon-gold-potatoes}}) in a saucepan and cover with cold water by 1 inch. Add 1/2 teaspoon of the fine sea salt.",
+        "Bring to a boil, then reduce to a steady simmer and cook until the potatoes are tender, 12 to 15 minutes.",
+        "Drain well and let the potatoes steam-dry for 5 minutes.",
+        "Rough-mash the potatoes so they are broken up but still chunky. Do not mash smooth."
+      ]
+    },
+    {
+      "title": "Char the Corn",
+      "items": [
+        "Heat a dry skillet over medium-high heat.",
+        "Add the corn kernels ({{quantity:corn-kernels}}) and cook, stirring only occasionally, until browned in spots and lightly chewy, 5 to 7 minutes.",
+        "Transfer the charred corn to a plate."
+      ]
+    },
+    {
+      "title": "Build the Filling",
+      "items": [
+        "Add the olive oil ({{quantity:olive-oil-filling}}) to the skillet and reduce the heat to medium.",
+        "Add the onion ({{quantity:yellow-onion}}) and the remaining 1/2 teaspoon fine sea salt. Cook until softened and lightly browned at the edges, 5 to 6 minutes.",
+        "Add the ginger ({{quantity:fresh-ginger}}), garlic ({{quantity:garlic}}), and cumin seeds ({{quantity:cumin-seeds}}). Cook for 1 minute, stirring constantly.",
+        "Add the ground coriander ({{quantity:ground-coriander}}), turmeric ({{quantity:ground-turmeric}}), and garam masala ({{quantity:garam-masala}}). Cook for 30 seconds to bloom the spices.",
+        "Add the aji amarillo paste ({{quantity:aji-amarillo-paste}}) and water ({{quantity:water-filling}}). Stir until the paste loosens and coats the aromatics.",
+        "Add the mashed potatoes and charred corn. Fold together until the filling is evenly seasoned.",
+        "Cook for 2 to 3 minutes, stirring and pressing gently, until the filling is dry, cohesive, and no longer steamy-wet.",
+        "Remove from the heat. Stir in the lime juice ({{quantity:fresh-lime-juice}}) and cilantro ({{quantity:fresh-cilantro}}).",
+        "Let the filling cool completely before assembling."
+      ]
+    },
+    {
+      "title": "Shape the Samosas",
+      "items": [
+        "Heat the oven to 425°F. Place a sheet pan in the oven while it heats.",
+        "Divide the rested dough into 4 equal pieces.",
+        "Roll each piece into a thin oval about 7 inches long and 5 inches wide.",
+        "Cut each oval in half crosswise to make 8 half-oval pieces.",
+        "Working with one piece at a time, brush the straight cut edge lightly with water.",
+        "Fold the dough into a cone, overlapping the straight edges and pressing firmly to seal.",
+        "Fill the cone with about 3 tablespoons of cooled potato-corn filling.",
+        "Brush the open edge lightly with water, press closed, and crimp firmly with a fork.",
+        "Repeat with the remaining dough and filling."
+      ]
+    },
+    {
+      "title": "Bake",
+      "items": [
+        "Place the samosas on a piece of parchment.",
+        "Brush the tops lightly with the olive oil ({{quantity:olive-oil-brushing}}).",
+        "Carefully remove the hot sheet pan from the oven.",
+        "Slide the parchment with the samosas onto the hot pan.",
+        "Bake for 18 to 22 minutes, turning the pan once, until the samosas are browned, crisp at the edges, and lightly blistered.",
+        "Rest for 5 minutes before serving."
+      ]
+    }
+  ]
+}
