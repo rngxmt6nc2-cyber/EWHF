@@ -5,167 +5,234 @@
   "sortOrder": 0,
   "category": "Soups & Stews",
   "displayCategory": "Soups & Stews",
-  "cScale": 0,
-  "ldlActive": true,
-  "cScaleSummary": "C0 because the recipe contains no meaningful cholesterol contributors. The broth is vegetable-based and the meatballs are explicitly plant-based, while the barley, vegetables, kale, olive oil, lemon zest, and herbs contribute 0 mg cholesterol.",
-  "ldlActiveSummary": "LDL-Active because the soup is built around vegetables, greens, barley, and plant-based protein, making it fiber-forward and supportive of LDL lowering. Flavor comes from aromatics, broth, herbs, and lemon rather than saturated fat.",
-  "yield": 4,
+  "cScale": 2,
+  "ldlActive": false,
+  "cScaleSummary": "C2 because lean ground chicken is the primary cholesterol-contributing ingredient, with a small amount of Parmesan contributing only a minor additional amount. The egg white, breadcrumbs, vegetables, pasta, escarole, olive oil, lemon juice, herbs, and seasonings contribute little to no cholesterol, keeping the estimated cholesterol per serving within the C2 range.",
+  "ldlActiveSummary": "Not LDL-Active because the recipe is centered on animal protein. It remains a lower-cholesterol C2 soup because it uses lean chicken, egg white, broth, vegetables, greens, and a restrained amount of Parmesan while avoiding butter, cream, high-fat meat, and heavy cheese, but it does not qualify as actively LDL-lowering under the EWHF standard.",
+  "yield": 6,
   "yieldUnit": "servings",
   "tags": [],
-  "intro": "Italian Wedding Soup comes from the Italian concept of “minestra maritata,” or “married soup,” where greens and meat come together in balance rather than referring to weddings themselves. This version follows that tradition with a clear, aromatic broth, tender grains, and hearty meatballs, creating a rustic, comforting soup rooted in Southern Italian home cooking.",
+  "intro": "Italian wedding soup comes from the older idea of minestra maritata, or married soup, where greens and meat are brought together in one pot. The American-Italian version became lighter, smaller, and more broth-forward, with tiny meatballs, tender greens, and small pasta. A good version should feel clear, savory, and restorative rather than heavy. The meatballs bring the richness, the greens keep it grounded, and the broth ties the whole thing together.",
   "ingredientGroups": [
     {
-      "title": "Cooked Barley",
+      "title": "Meatballs",
       "items": [
         {
-          "amount": 0.5,
-          "unit": "cup",
-          "item": "pearl barley",
-          "prep": "rinsed well"
+          "id": "ground-chicken-breast",
+          "amount": 12,
+          "unit": "ounces",
+          "item": "ground chicken breast",
+          "prep": ""
         },
         {
-          "amount": 1.5,
-          "unit": "cups",
-          "item": "water",
+          "id": "egg-white",
+          "amount": 1,
+          "unit": "large",
+          "item": "egg white",
+          "prep": ""
+        },
+        {
+          "id": "plain-breadcrumbs",
+          "amount": 0.333,
+          "unit": "cup",
+          "item": "plain breadcrumbs",
+          "prep": ""
+        },
+        {
+          "id": "parmesan-meatballs",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "Parmesan cheese",
+          "prep": "finely grated"
+        },
+        {
+          "id": "parsley-meatballs",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh parsley",
+          "prep": "minced"
+        },
+        {
+          "id": "garlic-meatballs",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "fine-sea-salt-meatballs",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-meatballs",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "ground-nutmeg",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "ground nutmeg",
           "prep": ""
         }
       ]
     },
     {
-      "title": "Aromatic Base",
+      "title": "Soup Base",
       "items": [
         {
+          "id": "olive-oil",
           "amount": 1,
           "unit": "tablespoon",
-          "item": "extra-virgin olive oil",
+          "item": "olive oil",
           "prep": ""
         },
         {
+          "id": "yellow-onion",
           "amount": 1,
-          "unit": "small",
-          "item": "onion",
+          "unit": "medium",
+          "item": "yellow onion",
           "prep": "finely diced"
         },
         {
+          "id": "carrot",
           "amount": 1,
           "unit": "medium",
           "item": "carrot",
-          "prep": "diced"
+          "prep": "finely diced"
         },
         {
+          "id": "celery",
           "amount": 1,
           "unit": "stalk",
           "item": "celery",
-          "prep": "diced"
+          "prep": "finely diced"
         },
         {
-          "amount": 0,
-          "unit": "",
-          "item": "Pinch of salt",
-          "prep": ""
-        },
-        {
+          "id": "garlic-soup-base",
           "amount": 2,
           "unit": "cloves",
           "item": "garlic",
           "prep": "minced"
         },
         {
+          "id": "fine-sea-salt-soup-base",
           "amount": 0.5,
           "unit": "teaspoon",
-          "item": "dried oregano",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-soup-base",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
           "prep": ""
         }
       ]
     },
     {
-      "title": "Broth and Body",
+      "title": "Broth, Pasta, Greens, and Finish",
       "items": [
         {
-          "amount": 4,
+          "id": "chicken-stock",
+          "amount": 8,
           "unit": "cups",
-          "item": "low-sodium veggie broth",
+          "item": "chicken stock",
           "prep": ""
         },
         {
+          "id": "parmesan-rind",
+          "amount": 1,
+          "unit": "small piece",
+          "item": "Parmesan rind",
+          "prep": "about 2 inches"
+        },
+        {
+          "id": "acini-di-pepe",
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "acini di pepe",
+          "prep": ""
+        },
+        {
+          "id": "escarole",
           "amount": 6,
-          "unit": "",
-          "item": "plant-based meatballs",
-          "prep": ""
-        }
-      ]
-    },
-    {
-      "title": "Greens and Finish",
-      "items": [
-        {
-          "amount": 2,
-          "unit": "packed cups",
-          "item": "chopped kale",
-          "prep": ""
-        },
-        {
-          "amount": 0,
-          "unit": "",
-          "item": "Cooked barley",
-          "prep": ""
-        },
-        {
-          "amount": 0,
-          "unit": "",
-          "item": "Zest of ½ lemon",
-          "prep": ""
-        },
-        {
-          "amount": 0,
-          "unit": "",
-          "item": "Small handful fresh parsley",
+          "unit": "cups",
+          "item": "escarole",
           "prep": "chopped"
         },
         {
-          "amount": 0,
-          "unit": "",
-          "item": "Salt and cracked black pepper",
-          "prep": "to taste"
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "parsley-finish",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh parsley",
+          "prep": "minced"
         }
       ]
     }
   ],
   "stepGroups": [
     {
-      "title": "Cook the Barley",
+      "title": "Make the Meatballs",
       "items": [
-        "In a small saucepan, combine the pearl barley and water. Bring to a boil, then reduce to a simmer and cook until tender, about 25–30 minutes. Drain any excess water and set aside."
+        "Combine the ground chicken breast ({{quantity:ground-chicken-breast}}), egg white ({{quantity:egg-white}}), plain breadcrumbs ({{quantity:plain-breadcrumbs}}), Parmesan cheese ({{quantity:parmesan-meatballs}}), parsley ({{quantity:parsley-meatballs}}), garlic ({{quantity:garlic-meatballs}}), fine sea salt ({{quantity:fine-sea-salt-meatballs}}), black pepper ({{quantity:black-pepper-meatballs}}), and ground nutmeg ({{quantity:ground-nutmeg}}) in a bowl.",
+        "Mix gently until just combined. Do not overwork the mixture or the meatballs will turn dense.",
+        "Roll into small meatballs, about 3/4 inch across. The recipe should make roughly 36 to 42 small meatballs.",
+        "Place the meatballs on a parchment-lined tray and refrigerate for 15 minutes while the soup base is started."
       ]
     },
     {
-      "title": "Build the Aromatic Base",
+      "title": "Build the Soup Base",
       "items": [
-        "In a soup pot, heat the olive oil over medium heat. Add the onion, carrot, celery, and a pinch of salt. Cook until softened, about 6–7 minutes. Stir in the garlic and oregano and cook for 1 minute more to bloom the aromatics."
+        "Heat the olive oil ({{quantity:olive-oil}}) in a large soup pot over medium heat.",
+        "Add the onion ({{quantity:yellow-onion}}), carrot ({{quantity:carrot}}), celery ({{quantity:celery}}), fine sea salt ({{quantity:fine-sea-salt-soup-base}}), and black pepper ({{quantity:black-pepper-soup-base}}).",
+        "Cook for 8 to 10 minutes, stirring often, until the vegetables soften and the onion turns translucent but not browned.",
+        "Add the garlic ({{quantity:garlic-soup-base}}) and cook for 1 minute."
       ]
     },
     {
-      "title": "Simmer the Broth",
+      "title": "Start the Broth",
       "items": [
-        "Add the veggie broth to the pot and bring to a gentle simmer."
+        "Add the chicken stock ({{quantity:chicken-stock}}) and Parmesan rind ({{quantity:parmesan-rind}}).",
+        "Bring to a gentle simmer."
       ]
     },
     {
       "title": "Cook the Meatballs",
       "items": [
-        "Add the meatballs to the pot and simmer for 10–12 minutes, following package directions if they differ, until heated through and integrated into the broth."
+        "Lower the heat so the soup is barely simmering.",
+        "Add the chilled meatballs one at a time.",
+        "Simmer gently for 8 to 10 minutes, until the meatballs are cooked through and firm.",
+        "Do not boil hard. A rough boil can make the meatballs tough and cloud the broth."
       ]
     },
     {
-      "title": "Add the Greens and Barley",
+      "title": "Finish the Soup",
       "items": [
-        "Stir in the chopped kale and the cooked barley. Simmer for another 5 minutes until the greens are wilted and the soup is cohesive."
+        "Add the acini di pepe ({{quantity:acini-di-pepe}}) and simmer until just tender, about 8 to 9 minutes.",
+        "Add the escarole ({{quantity:escarole}}) and simmer for 3 to 4 minutes, until wilted and tender but still green.",
+        "Remove the Parmesan rind.",
+        "Stir in the lemon juice ({{quantity:lemon-juice}}) and parsley ({{quantity:parsley-finish}}).",
+        "Taste and adjust only with salt or lemon juice as needed."
       ]
     },
     {
-      "title": "Finish and Serve",
+      "title": "Serve",
       "items": [
-        "Add the lemon zest, parsley, black pepper, and adjust salt to taste. Ladle into bowls, ensuring each serving contains greens, barley, and meatballs."
+        "Serve hot, with small meatballs, escarole, pasta, and clear broth in each bowl."
       ]
     }
   ]
