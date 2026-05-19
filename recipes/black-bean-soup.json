@@ -1,0 +1,220 @@
+{
+  "id": "black-bean-soup",
+  "title": "Black Bean Soup",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The black beans, vegetables, olive oil, vegetable stock, herbs, spices, vinegar, lime juice, cilantro, and scallion contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the soup is built around dried black beans, a legume base rich in soluble fiber, with vegetables, aromatics, herbs, spices, and unsaturated oil providing flavor and structure without cholesterol-containing ingredients.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Black bean soup has deep roots across Latin American and Caribbean cooking, with each region shaping the pot around its own aromatics, chiles, herbs, and finishing acids. Cuban versions often lean on sofrito and oregano, Mexican versions may bring in dried or fresh chiles, and Caribbean versions can move toward allspice, thyme, or citrus. A good black bean soup should be dark, savory, and earthy, with enough brightness at the end to keep it from feeling heavy.",
+  "ingredientGroups": [
+    {
+      "title": "Beans",
+      "items": [
+        {
+          "id": "dried-black-beans",
+          "amount": 1,
+          "unit": "pound",
+          "item": "dried black beans",
+          "prep": "picked over and rinsed"
+        },
+        {
+          "id": "water-beans",
+          "amount": 8,
+          "unit": "cups",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "bay-leaf-beans",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Aromatic Base",
+      "items": [
+        {
+          "id": "olive-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "green-bell-pepper",
+          "amount": 1,
+          "unit": "medium",
+          "item": "green bell pepper",
+          "prep": "finely diced"
+        },
+        {
+          "id": "carrot",
+          "amount": 1,
+          "unit": "medium",
+          "item": "carrot",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "ground-cumin",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "id": "dried-oregano",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "dried oregano",
+          "prep": ""
+        },
+        {
+          "id": "smoked-paprika",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Soup Body",
+      "items": [
+        {
+          "id": "vegetable-stock",
+          "amount": 4,
+          "unit": "cups",
+          "item": "vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "lime-juice",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh lime juice",
+          "prep": ""
+        },
+        {
+          "id": "apple-cider-vinegar",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "apple cider vinegar",
+          "prep": ""
+        },
+        {
+          "id": "fresh-cilantro",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh cilantro",
+          "prep": "chopped"
+        },
+        {
+          "id": "scallion",
+          "amount": 1,
+          "unit": "",
+          "item": "scallion",
+          "prep": "thinly sliced"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Soak the Beans",
+      "items": [
+        "Place the dried black beans ({{quantity:dried-black-beans}}) in a large bowl and cover with several inches of water.",
+        "Soak overnight.",
+        "Drain and rinse the beans."
+      ]
+    },
+    {
+      "title": "Cook the Beans",
+      "items": [
+        "Add the soaked beans, water ({{quantity:water-beans}}), and bay leaf ({{quantity:bay-leaf-beans}}) to a large pot.",
+        "Bring to a boil, then reduce to a steady simmer.",
+        "Cook for 60 to 90 minutes, until the beans are tender but not falling apart.",
+        "Drain the beans, reserving 2 cups of the bean cooking liquid.",
+        "Discard the bay leaf."
+      ]
+    },
+    {
+      "title": "Build the Aromatic Base",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil}}) in a large soup pot over medium heat.",
+        "Add the onion ({{quantity:yellow-onion}}), green bell pepper ({{quantity:green-bell-pepper}}), and carrot ({{quantity:carrot}}).",
+        "Cook for 10 to 12 minutes, stirring often, until the vegetables soften and the onion turns golden at the edges.",
+        "Add the garlic ({{quantity:garlic}}), cumin ({{quantity:ground-cumin}}), oregano ({{quantity:dried-oregano}}), smoked paprika ({{quantity:smoked-paprika}}), and black pepper ({{quantity:black-pepper}}).",
+        "Cook for 1 minute, stirring constantly, until fragrant."
+      ]
+    },
+    {
+      "title": "Build the Soup",
+      "items": [
+        "Add the cooked beans, reserved bean cooking liquid, vegetable stock ({{quantity:vegetable-stock}}), and fine sea salt ({{quantity:fine-sea-salt}}).",
+        "Bring to a simmer.",
+        "Cook uncovered for 25 to 30 minutes, stirring occasionally, until the broth darkens and the beans begin to soften into the soup."
+      ]
+    },
+    {
+      "title": "Thicken the Soup",
+      "items": [
+        "Remove 2 cups of soup and blend until smooth.",
+        "Return the blended soup to the pot.",
+        "Simmer for 5 to 10 minutes, until the soup is thick but still spoonable.",
+        "Do not blend the whole pot. Black bean soup should have body and texture, not turn into black bean puree."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Turn off the heat.",
+        "Stir in the lime juice ({{quantity:lime-juice}}), apple cider vinegar ({{quantity:apple-cider-vinegar}}), cilantro ({{quantity:fresh-cilantro}}), and scallion ({{quantity:scallion}}).",
+        "Let stand for 5 minutes before serving.",
+        "Taste and adjust with salt or lime juice as needed."
+      ]
+    }
+  ]
+}
