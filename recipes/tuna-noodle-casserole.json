@@ -1,0 +1,256 @@
+{
+  "id": "tuna-noodle-casserole",
+  "title": "Tuna Noodle Casserole",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 2,
+  "ldlActive": false,
+  "cScaleSummary": "C2 because tuna is the primary cholesterol-contributing ingredient, with the amount spread across multiple servings. The noodles, mushrooms, onion, celery, olive oil, flour, stock, soy milk, mustard, lemon juice, parsley, breadcrumbs, and seasonings contribute little to no cholesterol.",
+  "ldlActiveSummary": "Not LDL-Active because the recipe is centered on tuna, an animal protein. It remains a lower-cholesterol casserole because the creamy body comes from mushrooms, stock, soy milk, flour, and technique rather than butter, cream, cheese, egg, or condensed soup, but it does not qualify as actively LDL-lowering under the EWHF standard.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Tuna noodle casserole is one of the great American pantry casseroles: practical, creamy, familiar, and built for a table that wants comfort more than fuss. The classic midcentury version leaned on canned soup and dairy, but the essential idea is better than that shortcut. Tender noodles, tuna, mushrooms, celery, and a crisp top can still deliver the old-school casserole feeling when the sauce is built carefully from browned mushrooms, stock, and a light thickener instead of heavy cream.",
+  "ingredientGroups": [
+    {
+      "title": "Noodles",
+      "items": [
+        {
+          "id": "egg-free-noodles",
+          "amount": 12,
+          "unit": "ounces",
+          "item": "egg-free wide noodles",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-noodles",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fine sea salt",
+          "prep": "for pasta water"
+        }
+      ]
+    },
+    {
+      "title": "Mushroom Sauce Base",
+      "items": [
+        {
+          "id": "olive-oil-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "cremini-mushrooms",
+          "amount": 12,
+          "unit": "ounces",
+          "item": "cremini mushrooms",
+          "prep": "finely chopped"
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "medium",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "celery",
+          "amount": 2,
+          "unit": "stalks",
+          "item": "celery",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "dried-thyme",
+          "amount": 0.75,
+          "unit": "teaspoon",
+          "item": "dried thyme",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-sauce",
+          "amount": 0.75,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "all-purpose-flour-sauce",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "id": "chicken-stock",
+          "amount": 2,
+          "unit": "cups",
+          "item": "chicken stock",
+          "prep": ""
+        },
+        {
+          "id": "unsweetened-soy-milk",
+          "amount": 1,
+          "unit": "cup",
+          "item": "unsweetened soy milk",
+          "prep": ""
+        },
+        {
+          "id": "dijon-mustard",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "id": "low-sodium-soy-sauce",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Casserole",
+      "items": [
+        {
+          "id": "tuna",
+          "amount": 10,
+          "unit": "ounces",
+          "item": "tuna packed in water",
+          "prep": "drained and flaked"
+        },
+        {
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "fresh-parsley",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh parsley",
+          "prep": "minced"
+        }
+      ]
+    },
+    {
+      "title": "Crisp Topping",
+      "items": [
+        {
+          "id": "panko-breadcrumbs",
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "panko breadcrumbs",
+          "prep": "crushed lightly by hand"
+        },
+        {
+          "id": "olive-oil-topping",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "paprika",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "paprika",
+          "prep": ""
+        },
+        {
+          "id": "garlic-powder",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "garlic powder",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-topping",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Noodles",
+      "items": [
+        "Heat the oven to 400°F.",
+        "Bring a large pot of water to a boil and season it with the fine sea salt ({{quantity:fine-sea-salt-noodles}}).",
+        "Add the egg-free noodles ({{quantity:egg-free-noodles}}) and cook until 2 minutes shy of tender.",
+        "Drain the noodles and set them aside. Do not rinse them."
+      ]
+    },
+    {
+      "title": "Brown the Mushrooms",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil-sauce}}) in a large skillet or Dutch oven over medium-high heat.",
+        "Add the mushrooms ({{quantity:cremini-mushrooms}}) and cook for 8 to 10 minutes, stirring often, until they release their moisture, the moisture cooks off, and the mushrooms begin to brown.",
+        "Do not rush this step. The casserole needs browned mushroom flavor, not steamed mushroom water."
+      ]
+    },
+    {
+      "title": "Build the Sauce Base",
+      "items": [
+        "Add the onion ({{quantity:yellow-onion}}), celery ({{quantity:celery}}), garlic ({{quantity:garlic}}), thyme ({{quantity:dried-thyme}}), black pepper ({{quantity:black-pepper}}), and fine sea salt ({{quantity:fine-sea-salt-sauce}}).",
+        "Cook for 5 to 6 minutes, stirring often, until the onion and celery soften.",
+        "Sprinkle in the flour ({{quantity:all-purpose-flour-sauce}}) and cook for 1 minute, stirring constantly, until the flour coats the vegetables and smells lightly toasted."
+      ]
+    },
+    {
+      "title": "Finish the Sauce",
+      "items": [
+        "Slowly whisk in the chicken stock ({{quantity:chicken-stock}}), scraping up any browned bits from the pan.",
+        "Whisk in the soy milk ({{quantity:unsweetened-soy-milk}}), Dijon mustard ({{quantity:dijon-mustard}}), and soy sauce ({{quantity:low-sodium-soy-sauce}}).",
+        "Simmer for 4 to 6 minutes, stirring often, until the sauce is glossy, creamy, and thick enough to coat the back of a spoon."
+      ]
+    },
+    {
+      "title": "Assemble the Casserole",
+      "items": [
+        "Fold the drained noodles into the sauce.",
+        "Fold in the tuna ({{quantity:tuna}}), lemon juice ({{quantity:lemon-juice}}), and parsley ({{quantity:fresh-parsley}}).",
+        "Transfer the mixture to a 9-by-13-inch baking dish and spread it evenly."
+      ]
+    },
+    {
+      "title": "Make the Topping",
+      "items": [
+        "Combine the panko ({{quantity:panko-breadcrumbs}}), olive oil ({{quantity:olive-oil-topping}}), paprika ({{quantity:paprika}}), garlic powder ({{quantity:garlic-powder}}), and fine sea salt ({{quantity:fine-sea-salt-topping}}) in a small bowl.",
+        "Scatter the topping evenly over the casserole."
+      ]
+    },
+    {
+      "title": "Bake",
+      "items": [
+        "Bake for 18 to 22 minutes, until the casserole is bubbling at the edges and the topping is browned and crisp.",
+        "Rest for 10 minutes before serving so the sauce settles around the noodles instead of running."
+      ]
+    }
+  ]
+}
