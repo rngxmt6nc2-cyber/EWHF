@@ -1,0 +1,304 @@
+{
+  "id": "vegetable-shepherds-pie",
+  "title": "Vegetable Shepherd's Pie",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The lentils, mushrooms, vegetables, potatoes, vegetable stock, soy milk, olive oil, herbs, tomato paste, flour, soy sauce, mustard, vinegar, and parsley contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the dish is built around lentils, mushrooms, vegetables, potatoes, herbs, stock, and unsaturated oil, with body and comfort coming from legumes, vegetable gravy, and potato texture rather than butter, cream, meat, or cheese.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Shepherd's pie began as a practical way to turn leftovers into a complete meal under a mashed potato crust. In American and British home cooking, the form became just as important as the filling: savory gravy, tender vegetables, and a browned potato top that turns a humble skillet into a centerpiece. This version keeps that comfort-food structure but moves the body of the filling to lentils, mushrooms, vegetables, tomato, herbs, and stock. It should eat like a real main dish, not a side dish pretending.",
+  "ingredientGroups": [
+    {
+      "title": "Lentils",
+      "items": [
+        {
+          "id": "brown-lentils",
+          "amount": 1,
+          "unit": "cup",
+          "item": "dried brown lentils",
+          "prep": "picked over and rinsed"
+        },
+        {
+          "id": "vegetable-stock-lentils",
+          "amount": 3,
+          "unit": "cups",
+          "item": "vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "bay-leaf",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Mashed Potato Top",
+      "items": [
+        {
+          "id": "yukon-gold-potatoes",
+          "amount": 2,
+          "unit": "pounds",
+          "item": "Yukon Gold potatoes",
+          "prep": "peeled and cut into 1 1/2-inch chunks"
+        },
+        {
+          "id": "fine-sea-salt-potato-water",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": "for the cooking water"
+        },
+        {
+          "id": "unsweetened-soy-milk",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "unsweetened soy milk",
+          "prep": "warm"
+        },
+        {
+          "id": "olive-oil-potatoes",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "dijon-mustard-potatoes",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-potatoes",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-potatoes",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Filling Base",
+      "items": [
+        {
+          "id": "olive-oil-filling",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "cremini-mushrooms",
+          "amount": 12,
+          "unit": "ounces",
+          "item": "cremini mushrooms",
+          "prep": "finely chopped"
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "carrots",
+          "amount": 2,
+          "unit": "medium",
+          "item": "carrots",
+          "prep": "finely diced"
+        },
+        {
+          "id": "celery",
+          "amount": 2,
+          "unit": "stalks",
+          "item": "celery",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "fresh-thyme",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fresh thyme leaves",
+          "prep": ""
+        },
+        {
+          "id": "dried-rosemary",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "dried rosemary",
+          "prep": "crushed"
+        },
+        {
+          "id": "black-pepper-filling",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-filling",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Gravy Body",
+      "items": [
+        {
+          "id": "tomato-paste",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "all-purpose-flour",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "id": "vegetable-stock-gravy",
+          "amount": 2,
+          "unit": "cups",
+          "item": "vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "low-sodium-soy-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "dijon-mustard-gravy",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "id": "apple-cider-vinegar",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "apple cider vinegar",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "fresh-parsley",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh parsley",
+          "prep": "minced"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Lentils",
+      "items": [
+        "Combine the lentils ({{quantity:brown-lentils}}), vegetable stock ({{quantity:vegetable-stock-lentils}}), and bay leaf ({{quantity:bay-leaf}}) in a saucepan.",
+        "Bring to a boil, then reduce to a steady simmer.",
+        "Cook for 20 to 25 minutes, until the lentils are tender but still hold their shape.",
+        "Drain any excess liquid and discard the bay leaf.",
+        "Set the lentils aside."
+      ]
+    },
+    {
+      "title": "Make the Mashed Potatoes",
+      "items": [
+        "Place the potatoes ({{quantity:yukon-gold-potatoes}}) in a large pot and cover with cold water by 1 inch.",
+        "Add the fine sea salt for the cooking water ({{quantity:fine-sea-salt-potato-water}}).",
+        "Bring to a boil, then reduce to a steady simmer.",
+        "Cook for 15 to 20 minutes, until the potatoes are fully tender.",
+        "Drain well and return the potatoes to the hot pot.",
+        "Let them steam-dry for 2 minutes.",
+        "Mash until mostly smooth.",
+        "Add the warm soy milk ({{quantity:unsweetened-soy-milk}}), olive oil ({{quantity:olive-oil-potatoes}}), Dijon mustard ({{quantity:dijon-mustard-potatoes}}), fine sea salt ({{quantity:fine-sea-salt-potatoes}}), and black pepper ({{quantity:black-pepper-potatoes}}).",
+        "Mash until smooth and spreadable.",
+        "Set aside."
+      ]
+    },
+    {
+      "title": "Build the Filling",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil-filling}}) in a large skillet or Dutch oven over medium-high heat.",
+        "Add the mushrooms ({{quantity:cremini-mushrooms}}).",
+        "Cook for 8 to 10 minutes, stirring often, until the mushrooms release their water, the water cooks off, and the mushrooms begin to brown.",
+        "Add the onion ({{quantity:yellow-onion}}), carrots ({{quantity:carrots}}), and celery ({{quantity:celery}}).",
+        "Cook for 8 to 10 minutes, stirring often, until the vegetables soften and the onion turns translucent.",
+        "Add the garlic ({{quantity:garlic}}), thyme ({{quantity:fresh-thyme}}), rosemary ({{quantity:dried-rosemary}}), black pepper ({{quantity:black-pepper-filling}}), and fine sea salt ({{quantity:fine-sea-salt-filling}}).",
+        "Cook for 1 minute, stirring constantly."
+      ]
+    },
+    {
+      "title": "Build the Gravy",
+      "items": [
+        "Add the tomato paste ({{quantity:tomato-paste}}).",
+        "Cook for 2 minutes, stirring constantly, until it darkens slightly and starts to stick to the pan.",
+        "Sprinkle the flour ({{quantity:all-purpose-flour}}) over the vegetables.",
+        "Cook for 1 minute, stirring constantly, until the flour coats the vegetables and loses its raw smell.",
+        "Slowly stir in the vegetable stock ({{quantity:vegetable-stock-gravy}}), scraping up the browned bits from the bottom of the pan.",
+        "Add the soy sauce ({{quantity:low-sodium-soy-sauce}}) and Dijon mustard ({{quantity:dijon-mustard-gravy}}).",
+        "Bring to a simmer.",
+        "Cook for 5 to 7 minutes, stirring often, until the gravy thickens and coats the vegetables.",
+        "Add the cooked lentils and parsley ({{quantity:fresh-parsley}}).",
+        "Stir gently until evenly combined.",
+        "Turn off the heat and stir in the apple cider vinegar ({{quantity:apple-cider-vinegar}})."
+      ]
+    },
+    {
+      "title": "Assemble",
+      "items": [
+        "Heat the oven to 425°F.",
+        "Transfer the filling to a 9-by-13-inch baking dish.",
+        "Spread the mashed potatoes over the filling in an even layer.",
+        "Use the back of a spoon to make shallow ridges and swirls across the surface."
+      ]
+    },
+    {
+      "title": "Bake",
+      "items": [
+        "Bake for 25 to 30 minutes, until the filling is bubbling at the edges and the potato top is lightly browned.",
+        "For a deeper browned top, broil for 2 to 4 minutes at the end, watching closely.",
+        "Rest for 10 minutes before serving."
+      ]
+    }
+  ]
+}
