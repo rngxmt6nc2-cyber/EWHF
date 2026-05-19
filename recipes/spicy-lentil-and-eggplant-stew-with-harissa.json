@@ -1,0 +1,288 @@
+{
+  "id": "spicy-lentil-and-eggplant-stew-with-harissa",
+  "title": "Spicy Lentil and Eggplant Stew with Harissa",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The lentils, eggplant, vegetables, tomato, vegetable stock, olive oil, harissa, herbs, spices, lemon juice, and vinegar contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the stew is built around lentils, a legume base rich in soluble fiber, with eggplant, tomato, vegetables, herbs, spices, and unsaturated oil providing body, heat, and satisfaction without cholesterol-containing ingredients.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "This stew sits in a North African flavor lane built around tomato, lentils, eggplant, garlic, cumin, coriander, chile heat, herbs, and lemon. Harissa, especially associated with Tunisia and the wider Maghreb, brings the heat and depth: dried chile, garlic, spices, and oil worked into a paste. Eggplant gives the stew a silky, almost smoky body when roasted first, while lentils make it hearty enough to stand as a main dish. The goal is spicy, earthy, bright, and substantial without relying on meat, cream, or heavy fat.",
+  "ingredientGroups": [
+    {
+      "title": "Roasted Eggplant",
+      "items": [
+        {
+          "id": "eggplant",
+          "amount": 2,
+          "unit": "pounds",
+          "item": "eggplant",
+          "prep": "cut into 3/4-inch cubes"
+        },
+        {
+          "id": "olive-oil-eggplant",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-eggplant",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "smoked-paprika-eggplant",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "smoked paprika",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Lentils",
+      "items": [
+        {
+          "id": "brown-or-green-lentils",
+          "amount": 1.25,
+          "unit": "cups",
+          "item": "dried brown or green lentils",
+          "prep": "picked over and rinsed"
+        },
+        {
+          "id": "vegetable-stock-lentils",
+          "amount": 4,
+          "unit": "cups",
+          "item": "vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "bay-leaf",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Stew Base",
+      "items": [
+        {
+          "id": "olive-oil-base",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "red-bell-pepper",
+          "amount": 1,
+          "unit": "",
+          "item": "red bell pepper",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 4,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "tomato-paste",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "ground-cumin",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "id": "ground-coriander",
+          "amount": 1.5,
+          "unit": "teaspoons",
+          "item": "ground coriander",
+          "prep": ""
+        },
+        {
+          "id": "smoked-paprika-base",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "id": "ground-caraway",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "ground caraway",
+          "prep": ""
+        },
+        {
+          "id": "cinnamon",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "ground cinnamon",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Sauce and Heat",
+      "items": [
+        {
+          "id": "crushed-tomatoes",
+          "amount": 28,
+          "unit": "ounces",
+          "item": "crushed tomatoes",
+          "prep": ""
+        },
+        {
+          "id": "vegetable-stock-sauce",
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "harissa-paste",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "harissa paste",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-sauce",
+          "amount": 0.75,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "red-wine-vinegar",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "red wine vinegar",
+          "prep": ""
+        },
+        {
+          "id": "fresh-parsley",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fresh parsley",
+          "prep": "chopped"
+        },
+        {
+          "id": "fresh-cilantro",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh cilantro",
+          "prep": "chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Roast the Eggplant",
+      "items": [
+        "Heat the oven to 425°F.",
+        "Toss the eggplant ({{quantity:eggplant}}) with the olive oil ({{quantity:olive-oil-eggplant}}), fine sea salt ({{quantity:fine-sea-salt-eggplant}}), and smoked paprika ({{quantity:smoked-paprika-eggplant}}).",
+        "Spread the eggplant on a parchment-lined sheet pan in a single layer.",
+        "Roast for 25 to 30 minutes, turning once, until the eggplant is browned at the edges, collapsed in the center, and no longer spongy.",
+        "Set aside."
+      ]
+    },
+    {
+      "title": "Cook the Lentils",
+      "items": [
+        "Combine the lentils ({{quantity:brown-or-green-lentils}}), vegetable stock ({{quantity:vegetable-stock-lentils}}), and bay leaf ({{quantity:bay-leaf}}) in a saucepan.",
+        "Bring to a boil, then reduce to a steady simmer.",
+        "Cook for 18 to 22 minutes, until the lentils are tender but still hold their shape.",
+        "Drain any excess liquid.",
+        "Discard the bay leaf.",
+        "Set the lentils aside."
+      ]
+    },
+    {
+      "title": "Build the Stew Base",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil-base}}) in a large Dutch oven or heavy pot over medium heat.",
+        "Add the onion ({{quantity:yellow-onion}}) and red bell pepper ({{quantity:red-bell-pepper}}).",
+        "Cook for 8 to 10 minutes, stirring often, until softened and lightly sweetened.",
+        "Add the garlic ({{quantity:garlic}}) and tomato paste ({{quantity:tomato-paste}}).",
+        "Cook for 2 minutes, stirring constantly, until the tomato paste darkens slightly and begins to stick to the bottom of the pot.",
+        "Add the cumin ({{quantity:ground-cumin}}), coriander ({{quantity:ground-coriander}}), smoked paprika ({{quantity:smoked-paprika-base}}), caraway ({{quantity:ground-caraway}}), cinnamon ({{quantity:cinnamon}}), and black pepper ({{quantity:black-pepper}}).",
+        "Cook for 30 seconds, stirring constantly, until fragrant."
+      ]
+    },
+    {
+      "title": "Build the Sauce",
+      "items": [
+        "Add the crushed tomatoes ({{quantity:crushed-tomatoes}}), vegetable stock ({{quantity:vegetable-stock-sauce}}), harissa ({{quantity:harissa-paste}}), and fine sea salt ({{quantity:fine-sea-salt-sauce}}).",
+        "Scrape the bottom of the pot to release the browned tomato paste and spices.",
+        "Bring to a simmer.",
+        "Cook uncovered for 15 minutes, stirring occasionally, until the sauce thickens slightly and the flavors come together."
+      ]
+    },
+    {
+      "title": "Combine and Simmer",
+      "items": [
+        "Add the cooked lentils and roasted eggplant.",
+        "Stir gently so the eggplant stays partly intact.",
+        "Simmer for 10 to 12 minutes, until the stew is thick, cohesive, and spoonable.",
+        "If the stew gets too thick, loosen it with a splash of vegetable stock or hot water."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Turn off the heat.",
+        "Stir in the lemon juice ({{quantity:lemon-juice}}), red wine vinegar ({{quantity:red-wine-vinegar}}), parsley ({{quantity:fresh-parsley}}), and cilantro ({{quantity:fresh-cilantro}}).",
+        "Let stand for 5 minutes before serving.",
+        "Taste and adjust with salt, lemon juice, or harissa as needed.",
+        "Serve hot over couscous, rice, or with flatbread."
+      ]
+    }
+  ]
+}
