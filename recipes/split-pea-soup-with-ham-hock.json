@@ -1,0 +1,189 @@
+{
+  "id": "split-pea-soup-with-ham-hock",
+  "title": "Split Pea Soup with Ham Hock",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 1,
+  "ldlActive": true,
+  "cScaleSummary": "C1 because the smoked ham hock is used as an infusion ingredient and removed before serving, so only a small amount of cholesterol is expected to transfer into the finished soup. The split peas, vegetables, olive oil, stock, herbs, mustard, vinegar, and seasonings contribute little to no cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the soup is built around split peas, a legume base rich in soluble fiber, with vegetables, herbs, aromatics, and restrained unsaturated oil providing structure and flavor. The ham hock is used only to season the broth and is removed before serving, so the dish remains legume-centered rather than meat-centered.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Split pea soup is one of the classic cold-weather bean-pot soups: humble, thick, smoky, and deeply comforting. The best versions get their body from the peas themselves rather than cream or added fat. A smoked ham hock can give the pot the familiar old-school flavor, but it works best here as seasoning, not as the main event. The finished soup should taste smoky and savory while still eating like a split pea soup built around legumes, vegetables, and broth.",
+  "ingredientGroups": [
+    {
+      "title": "Peas and Ham Hock Infusion",
+      "items": [
+        {
+          "id": "green-split-peas",
+          "amount": 1,
+          "unit": "pound",
+          "item": "green split peas",
+          "prep": "rinsed and picked over"
+        },
+        {
+          "id": "smoked-ham-hock",
+          "amount": 1,
+          "unit": "",
+          "item": "smoked ham hock",
+          "prep": "about 12 ounces"
+        },
+        {
+          "id": "chicken-stock",
+          "amount": 8,
+          "unit": "cups",
+          "item": "chicken stock",
+          "prep": ""
+        },
+        {
+          "id": "bay-leaves",
+          "amount": 2,
+          "unit": "",
+          "item": "bay leaves",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Aromatic Base",
+      "items": [
+        {
+          "id": "olive-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "carrots",
+          "amount": 2,
+          "unit": "medium",
+          "item": "carrots",
+          "prep": "finely diced"
+        },
+        {
+          "id": "celery",
+          "amount": 2,
+          "unit": "stalks",
+          "item": "celery",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "dried-thyme",
+          "amount": 0.75,
+          "unit": "teaspoon",
+          "item": "dried thyme",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "dijon-mustard",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "id": "apple-cider-vinegar",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "apple cider vinegar",
+          "prep": ""
+        },
+        {
+          "id": "fresh-parsley",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh parsley",
+          "prep": "minced"
+        },
+        {
+          "id": "fine-sea-salt",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": "for final seasoning"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Rinse the Peas",
+      "items": [
+        "Rinse the green split peas ({{quantity:green-split-peas}}) under cold water and pick out any small stones or damaged peas.",
+        "Set the rinsed peas aside while the aromatic base is started."
+      ]
+    },
+    {
+      "title": "Build the Aromatic Base",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil}}) in a large soup pot over medium heat.",
+        "Add the onion ({{quantity:yellow-onion}}), carrots ({{quantity:carrots}}), and celery ({{quantity:celery}}). Cook for 8 to 10 minutes, stirring often, until the vegetables soften and the onion turns translucent.",
+        "Add the garlic ({{quantity:garlic}}), dried thyme ({{quantity:dried-thyme}}), and black pepper ({{quantity:black-pepper}}). Cook for 1 minute, stirring constantly."
+      ]
+    },
+    {
+      "title": "Simmer the Soup",
+      "items": [
+        "Add the rinsed split peas, smoked ham hock ({{quantity:smoked-ham-hock}}), chicken stock ({{quantity:chicken-stock}}), and bay leaves ({{quantity:bay-leaves}}) to the pot.",
+        "Bring to a boil, then immediately reduce to a steady low simmer.",
+        "Partially cover the pot and cook for 75 to 90 minutes, stirring occasionally, until the split peas collapse and the soup becomes thick and creamy on its own.",
+        "Skim foam from the surface during the first 15 minutes of simmering if needed."
+      ]
+    },
+    {
+      "title": "Remove the Ham Hock",
+      "items": [
+        "Remove the ham hock from the pot and discard it. Do not shred the ham back into the soup.",
+        "Remove and discard the bay leaves.",
+        "Let the soup simmer for 5 minutes after the hock is removed so the flavor settles back into the peas."
+      ]
+    },
+    {
+      "title": "Adjust the Texture",
+      "items": [
+        "Stir the soup vigorously for 30 seconds to help the softened peas thicken the broth.",
+        "For a smoother soup, mash part of the peas against the side of the pot with a spoon. Leave some texture so the soup does not become baby-food smooth.",
+        "If the soup is too thick, loosen it with hot water, 1/2 cup at a time, until it is spoonable but still hearty."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Stir in the Dijon mustard ({{quantity:dijon-mustard}}), apple cider vinegar ({{quantity:apple-cider-vinegar}}), and parsley ({{quantity:fresh-parsley}}).",
+        "Taste the soup before adding salt. The ham hock and stock may already provide enough seasoning.",
+        "Add the fine sea salt ({{quantity:fine-sea-salt}}) only as needed for final seasoning.",
+        "Serve hot."
+      ]
+    }
+  ]
+}
