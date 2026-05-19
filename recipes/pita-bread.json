@@ -1,0 +1,126 @@
+{
+  "id": "pita-bread",
+  "title": "Pita Bread",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Breads & Doughs",
+  "displayCategory": "Breads & Doughs",
+  "cScale": 0,
+  "ldlActive": false,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients that contribute cholesterol. The flour, olive oil, yeast, honey, and salt all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is false because this is primarily a flatbread built around flour, yeast, water, and olive oil. It is cholesterol-free and includes some whole wheat flour, but it is not specifically structured around enough LDL-lowering ingredients to qualify as LDL Active.",
+  "yield": 8,
+  "yieldUnit": "pitas",
+  "tags": [],
+  "intro": "Pita is one of the foundational flatbreads of the Eastern Mediterranean and Middle East, baked at intense heat so steam rapidly inflates the dough into its signature pocket. Good pita should be soft but resilient, with light chew, toasted blistering, and enough structure to hold fillings without cracking apart. The dough is simple, but success comes from heat management, hydration, and handling discipline rather than enrichment or fat.",
+  "ingredientGroups": [
+    {
+      "title": "Dough",
+      "items": [
+        {
+          "amount": 500,
+          "unit": "g",
+          "item": "bread flour",
+          "prep": ""
+        },
+        {
+          "amount": 120,
+          "unit": "g",
+          "item": "whole wheat flour",
+          "prep": ""
+        },
+        {
+          "amount": 430,
+          "unit": "g",
+          "item": "warm water",
+          "prep": ""
+        },
+        {
+          "amount": 10,
+          "unit": "g",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "amount": 7,
+          "unit": "g",
+          "item": "instant yeast",
+          "prep": ""
+        },
+        {
+          "amount": 15,
+          "unit": "g",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        },
+        {
+          "amount": 10,
+          "unit": "g",
+          "item": "honey",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Bench and Finishing",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "bread flour",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Mix the Dough",
+      "items": [
+        "Mix the 500 g bread flour, 120 g whole wheat flour, 430 g warm water, 10 g fine sea salt, 7 g instant yeast, 15 g extra-virgin olive oil, and 10 g honey in a large bowl until a shaggy dough forms and no dry flour remains.",
+        "Cover and rest for 20 minutes."
+      ]
+    },
+    {
+      "title": "Knead and Rise",
+      "items": [
+        "Knead the dough for 6 to 8 minutes until smooth, elastic, and slightly tacky but not wet. The dough should clear the bowl while still feeling soft.",
+        "Place the dough in a lightly oiled bowl, cover, and let rise for 60 to 90 minutes until doubled in volume."
+      ]
+    },
+    {
+      "title": "Divide and Rest",
+      "items": [
+        "Turn the dough onto a lightly floured surface and divide into 8 equal pieces. Shape each piece into a tight ball.",
+        "Cover the dough balls and rest for 20 minutes so the gluten relaxes before rolling."
+      ]
+    },
+    {
+      "title": "Heat the Oven",
+      "items": [
+        "Place a baking steel, baking stone, or inverted heavy sheet pan in the oven and heat to 500 °F for at least 30 minutes so the surface is fully heat-soaked."
+      ]
+    },
+    {
+      "title": "Roll and Bake",
+      "items": [
+        "Roll each dough ball into a circle about ⅛-inch thick and approximately 7 inches wide. Keep the thickness even so the pita inflates uniformly instead of splitting.",
+        "Place 1 or 2 pitas directly onto the hot surface and bake for 2 to 3 minutes until fully puffed and lightly blistered.",
+        "Flip and bake for 30 to 60 seconds more if needed for light browning."
+      ]
+    },
+    {
+      "title": "Steam and Cool",
+      "items": [
+        "Transfer immediately to a towel-lined bowl and cover tightly. The trapped steam keeps the pita soft and flexible as it cools.",
+        "Repeat with the remaining dough."
+      ]
+    }
+  ]
+}
