@@ -1,0 +1,218 @@
+{
+  "id": "mushroom-barley-soup",
+  "title": "Mushroom Barley Soup",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The mushrooms, barley, vegetables, olive oil, vegetable stock, herbs, mustard, vinegar, and parsley contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the soup is built around barley, mushrooms, vegetables, and stock, with barley providing soluble fiber and body while mushrooms and aromatics build flavor without cholesterol-containing ingredients.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Mushroom barley soup sits in the old deli, diner, and home-soup tradition: earthy mushrooms, chewy barley, sweet vegetables, and a broth that tastes deeper than the ingredient list suggests. The key is not cream or meat, but patience. Mushrooms have to brown hard enough to give the pot real savor, and the barley has to cook until it thickens the broth without turning the soup into porridge. Done right, this is humble, filling, and deeply comforting.",
+  "ingredientGroups": [
+    {
+      "title": "Barley",
+      "items": [
+        {
+          "id": "pearl-barley",
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "pearl barley",
+          "prep": "rinsed well"
+        },
+        {
+          "id": "water-barley",
+          "amount": 2,
+          "unit": "cups",
+          "item": "water",
+          "prep": "for par-cooking barley"
+        }
+      ]
+    },
+    {
+      "title": "Mushrooms and Aromatics",
+      "items": [
+        {
+          "id": "olive-oil-mushrooms",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "cremini-mushrooms",
+          "amount": 1,
+          "unit": "pound",
+          "item": "cremini mushrooms",
+          "prep": "sliced"
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "carrots",
+          "amount": 2,
+          "unit": "medium",
+          "item": "carrots",
+          "prep": "finely diced"
+        },
+        {
+          "id": "celery",
+          "amount": 2,
+          "unit": "stalks",
+          "item": "celery",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "fine-sea-salt-aromatics",
+          "amount": 0.75,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Soup Body",
+      "items": [
+        {
+          "id": "tomato-paste",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "dried-thyme",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "dried thyme",
+          "prep": ""
+        },
+        {
+          "id": "bay-leaf",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        },
+        {
+          "id": "vegetable-stock",
+          "amount": 7,
+          "unit": "cups",
+          "item": "vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "low-sodium-soy-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "dijon-mustard",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "apple-cider-vinegar",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "apple cider vinegar",
+          "prep": ""
+        },
+        {
+          "id": "fresh-parsley",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fresh parsley",
+          "prep": "minced"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Par-Cook the Barley",
+      "items": [
+        "Combine the barley ({{quantity:pearl-barley}}) and water ({{quantity:water-barley}}) in a small saucepan.",
+        "Bring to a boil, then reduce to a steady simmer.",
+        "Cook for 20 minutes, until the barley is partly tender but still chewy.",
+        "Drain well and set aside."
+      ]
+    },
+    {
+      "title": "Brown the Mushrooms",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil-mushrooms}}) in a large soup pot or Dutch oven over medium-high heat.",
+        "Add the mushrooms ({{quantity:cremini-mushrooms}}) in as even a layer as possible.",
+        "Cook for 10 to 12 minutes, stirring only occasionally, until the mushrooms release their water, the water cooks off, and the mushrooms brown deeply at the edges.",
+        "Do not rush this step. The soup needs browned mushroom flavor, not steamed mushroom water."
+      ]
+    },
+    {
+      "title": "Build the Aromatic Base",
+      "items": [
+        "Add the onion ({{quantity:yellow-onion}}), carrots ({{quantity:carrots}}), celery ({{quantity:celery}}), fine sea salt ({{quantity:fine-sea-salt-aromatics}}), and black pepper ({{quantity:black-pepper}}) to the browned mushrooms.",
+        "Cook for 8 to 10 minutes, stirring often, until the vegetables soften and the onion turns translucent.",
+        "Add the garlic ({{quantity:garlic}}) and cook for 1 minute."
+      ]
+    },
+    {
+      "title": "Build the Soup",
+      "items": [
+        "Add the tomato paste ({{quantity:tomato-paste}}), thyme ({{quantity:dried-thyme}}), and bay leaf ({{quantity:bay-leaf}}).",
+        "Cook for 2 minutes, stirring constantly, until the tomato paste darkens slightly and coats the vegetables.",
+        "Add the vegetable stock ({{quantity:vegetable-stock}}), soy sauce ({{quantity:low-sodium-soy-sauce}}), Dijon mustard ({{quantity:dijon-mustard}}), and par-cooked barley.",
+        "Bring to a simmer, scraping up any browned bits from the bottom of the pot."
+      ]
+    },
+    {
+      "title": "Simmer",
+      "items": [
+        "Simmer uncovered for 30 to 35 minutes, stirring occasionally, until the barley is tender and the soup has lightly thickened.",
+        "Remove and discard the bay leaf.",
+        "If the soup gets too thick, loosen it with hot water or additional vegetable stock until it is spoonable but still hearty."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Turn off the heat.",
+        "Stir in the apple cider vinegar ({{quantity:apple-cider-vinegar}}) and parsley ({{quantity:fresh-parsley}}).",
+        "Let stand for 5 minutes before serving.",
+        "Taste and adjust with salt, pepper, or vinegar as needed."
+      ]
+    }
+  ]
+}
