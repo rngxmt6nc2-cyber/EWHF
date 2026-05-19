@@ -1,0 +1,317 @@
+{
+  "id": "chicken-fried-portobello-steaks",
+  "title": "Chicken-Fried Portobello Steaks",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The portobello mushrooms, soy milk, flour, cornmeal, panko, olive oil, vegetable stock, aromatics, seasonings, vinegar, herbs, and potatoes contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the recipe is built around mushrooms, potatoes, aromatics, vegetable stock, and unsaturated oil, with flavor and texture developed through roasting, seasoned dredging, high-heat crisping, and a stock-based pepper gravy rather than butter, cream, eggs, dairy, or animal fat.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Chicken-fried steak is pure American diner logic: a tender center, a craggy seasoned crust, and pepper gravy over the top. The form is indulgent, but the pleasure comes as much from contrast and seasoning as from the meat itself. Portobello mushrooms can carry that structure surprisingly well when they are dried, seasoned hard, crusted, and baked hot enough to stay crisp. The result is familiar, peppery, and plate-filling without relying on beef, eggs, dairy, or fryer oil.",
+  "ingredientGroups": [
+    {
+      "title": "Portobello Steaks",
+      "items": [
+        {
+          "id": "portobello-mushrooms",
+          "amount": 4,
+          "unit": "large",
+          "item": "portobello mushroom caps",
+          "prep": "stems removed and gills scraped out"
+        },
+        {
+          "id": "fine-sea-salt-mushrooms",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-mushrooms",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "apple-cider-vinegar-mushrooms",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "apple cider vinegar",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Wet Dredge",
+      "items": [
+        {
+          "id": "unsweetened-soy-milk",
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "unsweetened soy milk",
+          "prep": ""
+        },
+        {
+          "id": "dijon-mustard",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "id": "hot-sauce",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "hot sauce",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Seasoned Crust",
+      "items": [
+        {
+          "id": "all-purpose-flour",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "id": "fine-cornmeal",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fine cornmeal",
+          "prep": ""
+        },
+        {
+          "id": "panko-breadcrumbs",
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "panko breadcrumbs",
+          "prep": "crushed lightly by hand"
+        },
+        {
+          "id": "paprika",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "paprika",
+          "prep": ""
+        },
+        {
+          "id": "garlic-powder",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "garlic powder",
+          "prep": ""
+        },
+        {
+          "id": "onion-powder",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "onion powder",
+          "prep": ""
+        },
+        {
+          "id": "dried-thyme",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "dried thyme",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-crust",
+          "amount": 0.75,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-crust",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "olive-oil-crust",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "olive oil",
+          "prep": "for brushing"
+        }
+      ]
+    },
+    {
+      "title": "Pepper Gravy",
+      "items": [
+        {
+          "id": "olive-oil-gravy",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "cremini-mushrooms",
+          "amount": 8,
+          "unit": "ounces",
+          "item": "cremini mushrooms",
+          "prep": "finely chopped"
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic-gravy",
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "flour-gravy",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "id": "vegetable-stock",
+          "amount": 2,
+          "unit": "cups",
+          "item": "vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "low-sodium-soy-sauce",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "dijon-mustard-gravy",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-gravy",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": "coarsely ground"
+        },
+        {
+          "id": "fine-sea-salt-gravy",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "apple-cider-vinegar-gravy",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "apple cider vinegar",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Serve",
+      "items": [
+        {
+          "id": "mashed-potatoes",
+          "amount": 4,
+          "unit": "cups",
+          "item": "mashed potatoes",
+          "prep": "prepared without dairy or animal fat"
+        },
+        {
+          "id": "fresh-parsley",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh parsley",
+          "prep": "minced"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Dry and Season the Portobellos",
+      "items": [
+        "Heat the oven to 425°F. Line a sheet pan with parchment.",
+        "Place the portobello mushroom caps ({{quantity:portobello-mushrooms}}) gill-side up on the prepared pan.",
+        "Season the mushrooms with fine sea salt ({{quantity:fine-sea-salt-mushrooms}}), black pepper ({{quantity:black-pepper-mushrooms}}), and apple cider vinegar ({{quantity:apple-cider-vinegar-mushrooms}}).",
+        "Roast for 10 minutes to drive off excess moisture.",
+        "Transfer the mushrooms to a rack or plate and blot both sides thoroughly with towels. Leave the oven on."
+      ]
+    },
+    {
+      "title": "Set Up the Dredges",
+      "items": [
+        "Whisk together the soy milk ({{quantity:unsweetened-soy-milk}}), Dijon mustard ({{quantity:dijon-mustard}}), and hot sauce ({{quantity:hot-sauce}}) in a shallow bowl.",
+        "In a second shallow bowl, combine the flour ({{quantity:all-purpose-flour}}), cornmeal ({{quantity:fine-cornmeal}}), panko ({{quantity:panko-breadcrumbs}}), paprika ({{quantity:paprika}}), garlic powder ({{quantity:garlic-powder}}), onion powder ({{quantity:onion-powder}}), dried thyme ({{quantity:dried-thyme}}), black pepper ({{quantity:black-pepper-crust}}), and fine sea salt ({{quantity:fine-sea-salt-crust}})."
+      ]
+    },
+    {
+      "title": "Bread the Portobellos",
+      "items": [
+        "Dip each dried portobello into the wet dredge, letting excess drip off.",
+        "Press each mushroom firmly into the seasoned crust on both sides so the coating sticks in an uneven, craggy layer.",
+        "Repeat the wet dredge and seasoned crust once more for a thicker chicken-fried coating.",
+        "Set the coated mushrooms on the parchment-lined pan and rest for 10 minutes so the crust hydrates and grips."
+      ]
+    },
+    {
+      "title": "Bake the Portobello Steaks",
+      "items": [
+        "Brush the coated mushrooms with the olive oil ({{quantity:olive-oil-crust}}).",
+        "Bake for 18 to 22 minutes, turning once halfway through, until the crust is browned, crisp at the edges, and dry to the touch.",
+        "Rest on a rack for 5 minutes before serving so steam does not soften the bottom crust."
+      ]
+    },
+    {
+      "title": "Build the Pepper Gravy",
+      "items": [
+        "While the portobellos bake, heat the olive oil ({{quantity:olive-oil-gravy}}) in a skillet over medium-high heat.",
+        "Add the cremini mushrooms ({{quantity:cremini-mushrooms}}) and cook for 8 to 10 minutes, stirring often, until they release their moisture and begin to brown.",
+        "Add the onion ({{quantity:yellow-onion}}) and cook for 4 to 5 minutes, until softened.",
+        "Add the garlic ({{quantity:garlic-gravy}}) and cook for 30 seconds.",
+        "Sprinkle in the flour ({{quantity:flour-gravy}}) and cook for 1 minute, stirring constantly, until the flour coats the mushrooms and smells lightly toasted."
+      ]
+    },
+    {
+      "title": "Finish the Gravy",
+      "items": [
+        "Slowly whisk in the vegetable stock ({{quantity:vegetable-stock}}), scraping up any browned bits from the skillet.",
+        "Add the soy sauce ({{quantity:low-sodium-soy-sauce}}), Dijon mustard ({{quantity:dijon-mustard-gravy}}), black pepper ({{quantity:black-pepper-gravy}}), and fine sea salt ({{quantity:fine-sea-salt-gravy}}).",
+        "Simmer for 4 to 6 minutes, stirring often, until the gravy is glossy and spoonable.",
+        "Turn off the heat and stir in the apple cider vinegar ({{quantity:apple-cider-vinegar-gravy}})."
+      ]
+    },
+    {
+      "title": "Serve",
+      "items": [
+        "Spoon the mashed potatoes ({{quantity:mashed-potatoes}}) onto plates.",
+        "Set one chicken-fried portobello steak on each serving of potatoes.",
+        "Spoon pepper gravy over the top and finish with parsley ({{quantity:fresh-parsley}}).",
+        "Serve immediately while the crust is still crisp."
+      ]
+    }
+  ]
+}
