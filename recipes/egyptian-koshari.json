@@ -1,0 +1,330 @@
+{
+  "id": "egyptian-koshari",
+  "title": "Egyptian Koshari",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The lentils, rice, macaroni, chickpeas, onions, tomato sauce, vinegar-garlic sauce, olive oil, herbs, spices, and seasonings contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the dish is built around lentils and chickpeas, with legumes, grains, tomato, aromatics, spices, and acid creating a filling main dish without cholesterol-containing ingredients. The structure supports LDL lowering through a legume-forward base and uses technique, crisp onions, and sharp sauces for satisfaction rather than saturated fat.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Koshari is one of Egypt's great street-food meals: rice, lentils, macaroni, chickpeas, tomato sauce, vinegar-garlic sauce, and crisp onions stacked into a bowl that is cheap, filling, loud, and deeply satisfying. Its power comes from contrast. The grains and legumes are hearty, the tomato sauce is warm and spiced, the vinegar-garlic sauce cuts through everything, and the onions bring crunch. It is comfort food built from pantry staples, and it fits naturally into a cholesterol-free kitchen when the textures are handled carefully.",
+  "ingredientGroups": [
+    {
+      "title": "Lentils and Rice",
+      "items": [
+        {
+          "id": "brown-lentils",
+          "amount": 1,
+          "unit": "cup",
+          "item": "dried brown lentils",
+          "prep": "picked over and rinsed"
+        },
+        {
+          "id": "water-lentils",
+          "amount": 3,
+          "unit": "cups",
+          "item": "water",
+          "prep": "for cooking lentils"
+        },
+        {
+          "id": "bay-leaf",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        },
+        {
+          "id": "long-grain-rice",
+          "amount": 1.25,
+          "unit": "cups",
+          "item": "long-grain white rice",
+          "prep": "rinsed until the water runs mostly clear"
+        },
+        {
+          "id": "olive-oil-rice",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-rice",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "water-rice",
+          "amount": 2,
+          "unit": "cups",
+          "item": "water",
+          "prep": "for cooking rice"
+        }
+      ]
+    },
+    {
+      "title": "Macaroni and Chickpeas",
+      "items": [
+        {
+          "id": "elbow-macaroni",
+          "amount": 8,
+          "unit": "ounces",
+          "item": "elbow macaroni",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-pasta-water",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fine sea salt",
+          "prep": "for pasta water"
+        },
+        {
+          "id": "cooked-chickpeas",
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "cooked chickpeas",
+          "prep": "drained"
+        }
+      ]
+    },
+    {
+      "title": "Crisp Onion Topping",
+      "items": [
+        {
+          "id": "yellow-onions-topping",
+          "amount": 2,
+          "unit": "large",
+          "item": "yellow onions",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "olive-oil-onions",
+          "amount": 1.5,
+          "unit": "tablespoons",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-onions",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Tomato Sauce",
+      "items": [
+        {
+          "id": "olive-oil-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion-sauce",
+          "amount": 1,
+          "unit": "small",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic-sauce",
+          "amount": 4,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "ground-cumin-sauce",
+          "amount": 1.5,
+          "unit": "teaspoons",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "id": "ground-coriander-sauce",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "ground coriander",
+          "prep": ""
+        },
+        {
+          "id": "smoked-paprika-sauce",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "id": "cayenne-sauce",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "cayenne pepper",
+          "prep": ""
+        },
+        {
+          "id": "tomato-paste",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "crushed-tomatoes",
+          "amount": 28,
+          "unit": "ounces",
+          "item": "crushed tomatoes",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-sauce",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-sauce",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "red-wine-vinegar-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "red wine vinegar",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Vinegar-Garlic Sauce",
+      "items": [
+        {
+          "id": "red-wine-vinegar-garlic-sauce",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "red wine vinegar",
+          "prep": ""
+        },
+        {
+          "id": "water-garlic-sauce",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "garlic-vinegar-sauce",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "finely grated"
+        },
+        {
+          "id": "ground-cumin-vinegar-sauce",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-vinegar-sauce",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "cayenne-vinegar-sauce",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "cayenne pepper",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Lentils",
+      "items": [
+        "Combine the lentils ({{quantity:brown-lentils}}), water ({{quantity:water-lentils}}), and bay leaf ({{quantity:bay-leaf}}) in a saucepan.",
+        "Bring to a boil, then reduce to a steady simmer.",
+        "Cook for 18 to 22 minutes, until the lentils are tender but still hold their shape.",
+        "Drain well and discard the bay leaf.",
+        "Spread the lentils on a plate or small tray so they cool slightly and stop cooking."
+      ]
+    },
+    {
+      "title": "Cook the Rice",
+      "items": [
+        "Combine the rinsed rice ({{quantity:long-grain-rice}}), olive oil ({{quantity:olive-oil-rice}}), fine sea salt ({{quantity:fine-sea-salt-rice}}), and water ({{quantity:water-rice}}) in a saucepan.",
+        "Bring to a boil, reduce to low, cover, and cook for 15 minutes.",
+        "Turn off the heat and let the rice stand, covered, for 10 minutes.",
+        "Fluff with a fork and keep covered."
+      ]
+    },
+    {
+      "title": "Cook the Macaroni and Warm the Chickpeas",
+      "items": [
+        "Bring a pot of water to a boil and season it with the fine sea salt ({{quantity:fine-sea-salt-pasta-water}}).",
+        "Cook the macaroni ({{quantity:elbow-macaroni}}) until just tender.",
+        "Drain the macaroni and keep it warm.",
+        "Warm the chickpeas ({{quantity:cooked-chickpeas}}) in a small pan with a splash of water, then drain."
+      ]
+    },
+    {
+      "title": "Make the Crisp Onion Topping",
+      "items": [
+        "Heat the oven to 425°F.",
+        "Toss the sliced onions ({{quantity:yellow-onions-topping}}) with the olive oil ({{quantity:olive-oil-onions}}) and fine sea salt ({{quantity:fine-sea-salt-onions}}).",
+        "Spread the onions on a parchment-lined sheet pan in a thin, even layer.",
+        "Bake for 25 to 35 minutes, stirring every 8 to 10 minutes, until the onions are deeply browned, frizzled at the edges, and crisp in spots.",
+        "Transfer the onions to a rack or plate so steam does not soften them."
+      ]
+    },
+    {
+      "title": "Build the Tomato Sauce",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil-sauce}}) in a saucepan over medium heat.",
+        "Add the onion ({{quantity:yellow-onion-sauce}}) and cook for 5 to 6 minutes, until softened.",
+        "Add the garlic ({{quantity:garlic-sauce}}), cumin ({{quantity:ground-cumin-sauce}}), coriander ({{quantity:ground-coriander-sauce}}), smoked paprika ({{quantity:smoked-paprika-sauce}}), and cayenne ({{quantity:cayenne-sauce}}).",
+        "Cook for 1 minute, stirring constantly, until the spices smell toasted.",
+        "Add the tomato paste ({{quantity:tomato-paste}}) and cook for 2 minutes, stirring often, until it darkens slightly.",
+        "Add the crushed tomatoes ({{quantity:crushed-tomatoes}}), fine sea salt ({{quantity:fine-sea-salt-sauce}}), and black pepper ({{quantity:black-pepper-sauce}}).",
+        "Simmer for 20 to 25 minutes, stirring occasionally, until the sauce thickens and tastes cooked rather than raw.",
+        "Turn off the heat and stir in the red wine vinegar ({{quantity:red-wine-vinegar-sauce}})."
+      ]
+    },
+    {
+      "title": "Make the Vinegar-Garlic Sauce",
+      "items": [
+        "Stir together the red wine vinegar ({{quantity:red-wine-vinegar-garlic-sauce}}), water ({{quantity:water-garlic-sauce}}), garlic ({{quantity:garlic-vinegar-sauce}}), cumin ({{quantity:ground-cumin-vinegar-sauce}}), fine sea salt ({{quantity:fine-sea-salt-vinegar-sauce}}), and cayenne ({{quantity:cayenne-vinegar-sauce}}).",
+        "Let the sauce stand for at least 10 minutes so the garlic sharpness softens slightly."
+      ]
+    },
+    {
+      "title": "Assemble and Serve",
+      "items": [
+        "For each serving, layer rice, lentils, macaroni, and chickpeas in a bowl.",
+        "Spoon tomato sauce over the top.",
+        "Drizzle with a small amount of vinegar-garlic sauce.",
+        "Finish with crisp onions.",
+        "Serve immediately, with extra tomato sauce and vinegar-garlic sauce at the table."
+      ]
+    }
+  ]
+}
