@@ -1,0 +1,270 @@
+{
+  "id": "minestrone",
+  "title": "Minestrone",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The cannellini beans, vegetables, pasta, tomato, vegetable stock, herbs, olive oil, lemon juice, and vinegar contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the soup is built around beans, vegetables, greens, tomato, herbs, and unsaturated oil, with soluble fiber and body coming from legumes and vegetables rather than meat, butter, cream, or cheese.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Minestrone is Italy's great vegetable-and-bean soup, shaped more by season, region, and pantry than by one fixed recipe. Some versions are tomato-rich, some are green and brothy, some include pasta or rice, and many are built around beans, cabbage, greens, and leftover vegetables. The best minestrone should feel hearty but not heavy: vegetables cooked in layers, beans for body, small pasta for comfort, and herbs and acid at the end to keep the pot bright.",
+  "ingredientGroups": [
+    {
+      "title": "Beans",
+      "items": [
+        {
+          "id": "dried-cannellini-beans",
+          "amount": 1,
+          "unit": "cup",
+          "item": "dried cannellini beans",
+          "prep": "picked over and rinsed"
+        },
+        {
+          "id": "water-soaking",
+          "amount": 0,
+          "unit": "",
+          "item": "water",
+          "prep": "for soaking"
+        },
+        {
+          "id": "water-cooking-beans",
+          "amount": 4,
+          "unit": "cups",
+          "item": "water",
+          "prep": "for cooking beans"
+        },
+        {
+          "id": "bay-leaf-beans",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Soup Base",
+      "items": [
+        {
+          "id": "olive-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "carrots",
+          "amount": 2,
+          "unit": "medium",
+          "item": "carrots",
+          "prep": "finely diced"
+        },
+        {
+          "id": "celery",
+          "amount": 2,
+          "unit": "stalks",
+          "item": "celery",
+          "prep": "finely diced"
+        },
+        {
+          "id": "zucchini",
+          "amount": 1,
+          "unit": "medium",
+          "item": "zucchini",
+          "prep": "diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "tomato-paste",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "dried-oregano",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "dried oregano",
+          "prep": ""
+        },
+        {
+          "id": "dried-thyme",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "dried thyme",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Soup Body",
+      "items": [
+        {
+          "id": "crushed-tomatoes",
+          "amount": 28,
+          "unit": "ounces",
+          "item": "crushed tomatoes",
+          "prep": ""
+        },
+        {
+          "id": "vegetable-stock",
+          "amount": 6,
+          "unit": "cups",
+          "item": "vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "green-cabbage",
+          "amount": 2,
+          "unit": "cups",
+          "item": "green cabbage",
+          "prep": "chopped"
+        },
+        {
+          "id": "small-pasta",
+          "amount": 1,
+          "unit": "cup",
+          "item": "small pasta, such as ditalini or elbow macaroni",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Greens and Finish",
+      "items": [
+        {
+          "id": "escarole-or-kale",
+          "amount": 3,
+          "unit": "cups",
+          "item": "escarole or kale",
+          "prep": "chopped"
+        },
+        {
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "red-wine-vinegar",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "red wine vinegar",
+          "prep": ""
+        },
+        {
+          "id": "fresh-parsley",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fresh parsley",
+          "prep": "minced"
+        },
+        {
+          "id": "fresh-basil",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh basil",
+          "prep": "chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Soak the Beans",
+      "items": [
+        "Place the cannellini beans ({{quantity:dried-cannellini-beans}}) in a large bowl and cover with several inches of water.",
+        "Soak overnight.",
+        "Drain and rinse the beans."
+      ]
+    },
+    {
+      "title": "Cook the Beans",
+      "items": [
+        "Add the soaked beans, water ({{quantity:water-cooking-beans}}), and bay leaf ({{quantity:bay-leaf-beans}}) to a pot.",
+        "Bring to a boil, then reduce to a steady simmer.",
+        "Cook for 60 to 90 minutes, until the beans are tender but not falling apart.",
+        "Drain the beans and discard the bay leaf.",
+        "Set the beans aside."
+      ]
+    },
+    {
+      "title": "Build the Vegetable Base",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil}}) in a large soup pot over medium heat.",
+        "Add the onion ({{quantity:yellow-onion}}), carrots ({{quantity:carrots}}), and celery ({{quantity:celery}}).",
+        "Cook for 8 to 10 minutes, stirring often, until the vegetables soften and the onion turns translucent.",
+        "Add the zucchini ({{quantity:zucchini}}).",
+        "Cook for 4 to 5 minutes, until it begins to soften but still holds its shape.",
+        "Add the garlic ({{quantity:garlic}}), tomato paste ({{quantity:tomato-paste}}), oregano ({{quantity:dried-oregano}}), thyme ({{quantity:dried-thyme}}), and black pepper ({{quantity:black-pepper}}).",
+        "Cook for 2 minutes, stirring constantly, until the tomato paste darkens slightly and coats the vegetables."
+      ]
+    },
+    {
+      "title": "Build the Soup",
+      "items": [
+        "Add the crushed tomatoes ({{quantity:crushed-tomatoes}}), vegetable stock ({{quantity:vegetable-stock}}), fine sea salt ({{quantity:fine-sea-salt}}), cabbage ({{quantity:green-cabbage}}), and cooked beans.",
+        "Bring to a simmer.",
+        "Cook uncovered for 20 to 25 minutes, stirring occasionally, until the cabbage is tender and the broth tastes rounded."
+      ]
+    },
+    {
+      "title": "Cook the Pasta",
+      "items": [
+        "Add the pasta ({{quantity:small-pasta}}) directly to the soup.",
+        "Simmer for 8 to 10 minutes, stirring often, until the pasta is just tender.",
+        "Keep the soup loose. If the pasta absorbs too much liquid, add hot water or vegetable stock as needed."
+      ]
+    },
+    {
+      "title": "Add the Greens",
+      "items": [
+        "Stir in the escarole or kale ({{quantity:escarole-or-kale}}).",
+        "Simmer for 3 to 5 minutes, until the greens are wilted and tender but still green."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Turn off the heat.",
+        "Stir in the lemon juice ({{quantity:lemon-juice}}), red wine vinegar ({{quantity:red-wine-vinegar}}), parsley ({{quantity:fresh-parsley}}), and basil ({{quantity:fresh-basil}}).",
+        "Let the soup stand for 5 minutes before serving.",
+        "Taste and adjust with salt, lemon juice, or vinegar as needed."
+      ]
+    }
+  ]
+}
