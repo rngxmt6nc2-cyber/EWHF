@@ -1,0 +1,159 @@
+{
+  "id": "egg-drop-soup",
+  "title": "Egg Drop Soup",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 2,
+  "ldlActive": false,
+  "cScaleSummary": "C2 because whole eggs are the primary cholesterol-contributing ingredient. The chicken stock may contribute a small amount depending on preparation, while the soy sauce, ginger, cornstarch, water, scallion, sesame oil, salt, and white pepper contribute little to no cholesterol.",
+  "ldlActiveSummary": "Not LDL-Active because the recipe is centered on whole eggs. It remains a simple lower-cholesterol soup because the broth is light, the thickening is minimal, and the recipe avoids butter, cream, high-fat meat, and heavy cheese, but it does not qualify as actively LDL-lowering under the EWHF standard.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Egg drop soup is one of the clearest examples of how a simple broth can become a complete dish through timing and technique. Versions appear throughout Chinese home cooking and restaurant cooking, built around seasoned stock, a light starch body, and beaten egg streamed into hot liquid so it blooms into soft ribbons. The best versions are clean, savory, and delicate, with enough body to feel comforting but not so much thickening that the soup turns gluey.",
+  "ingredientGroups": [
+    {
+      "title": "Broth Base",
+      "items": [
+        {
+          "id": "chicken-stock",
+          "amount": 4,
+          "unit": "cups",
+          "item": "chicken stock",
+          "prep": ""
+        },
+        {
+          "id": "low-sodium-soy-sauce",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "fresh-ginger",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fresh ginger",
+          "prep": "grated"
+        },
+        {
+          "id": "fine-sea-salt",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "white-pepper",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "white pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Starch Slurry",
+      "items": [
+        {
+          "id": "cornstarch",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "cornstarch",
+          "prep": ""
+        },
+        {
+          "id": "cold-water-slurry",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "cold water",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Egg Ribbon",
+      "items": [
+        {
+          "id": "eggs",
+          "amount": 2,
+          "unit": "large",
+          "item": "eggs",
+          "prep": ""
+        },
+        {
+          "id": "cold-water-eggs",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "cold water",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "scallion",
+          "amount": 1,
+          "unit": "",
+          "item": "scallion",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "toasted-sesame-oil",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "toasted sesame oil",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Build the Broth",
+      "items": [
+        "Combine the chicken stock ({{quantity:chicken-stock}}), low-sodium soy sauce ({{quantity:low-sodium-soy-sauce}}), ginger ({{quantity:fresh-ginger}}), fine sea salt ({{quantity:fine-sea-salt}}), and white pepper ({{quantity:white-pepper}}) in a saucepan.",
+        "Bring to a gentle simmer over medium heat.",
+        "Simmer for 5 minutes so the ginger infuses the broth."
+      ]
+    },
+    {
+      "title": "Thicken the Broth Lightly",
+      "items": [
+        "Stir together the cornstarch ({{quantity:cornstarch}}) and cold water ({{quantity:cold-water-slurry}}) until completely smooth.",
+        "Whisk the slurry into the simmering broth.",
+        "Simmer for 1 to 2 minutes, stirring often, until the broth turns slightly glossy and lightly thickened.",
+        "Do not over-thicken. Egg drop soup should have body, not gravy texture."
+      ]
+    },
+    {
+      "title": "Prepare the Egg",
+      "items": [
+        "Beat the eggs ({{quantity:eggs}}) with the cold water ({{quantity:cold-water-eggs}}) until fully blended.",
+        "The egg should be loose and pourable, not foamy."
+      ]
+    },
+    {
+      "title": "Form the Egg Ribbons",
+      "items": [
+        "Reduce the heat so the broth is hot but not boiling hard.",
+        "Stir the broth in one steady direction to create a gentle current.",
+        "Slowly drizzle the beaten egg into the moving broth in a thin stream.",
+        "Stop stirring as soon as the egg is added.",
+        "Let the egg set for 20 to 30 seconds, then gently nudge the ribbons apart with a spoon."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Turn off the heat.",
+        "Stir in the scallion ({{quantity:scallion}}) and toasted sesame oil ({{quantity:toasted-sesame-oil}}).",
+        "Serve immediately."
+      ]
+    }
+  ]
+}
