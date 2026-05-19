@@ -1,0 +1,130 @@
+{
+  "id": "olive-oil-focaccia",
+  "title": "Olive Oil Focaccia",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Breads & Doughs",
+  "displayCategory": "Breads & Doughs",
+  "cScale": 0,
+  "ldlActive": false,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients that contribute cholesterol. The flour, olive oil, yeast, rosemary, salt, and water all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is false because the recipe is primarily a refined-flour bread designed around texture and fermentation rather than a fiber-forward structure specifically intended to support LDL lowering.",
+  "yield": 12,
+  "yieldUnit": "pieces",
+  "tags": [],
+  "intro": "Focaccia is one of Italy’s great flatbreads: olive oil-rich, deeply dimpled, salty, and built around contrast. The best versions are not just soft bread. They have a crisp fried-bottom crust, a tender open crumb, and pockets of oil and brine that season the dough from the surface down. It is simple food, but the technique matters.",
+  "ingredientGroups": [
+    {
+      "title": "Dough",
+      "items": [
+        {
+          "amount": 500,
+          "unit": "g",
+          "item": "bread flour",
+          "prep": ""
+        },
+        {
+          "amount": 390,
+          "unit": "g",
+          "item": "water",
+          "prep": "room temperature"
+        },
+        {
+          "amount": 10,
+          "unit": "g",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "amount": 4,
+          "unit": "g",
+          "item": "instant yeast",
+          "prep": ""
+        },
+        {
+          "amount": 15,
+          "unit": "g",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Pan and Finishing",
+      "items": [
+        {
+          "amount": 40,
+          "unit": "g",
+          "item": "extra-virgin olive oil",
+          "prep": "divided"
+        },
+        {
+          "amount": 60,
+          "unit": "g",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "amount": 6,
+          "unit": "g",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh rosemary leaves",
+          "prep": "chopped"
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "flaky sea salt",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Mix the Dough",
+      "items": [
+        "In a large bowl, combine the 500 g bread flour, 390 g water, 10 g fine sea salt, 4 g instant yeast, and 15 g extra-virgin olive oil. Mix until no dry flour remains. The dough will be sticky and loose.",
+        "Cover and rest for 20 minutes."
+      ]
+    },
+    {
+      "title": "Strengthen the Dough",
+      "items": [
+        "With wet hands, stretch one side of the dough up and fold it over itself. Rotate the bowl and repeat on all four sides. Cover and rest for 20 minutes.",
+        "Repeat the stretch-and-fold process two more times, resting 20 minutes between each round. The dough should become smoother, more elastic, and slightly bubbly.",
+        "Cover the bowl and let the dough rise at room temperature for 2 to 3 hours, until noticeably expanded and airy."
+      ]
+    },
+    {
+      "title": "Pan and Proof",
+      "items": [
+        "Coat a half-sheet pan generously with 30 g olive oil. Scrape the dough into the pan and turn it once so both sides are lightly coated.",
+        "Gently stretch the dough toward the corners. Do not force it. If it resists, rest it for 15 minutes, then continue stretching.",
+        "Cover and let rise for 1½ to 2 hours, until puffy and nearly filling the pan."
+      ]
+    },
+    {
+      "title": "Dimple and Bake",
+      "items": [
+        "Heat the oven to 450 °F.",
+        "In a small bowl, stir together the 60 g water and 6 g fine sea salt until dissolved.",
+        "Drizzle the remaining 10 g olive oil over the dough. Pour the salt water evenly across the surface.",
+        "With oiled fingers, press deep dimples across the entire dough, pushing straight down to the pan without tearing. The brine and oil should pool in the dimples.",
+        "Scatter the chopped rosemary over the top and sprinkle with the flaky sea salt.",
+        "Bake for 22 to 28 minutes, until the top is golden and the bottom is deeply crisp."
+      ]
+    },
+    {
+      "title": "Cool and Serve",
+      "items": [
+        "Remove the focaccia from the pan and cool on a rack for at least 15 minutes before cutting."
+      ]
+    }
+  ]
+}
