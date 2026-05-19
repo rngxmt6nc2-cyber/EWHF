@@ -1,0 +1,251 @@
+{
+  "id": "chana-masala",
+  "title": "Chana Masala",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The chickpeas, onion, tomato, garlic, ginger, spices, oil, lemon juice, cilantro, and rice or flatbread served alongside contribute 0 mg cholesterol as written.",
+  "ldlActiveSummary": "LDL-Active because the dish is built around chickpeas, a legume base rich in soluble fiber, with tomato, onion, aromatics, spices, herbs, acid, and a restrained amount of unsaturated oil providing flavor and structure without cholesterol-containing ingredients.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Chana masala is one of the great North Indian chickpea dishes: hearty, tomato-rich, sharp with ginger and garlic, and built around a spice base that makes pantry ingredients feel like a real meal. It is often served with rice, roti, or bhatura, but the heart of the dish is the contrast between tender chickpeas and a deeply cooked onion-tomato masala. The best version should be bold, tangy, earthy, and spoonable, with enough sauce to coat the chickpeas without turning soupy.",
+  "ingredientGroups": [
+    {
+      "title": "Chickpeas",
+      "items": [
+        {
+          "id": "dried-chickpeas",
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "dried chickpeas",
+          "prep": "picked over and rinsed"
+        },
+        {
+          "id": "water-soaking",
+          "amount": 0,
+          "unit": "",
+          "item": "water",
+          "prep": "for soaking"
+        },
+        {
+          "id": "water-cooking",
+          "amount": 6,
+          "unit": "cups",
+          "item": "water",
+          "prep": "for cooking chickpeas"
+        },
+        {
+          "id": "bay-leaf",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Masala Base",
+      "items": [
+        {
+          "id": "olive-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "fine-sea-salt-onion",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": "for sweating onion"
+        },
+        {
+          "id": "garlic",
+          "amount": 4,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "fresh-ginger",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh ginger",
+          "prep": "minced"
+        },
+        {
+          "id": "serrano-chile",
+          "amount": 1,
+          "unit": "",
+          "item": "serrano chile",
+          "prep": "minced"
+        },
+        {
+          "id": "tomato-paste",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "crushed-tomatoes",
+          "amount": 14.5,
+          "unit": "ounces",
+          "item": "crushed tomatoes",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Spices and Sauce",
+      "items": [
+        {
+          "id": "ground-cumin",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "id": "ground-coriander",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "ground coriander",
+          "prep": ""
+        },
+        {
+          "id": "kashmiri-chile-powder",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Kashmiri chile powder",
+          "prep": ""
+        },
+        {
+          "id": "ground-turmeric",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "ground turmeric",
+          "prep": ""
+        },
+        {
+          "id": "garam-masala",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "garam masala",
+          "prep": "divided"
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "chickpea-cooking-liquid",
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "reserved chickpea cooking liquid",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-sauce",
+          "amount": 0.75,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": "for final simmer"
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "lemon-juice",
+          "amount": 1.5,
+          "unit": "tablespoons",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "fresh-cilantro",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fresh cilantro",
+          "prep": "chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Soak the Chickpeas",
+      "items": [
+        "Place the chickpeas ({{quantity:dried-chickpeas}}) in a large bowl and cover with several inches of water.",
+        "Soak overnight.",
+        "Drain and rinse the chickpeas."
+      ]
+    },
+    {
+      "title": "Cook the Chickpeas",
+      "items": [
+        "Add the soaked chickpeas, water ({{quantity:water-cooking}}), and bay leaf ({{quantity:bay-leaf}}) to a pot.",
+        "Bring to a boil, then reduce to a steady simmer.",
+        "Cook for 60 to 90 minutes, until the chickpeas are tender but not falling apart.",
+        "Reserve the chickpea cooking liquid ({{quantity:chickpea-cooking-liquid}}), then drain the chickpeas.",
+        "Discard the bay leaf."
+      ]
+    },
+    {
+      "title": "Brown the Onion Base",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil}}) in a large skillet or Dutch oven over medium heat.",
+        "Add the onion ({{quantity:yellow-onion}}) and fine sea salt ({{quantity:fine-sea-salt-onion}}).",
+        "Cook for 12 to 15 minutes, stirring often, until the onion is soft, golden, and beginning to brown at the edges.",
+        "Add the garlic ({{quantity:garlic}}), ginger ({{quantity:fresh-ginger}}), and serrano chile ({{quantity:serrano-chile}}).",
+        "Cook for 1 minute, stirring constantly."
+      ]
+    },
+    {
+      "title": "Build the Masala",
+      "items": [
+        "Add the tomato paste ({{quantity:tomato-paste}}).",
+        "Cook for 2 minutes, stirring constantly, until the tomato paste darkens and starts to stick to the pan.",
+        "Add the cumin ({{quantity:ground-cumin}}), coriander ({{quantity:ground-coriander}}), Kashmiri chile powder ({{quantity:kashmiri-chile-powder}}), turmeric ({{quantity:ground-turmeric}}), half of the garam masala ({{quantity:garam-masala}}), and black pepper ({{quantity:black-pepper}}).",
+        "Cook for 30 seconds, stirring constantly, until the spices are fragrant but not scorched.",
+        "Add the crushed tomatoes ({{quantity:crushed-tomatoes}}) and scrape the bottom of the pan to release the browned tomato paste and spices."
+      ]
+    },
+    {
+      "title": "Simmer the Chickpeas",
+      "items": [
+        "Add the cooked chickpeas, reserved chickpea cooking liquid, and fine sea salt ({{quantity:fine-sea-salt-sauce}}).",
+        "Bring to a simmer.",
+        "Cook uncovered for 20 to 25 minutes, stirring occasionally, until the chickpeas absorb the masala and the sauce thickens enough to coat them.",
+        "Mash about 1/2 cup of chickpeas against the side of the pan to help thicken the sauce while leaving most chickpeas whole."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Turn off the heat.",
+        "Stir in the remaining garam masala, lemon juice ({{quantity:lemon-juice}}), and cilantro ({{quantity:fresh-cilantro}}).",
+        "Let stand for 5 minutes before serving.",
+        "Taste and adjust with salt or lemon juice as needed.",
+        "Serve hot with rice, roti, or flatbread."
+      ]
+    }
+  ]
+}
