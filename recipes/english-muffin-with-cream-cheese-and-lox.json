@@ -1,0 +1,104 @@
+{
+  "id": "english-muffin-with-cream-cheese-and-lox",
+  "title": "English Muffin with Low-Fat Cream Cheese and Lox",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Handhelds",
+  "displayCategory": "Handhelds",
+  "cScale": 2,
+  "ldlActive": false,
+  "cScaleSummary": "C2 because lox and low-fat cream cheese are the cholesterol-contributing ingredients. The English muffins, red onion, capers, dill, lemon juice, and black pepper contribute little to no cholesterol, and the modest serving size keeps the recipe within the C2 range.",
+  "ldlActiveSummary": "Not LDL-Active because the recipe is centered on smoked fish and dairy rather than an LDL-lowering structure. It remains a controlled C2 handheld because the portions of lox and low-fat cream cheese are modest, but it is not built around legumes, soluble fiber, or other active LDL-lowering components.",
+  "yield": 4,
+  "yieldUnit": "sandwiches",
+  "tags": [],
+  "intro": "This sits in the New York Jewish deli breakfast lane: bagel, cream cheese, smoked salmon, onion, capers, and lemon. Moving it to an English muffin makes it smaller, crisper, and more breakfast-sandwich-like, but the core is still the same: toasted bread, cool tangy dairy, silky smoked fish, and sharp little accents. It should feel clean and briny, not overloaded.",
+  "ingredientGroups": [
+    {
+      "title": "Sandwiches",
+      "items": [
+        {
+          "id": "english-muffins",
+          "amount": 4,
+          "unit": "",
+          "item": "English muffins",
+          "prep": "split"
+        },
+        {
+          "id": "low-fat-cream-cheese",
+          "amount": 6,
+          "unit": "tablespoons",
+          "item": "low-fat cream cheese",
+          "prep": ""
+        },
+        {
+          "id": "lox",
+          "amount": 6,
+          "unit": "ounces",
+          "item": "lox or cold-smoked salmon",
+          "prep": ""
+        },
+        {
+          "id": "red-onion",
+          "amount": 0.25,
+          "unit": "small",
+          "item": "red onion",
+          "prep": "very thinly sliced"
+        },
+        {
+          "id": "capers",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "capers",
+          "prep": "drained"
+        },
+        {
+          "id": "fresh-dill",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh dill",
+          "prep": "chopped"
+        },
+        {
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Toast the Muffins",
+      "items": [
+        "Toast the English muffins ({{quantity:english-muffins}}) until the cut sides are crisp and deeply browned.",
+        "Let them cool for 1 minute so the cream cheese does not immediately melt and slide."
+      ]
+    },
+    {
+      "title": "Prepare the Cream Cheese",
+      "items": [
+        "Stir the low-fat cream cheese ({{quantity:low-fat-cream-cheese}}) until spreadable.",
+        "Stir in the lemon juice ({{quantity:lemon-juice}}), dill ({{quantity:fresh-dill}}), and black pepper ({{quantity:black-pepper}})."
+      ]
+    },
+    {
+      "title": "Assemble",
+      "items": [
+        "Spread the cream cheese mixture over the cut sides of the toasted English muffins.",
+        "Fold the lox ({{quantity:lox}}) over the bottom halves rather than laying it flat in dense slabs.",
+        "Add the red onion ({{quantity:red-onion}}) and capers ({{quantity:capers}}).",
+        "Close the sandwiches and serve immediately."
+      ]
+    }
+  ]
+}
