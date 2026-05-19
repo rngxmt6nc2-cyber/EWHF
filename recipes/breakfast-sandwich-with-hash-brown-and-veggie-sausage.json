@@ -1,0 +1,79 @@
+{
+  "id": "breakfast-sandwich-with-hash-brown-and-veggie-sausage",
+  "title": "Breakfast Sandwich with Hash Brown and Veggie Sausage",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Handhelds",
+  "displayCategory": "Handhelds",
+  "cScale": 0,
+  "ldlActive": false,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients when made with cholesterol-free English muffins, frozen hash brown patties, and MorningStar Farms breakfast sausage patties. The sandwich components contribute 0 mg cholesterol as written.",
+  "ldlActiveSummary": "Not LDL-Active because the recipe is a convenience-style breakfast sandwich rather than a fiber-forward LDL-lowering dish. It remains cholesterol-free as written, but it is not built around legumes, whole grains, soluble fiber, or other active LDL-lowering structure.",
+  "yield": 4,
+  "yieldUnit": "sandwiches",
+  "tags": [],
+  "intro": "The breakfast sandwich is one of the great American handheld meals: fast, hot, salty, soft, crisp, and built around contrast. The English muffin version sits somewhere between diner breakfast, drive-through breakfast, and freezer-aisle practicality. This one stays stripped down: toasted muffin, savory veggie breakfast patty, and crisp hash brown. The sandwich works because the muffin is crunchy at the edges, the hash brown is crisp, and the sausage patty gets smashed partway through cooking so it browns harder and eats less like a warmed freezer patty.",
+  "ingredientGroups": [
+    {
+      "title": "Sandwiches",
+      "items": [
+        {
+          "id": "english-muffins",
+          "amount": 4,
+          "unit": "",
+          "item": "English muffins",
+          "prep": "split"
+        },
+        {
+          "id": "veggie-sausage-patties",
+          "amount": 4,
+          "unit": "",
+          "item": "MorningStar Farms breakfast sausage patties",
+          "prep": ""
+        },
+        {
+          "id": "hash-brown-patties",
+          "amount": 4,
+          "unit": "",
+          "item": "frozen hash brown patties",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Hash Browns",
+      "items": [
+        "Heat the oven to 425°F.",
+        "Place the hash brown patties ({{quantity:hash-brown-patties}}) on a parchment-lined sheet pan.",
+        "Bake until crisp and browned, turning once halfway through, about 18 to 24 minutes.",
+        "Hold the hash browns on a rack so the bottoms stay crisp."
+      ]
+    },
+    {
+      "title": "Cook and Smash the Sausage Patties",
+      "items": [
+        "Cook the MorningStar Farms breakfast sausage patties ({{quantity:veggie-sausage-patties}}) in a skillet over medium heat according to package directions until they are about halfway heated and softened enough to press.",
+        "Press each patty firmly with a spatula to flatten it slightly.",
+        "Continue cooking until browned, crisp at the edges, and heated through, turning once as needed.",
+        "Hold warm while the muffins and hash browns finish."
+      ]
+    },
+    {
+      "title": "Toast the Muffins",
+      "items": [
+        "Toast the English muffins ({{quantity:english-muffins}}) until the cut sides are crisp and browned.",
+        "Do not under-toast them. The muffin has to stand up to the hash brown."
+      ]
+    },
+    {
+      "title": "Assemble",
+      "items": [
+        "Place one smashed veggie sausage patty on the bottom half of each English muffin.",
+        "Add one crisp hash brown patty.",
+        "Close the sandwiches and serve immediately."
+      ]
+    }
+  ]
+}
