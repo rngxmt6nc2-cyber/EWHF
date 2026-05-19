@@ -1,0 +1,143 @@
+{
+  "id": "baked-new-orleans-style-beignets",
+  "title": "Baked New Orleans-Style Beignets",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Small Plates",
+  "displayCategory": "Small Plates",
+  "cScale": 0,
+  "ldlActive": false,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The flour, yeast, date syrup, olive oil, vanilla, salt, water, and powdered sugar contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "Not LDL-Active because this is a refined-flour breakfast sweet with a powdered sugar finish, even though it is baked and cholesterol-free. It fits EWHF as an occasional fun breakfast recipe, not as an actively LDL-lowering dish.",
+  "yield": 12,
+  "yieldUnit": "beignets",
+  "tags": [],
+  "intro": "Beignets are one of the signature breakfast sweets of New Orleans, especially tied to the French Market coffee-and-beignet tradition. Classic versions are yeasted dough squares fried until puffed, then covered with powdered sugar. This version keeps the New Orleans breakfast idea: hot, soft, airy dough with a lightly crisp exterior and a powdered sugar finish, but moves the cooking method to the oven. It is not pretending to be a fried beignet. It is a lighter, cholesterol-free baked version that still belongs with strong coffee.",
+  "ingredientGroups": [
+    {
+      "title": "Dough",
+      "items": [
+        {
+          "id": "warm-water",
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "warm water",
+          "prep": "105°F to 110°F"
+        },
+        {
+          "id": "active-dry-yeast",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "active dry yeast",
+          "prep": ""
+        },
+        {
+          "id": "date-syrup",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "date syrup",
+          "prep": ""
+        },
+        {
+          "id": "all-purpose-flour",
+          "amount": 2,
+          "unit": "cups",
+          "item": "all-purpose flour",
+          "prep": "plus more for rolling"
+        },
+        {
+          "id": "fine-sea-salt",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "olive-oil-dough",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "vanilla-extract",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "vanilla extract",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "olive-oil-finish",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": "for brushing"
+        },
+        {
+          "id": "powdered-sugar",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "powdered sugar",
+          "prep": "for dusting"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Make the Dough",
+      "items": [
+        "Combine the warm water ({{quantity:warm-water}}), yeast ({{quantity:active-dry-yeast}}), and date syrup ({{quantity:date-syrup}}) in a mixing bowl.",
+        "Let stand for 5 to 10 minutes, until the yeast looks foamy.",
+        "Add the flour ({{quantity:all-purpose-flour}}), fine sea salt ({{quantity:fine-sea-salt}}), olive oil ({{quantity:olive-oil-dough}}), and vanilla ({{quantity:vanilla-extract}}).",
+        "Mix until a soft dough forms.",
+        "Knead for 5 to 6 minutes, until the dough is smooth, elastic, and slightly tacky but not wet."
+      ]
+    },
+    {
+      "title": "First Rise",
+      "items": [
+        "Place the dough in a lightly oiled bowl.",
+        "Cover and let rise in a warm place for 60 to 75 minutes, until doubled."
+      ]
+    },
+    {
+      "title": "Shape the Beignets",
+      "items": [
+        "Turn the dough onto a lightly floured surface.",
+        "Roll into a rectangle about 1/2 inch thick.",
+        "Cut into 12 squares.",
+        "Transfer the squares to a parchment-lined sheet pan, leaving space between them."
+      ]
+    },
+    {
+      "title": "Second Rise",
+      "items": [
+        "Cover loosely.",
+        "Let rise for 25 to 35 minutes, until slightly puffed."
+      ]
+    },
+    {
+      "title": "Bake",
+      "items": [
+        "Heat the oven to 425°F.",
+        "Brush the tops lightly with the olive oil ({{quantity:olive-oil-finish}}).",
+        "Bake for 9 to 12 minutes, until puffed, lightly browned at the edges, and cooked through.",
+        "For a little more surface color, leave them in for 1 to 2 minutes longer, but do not dry them out."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Let the beignets cool for 2 minutes.",
+        "Dust with powdered sugar ({{quantity:powdered-sugar}}) while still warm.",
+        "Serve immediately with strong coffee."
+      ]
+    }
+  ]
+}
