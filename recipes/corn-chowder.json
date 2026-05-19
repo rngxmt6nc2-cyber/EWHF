@@ -1,0 +1,230 @@
+{
+  "id": "corn-chowder",
+  "title": "Corn Chowder",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The corn, potatoes, white beans, vegetables, olive oil, herbs, spices, nutritional yeast, Dijon mustard, lemon juice, parsley, and scallion contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the chowder is built around corn, potatoes, and white beans, with legumes adding soluble fiber and body. Flavor and texture come from corn cob stock, aromatics, partial blending, herbs, and acid rather than butter, cream, bacon, salt pork, or other cholesterol-containing ingredients.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Corn chowder sits in the same New England family as clam chowder, fish chowder, and potato chowder, but corn gives it a sweeter, sunnier character. Traditional versions often lean on cream, milk, butter, or salt pork, but the heart of the dish is really corn, potatoes, onion, and a broth that tastes like the cob. A good corn chowder should be thick, sweet-savory, and comforting without tasting heavy. The key is extracting flavor from the cobs and using blended corn and potato for body instead of dairy.",
+  "ingredientGroups": [
+    {
+      "title": "Corn Cob Stock",
+      "items": [
+        {
+          "id": "fresh-corn",
+          "amount": 6,
+          "unit": "ears",
+          "item": "fresh corn",
+          "prep": "kernels cut from the cobs, cobs reserved"
+        },
+        {
+          "id": "water-stock",
+          "amount": 7,
+          "unit": "cups",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "bay-leaf",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        },
+        {
+          "id": "fine-sea-salt-stock",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Chowder Base",
+      "items": [
+        {
+          "id": "olive-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "celery",
+          "amount": 2,
+          "unit": "stalks",
+          "item": "celery",
+          "prep": "finely diced"
+        },
+        {
+          "id": "carrot",
+          "amount": 1,
+          "unit": "medium",
+          "item": "carrot",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "fresh-thyme",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fresh thyme leaves",
+          "prep": ""
+        },
+        {
+          "id": "smoked-paprika",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Soup Body",
+      "items": [
+        {
+          "id": "yukon-gold-potatoes",
+          "amount": 1,
+          "unit": "pound",
+          "item": "Yukon Gold potatoes",
+          "prep": "peeled and diced 1/2 inch"
+        },
+        {
+          "id": "fine-sea-salt-soup",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "cooked-white-beans",
+          "amount": 1,
+          "unit": "cup",
+          "item": "cooked white beans",
+          "prep": "drained"
+        },
+        {
+          "id": "nutritional-yeast",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "nutritional yeast",
+          "prep": ""
+        },
+        {
+          "id": "dijon-mustard",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "fresh-parsley",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh parsley",
+          "prep": "minced"
+        },
+        {
+          "id": "scallion",
+          "amount": 1,
+          "unit": "",
+          "item": "scallion",
+          "prep": "thinly sliced"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Make the Corn Cob Stock",
+      "items": [
+        "Cut the kernels from the fresh corn ({{quantity:fresh-corn}}). Set the kernels aside and reserve the stripped cobs.",
+        "Place the stripped cobs in a large pot with the water ({{quantity:water-stock}}), bay leaf ({{quantity:bay-leaf}}), and fine sea salt ({{quantity:fine-sea-salt-stock}}).",
+        "Bring to a boil, then reduce to a steady simmer.",
+        "Simmer for 30 minutes.",
+        "Remove and discard the cobs and bay leaf.",
+        "Measure out 6 cups of corn stock for the soup."
+      ]
+    },
+    {
+      "title": "Build the Aromatic Base",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil}}) in a large soup pot over medium heat.",
+        "Add the onion ({{quantity:yellow-onion}}), celery ({{quantity:celery}}), and carrot ({{quantity:carrot}}).",
+        "Cook for 8 to 10 minutes, stirring often, until the vegetables soften and the onion turns translucent.",
+        "Add the garlic ({{quantity:garlic}}), thyme ({{quantity:fresh-thyme}}), smoked paprika ({{quantity:smoked-paprika}}), and black pepper ({{quantity:black-pepper}}).",
+        "Cook for 1 minute, stirring constantly."
+      ]
+    },
+    {
+      "title": "Cook the Chowder",
+      "items": [
+        "Add the potatoes ({{quantity:yukon-gold-potatoes}}), reserved corn stock, and fine sea salt ({{quantity:fine-sea-salt-soup}}).",
+        "Bring to a simmer.",
+        "Cook for 12 to 15 minutes, until the potatoes are tender.",
+        "Add the reserved corn kernels and white beans ({{quantity:cooked-white-beans}}).",
+        "Simmer for 8 to 10 minutes, until the corn is tender but still fresh-tasting."
+      ]
+    },
+    {
+      "title": "Thicken the Chowder",
+      "items": [
+        "Remove 3 cups of soup and blend until smooth.",
+        "Return the blended soup to the pot.",
+        "Stir in the nutritional yeast ({{quantity:nutritional-yeast}}) and Dijon mustard ({{quantity:dijon-mustard}}).",
+        "Simmer for 5 minutes, stirring often, until the chowder is thick, creamy, and spoonable.",
+        "Do not boil hard after blending. A gentle simmer keeps the texture smooth."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Turn off the heat.",
+        "Stir in the lemon juice ({{quantity:lemon-juice}}), parsley ({{quantity:fresh-parsley}}), and scallion ({{quantity:scallion}}).",
+        "Let stand for 5 minutes before serving.",
+        "Taste and adjust with salt or lemon juice as needed."
+      ]
+    }
+  ]
+}
