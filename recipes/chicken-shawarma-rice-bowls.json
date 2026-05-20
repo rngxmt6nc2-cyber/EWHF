@@ -1,0 +1,18 @@
+{
+  "id": "chicken-shawarma-rice-bowls",
+  "title": "Chicken Shawarma Rice Bowls",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 2,
+  "ldlActive": false,
+  "cScaleSummary": "C2 because boneless skinless chicken breast is the primary cholesterol-contributing ingredient. The rice, vegetables, herbs, spices, vinegar, lemon juice, tahini, olive oil, and seasonings contribute little to no cholesterol, keeping the estimated cholesterol per serving within the C2 range.",
+  "ldlActiveSummary": "Not LDL-Active because the recipe is centered on animal protein. It remains an EWHF-friendly lower-cholesterol main because it uses lean chicken, vegetables, herbs, spices, tahini, acid, and controlled unsaturated oil instead of butter, cream, animal fat, or heavy cheese.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Shawarma belongs to the family of spit-roasted, spice-driven street foods found across the Eastern Mediterranean and the Middle East. A home rice bowl keeps the same appeal: warm spices, browned edges, sharp pickles, crisp vegetables, herbs, and a creamy garlic sauce. The pleasure comes from contrast, not heaviness.",
+  "ingredientGroups": [],
+  "stepGroups": []
+}
