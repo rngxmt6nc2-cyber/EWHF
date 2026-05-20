@@ -1,0 +1,342 @@
+{
+  "id": "lentil-moussaka",
+  "title": "Lentil Moussaka",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The lentils, eggplant, potatoes, tomatoes, aromatics, silken tofu, olive oil, spices, herbs, flour, and seasonings contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the recipe is built around lentils, vegetables, tomato, aromatics, unsaturated oil, herbs, spices, and silken tofu, with depth developed through roasting, simmering, reduction, and baking rather than saturated fat or cholesterol-containing ingredients.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Moussaka is one of the great layered casseroles of the eastern Mediterranean, especially associated with Greek cooking, where eggplant, potatoes, spiced filling, and a creamy top bake into a structured main dish. A lentil version keeps the comfort and architecture of the original while shifting the center of the plate toward legumes, vegetables, and slow-built flavor.",
+  "ingredientGroups": [
+    {
+      "title": "Lentils",
+      "items": [
+        {
+          "id": "brown-lentils",
+          "amount": 1,
+          "unit": "cup",
+          "item": "brown or green lentils",
+          "prep": "rinsed and picked over"
+        },
+        {
+          "id": "water-lentils",
+          "amount": 3,
+          "unit": "cups",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "bay-leaf",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        },
+        {
+          "id": "salt-lentils",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Roasted Vegetables",
+      "items": [
+        {
+          "id": "eggplant",
+          "amount": 2,
+          "unit": "large",
+          "item": "eggplants",
+          "prep": "trimmed and sliced 1/2 inch thick"
+        },
+        {
+          "id": "potatoes",
+          "amount": 1.5,
+          "unit": "pounds",
+          "item": "Yukon Gold potatoes",
+          "prep": "sliced 1/4 inch thick"
+        },
+        {
+          "id": "olive-oil-vegetables",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "salt-vegetables",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-vegetables",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Lentil-Tomato Filling",
+      "items": [
+        {
+          "id": "olive-oil-filling",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "onion",
+          "amount": 1,
+          "unit": "large",
+          "item": "onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "carrot",
+          "amount": 1,
+          "unit": "medium",
+          "item": "carrot",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 4,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "tomato-paste",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "crushed-tomatoes",
+          "amount": 28,
+          "unit": "ounces",
+          "item": "crushed tomatoes",
+          "prep": ""
+        },
+        {
+          "id": "vegetable-stock",
+          "amount": 1,
+          "unit": "cup",
+          "item": "vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "red-wine-vinegar",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "red wine vinegar",
+          "prep": ""
+        },
+        {
+          "id": "oregano",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "fresh oregano",
+          "prep": "chopped"
+        },
+        {
+          "id": "cinnamon",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "ground cinnamon",
+          "prep": ""
+        },
+        {
+          "id": "allspice",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "ground allspice",
+          "prep": ""
+        },
+        {
+          "id": "smoked-paprika",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "id": "salt-filling",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-filling",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "cooked-lentils",
+          "amount": 0,
+          "unit": "",
+          "item": "cooked lentils",
+          "prep": "drained"
+        }
+      ]
+    },
+    {
+      "title": "Silken Tofu Béchamel",
+      "items": [
+        {
+          "id": "silken-tofu",
+          "amount": 16,
+          "unit": "ounces",
+          "item": "silken tofu",
+          "prep": "drained"
+        },
+        {
+          "id": "olive-oil-bechamel",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "flour",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "flour",
+          "prep": ""
+        },
+        {
+          "id": "unsweetened-soy-milk",
+          "amount": 1,
+          "unit": "cup",
+          "item": "unsweetened soy milk",
+          "prep": ""
+        },
+        {
+          "id": "nutritional-yeast",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "nutritional yeast",
+          "prep": ""
+        },
+        {
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "dijon-mustard",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "id": "nutmeg",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "ground nutmeg",
+          "prep": ""
+        },
+        {
+          "id": "salt-bechamel",
+          "amount": 0.75,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "white-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "white pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "parsley",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh parsley",
+          "prep": "chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Lentils",
+      "items": [
+        "Combine the brown or green lentils ({{quantity:brown-lentils}}), water ({{quantity:water-lentils}}), bay leaf ({{quantity:bay-leaf}}), and kosher salt ({{quantity:salt-lentils}}) in a saucepan. Bring to a simmer and cook until the lentils are tender but still intact, about 20 to 25 minutes.",
+        "Drain the lentils well and discard the bay leaf. The lentils should be tender, separate, and not soupy."
+      ]
+    },
+    {
+      "title": "Roast the Eggplant and Potatoes",
+      "items": [
+        "Heat the oven to 425°F. Arrange the eggplants ({{quantity:eggplant}}) and Yukon Gold potatoes ({{quantity:potatoes}}) on parchment-lined sheet pans. Brush or toss with the olive oil ({{quantity:olive-oil-vegetables}}), kosher salt ({{quantity:salt-vegetables}}), and black pepper ({{quantity:black-pepper-vegetables}}).",
+        "Roast until the eggplant is browned and flexible and the potatoes are tender with lightly browned edges, about 25 to 35 minutes. Rotate the pans once during roasting."
+      ]
+    },
+    {
+      "title": "Build the Lentil-Tomato Filling",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil-filling}}) in a wide skillet or saucepan over medium heat. Add the onion ({{quantity:onion}}) and carrot ({{quantity:carrot}}). Cook until softened and beginning to brown, about 8 to 10 minutes.",
+        "Add the garlic ({{quantity:garlic}}) and tomato paste ({{quantity:tomato-paste}}). Cook for 1 to 2 minutes, stirring constantly, until the tomato paste darkens slightly and smells roasted.",
+        "Add the crushed tomatoes ({{quantity:crushed-tomatoes}}), vegetable stock ({{quantity:vegetable-stock}}), red wine vinegar ({{quantity:red-wine-vinegar}}), oregano ({{quantity:oregano}}), cinnamon ({{quantity:cinnamon}}), allspice ({{quantity:allspice}}), smoked paprika ({{quantity:smoked-paprika}}), kosher salt ({{quantity:salt-filling}}), and black pepper ({{quantity:black-pepper-filling}}). Simmer until thick and spoonable, about 15 to 20 minutes.",
+        "Stir in the cooked lentils ({{quantity:cooked-lentils}}). Simmer for 5 minutes more. The filling should be thick enough to mound on a spoon, not loose like soup."
+      ]
+    },
+    {
+      "title": "Make the Silken Tofu Béchamel",
+      "items": [
+        "Blend the silken tofu ({{quantity:silken-tofu}}) until completely smooth.",
+        "Heat the olive oil ({{quantity:olive-oil-bechamel}}) in a small saucepan over medium heat. Whisk in the flour ({{quantity:flour}}) and cook for 1 minute to remove the raw flour taste.",
+        "Whisk in the unsweetened soy milk ({{quantity:unsweetened-soy-milk}}) and cook until lightly thickened, about 2 to 3 minutes.",
+        "Transfer the thickened mixture to the blender with the tofu. Add the nutritional yeast ({{quantity:nutritional-yeast}}), lemon juice ({{quantity:lemon-juice}}), Dijon mustard ({{quantity:dijon-mustard}}), nutmeg ({{quantity:nutmeg}}), kosher salt ({{quantity:salt-bechamel}}), and white pepper ({{quantity:white-pepper}}). Blend until smooth and glossy."
+      ]
+    },
+    {
+      "title": "Assemble",
+      "items": [
+        "Reduce the oven to 375°F. Spread half of the potatoes in the bottom of a 9-by-13-inch baking dish. Add half of the roasted eggplant, then spread over half of the lentil-tomato filling.",
+        "Repeat with the remaining potatoes, eggplant, and lentil-tomato filling. Spread the silken tofu béchamel evenly over the top."
+      ]
+    },
+    {
+      "title": "Bake and Rest",
+      "items": [
+        "Bake until the filling is bubbling at the edges and the top is set, about 35 to 40 minutes.",
+        "Let the moussaka rest for 20 minutes before cutting. This rest is part of the structure; it lets the layers settle so the pieces lift cleanly instead of collapsing."
+      ]
+    },
+    {
+      "title": "Serve",
+      "items": [
+        "Finish with the fresh parsley ({{quantity:parsley}}) and serve warm."
+      ]
+    }
+  ]
+}
