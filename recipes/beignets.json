@@ -7,12 +7,12 @@
   "displayCategory": "Breakfast",
   "cScale": 0,
   "ldlActive": false,
-  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The flour, yeast, date syrup, olive oil, vanilla, salt, water, and powdered sugar contribute 0 mg cholesterol.",
-  "ldlActiveSummary": "Not LDL-Active because this is a refined-flour breakfast sweet with a powdered sugar finish, even though it is baked and cholesterol-free. It fits EWHF as an occasional fun breakfast recipe, not as an actively LDL-lowering dish.",
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The flour, yeast, date syrup, olive oil, vanilla, salt, cinnamon, and date sugar contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "Not LDL-Active because this is a refined-flour breakfast sweet, even though it is baked and cholesterol-free. It fits EWHF as an occasional fun breakfast recipe, not as an actively LDL-lowering dish.",
   "yield": 12,
   "yieldUnit": "beignets",
   "tags": [],
-  "intro": "Beignets are one of the signature breakfast sweets of New Orleans, especially tied to the French Market coffee-and-beignet tradition. Classic versions are yeasted dough squares fried until puffed, then covered with powdered sugar. This version keeps the New Orleans breakfast idea: hot, soft, airy dough with a lightly crisp exterior and a powdered sugar finish, but moves the cooking method to the oven. It is not pretending to be a fried beignet. It is a lighter, cholesterol-free baked version that still belongs with strong coffee.",
+  "intro": "Beignets are one of the signature breakfast sweets of New Orleans, especially tied to the French Market coffee-and-beignet tradition. Classic versions are yeasted dough squares fried until puffed, then covered with powdered sugar. This version keeps the New Orleans breakfast idea: hot, soft, airy dough with a lightly crisp exterior and a sweet finish, but moves the cooking method to the oven. It is not pretending to be a fried beignet. It is a lighter, cholesterol-free baked version that still belongs with strong coffee.",
   "ingredientGroups": [
     {
       "title": "Dough",
@@ -79,11 +79,25 @@
           "prep": "for brushing"
         },
         {
-          "id": "powdered-sugar",
-          "amount": 2,
-          "unit": "tablespoons",
-          "item": "powdered sugar",
-          "prep": "for dusting"
+          "id": "date-sugar",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "date sugar",
+          "prep": ""
+        },
+        {
+          "id": "ground-cinnamon",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "ground cinnamon",
+          "prep": ""
+        },
+        {
+          "id": "finish-salt",
+          "amount": 0.0625,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
         }
       ]
     }
@@ -135,7 +149,8 @@
       "title": "Finish",
       "items": [
         "Let the beignets cool for 2 minutes.",
-        "Dust with powdered sugar ({{quantity:powdered-sugar}}) while still warm.",
+        "Combine the date sugar ({{quantity:date-sugar}}), cinnamon ({{quantity:ground-cinnamon}}), and fine sea salt ({{quantity:finish-salt}}) in a spice grinder and pulse until powdery.",
+        "Dust the warm beignets with the cinnamon-date mixture.",
         "Serve immediately with strong coffee."
       ]
     }
