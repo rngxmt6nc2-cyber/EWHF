@@ -1,0 +1,265 @@
+{
+  "id": "pasta-e-ceci",
+  "title": "Pasta e Ceci",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Pasta & Noodles",
+  "displayCategory": "Pasta & Noodles",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The chickpeas, pasta, sourdough, olive oil, vegetables, herbs, lemon juice, and seasonings contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is true because the dish is built around chickpeas, pasta, olive oil, garlic, rosemary, and chickpea cooking liquid, using legume fiber and starch-thickened broth for body instead of butter, cream, cheese, or animal fat.",
+  "yield": 4,
+  "yieldUnit": "Servings",
+  "tags": [],
+  "intro": "Pasta e ceci is one of Italy’s great pantry dishes: chickpeas, pasta, garlic, rosemary, olive oil, and a broth that becomes richer than its ingredients suggest. It is especially associated with central and southern Italian cooking, where legumes and pasta often share the same pot. The dish lands between soup and pasta, thick enough to eat with a fork and spoon, but loose enough to stay comforting rather than heavy.",
+  "ingredientGroups": [
+    {
+      "title": "Chickpeas",
+      "items": [
+        {
+          "id": "dried-chickpeas",
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "dried chickpeas",
+          "prep": ""
+        },
+        {
+          "id": "soaking-water",
+          "amount": 8,
+          "unit": "cups",
+          "item": "water",
+          "prep": "for soaking"
+        },
+        {
+          "id": "cooking-water",
+          "amount": 7,
+          "unit": "cups",
+          "item": "water",
+          "prep": "for cooking"
+        },
+        {
+          "id": "bay-leaf",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        },
+        {
+          "id": "rosemary-sprig",
+          "amount": 1,
+          "unit": "small sprig",
+          "item": "fresh rosemary",
+          "prep": ""
+        },
+        {
+          "id": "crushed-garlic-cloves",
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "lightly crushed"
+        },
+        {
+          "id": "kosher-salt-chickpeas",
+          "amount": 1,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Pasta e Ceci Base",
+      "items": [
+        {
+          "id": "olive-oil-base",
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "small",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "minced-garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "tomato-paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "minced-rosemary-base",
+          "amount": 1,
+          "unit": "tsp",
+          "item": "fresh rosemary",
+          "prep": "minced"
+        },
+        {
+          "id": "crushed-red-pepper-flakes",
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "crushed red pepper flakes",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt-base",
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-base",
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "cooked-chickpeas",
+          "amount": 4,
+          "unit": "cups",
+          "item": "cooked chickpeas",
+          "prep": ""
+        },
+        {
+          "id": "chickpea-cooking-liquid",
+          "amount": 4,
+          "unit": "cups",
+          "item": "chickpea cooking liquid",
+          "prep": "reserved from cooking the chickpeas"
+        },
+        {
+          "id": "ditalini",
+          "amount": 6,
+          "unit": "oz",
+          "item": "ditalini",
+          "prep": ""
+        },
+        {
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "tsp",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "parsley",
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "fresh parsley",
+          "prep": "chopped"
+        }
+      ]
+    },
+    {
+      "title": "Crispy Rosemary-Garlic Croutons",
+      "items": [
+        {
+          "id": "olive-oil-croutons",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        },
+        {
+          "id": "sourdough-bread",
+          "amount": 2,
+          "unit": "cups",
+          "item": "sourdough bread",
+          "prep": "cut into 1/2-inch cubes"
+        },
+        {
+          "id": "grated-garlic-croutons",
+          "amount": 1,
+          "unit": "clove",
+          "item": "garlic",
+          "prep": "finely grated"
+        },
+        {
+          "id": "minced-rosemary-croutons",
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "fresh rosemary",
+          "prep": "minced"
+        },
+        {
+          "id": "kosher-salt-croutons",
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-croutons",
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the chickpeas",
+      "items": [
+        "Soak the chickpeas ({{quantity:dried-chickpeas}}) overnight in the soaking water ({{quantity:soaking-water}}).",
+        "Drain the soaked chickpeas and place them in a pot with the cooking water ({{quantity:cooking-water}}), bay leaf ({{quantity:bay-leaf}}), rosemary sprig ({{quantity:rosemary-sprig}}), crushed garlic ({{quantity:crushed-garlic-cloves}}), and kosher salt ({{quantity:kosher-salt-chickpeas}}).",
+        "Bring to a boil, then reduce to a gentle simmer. Cook until the chickpeas are fully tender, about 60 to 90 minutes.",
+        "Remove and discard the bay leaf, rosemary sprig, and garlic cloves.",
+        "Reserve the chickpea cooking liquid. Measure out the cooked chickpeas ({{quantity:cooked-chickpeas}}) and chickpea cooking liquid ({{quantity:chickpea-cooking-liquid}})."
+      ]
+    },
+    {
+      "title": "Build the base",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil-base}}) in a heavy pot over medium heat.",
+        "Add the onion ({{quantity:yellow-onion}}) and cook until soft and lightly golden, about 8 minutes.",
+        "Add the minced garlic ({{quantity:minced-garlic}}) and cook for 1 minute.",
+        "Add the tomato paste ({{quantity:tomato-paste}}), minced rosemary ({{quantity:minced-rosemary-base}}), crushed red pepper flakes ({{quantity:crushed-red-pepper-flakes}}), kosher salt ({{quantity:kosher-salt-base}}), and black pepper ({{quantity:black-pepper-base}}). Cook for 2 to 3 minutes, stirring often, until the tomato paste darkens slightly and the rosemary becomes fragrant.",
+        "Add half of the cooked chickpeas and 1 cup of the chickpea cooking liquid. Mash until the chickpeas break down into a rough, creamy base.",
+        "Add the remaining cooked chickpeas and remaining chickpea cooking liquid.",
+        "Bring to a simmer and cook for 10 minutes."
+      ]
+    },
+    {
+      "title": "Cook the pasta",
+      "items": [
+        "Add the ditalini ({{quantity:ditalini}}) directly to the pot.",
+        "Simmer, stirring often, until the pasta is tender and the liquid has thickened into a loose stew, about 9 to 11 minutes.",
+        "Add small splashes of water if the pot tightens before the pasta is done. The final texture should be creamy and spoonable, not dry."
+      ]
+    },
+    {
+      "title": "Make the croutons",
+      "items": [
+        "While the pasta cooks, heat the olive oil ({{quantity:olive-oil-croutons}}) in a skillet over medium heat.",
+        "Add the sourdough bread ({{quantity:sourdough-bread}}) and cook, tossing often, until crisp and golden on several sides, about 6 to 8 minutes.",
+        "Add the grated garlic ({{quantity:grated-garlic-croutons}}), minced rosemary ({{quantity:minced-rosemary-croutons}}), kosher salt ({{quantity:kosher-salt-croutons}}), and black pepper ({{quantity:black-pepper-croutons}}).",
+        "Cook for 30 seconds, tossing constantly, then remove from the heat."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Turn off the heat under the pasta e ceci.",
+        "Stir in the lemon juice ({{quantity:lemon-juice}}) and parsley ({{quantity:parsley}}).",
+        "Let the pot rest for 5 minutes before serving.",
+        "Serve in shallow bowls with the crispy rosemary-garlic croutons scattered over the top."
+      ]
+    }
+  ]
+}
