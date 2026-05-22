@@ -7,7 +7,7 @@
   "displayCategory": "Mains",
   "cScale": 2,
   "ldlActive": false,
-  "cScaleSummary": "C2 because tuna is the primary cholesterol-contributing ingredient, with the amount spread across multiple servings. The noodles, mushrooms, onion, celery, green beans, olive oil, flour, stock, skim milk, mustard, lemon juice, parsley, breadcrumbs, and seasonings contribute little to no cholesterol.",
+  "cScaleSummary": "C2 because tuna is the primary cholesterol-contributing ingredient, with the amount spread across multiple servings. The noodles, mushrooms, onion, celery, frozen chopped green beans, olive oil, flour, stock, skim milk, mustard, lemon juice, parsley, breadcrumbs, and seasonings contribute little to no cholesterol.",
   "ldlActiveSummary": "Not LDL-Active because the recipe is centered on tuna, an animal protein. It remains a lower-cholesterol casserole because the creamy body comes from mushrooms, stock, skim milk, flour, and technique rather than butter, cream, cheese, egg, or condensed soup, but it does not qualify as actively LDL-lowering under the EWHF standard.",
   "yield": 6,
   "yieldUnit": "servings",
@@ -15,15 +15,8 @@
   "intro": "Tuna noodle casserole is one of the great American pantry casseroles: practical, creamy, familiar, and built for a table that wants comfort more than fuss. The classic midcentury version leaned on canned soup and dairy, but the essential idea is better than that shortcut. Tender noodles, tuna, mushrooms, green beans, and a crisp top can still deliver the old-school casserole feeling when the sauce is built carefully from browned mushrooms, stock, and a light thickener instead of heavy cream.",
   "ingredientGroups": [
     {
-      "title": "Noodles and Green Beans",
+      "title": "Noodles",
       "items": [
-        {
-          "id": "green-beans",
-          "amount": 10,
-          "unit": "ounces",
-          "item": "green beans",
-          "prep": "trimmed and cut into 1-inch pieces"
-        },
         {
           "id": "egg-free-noodles",
           "amount": 12,
@@ -70,6 +63,13 @@
           "unit": "stalks",
           "item": "celery",
           "prep": "finely diced"
+        },
+        {
+          "id": "frozen-chopped-green-beans",
+          "amount": 10,
+          "unit": "ounces",
+          "item": "frozen chopped green beans",
+          "prep": ""
         },
         {
           "id": "garlic",
@@ -205,13 +205,11 @@
   ],
   "stepGroups": [
     {
-      "title": "Cook the Green Beans and Noodles",
+      "title": "Cook the Noodles",
       "items": [
         "Heat the oven to 400°F.",
         "Bring a large pot of water to a boil and season it with the fine sea salt ({{quantity:fine-sea-salt-noodles}}).",
-        "Add the green beans ({{quantity:green-beans}}) and cook for 3 minutes.",
-        "Remove the green beans with a strainer and rinse briefly under cold water to stop the cooking.",
-        "Return the water to a boil, add the egg-free noodles ({{quantity:egg-free-noodles}}), and cook until 2 minutes shy of tender.",
+        "Add the egg-free noodles ({{quantity:egg-free-noodles}}) and cook until 2 minutes shy of tender.",
         "Drain the noodles and set them aside. Do not rinse them."
       ]
     },
@@ -226,8 +224,10 @@
     {
       "title": "Build the Sauce Base",
       "items": [
-        "Add the onion ({{quantity:yellow-onion}}), celery ({{quantity:celery}}), garlic ({{quantity:garlic}}), thyme ({{quantity:dried-thyme}}), black pepper ({{quantity:black-pepper}}), and fine sea salt ({{quantity:fine-sea-salt-sauce}}).",
+        "Add the onion ({{quantity:yellow-onion}}) and celery ({{quantity:celery}}).",
         "Cook for 5 to 6 minutes, stirring often, until the onion and celery soften.",
+        "Add the frozen chopped green beans ({{quantity:frozen-chopped-green-beans}}) and sauté for 3 to 4 minutes, until the beans are thawed, hot, and no longer giving off excess moisture.",
+        "Add the garlic ({{quantity:garlic}}), thyme ({{quantity:dried-thyme}}), black pepper ({{quantity:black-pepper}}), and fine sea salt ({{quantity:fine-sea-salt-sauce}}), and cook for 1 minute.",
         "Sprinkle in the flour ({{quantity:all-purpose-flour-sauce}}) and cook for 1 minute, stirring constantly, until the flour coats the vegetables and smells lightly toasted."
       ]
     },
@@ -242,7 +242,7 @@
     {
       "title": "Assemble the Casserole",
       "items": [
-        "Fold the drained noodles and green beans into the sauce.",
+        "Fold the drained noodles into the sauce.",
         "Fold in the tuna ({{quantity:tuna}}), lemon juice ({{quantity:lemon-juice}}), and parsley ({{quantity:fresh-parsley}}).",
         "Transfer the mixture to a 9-by-13-inch baking dish and spread it evenly."
       ]
