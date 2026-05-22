@@ -1,0 +1,210 @@
+{
+  "id": "mushroom-marsala-spaghetti",
+  "title": "Mushroom Marsala Spaghetti",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Pasta & Noodles",
+  "displayCategory": "Pasta & Noodles",
+  "cScale": 0,
+  "ldlActive": false,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The mushrooms, pasta, olive oil, Marsala wine, herbs, aromatics, vegetable stock, and seasonings contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is false because the recipe is designed primarily around classic pasta and pan-sauce structure rather than LDL-lowering ingredients or legume-forward composition, even though it remains low in cholesterol.",
+  "yield": 4,
+  "yieldUnit": "Servings",
+  "tags": [],
+  "intro": "Marsala sauce is closely tied to Italian-American restaurant cooking, especially veal Marsala, where browned meat, mushrooms, fortified wine, and pan reduction become a glossy savory sauce. This pasta keeps that familiar Marsala direction but lets mushrooms carry the dish. The sauce should be deep, wine-dark, and savory, clinging to thin spaghetti through reduction, pasta starch, and hard browning.",
+  "ingredientGroups": [
+    {
+      "title": "Mushroom Base",
+      "items": [
+        {
+          "id": "cremini-mushrooms",
+          "amount": 1.5,
+          "unit": "lb",
+          "item": "cremini mushrooms",
+          "prep": "sliced 1/4 inch thick"
+        },
+        {
+          "id": "olive-oil-mushrooms",
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt-mushrooms",
+          "amount": 0.75,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-mushrooms",
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Sauce Base",
+      "items": [
+        {
+          "id": "olive-oil-sauce",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        },
+        {
+          "id": "shallot",
+          "amount": 1,
+          "unit": "large",
+          "item": "shallot",
+          "prep": "finely minced"
+        },
+        {
+          "id": "garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "thyme",
+          "amount": 1,
+          "unit": "tsp",
+          "item": "fresh thyme",
+          "prep": "minced"
+        },
+        {
+          "id": "tomato-paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "dry-marsala",
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "dry Marsala wine",
+          "prep": ""
+        },
+        {
+          "id": "vegetable-stock",
+          "amount": 1,
+          "unit": "cup",
+          "item": "vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "soy-sauce",
+          "amount": 1,
+          "unit": "tsp",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-sauce",
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Pasta",
+      "items": [
+        {
+          "id": "thin-spaghetti",
+          "amount": 12,
+          "unit": "oz",
+          "item": "thin spaghetti",
+          "prep": ""
+        },
+        {
+          "id": "water",
+          "amount": 3,
+          "unit": "quarts",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt-pasta",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "tsp",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "parsley",
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "fresh parsley",
+          "prep": "chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Brown the mushrooms",
+      "items": [
+        "Heat a large heavy skillet over medium-high heat.",
+        "Add half of the olive oil ({{quantity:olive-oil-mushrooms}}) and half of the mushrooms ({{quantity:cremini-mushrooms}}).",
+        "Spread the mushrooms into an even layer and cook without stirring until deeply browned on the first side, about 4 to 5 minutes.",
+        "Stir and continue cooking until the mushrooms are browned, reduced, and no longer watery, about 5 to 6 minutes more.",
+        "Season with half of the kosher salt ({{quantity:kosher-salt-mushrooms}}) and half of the black pepper ({{quantity:black-pepper-mushrooms}}).",
+        "Transfer the browned mushrooms to a plate.",
+        "Repeat with the remaining olive oil, mushrooms, kosher salt, and black pepper."
+      ]
+    },
+    {
+      "title": "Build the sauce",
+      "items": [
+        "Reduce the heat to medium and add the olive oil ({{quantity:olive-oil-sauce}}).",
+        "Add the shallot ({{quantity:shallot}}) and cook until softened, about 3 minutes.",
+        "Add the garlic ({{quantity:garlic}}) and thyme ({{quantity:thyme}}). Cook for 1 minute.",
+        "Add the tomato paste ({{quantity:tomato-paste}}) and cook for 2 minutes, stirring constantly, until it darkens slightly and coats the shallot-garlic base.",
+        "Add the Marsala wine ({{quantity:dry-marsala}}) and scrape the pan thoroughly to release the browned mushroom fond.",
+        "Simmer until the Marsala is reduced by about half and smells rounded rather than sharp, about 4 to 6 minutes.",
+        "Add the vegetable stock ({{quantity:vegetable-stock}}), soy sauce ({{quantity:soy-sauce}}), and black pepper ({{quantity:black-pepper-sauce}}).",
+        "Return the mushrooms to the skillet and simmer for 6 to 8 minutes, until the sauce is savory and lightly reduced."
+      ]
+    },
+    {
+      "title": "Cook the pasta",
+      "items": [
+        "Bring the water ({{quantity:water}}) to a boil.",
+        "Add the kosher salt ({{quantity:kosher-salt-pasta}}) and thin spaghetti ({{quantity:thin-spaghetti}}).",
+        "Cook until the pasta is just shy of al dente.",
+        "Reserve 1 cup pasta cooking water, then drain the pasta."
+      ]
+    },
+    {
+      "title": "Finish the pasta",
+      "items": [
+        "Add the thin spaghetti directly to the mushroom Marsala sauce.",
+        "Toss over medium heat for 1 to 2 minutes, adding small splashes of pasta water as needed, until the sauce turns glossy and clings to the pasta.",
+        "Turn off the heat.",
+        "Stir in the lemon juice ({{quantity:lemon-juice}}) and parsley ({{quantity:parsley}}).",
+        "Let the pasta rest for 2 minutes before serving so the sauce settles onto the spaghetti."
+      ]
+    }
+  ]
+}
