@@ -7,12 +7,230 @@
   "displayCategory": "Mains",
   "cScale": 2,
   "ldlActive": false,
-  "cScaleSummary": "C2 because boneless skinless chicken breast is the primary cholesterol-contributing ingredient. The rice, vegetables, herbs, spices, vinegar, lemon juice, tahini, olive oil, and seasonings contribute little to no cholesterol, keeping the estimated cholesterol per serving within the C2 range.",
+  "cScaleSummary": "C2 because boneless skinless chicken breast is the only meaningful cholesterol-contributing ingredient, and the portion is held to about 4 ounces raw chicken per serving. The rice, vegetables, herbs, spices, vinegar, lemon juice, tahini, olive oil, and seasonings contribute little to no cholesterol.",
   "ldlActiveSummary": "Not LDL-Active because the recipe is centered on animal protein. It remains an EWHF-friendly lower-cholesterol main because it uses lean chicken, vegetables, herbs, spices, tahini, acid, and controlled unsaturated oil instead of butter, cream, animal fat, or heavy cheese.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
   "intro": "Shawarma belongs to the family of spit-roasted, spice-driven street foods found across the Eastern Mediterranean and the Middle East. A home rice bowl keeps the same appeal: warm spices, browned edges, sharp pickles, crisp vegetables, herbs, and a creamy garlic sauce. The pleasure comes from contrast, not heaviness.",
-  "ingredientGroups": [],
-  "stepGroups": []
+  "ingredientGroups": [
+    {
+      "title": "Rice",
+      "items": [
+        {
+          "id": "basmati-rice",
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "basmati rice",
+          "prep": "rinsed until the water runs mostly clear"
+        },
+        {
+          "id": "water",
+          "amount": 2.25,
+          "unit": "cups",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "salt-rice",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Chicken Shawarma",
+      "items": [
+        {
+          "id": "chicken",
+          "amount": 1,
+          "unit": "pound",
+          "item": "boneless skinless chicken breast",
+          "prep": "cut into thin strips"
+        },
+        {
+          "id": "olive-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "lemon-juice-chicken",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "garlic",
+          "amount": 4,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "cumin",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "id": "coriander",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "ground coriander",
+          "prep": ""
+        },
+        {
+          "id": "paprika",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "paprika",
+          "prep": ""
+        },
+        {
+          "id": "turmeric",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "ground turmeric",
+          "prep": ""
+        },
+        {
+          "id": "cinnamon",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "ground cinnamon",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "salt-chicken",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Garlic Tahini Sauce",
+      "items": [
+        {
+          "id": "tahini",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "tahini",
+          "prep": ""
+        },
+        {
+          "id": "lemon-juice-sauce",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "water-sauce",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "cold water",
+          "prep": ""
+        },
+        {
+          "id": "garlic-sauce",
+          "amount": 1,
+          "unit": "clove",
+          "item": "garlic",
+          "prep": "finely grated"
+        },
+        {
+          "id": "salt-sauce",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Vegetables and Finish",
+      "items": [
+        {
+          "id": "cucumber",
+          "amount": 1,
+          "unit": "medium",
+          "item": "cucumber",
+          "prep": "diced"
+        },
+        {
+          "id": "tomatoes",
+          "amount": 2,
+          "unit": "medium",
+          "item": "tomatoes",
+          "prep": "diced"
+        },
+        {
+          "id": "red-onion",
+          "amount": 0.5,
+          "unit": "medium",
+          "item": "red onion",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "parsley",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fresh parsley",
+          "prep": "chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Rice",
+      "items": [
+        "Add the rinsed basmati rice ({{quantity:basmati-rice}}), water ({{quantity:water}}), and kosher salt ({{quantity:salt-rice}}) to a saucepan. Bring to a boil, reduce to low, cover, and cook for 15 minutes.",
+        "Turn off the heat and let the rice sit, covered, for 10 minutes. Fluff with a fork."
+      ]
+    },
+    {
+      "title": "Marinate the Chicken",
+      "items": [
+        "In a bowl, combine the chicken breast ({{quantity:chicken}}), olive oil ({{quantity:olive-oil}}), lemon juice ({{quantity:lemon-juice-chicken}}), garlic ({{quantity:garlic}}), ground cumin ({{quantity:cumin}}), ground coriander ({{quantity:coriander}}), paprika ({{quantity:paprika}}), ground turmeric ({{quantity:turmeric}}), ground cinnamon ({{quantity:cinnamon}}), black pepper ({{quantity:black-pepper}}), and kosher salt ({{quantity:salt-chicken}}). Toss until evenly coated.",
+        "Let the chicken marinate for at least 20 minutes at room temperature or refrigerate for up to 8 hours."
+      ]
+    },
+    {
+      "title": "Make the Garlic Tahini Sauce",
+      "items": [
+        "In a bowl, whisk together the tahini ({{quantity:tahini}}), lemon juice ({{quantity:lemon-juice-sauce}}), cold water ({{quantity:water-sauce}}), grated garlic ({{quantity:garlic-sauce}}), and kosher salt ({{quantity:salt-sauce}}).",
+        "The sauce will tighten at first, then loosen into a creamy consistency as the liquid is incorporated."
+      ]
+    },
+    {
+      "title": "Cook the Chicken",
+      "items": [
+        "Heat a large skillet over medium-high heat. Add the marinated chicken in a single layer and cook for 4 to 5 minutes without moving it too much so the spices and marinade develop browned edges.",
+        "Flip and continue cooking for another 3 to 5 minutes until the chicken is fully cooked and lightly charred in spots."
+      ]
+    },
+    {
+      "title": "Build the Bowls",
+      "items": [
+        "Divide the basmati rice between bowls. Top with the cooked chicken, diced cucumber ({{quantity:cucumber}}), diced tomatoes ({{quantity:tomatoes}}), sliced red onion ({{quantity:red-onion}}), and chopped parsley ({{quantity:parsley}}).",
+        "Spoon the garlic tahini sauce over the bowls and serve immediately."
+      ]
+    }
+  ]
 }
