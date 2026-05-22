@@ -1,0 +1,148 @@
+{
+  "id": "carbonara",
+  "title": "Carbonara",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Pasta & Noodles",
+  "displayCategory": "Pasta & Noodles",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The spaghetti, silken tofu, miso, Portobello Bacon, olive oil, turmeric, lemon juice, black pepper, water, and salt contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is true because the sauce is built around silken tofu and pasta-water emulsification, while Portobello Bacon supplies smoke and chew without animal fat or cholesterol. The dish uses plant-based structure, controlled fat, and technique rather than eggs, cheese, or cured pork.",
+  "yield": 4,
+  "yieldUnit": "Servings",
+  "tags": [],
+  "intro": "Carbonara belongs to Rome, where pasta, eggs, cheese, cured pork, and black pepper become a glossy sauce through heat control and pasta water. This version moves in that direction through different ingredients and techniques. Portobello bacon brings smoke, chew, and browned depth; silken tofu gives the sauce body; turmeric adds warm color and a subtle earthy note; and black pepper keeps the whole dish pointed toward carbonara.",
+  "ingredientGroups": [
+    {
+      "title": "Sauce",
+      "items": [
+        {
+          "id": "silken-tofu",
+          "amount": 10,
+          "unit": "oz",
+          "item": "silken tofu",
+          "prep": ""
+        },
+        {
+          "id": "white-miso",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "white miso",
+          "prep": ""
+        },
+        {
+          "id": "ground-turmeric",
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "ground turmeric",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-sauce",
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "tsp",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "hot-pasta-cooking-water-sauce",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "hot pasta cooking water",
+          "prep": "reserved from the pasta"
+        }
+      ]
+    },
+    {
+      "title": "Pasta",
+      "items": [
+        {
+          "id": "spaghetti",
+          "amount": 12,
+          "unit": "oz",
+          "item": "spaghetti",
+          "prep": ""
+        },
+        {
+          "id": "water",
+          "amount": 3,
+          "unit": "quarts",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt-pasta",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Carbonara Base",
+      "items": [
+        {
+          "id": "olive-oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        },
+        {
+          "id": "coarsely-ground-black-pepper",
+          "amount": 1,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": "coarsely ground"
+        },
+        {
+          "id": "portobello-bacon",
+          "amount": 1,
+          "unit": "batch",
+          "item": "Portobello Bacon",
+          "prep": "re-crisped before use"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Blend the sauce",
+      "items": [
+        "Blend the silken tofu ({{quantity:silken-tofu}}), white miso ({{quantity:white-miso}}), ground turmeric ({{quantity:ground-turmeric}}), black pepper ({{quantity:black-pepper-sauce}}), fresh lemon juice ({{quantity:lemon-juice}}), and hot pasta cooking water ({{quantity:hot-pasta-cooking-water-sauce}}) until completely smooth."
+      ]
+    },
+    {
+      "title": "Cook the pasta",
+      "items": [
+        "Bring the water ({{quantity:water}}) to a boil.",
+        "Add the kosher salt ({{quantity:kosher-salt-pasta}}) and spaghetti ({{quantity:spaghetti}}).",
+        "Cook until the spaghetti is just shy of al dente.",
+        "Reserve 1 1/2 cups pasta cooking water, then drain the spaghetti."
+      ]
+    },
+    {
+      "title": "Build the carbonara",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil}}) in a wide skillet over medium heat.",
+        "Add the coarsely ground black pepper ({{quantity:coarsely-ground-black-pepper}}) and cook for 30 seconds, just until fragrant.",
+        "Add the drained spaghetti and toss to coat in the pepper oil.",
+        "Reduce the heat to low.",
+        "Add the blended tofu sauce and toss constantly, adding small splashes of reserved pasta cooking water as needed, until the sauce turns glossy and clings to the spaghetti.",
+        "Fold in most of the re-crisped Portobello Bacon ({{quantity:portobello-bacon}}), saving some for the top.",
+        "Turn off the heat.",
+        "Let the pasta rest for 1 minute so the sauce settles.",
+        "Serve immediately with the remaining Portobello Bacon scattered over the top."
+      ]
+    }
+  ]
+}
