@@ -1,0 +1,99 @@
+{
+  "id": "portobello-bacon",
+  "title": "Portobello Bacon",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Sauces & Bases",
+  "displayCategory": "Sauces & Bases",
+  "cScale": 0,
+  "ldlActive": false,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The portobello mushrooms, soy sauce, olive oil, smoked paprika, balsamic vinegar, garlic powder, and black pepper contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is false because this is a small seasoning component built for smoke, chew, and browned flavor rather than a legume-forward, fiber-forward, or otherwise LDL-lowering dish structure.",
+  "yield": 4,
+  "yieldUnit": "Servings",
+  "tags": [],
+  "intro": "Plant-based “bacon” works best when it stops trying to imitate pork exactly and focuses on the useful parts: smoke, salt, browning, chew, and savory depth. Portobello mushrooms are especially good for this because they have enough structure to dehydrate into flexible, dark, concentrated strips with crisped edges after a quick hot finish. This is a seasoning component, not a main dish, meant to add smoky chew and browned flavor to pasta, sandwiches, salads, bowls, and breakfast plates.",
+  "ingredientGroups": [
+    {
+      "title": "Portobello Strips",
+      "items": [
+        {
+          "id": "portobello-mushroom-caps",
+          "amount": 2,
+          "unit": "large caps",
+          "item": "portobello mushrooms",
+          "prep": "gills scraped, sliced into 1/4-inch strips"
+        }
+      ]
+    },
+    {
+      "title": "Marinade",
+      "items": [
+        {
+          "id": "soy-sauce",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "olive-oil",
+          "amount": 1,
+          "unit": "tsp",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        },
+        {
+          "id": "smoked-paprika",
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "id": "balsamic-vinegar",
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "balsamic vinegar",
+          "prep": ""
+        },
+        {
+          "id": "garlic-powder",
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "garlic powder",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Dehydrate the portobello bacon",
+      "items": [
+        "Whisk together the soy sauce ({{quantity:soy-sauce}}), olive oil ({{quantity:olive-oil}}), smoked paprika ({{quantity:smoked-paprika}}), balsamic vinegar ({{quantity:balsamic-vinegar}}), garlic powder ({{quantity:garlic-powder}}), and black pepper ({{quantity:black-pepper}}).",
+        "Add the portobello strips ({{quantity:portobello-mushroom-caps}}) and toss gently until evenly coated.",
+        "Let the mushrooms stand for 10 minutes so the marinade can absorb.",
+        "Arrange the strips on dehydrator trays in a single layer, leaving space between pieces.",
+        "Dehydrate at 135°F until the mushrooms are darkened, reduced, leathery, and flexible, about 8 to 12 hours.",
+        "Cool completely.",
+        "Store the dehydrated strips refrigerated until needed."
+      ]
+    },
+    {
+      "title": "Re-crisp before serving",
+      "items": [
+        "Re-crisp only the amount needed for the recipe.",
+        "Heat a dry skillet over medium heat and cook the strips for 2 to 4 minutes, turning occasionally, until the edges darken and lightly crisp.",
+        "Use immediately while the edges are crisp and the centers remain chewy."
+      ]
+    }
+  ]
+}
