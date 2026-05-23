@@ -7,12 +7,12 @@
   "displayCategory": "Mains",
   "cScale": 2,
   "ldlActive": false,
-  "cScaleSummary": "C2 because tuna is the primary cholesterol-contributing ingredient, with the amount spread across multiple servings. The noodles, mushrooms, onion, celery, frozen chopped green beans, olive oil, flour, stock, skim milk, mustard, lemon juice, parsley, breadcrumbs, and seasonings contribute little to no cholesterol.",
+  "cScaleSummary": "C2 because tuna is the primary cholesterol-contributing ingredient, with the amount spread across multiple servings. The noodles, mushrooms, onion, celery, frozen chopped green beans, olive oil, flour, stock, skim milk, mustard, lemon juice, parsley, crispy onions, and seasonings contribute little to no cholesterol.",
   "ldlActiveSummary": "Not LDL-Active because the recipe is centered on tuna, an animal protein. It remains a lower-cholesterol casserole because the creamy body comes from mushrooms, stock, skim milk, flour, and technique rather than butter, cream, cheese, egg, or condensed soup, but it does not qualify as actively LDL-lowering under the EWHF standard.",
   "yield": 6,
   "yieldUnit": "servings",
   "tags": [],
-  "intro": "Tuna noodle casserole is one of the great American pantry casseroles: practical, creamy, familiar, and built for a table that wants comfort more than fuss. The classic midcentury version leaned on canned soup and dairy, but the essential idea is better than that shortcut. Tender noodles, tuna, mushrooms, green beans, and a crisp top can still deliver the old-school casserole feeling when the sauce is built carefully from browned mushrooms, stock, and a light thickener instead of heavy cream.",
+  "intro": "Tuna noodle casserole is one of the great American pantry casseroles: practical, creamy, familiar, and built for a table that wants comfort more than fuss. The classic midcentury version leaned on canned soup and dairy, but the essential idea is better than that shortcut. Tender noodles, tuna, mushrooms, green beans, and a crisp onion top can still deliver the old-school casserole feeling when the sauce is built carefully from browned mushrooms, stock, and a light thickener instead of heavy cream.",
   "ingredientGroups": [
     {
       "title": "Noodles",
@@ -163,41 +163,13 @@
       ]
     },
     {
-      "title": "Crisp Topping",
+      "title": "Crisp Onion Topping",
       "items": [
         {
-          "id": "panko-breadcrumbs",
-          "amount": 0.75,
-          "unit": "cup",
-          "item": "panko breadcrumbs",
-          "prep": "crushed lightly by hand"
-        },
-        {
-          "id": "olive-oil-topping",
-          "amount": 1,
-          "unit": "tablespoon",
-          "item": "olive oil",
-          "prep": ""
-        },
-        {
-          "id": "paprika",
-          "amount": 0.5,
-          "unit": "teaspoon",
-          "item": "paprika",
-          "prep": ""
-        },
-        {
-          "id": "garlic-powder",
-          "amount": 0.25,
-          "unit": "teaspoon",
-          "item": "garlic powder",
-          "prep": ""
-        },
-        {
-          "id": "fine-sea-salt-topping",
-          "amount": 0.125,
-          "unit": "teaspoon",
-          "item": "fine sea salt",
+          "id": "crispy-onions",
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "crispy fried onions",
           "prep": ""
         }
       ]
@@ -248,16 +220,11 @@
       ]
     },
     {
-      "title": "Make the Topping",
+      "title": "Bake and Top",
       "items": [
-        "Combine the panko ({{quantity:panko-breadcrumbs}}), olive oil ({{quantity:olive-oil-topping}}), paprika ({{quantity:paprika}}), garlic powder ({{quantity:garlic-powder}}), and fine sea salt ({{quantity:fine-sea-salt-topping}}) in a small bowl.",
-        "Scatter the topping evenly over the casserole."
-      ]
-    },
-    {
-      "title": "Bake",
-      "items": [
-        "Bake for 18 to 22 minutes, until the casserole is bubbling at the edges and the topping is browned and crisp.",
+        "Bake for 14 minutes, until the casserole is bubbling at the edges.",
+        "Scatter the crispy fried onions ({{quantity:crispy-onions}}) evenly over the casserole.",
+        "Bake for 4 to 8 minutes more, until the onion topping is hot, crisp, and deep golden brown.",
         "Rest for 10 minutes before serving so the sauce settles around the noodles instead of running."
       ]
     }
