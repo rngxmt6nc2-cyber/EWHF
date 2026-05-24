@@ -1,0 +1,229 @@
+{
+  "id": "swedish-meatballs-over-noodles",
+  "title": "Swedish Meatballs over Noodles",
+  "section": "Mains",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 3,
+  "ldlActive": false,
+  "cScaleSummary": "C3 because the recipe contains cholesterol from the ground turkey and egg noodles. The egg white contributes no cholesterol, and the gravy is stock-based rather than cream-based, but the poultry and noodles keep the finished dish in a moderate cholesterol range.",
+  "ldlActiveSummary": "Not LDL-Active because the recipe is built as a controlled mainstream comfort-food dish rather than an LDL-lowering dish. Mushrooms, onions, olive oil, and a stock-based gravy improve the structure, but the ground turkey and egg noodles keep it outside LDL-active design.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Swedish meatballs became a familiar American comfort dish through a mix of Scandinavian tradition, mid-century home cooking, and cafeteria culture. The appeal is simple: tender spiced meatballs, soft noodles, and a savory gravy that feels rich without needing to be heavy. This version keeps the flavor profile recognizable, with gentle warming spices, browned meatballs, mushrooms, onions, and a stock-based gravy.",
+  "ingredientGroups": [
+    {
+      "title": "Meatballs",
+      "items": [
+        {
+          "id": "ground-turkey",
+          "amount": 1,
+          "unit": "pound",
+          "item": "ground turkey",
+          "prep": ""
+        },
+        {
+          "id": "fresh-breadcrumbs",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "fresh breadcrumbs",
+          "prep": ""
+        },
+        {
+          "id": "grated-onion",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "onion",
+          "prep": "finely grated"
+        },
+        {
+          "id": "egg-white",
+          "amount": 1,
+          "unit": "",
+          "item": "egg white",
+          "prep": ""
+        },
+        {
+          "id": "soy-sauce-meatballs",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "dijon-meatballs",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt-meatballs",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-meatballs",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "allspice",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "ground allspice",
+          "prep": ""
+        },
+        {
+          "id": "nutmeg",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "ground nutmeg",
+          "prep": ""
+        },
+        {
+          "id": "olive-oil-meatballs",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Gravy",
+      "items": [
+        {
+          "id": "olive-oil-gravy",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "mushrooms",
+          "amount": 8,
+          "unit": "ounces",
+          "item": "mushrooms",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "diced-onion",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "flour",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "flour",
+          "prep": ""
+        },
+        {
+          "id": "chicken-stock",
+          "amount": 2,
+          "unit": "cups",
+          "item": "chicken stock",
+          "prep": ""
+        },
+        {
+          "id": "soy-sauce-gravy",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "dijon-gravy",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-gravy",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Noodles",
+      "items": [
+        {
+          "id": "egg-noodles",
+          "amount": 8,
+          "unit": "ounces",
+          "item": "egg noodles",
+          "prep": ""
+        },
+        {
+          "id": "fresh-parsley",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh parsley",
+          "prep": "chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Make the Meatballs",
+      "items": [
+        "Combine the ground turkey ({{quantity:ground-turkey}}), fresh breadcrumbs ({{quantity:fresh-breadcrumbs}}), grated onion ({{quantity:grated-onion}}), egg white ({{quantity:egg-white}}), low-sodium soy sauce ({{quantity:soy-sauce-meatballs}}), Dijon mustard ({{quantity:dijon-meatballs}}), kosher salt ({{quantity:kosher-salt-meatballs}}), black pepper ({{quantity:black-pepper-meatballs}}), ground allspice ({{quantity:allspice}}), and ground nutmeg ({{quantity:nutmeg}}) in a mixing bowl.",
+        "Mix gently until evenly combined.",
+        "Shape into 20 small meatballs.",
+        "Heat the olive oil ({{quantity:olive-oil-meatballs}}) in a wide skillet over medium heat.",
+        "Add the meatballs and cook for 8 to 10 minutes, turning occasionally, until browned on several sides and just cooked through.",
+        "Transfer the meatballs to a plate."
+      ]
+    },
+    {
+      "title": "Make the Gravy",
+      "items": [
+        "Add the olive oil ({{quantity:olive-oil-gravy}}) to the same skillet.",
+        "Add the mushrooms ({{quantity:mushrooms}}) and cook for 6 to 8 minutes, until they release their liquid, the liquid evaporates, and the mushrooms begin to brown.",
+        "Add the diced yellow onion ({{quantity:diced-onion}}) and cook for 3 to 4 minutes, until softened.",
+        "Add the garlic ({{quantity:garlic}}) and cook for 30 seconds.",
+        "Sprinkle the flour ({{quantity:flour}}) over the mushrooms and onions. Cook for 1 minute, stirring constantly.",
+        "Slowly whisk in the chicken stock ({{quantity:chicken-stock}}).",
+        "Add the low-sodium soy sauce ({{quantity:soy-sauce-gravy}}), Dijon mustard ({{quantity:dijon-gravy}}), and black pepper ({{quantity:black-pepper-gravy}}).",
+        "Simmer for 4 to 5 minutes, until the gravy thickens.",
+        "Return the meatballs to the skillet and simmer for 5 minutes, spooning gravy over them."
+      ]
+    },
+    {
+      "title": "Cook the Noodles",
+      "items": [
+        "Cook the egg noodles ({{quantity:egg-noodles}}) according to the package directions.",
+        "Drain well."
+      ]
+    },
+    {
+      "title": "Serve",
+      "items": [
+        "Divide the egg noodles among 4 plates or shallow bowls.",
+        "Spoon the meatballs and mushroom gravy over the noodles.",
+        "Finish with the fresh parsley ({{quantity:fresh-parsley}}) and serve."
+      ]
+    }
+  ]
+}
