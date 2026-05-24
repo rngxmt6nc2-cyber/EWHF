@@ -1,0 +1,241 @@
+{
+  "id": "cast-iron-pan-pizza",
+  "title": "Cast-Iron Pan Pizza",
+  "section": "Mains",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 3,
+  "ldlActive": false,
+  "cScaleSummary": "C3 because the recipe contains cholesterol from the Italian sausage, pepperoni, and part-skim mozzarella cheese. The restrained portion sizes keep the overall cholesterol moderate for a full pizza.",
+  "ldlActiveSummary": "Not LDL-Active because the recipe is designed as a controlled-indulgence pizza rather than an LDL-lowering recipe. While the olive oil, mushrooms, onion, and jalapeño contribute beneficial plant ingredients, the sausage, pepperoni, and cheese shift the recipe away from LDL-active design principles.",
+  "yield": 1,
+  "yieldUnit": "10-inch pizza",
+  "tags": [],
+  "intro": "Cast-iron pan pizza borrows from several American pizza traditions at once. The heavy skillet creates a crust that fries lightly in olive oil while staying airy and chewy inside, somewhere between tavern pizza, Sicilian pan pizza, and old-school home oven pie. This version keeps the topping balance restrained and deliberate so every ingredient earns its place: concentrated tomato sauce, crisp-edged pepperoni, browned sausage, mushrooms, jalapeños, onion, and just enough cheese to bind everything together without turning greasy.",
+  "ingredientGroups": [
+    {
+      "title": "Dough",
+      "items": [
+        {
+          "id": "bread-flour",
+          "amount": 150,
+          "unit": "g",
+          "item": "bread flour",
+          "prep": ""
+        },
+        {
+          "id": "water",
+          "amount": 105,
+          "unit": "g",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "olive-oil-dough",
+          "amount": 6,
+          "unit": "g",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "salt",
+          "amount": 3,
+          "unit": "g",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "instant-yeast",
+          "amount": 2,
+          "unit": "g",
+          "item": "instant yeast",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Pan",
+      "items": [
+        {
+          "id": "olive-oil-pan",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Sauce",
+      "items": [
+        {
+          "id": "olive-oil-sauce",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "garlic",
+          "amount": 1,
+          "unit": "clove",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "crushed-tomatoes",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "crushed tomatoes",
+          "prep": ""
+        },
+        {
+          "id": "oregano",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "dried oregano",
+          "prep": ""
+        },
+        {
+          "id": "salt-sauce",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "pepper-sauce",
+          "amount": 1,
+          "unit": "pinch",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Toppings",
+      "items": [
+        {
+          "id": "italian-sausage",
+          "amount": 1,
+          "unit": "link",
+          "item": "Italian sausage",
+          "prep": "casing removed"
+        },
+        {
+          "id": "pepperoni",
+          "amount": 1,
+          "unit": "ounce",
+          "item": "pepperoni",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "mozzarella",
+          "amount": 2,
+          "unit": "ounces",
+          "item": "part-skim mozzarella",
+          "prep": "shredded"
+        },
+        {
+          "id": "mushrooms",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "mushrooms",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "red-onion",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "red onion",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "jalapeno",
+          "amount": 1,
+          "unit": "small",
+          "item": "jalapeño",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "olive-oil-toppings",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "salt-toppings",
+          "amount": 1,
+          "unit": "pinch",
+          "item": "fine sea salt",
+          "prep": ""
+        },
+        {
+          "id": "pepper-toppings",
+          "amount": 1,
+          "unit": "pinch",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "fresh-basil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh basil",
+          "prep": "torn"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Make the Dough",
+      "items": [
+        "Combine the bread flour ({{quantity:bread-flour}}), water ({{quantity:water}}), olive oil ({{quantity:olive-oil-dough}}), fine sea salt ({{quantity:salt}}), and instant yeast ({{quantity:instant-yeast}}) in a bowl. Mix until no dry flour remains.",
+        "Cover and rest for 20 minutes.",
+        "Stretch and fold the dough 6 to 8 times in the bowl until smoother and slightly elastic.",
+        "Cover and let rise at room temperature for 2 to 3 hours, until puffy and roughly doubled.",
+        "Oil a 10-inch cast-iron skillet with the olive oil ({{quantity:olive-oil-pan}}).",
+        "Transfer the dough to the skillet and turn it once to lightly coat both sides with oil.",
+        "Press the dough outward toward the edges of the skillet. If the dough resists, let it rest for 10 minutes and continue pressing until it fills the pan.",
+        "Cover and let rise in the skillet for 45 to 60 minutes until puffy."
+      ]
+    },
+    {
+      "title": "Make the Sauce",
+      "items": [
+        "Heat the olive oil ({{quantity:olive-oil-sauce}}) in a small saucepan over medium-low heat.",
+        "Add the garlic ({{quantity:garlic}}) and cook for 30 seconds until fragrant.",
+        "Add the crushed tomatoes ({{quantity:crushed-tomatoes}}), dried oregano ({{quantity:oregano}}), fine sea salt ({{quantity:salt-sauce}}), and black pepper ({{quantity:pepper-sauce}}).",
+        "Simmer for 8 to 10 minutes, stirring occasionally, until thick and concentrated.",
+        "Cool slightly before assembling the pizza."
+      ]
+    },
+    {
+      "title": "Prepare the Toppings",
+      "items": [
+        "Heat a small skillet over medium heat.",
+        "Add the Italian sausage ({{quantity:italian-sausage}}) and break it into small crumbles while cooking until browned and fully cooked through, about 5 to 7 minutes.",
+        "Transfer the sausage to paper towels to drain excess fat.",
+        "Toss the mushrooms ({{quantity:mushrooms}}), red onion ({{quantity:red-onion}}), and jalapeño ({{quantity:jalapeno}}) with the olive oil ({{quantity:olive-oil-toppings}}), fine sea salt ({{quantity:salt-toppings}}), and black pepper ({{quantity:pepper-toppings}})."
+      ]
+    },
+    {
+      "title": "Assemble and Bake",
+      "items": [
+        "Heat the oven to 475°F with a rack in the lower third.",
+        "Dimple the risen dough gently with oiled fingertips, leaving the outer edge slightly thicker.",
+        "Spread the thickened sauce over the dough, leaving a 1/2-inch border around the edge.",
+        "Scatter the part-skim mozzarella ({{quantity:mozzarella}}) evenly over the sauce.",
+        "Add the browned sausage, mushrooms, red onion, and jalapeño.",
+        "Arrange the pepperoni ({{quantity:pepperoni}}) over the top so the edges can crisp during baking.",
+        "Bake for 14 to 18 minutes until the cheese is browned in spots, the pepperoni is crisping at the edges, and the crust is deeply golden.",
+        "Lift the edge with a spatula and check the underside. If the bottom needs more color or crispness, place the skillet over medium heat on the stovetop for 1 to 3 minutes, rotating as needed.",
+        "Rest for 3 minutes in the skillet.",
+        "Transfer to a cutting board, finish with the fresh basil ({{quantity:fresh-basil}}), slice, and serve."
+      ]
+    }
+  ]
+}
