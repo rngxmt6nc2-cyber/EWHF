@@ -1,0 +1,208 @@
+{
+  "id": "soba-noodle-bowl-with-ginger-mushroom-broth",
+  "title": "Soba Noodle Bowl with Ginger-Mushroom Broth",
+  "section": "Pasta & Noodles",
+  "sortOrder": 0,
+  "category": "Pasta & Noodles",
+  "displayCategory": "Pasta & Noodles",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The soba noodles, vegetable stock, kombu, mushrooms, tofu, bok choy, aromatics, soy sauce, vinegar, sesame oil, scallions, sesame seeds, and cilantro contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the recipe is built around soba, tofu, mushrooms, bok choy, kombu, and unsaturated oils, with fiber-rich plant ingredients and flavor developed through infusion, browning, aromatics, and careful finishing rather than saturated fat or cholesterol-containing ingredients.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Soba has deep roots in Japanese cooking, where buckwheat noodles are served hot in broth, cold with dipping sauce, or simply dressed with a few precise seasonings. A good soba bowl does not need heaviness to feel complete. The pleasure comes from clean broth, springy noodles, mushrooms, greens, and a sharp aromatic lift from ginger and scallions.",
+  "ingredientGroups": [
+    {
+      "title": "Broth",
+      "items": [
+        {
+          "id": "kombu",
+          "amount": 1,
+          "unit": "piece",
+          "item": "kombu",
+          "prep": "about 4 inches"
+        },
+        {
+          "id": "dried-shiitake-mushrooms",
+          "amount": 4,
+          "unit": "",
+          "item": "dried shiitake mushrooms",
+          "prep": ""
+        },
+        {
+          "id": "vegetable-stock",
+          "amount": 6,
+          "unit": "cups",
+          "item": "vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "neutral-oil-broth",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "neutral oil",
+          "prep": ""
+        },
+        {
+          "id": "fresh-mushrooms",
+          "amount": 8,
+          "unit": "ounces",
+          "item": "fresh mushrooms",
+          "prep": "sliced"
+        },
+        {
+          "id": "garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "fresh-ginger",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh ginger",
+          "prep": "grated"
+        },
+        {
+          "id": "soy-sauce-broth",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "rice-vinegar",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "rice vinegar",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "toasted-sesame-oil",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "toasted sesame oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Tofu",
+      "items": [
+        {
+          "id": "firm-tofu",
+          "amount": 8,
+          "unit": "ounces",
+          "item": "firm tofu",
+          "prep": "pressed and cut into 1/2-inch cubes"
+        },
+        {
+          "id": "neutral-oil-tofu",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "neutral oil",
+          "prep": ""
+        },
+        {
+          "id": "soy-sauce-tofu",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Noodles and Bowl",
+      "items": [
+        {
+          "id": "soba-noodles",
+          "amount": 8,
+          "unit": "ounces",
+          "item": "soba noodles",
+          "prep": ""
+        },
+        {
+          "id": "baby-bok-choy",
+          "amount": 4,
+          "unit": "cups",
+          "item": "baby bok choy",
+          "prep": "stems and leaves separated, chopped"
+        },
+        {
+          "id": "scallions",
+          "amount": 4,
+          "unit": "",
+          "item": "scallions",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "toasted-sesame-seeds",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "toasted sesame seeds",
+          "prep": ""
+        },
+        {
+          "id": "fresh-cilantro",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fresh cilantro",
+          "prep": "chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Make the Broth",
+      "items": [
+        "Combine the kombu ({{quantity:kombu}}), dried shiitake mushrooms ({{quantity:dried-shiitake-mushrooms}}), and vegetable stock ({{quantity:vegetable-stock}}) in a pot.",
+        "Bring just to a bare simmer over medium heat. Remove the kombu before the stock boils.",
+        "Slice about half of the softened kombu into thin strips and return it to the stock. Discard the remaining kombu.",
+        "Turn off the heat and let the dried shiitakes steep in the hot stock for 15 minutes.",
+        "Remove the dried shiitakes, slice them thinly, and return them to the stock.",
+        "Heat the neutral oil ({{quantity:neutral-oil-broth}}) in a wide pot over medium-high heat.",
+        "Add the fresh mushrooms ({{quantity:fresh-mushrooms}}) and cook for 8 to 10 minutes, stirring occasionally, until they release their liquid, the liquid evaporates, and the mushrooms brown at the edges.",
+        "Add the garlic ({{quantity:garlic}}) and fresh ginger ({{quantity:fresh-ginger}}). Cook for 1 minute, stirring constantly.",
+        "Add the infused stock with sliced shiitakes, low-sodium soy sauce ({{quantity:soy-sauce-broth}}), rice vinegar ({{quantity:rice-vinegar}}), and black pepper ({{quantity:black-pepper}}).",
+        "Bring to a simmer and cook for 10 minutes.",
+        "Turn off the heat and stir in the toasted sesame oil ({{quantity:toasted-sesame-oil}})."
+      ]
+    },
+    {
+      "title": "Sear the Tofu",
+      "items": [
+        "Pat the firm tofu ({{quantity:firm-tofu}}) dry.",
+        "Heat the neutral oil ({{quantity:neutral-oil-tofu}}) in a skillet over medium-high heat.",
+        "Add the tofu and cook for 5 to 7 minutes, turning occasionally, until lightly browned on several sides.",
+        "Add the low-sodium soy sauce ({{quantity:soy-sauce-tofu}}) and toss for 30 seconds, until the tofu is glazed and the pan is nearly dry."
+      ]
+    },
+    {
+      "title": "Prepare the Noodles and Bowl",
+      "items": [
+        "Cook the soba noodles ({{quantity:soba-noodles}}) according to the package directions.",
+        "Drain and rinse the noodles thoroughly under cool water to remove excess starch.",
+        "Briefly dip the rinsed noodles back into hot water for 20 to 30 seconds to rewarm, then drain again.",
+        "Add the chopped bok choy stems from the baby bok choy ({{quantity:baby-bok-choy}}) to the simmering broth and cook for 2 minutes.",
+        "Add the chopped bok choy leaves and cook for 30 to 60 seconds, until just wilted.",
+        "Divide the soba noodles among 4 bowls.",
+        "Ladle the hot broth, mushrooms, bok choy, and shiitakes over the noodles.",
+        "Add the seared tofu.",
+        "Finish with the scallions ({{quantity:scallions}}), toasted sesame seeds ({{quantity:toasted-sesame-seeds}}), and fresh cilantro ({{quantity:fresh-cilantro}}).",
+        "Serve hot."
+      ]
+    }
+  ]
+}
