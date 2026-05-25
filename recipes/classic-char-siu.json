@@ -1,0 +1,188 @@
+{
+  "id": "classic-char-siu",
+  "title": "Classic Char Siu",
+  "section": "Mains",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 4,
+  "ldlActive": false,
+  "cScaleSummary": "C4 because pork collar is a well-marbled animal-protein cut with meaningful cholesterol and saturated fat. The sweet glaze does not add cholesterol, but this is intentionally an indulgent roast pork recipe.",
+  "ldlActiveSummary": "Not LDL-Active because the recipe is built around fatty pork and a sweet lacquered glaze rather than legumes, soluble fiber, whole grains, vegetables, or other LDL-lowering structure.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [
+    "indulgence",
+    "grill",
+    "Cantonese"
+  ],
+  "intro": "Char siu is one of the great icons of Cantonese roast meat shops. Traditionally made with strips of pork shoulder or pork collar hung in blazing hot ovens, the name literally means “fork roasted.” The signature lacquered red exterior, sweet-savory glaze, and smoky edges are meant to balance richness with caramelization and aroma. This version stays faithful to the classic profile: hoisin, soy, five spice, Shaoxing wine, and a glossy honey finish layered over fatty pork collar cooked hot over live fire until sticky and lightly charred.",
+  "ingredientGroups": [
+    {
+      "title": "Pork",
+      "items": [
+        {
+          "id": "pork-collar",
+          "amount": 3,
+          "unit": "pounds",
+          "item": "pork collar",
+          "prep": "cut into long strips about 2 inches wide"
+        }
+      ]
+    },
+    {
+      "title": "Marinade",
+      "items": [
+        {
+          "id": "hoisin-sauce",
+          "amount": 4,
+          "unit": "tablespoons",
+          "item": "hoisin sauce",
+          "prep": ""
+        },
+        {
+          "id": "light-soy-sauce",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "light soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "dark-soy-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "dark soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "honey-marinade",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "honey",
+          "prep": ""
+        },
+        {
+          "id": "brown-sugar",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "brown sugar",
+          "prep": ""
+        },
+        {
+          "id": "shaoxing-wine",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "Shaoxing wine",
+          "prep": ""
+        },
+        {
+          "id": "oyster-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "oyster sauce",
+          "prep": ""
+        },
+        {
+          "id": "chinese-five-spice",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Chinese five spice powder",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "white-pepper",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "white pepper",
+          "prep": ""
+        },
+        {
+          "id": "garlic",
+          "amount": 5,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "finely grated"
+        },
+        {
+          "id": "fresh-ginger",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh ginger",
+          "prep": "finely grated"
+        },
+        {
+          "id": "toasted-sesame-oil",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "toasted sesame oil",
+          "prep": ""
+        },
+        {
+          "id": "red-food-coloring",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "red food coloring",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Glaze",
+      "items": [
+        {
+          "id": "honey-glaze",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "honey",
+          "prep": ""
+        },
+        {
+          "id": "hot-water",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "hot water",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Marinate the Pork",
+      "items": [
+        "Cut the pork collar ({{quantity:pork-collar}}) into long strips about 2 inches wide if it has not already been cut. Long uneven strips create better charred edges on the grill.",
+        "In a bowl, combine the hoisin sauce ({{quantity:hoisin-sauce}}), light soy sauce ({{quantity:light-soy-sauce}}), dark soy sauce ({{quantity:dark-soy-sauce}}), honey ({{quantity:honey-marinade}}), brown sugar ({{quantity:brown-sugar}}), Shaoxing wine ({{quantity:shaoxing-wine}}), oyster sauce ({{quantity:oyster-sauce}}), Chinese five spice powder ({{quantity:chinese-five-spice}}), kosher salt ({{quantity:kosher-salt}}), white pepper ({{quantity:white-pepper}}), garlic ({{quantity:garlic}}), fresh ginger ({{quantity:fresh-ginger}}), toasted sesame oil ({{quantity:toasted-sesame-oil}}), and red food coloring ({{quantity:red-food-coloring}}).",
+        "Coat the pork thoroughly with the marinade, cover, and refrigerate for 3 hours. Turn the pieces once or twice during marinating so the surface seasons evenly."
+      ]
+    },
+    {
+      "title": "Set Up the Grill",
+      "items": [
+        "Preheat one side of the grill to medium-high heat and leave the other side set lower for indirect cooking. Aim for 375°F to 425°F inside the covered grill.",
+        "Remove the pork from the marinade and let the excess drip off. Discard the used marinade."
+      ]
+    },
+    {
+      "title": "Cook and Lacquer",
+      "items": [
+        "Grill the pork over indirect heat for about 20 minutes with the lid closed, turning every 5 minutes.",
+        "Move the pork over direct heat and cook for another 8 to 12 minutes, turning frequently, until the surface becomes glossy, caramelized, and lightly charred at the edges.",
+        "Combine the honey ({{quantity:honey-glaze}}) and hot water ({{quantity:hot-water}}). Brush the glaze over the pork during the final few minutes of cooking.",
+        "Cook until the thickest section reaches 145°F to 150°F. Rest the pork for 10 minutes before slicing."
+      ]
+    },
+    {
+      "title": "Serve",
+      "items": [
+        "Slice the char siu across the grain into thin pieces and serve with jasmine rice, stir-fried greens, or tucked into bao."
+      ]
+    }
+  ]
+}
