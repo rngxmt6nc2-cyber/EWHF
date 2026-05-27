@@ -1,0 +1,195 @@
+{
+  "id": "char-siu-pork-fried-rice",
+  "title": "Char Siu Pork Fried Rice",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Rice, Beans & Legumes",
+  "displayCategory": "Rice, Beans & Legumes",
+  "cScale": 3,
+  "ldlActive": false,
+  "cScaleSummary": "C3 because the cooked char siu pork and eggs are the cholesterol-contributing ingredients. Divided across 4 servings, the combined cholesterol from the pork and eggs is estimated to fall within the C3 range.",
+  "ldlActiveSummary": "Not LDL-Active because the recipe is centered on pork and eggs. It keeps the rice dry-fried, uses neutral oil rather than animal fat, and relies on vegetables, aromatics, acid, and sauce-blooming for balance, but it does not qualify as actively LDL-lowering under the EWHF standard.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Char siu fried rice belongs to the practical, high-heat tradition of turning cooked rice and roast meat into a complete meal. The best versions are not heavy or wet; they are dry-fried, aromatic, lightly smoky, and built in layers. Because the char siu is already cooked, it is treated gently: warmed, lightly browned at the edges, and folded through the rice so the pork stays glossy instead of drying out.",
+  "ingredientGroups": [
+    {
+      "title": "Sauce",
+      "items": [
+        {
+          "id": "soy-sauce",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "oyster-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "oyster sauce",
+          "prep": ""
+        },
+        {
+          "id": "shaoxing-wine",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "Shaoxing wine",
+          "prep": ""
+        },
+        {
+          "id": "toasted-sesame-oil",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "toasted sesame oil",
+          "prep": ""
+        },
+        {
+          "id": "rice-vinegar",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "rice vinegar",
+          "prep": ""
+        },
+        {
+          "id": "white-pepper",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "white pepper",
+          "prep": ""
+        },
+        {
+          "id": "msg",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "MSG",
+          "prep": ""
+        },
+        {
+          "id": "chicken-stock",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "chicken stock",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Fried Rice",
+      "items": [
+        {
+          "id": "jasmine-rice",
+          "amount": 4,
+          "unit": "cups",
+          "item": "cold cooked jasmine rice",
+          "prep": "preferably day-old"
+        },
+        {
+          "id": "neutral-oil-eggs",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "neutral oil",
+          "prep": "for the eggs"
+        },
+        {
+          "id": "eggs",
+          "amount": 2,
+          "unit": "large",
+          "item": "eggs",
+          "prep": "beaten"
+        },
+        {
+          "id": "neutral-oil-vegetables",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "neutral oil",
+          "prep": "for the vegetables"
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "yellow onion",
+          "prep": "diced"
+        },
+        {
+          "id": "carrot",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "carrot",
+          "prep": "diced small"
+        },
+        {
+          "id": "scallions",
+          "amount": 4,
+          "unit": "",
+          "item": "scallions",
+          "prep": "whites and greens separated, thinly sliced"
+        },
+        {
+          "id": "garlic",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "ginger",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "ginger",
+          "prep": "minced"
+        },
+        {
+          "id": "char-siu-pork",
+          "amount": 1,
+          "unit": "cup",
+          "item": "cooked char siu pork",
+          "prep": "diced slightly larger than 1/4 inch"
+        },
+        {
+          "id": "frozen-peas",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "frozen peas",
+          "prep": "thawed"
+        },
+        {
+          "id": "neutral-oil-rice",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "neutral oil",
+          "prep": "for the rice"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Prepare the rice and sauce",
+      "items": [
+        "Break up the 4 cups cold cooked jasmine rice by hand before cooking. Separate the grains without mashing them. If the rice is very clumpy, lightly wet fingers and loosen it gently.",
+        "Mix the 2 tablespoons soy sauce, 1 tablespoon oyster sauce, 1 tablespoon Shaoxing wine, 2 teaspoons toasted sesame oil, 1 teaspoon rice vinegar, 1/2 teaspoon white pepper, 1/4 teaspoon MSG, and 1 tablespoon chicken stock in a small bowl. Set the sauce aside."
+      ]
+    },
+    {
+      "title": "Cook the eggs and vegetables",
+      "items": [
+        "Heat a wok or large skillet over high heat until very hot. Add 1 tablespoon neutral oil for the eggs, then add the 2 beaten eggs. Scramble quickly until just set, then remove the eggs to a plate.",
+        "Add 1 tablespoon neutral oil for the vegetables to the pan. Add the 1/2 cup diced yellow onion and 1/2 cup diced carrot. Stir-fry for 2 to 3 minutes, until the onion begins to soften and the carrot loses its raw edge.",
+        "Add the sliced scallion whites, 1 tablespoon minced garlic, and 2 teaspoons minced ginger. Stir-fry for 20 to 30 seconds, just until fragrant."
+      ]
+    },
+    {
+      "title": "Fry the rice",
+      "items": [
+        "Add the 1 cup diced cooked char siu pork. Stir-fry for about 1 minute, just long enough to warm it through and lightly brown the edges. Do not cook it hard, because the pork is already cooked.",
+        "Add the 1/2 cup thawed frozen peas and toss for 20 to 30 seconds.",
+        "Add the 4 cups cold cooked jasmine rice. Add 1 tablespoon neutral oil for the rice around the edge of the pan. Stir-fry for 3 to 5 minutes, pressing, tossing, and breaking up any remaining clumps until the rice is hot, separated, and lightly toasted.",
+        "Pour the sauce around the hot edge of the wok or skillet, not directly into the center. Toss hard for 45 to 60 seconds so the sauce blooms on the pan and coats the rice without making it wet.",
+        "Return the scrambled eggs to the pan. Add the sliced scallion greens. Toss for another 30 seconds, then serve immediately."
+      ]
+    }
+  ]
+}
