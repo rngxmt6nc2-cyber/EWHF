@@ -1,132 +1,147 @@
 {
-  "id": "black-bean-tofu-taco-filling",
-  "title": "Black Bean Tofu Taco Filling",
+  "id": "black-bean-tofu-tacos",
+  "title": "Black Bean Tofu Tacos",
+  "section": "",
+  "sortOrder": 0,
   "category": "Mains",
-  "subcategory": "Tacos",
+  "displayCategory": "Mains",
+  "cScale": 1,
   "ldlActive": true,
-  "description": "A nostalgic, 1980s-style crunchy taco filling made with crumbled tofu, black beans, tomato paste, and classic taco spices.",
-  "servings": 6,
-  "yield": "about 4 1/2 cups filling",
-  "time": {
-    "prep": "15 minutes",
-    "cook": "20 minutes",
-    "total": "35 minutes"
-  },
-  "ingredients": [
+  "cScaleSummary": "Low-cholesterol plant-based taco filling with tofu, black beans, and a small amount of olive oil.",
+  "ldlActiveSummary": "Cholesterol-free, low in saturated fat, and high in fiber from black beans.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "A nostalgic, old-school crunchy taco filling made with crumbled tofu, black beans, tomato paste, and classic taco-night spices.",
+  "ingredientGroups": [
     {
-      "name": "extra-firm tofu",
-      "quantity": 14,
-      "unit": "ounces",
-      "preparation": "drained and pressed"
-    },
-    {
-      "name": "olive oil",
-      "quantity": 1,
-      "unit": "tablespoon"
-    },
-    {
-      "name": "yellow onion",
-      "quantity": 1,
-      "unit": "medium",
-      "preparation": "finely diced"
-    },
-    {
-      "name": "garlic",
-      "quantity": 3,
-      "unit": "cloves",
-      "preparation": "minced"
-    },
-    {
-      "name": "black beans",
-      "quantity": 15,
-      "unit": "ounces",
-      "preparation": "drained and rinsed"
-    },
-    {
-      "name": "tomato paste",
-      "quantity": 1,
-      "unit": "tablespoon"
-    },
-    {
-      "name": "low-sodium vegetable broth",
-      "quantity": 0.5,
-      "unit": "cup"
-    },
-    {
-      "name": "low-sodium soy sauce",
-      "quantity": 1,
-      "unit": "teaspoon"
-    },
-    {
-      "name": "apple cider vinegar",
-      "quantity": 1,
-      "unit": "teaspoon"
-    },
-    {
-      "name": "chili powder",
-      "quantity": 1,
-      "unit": "tablespoon"
-    },
-    {
-      "name": "ground cumin",
-      "quantity": 2,
-      "unit": "teaspoons"
-    },
-    {
-      "name": "paprika",
-      "quantity": 1,
-      "unit": "teaspoon"
-    },
-    {
-      "name": "dried oregano",
-      "quantity": 0.5,
-      "unit": "teaspoon"
-    },
-    {
-      "name": "kosher salt",
-      "quantity": 0.75,
-      "unit": "teaspoon"
-    },
-    {
-      "name": "black pepper",
-      "quantity": 0.25,
-      "unit": "teaspoon"
+      "title": "Ingredients",
+      "items": [
+        {
+          "id": "extra-firm-tofu",
+          "amount": 14,
+          "unit": "ounces",
+          "item": "extra-firm tofu",
+          "prep": "drained and pressed"
+        },
+        {
+          "id": "olive-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "medium",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "black-beans",
+          "amount": 15,
+          "unit": "ounces",
+          "item": "black beans",
+          "prep": "drained and rinsed"
+        },
+        {
+          "id": "tomato-paste",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "low-sodium-vegetable-broth",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "low-sodium vegetable broth",
+          "prep": ""
+        },
+        {
+          "id": "low-sodium-soy-sauce",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "apple-cider-vinegar",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "apple cider vinegar",
+          "prep": ""
+        },
+        {
+          "id": "chili-powder",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "chili powder",
+          "prep": ""
+        },
+        {
+          "id": "ground-cumin",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "id": "paprika",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "paprika",
+          "prep": ""
+        },
+        {
+          "id": "dried-oregano",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "dried oregano",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt",
+          "amount": 0.75,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
     }
   ],
-  "instructions": [
-    "Wrap the 14 ounces extra-firm tofu in a clean towel and press for 10 to 15 minutes to remove excess moisture.",
-    "Crumble the pressed tofu into small, uneven pieces about the size of cooked ground taco meat.",
-    "Heat the 1 tablespoon olive oil in a large skillet over medium heat.",
-    "Add the 1 medium diced yellow onion and cook for 5 to 6 minutes, stirring often, until softened.",
-    "Add the 3 minced garlic cloves and cook for 30 seconds.",
-    "Add the crumbled tofu and cook for 8 to 10 minutes, stirring occasionally, until the tofu loses moisture and begins to brown in spots.",
-    "Add the 15 ounces black beans and lightly mash about half of the beans into the tofu mixture.",
-    "Stir in the 1 tablespoon chili powder, 2 teaspoons ground cumin, 1 teaspoon paprika, 1/2 teaspoon dried oregano, 3/4 teaspoon kosher salt, and 1/4 teaspoon black pepper, and cook for 1 minute.",
-    "Stir in the 1 tablespoon tomato paste and 1 teaspoon low-sodium soy sauce until the tofu and beans are evenly coated.",
-    "Add the 1/2 cup low-sodium vegetable broth and simmer for 5 to 8 minutes, stirring occasionally, until the filling is moist, thick, and scoopable.",
-    "Remove the skillet from the heat and stir in the 1 teaspoon apple cider vinegar.",
-    "Let the taco filling rest for 5 minutes before spooning into crunchy taco shells."
-  ],
-  "notes": [
-    "For the full old-school taco night effect, serve in crunchy shells with shredded iceberg lettuce, diced tomato, reduced-fat cheddar, and mild picante-style salsa.",
-    "The tofu provides the crumbly texture, while the mashed black beans give the filling body and help it hold together.",
-    "For a drier taco filling, simmer uncovered for an extra 2 to 3 minutes."
-  ],
-  "nutrition": {
-    "caloriesPerServing": 155,
-    "proteinGrams": 10,
-    "fiberGrams": 7,
-    "saturatedFatGrams": 1,
-    "cholesterolMilligrams": 0,
-    "sodiumMilligrams": 430
-  },
-  "ldlScore": {
-    "rating": "A",
-    "reason": "No cholesterol, very low saturated fat, high fiber from black beans, and plant-based protein from tofu."
-  },
-  "quantifier": {
-    "scale": "C",
-    "servingSize": "about 3/4 cup filling",
-    "servings": 6
-  }
+  "stepGroups": [
+    {
+      "title": "Instructions",
+      "items": [
+        "Wrap {{ingredient:extra-firm-tofu}} in a clean towel and press for 10 to 15 minutes to remove excess moisture.",
+        "Crumble the tofu into small, uneven pieces about the size of cooked ground taco meat.",
+        "Heat {{ingredient:olive-oil}} in a large skillet over medium heat.",
+        "Add the onion ({{quantity:yellow-onion}}) and cook for 5 to 6 minutes, stirring often, until softened.",
+        "Add the garlic ({{quantity:garlic}}) and cook for 30 seconds.",
+        "Add the crumbled tofu and cook for 8 to 10 minutes, stirring occasionally, until the tofu loses moisture and begins to brown in spots.",
+        "Add the black beans ({{quantity:black-beans}}) and lightly mash about half of the beans into the tofu mixture.",
+        "Stir in the chili powder ({{quantity:chili-powder}}), ground cumin ({{quantity:ground-cumin}}), paprika ({{quantity:paprika}}), dried oregano ({{quantity:dried-oregano}}), kosher salt ({{quantity:kosher-salt}}), and black pepper ({{quantity:black-pepper}}), and cook for 1 minute.",
+        "Stir in the tomato paste ({{quantity:tomato-paste}}) and low-sodium soy sauce ({{quantity:low-sodium-soy-sauce}}) until the tofu and beans are evenly coated.",
+        "Add the low-sodium vegetable broth ({{quantity:low-sodium-vegetable-broth}}) and simmer for 5 to 8 minutes, stirring occasionally, until the filling is moist, thick, and scoopable.",
+        "Remove the skillet from the heat and stir in the apple cider vinegar ({{quantity:apple-cider-vinegar}}).",
+        "Let the taco filling rest for 5 minutes before spooning into crunchy taco shells."
+      ]
+    }
+  ]
 }
