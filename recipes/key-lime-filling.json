@@ -1,0 +1,95 @@
+{
+  "id": "key-lime-filling",
+  "title": "Key Lime Filling",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Sauces & Bases",
+  "displayCategory": "Sauces & Bases",
+  "cScale": 2,
+  "ldlActive": false,
+  "cScaleSummary": "C2 because the 3 large eggs contribute cholesterol. At approximately 186 mg cholesterol per egg, the recipe contains about 558 mg cholesterol total, or about 70 mg per serving across 8 servings.",
+  "ldlActiveSummary": "Not LDL-Active because this is a dessert filling built around eggs, sugar, citrus juice, and fat-free sweetened condensed milk. It is reduced in saturated fat compared with a traditional filling, but it is not fiber-forward and does not include meaningful LDL-supportive ingredients.",
+  "yield": 8,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "A bright, creamy key lime-style filling made from regular grocery-store limes. Extra lime zest and a touch of lemon juice recreate the aromatic tartness associated with traditional Key limes while keeping the recipe lower in saturated fat and cholesterol.",
+  "ingredientGroups": [
+    {
+      "title": "Ingredients",
+      "items": [
+        {
+          "id": "fresh-lime-juice",
+          "amount": 0.67,
+          "unit": "cup",
+          "item": "fresh lime juice",
+          "prep": ""
+        },
+        {
+          "id": "fresh-lemon-juice",
+          "amount": 0.33,
+          "unit": "cup",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "finely-grated-lime-zest",
+          "amount": 1.5,
+          "unit": "tablespoons",
+          "item": "finely grated lime zest",
+          "prep": ""
+        },
+        {
+          "id": "granulated-sugar",
+          "amount": 0.33,
+          "unit": "cup",
+          "item": "granulated sugar",
+          "prep": ""
+        },
+        {
+          "id": "cornstarch",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "cornstarch",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "large-eggs",
+          "amount": 3,
+          "unit": "",
+          "item": "large eggs",
+          "prep": ""
+        },
+        {
+          "id": "fat-free-sweetened-condensed-milk",
+          "amount": 1,
+          "unit": "cup",
+          "item": "fat-free sweetened condensed milk",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Instructions",
+      "items": [
+        "Add the fresh lime juice ({{quantity:fresh-lime-juice}}), fresh lemon juice ({{quantity:fresh-lemon-juice}}), and finely grated lime zest ({{quantity:finely-grated-lime-zest}}) to a mixing bowl.",
+        "Whisk in the granulated sugar ({{quantity:granulated-sugar}}), cornstarch ({{quantity:cornstarch}}), and kosher salt ({{quantity:kosher-salt}}) until smooth.",
+        "Allow the mixture to rest for 10 minutes so the zest can release its aromatic oils.",
+        "Whisk in the large eggs ({{quantity:large-eggs}}) until fully combined.",
+        "Whisk in the fat-free sweetened condensed milk ({{quantity:fat-free-sweetened-condensed-milk}}) until the filling is smooth and uniform.",
+        "Pour the filling into a prepared baked crust.",
+        "Bake at 325°F for 14 to 18 minutes, until the center reaches 160°F and the filling is set around the edges with a slight jiggle in the center.",
+        "Cool to room temperature.",
+        "Refrigerate for at least 4 hours before serving."
+      ]
+    }
+  ]
+}
