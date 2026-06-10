@@ -1,0 +1,192 @@
+{
+  "id": "chicken-cacciatore",
+  "title": "Chicken Cacciatore",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 4,
+  "ldlActive": false,
+  "cScaleSummary": "C4 because the recipe contains 1 1/2 pounds of boneless skinless chicken thighs distributed across 4 servings. Chicken thighs contribute more cholesterol than lean chicken breast, but the dish remains moderate overall due to the absence of butter, cream, cheese, egg yolks, or other concentrated cholesterol sources.",
+  "ldlActiveSummary": "LDL Active is false because this recipe is built around chicken thighs as the primary protein. While it uses a large quantity of vegetables, olive oil, and a tomato-based sauce, it is not specifically structured around LDL-lowering ingredients at levels sufficient to qualify for LDL Active status.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Chicken cacciatore is a classic Italian hunter-style braise built from chicken, tomatoes, peppers, onions, mushrooms, garlic, wine, and herbs. The long simmer allows the vegetables to soften into the sauce while the chicken becomes tender and flavorful. This version keeps the rustic character of the traditional dish while avoiding butter, cream, and excessive sodium.",
+  "ingredientGroups": [
+    {
+      "title": "Chicken",
+      "items": [
+        {
+          "amount": 1.5,
+          "unit": "pounds",
+          "item": "boneless skinless chicken thighs",
+          "prep": "trimmed"
+        },
+        {
+          "amount": 0.75,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": "divided"
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "olive oil",
+          "prep": "divided"
+        }
+      ]
+    },
+    {
+      "title": "Cacciatore Sauce",
+      "items": [
+        {
+          "amount": 8,
+          "unit": "ounces",
+          "item": "cremini mushrooms",
+          "prep": "sliced"
+        },
+        {
+          "amount": 1,
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": "thinly sliced"
+        },
+        {
+          "amount": 1,
+          "unit": "medium",
+          "item": "red bell pepper",
+          "prep": "sliced"
+        },
+        {
+          "amount": 1,
+          "unit": "medium",
+          "item": "bell pepper",
+          "prep": "sliced"
+        },
+        {
+          "amount": 4,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "thinly sliced"
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "dry red wine",
+          "prep": ""
+        },
+        {
+          "amount": 28,
+          "unit": "ounces",
+          "item": "crushed tomatoes",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "low-sodium chicken broth",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "dried oregano",
+          "prep": ""
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "dried thyme",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "crushed red pepper flakes",
+          "prep": ""
+        },
+        {
+          "amount": 1,
+          "unit": "each",
+          "item": "bay leaf",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "red wine vinegar",
+          "prep": ""
+        },
+        {
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fresh parsley",
+          "prep": "chopped"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Prepare and Brown the Chicken",
+      "items": [
+        "Pat the 1 1/2 pounds boneless skinless chicken thighs dry.",
+        "Season the chicken with 1/2 teaspoon kosher salt and 1/2 teaspoon black pepper.",
+        "Heat 1 tablespoon olive oil in a large Dutch oven or deep skillet over medium-high heat.",
+        "Brown the seasoned chicken thighs for 3 to 4 minutes per side until well colored but not fully cooked through.",
+        "Transfer the browned chicken to a plate and reserve."
+      ]
+    },
+    {
+      "title": "Build the Sauce",
+      "items": [
+        "Add the remaining 1 tablespoon olive oil to the pan.",
+        "Add the 8 ounces sliced cremini mushrooms and cook for 5 to 6 minutes until browned.",
+        "Add the 1 large sliced yellow onion, 1 sliced red bell pepper, 1 sliced bell pepper, and remaining 1/4 teaspoon kosher salt.",
+        "Cook for 6 to 8 minutes until the vegetables soften and begin to caramelize.",
+        "Add the 4 thinly sliced garlic cloves and cook for 30 seconds.",
+        "Stir in the 2 tablespoons tomato paste and cook for 1 to 2 minutes until slightly darkened.",
+        "Pour in the 1/2 cup dry red wine and scrape up any browned bits from the bottom of the pan.",
+        "Simmer for 2 minutes."
+      ]
+    },
+    {
+      "title": "Braise the Chicken",
+      "items": [
+        "Add the 28 ounces crushed tomatoes, 1/2 cup low-sodium chicken broth, 1 teaspoon dried oregano, 1/2 teaspoon dried thyme, 1/4 teaspoon crushed red pepper flakes, and 1 bay leaf.",
+        "Stir to combine.",
+        "Return the browned chicken and any accumulated juices to the pan.",
+        "Reduce the heat to low and partially cover the pan.",
+        "Simmer for 25 to 30 minutes until the chicken is tender and reaches 165°F in the thickest portion."
+      ]
+    },
+    {
+      "title": "Finish and Serve",
+      "items": [
+        "Remove the bay leaf.",
+        "If the sauce is thinner than desired, simmer uncovered for approximately 5 minutes until thickened.",
+        "Stir in the 1 tablespoon red wine vinegar and 1/4 cup chopped fresh parsley.",
+        "Taste and adjust with additional vinegar or black pepper if desired.",
+        "Serve hot."
+      ]
+    }
+  ]
+}
