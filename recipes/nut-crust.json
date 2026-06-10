@@ -1,0 +1,97 @@
+{
+"id": "nut-crust",
+"title": "Nut Crust",
+"section": "recipes",
+"sortOrder": 0,
+"category": "desserts",
+"displayCategory": "Desserts",
+"cScale": 0,
+"ldlActive": true,
+"cScaleSummary": "Contains no cholesterol-containing ingredients.",
+"ldlActiveSummary": "Nuts and unsaturated fats replace traditional butter-based pastry crusts.",
+"yield": 8,
+"yieldUnit": "servings",
+"tags": [
+"gluten-free",
+"nut-crust",
+"dessert",
+"ldl-friendly",
+"pie-crust"
+],
+"intro": "Cultural Note and Regional Roots: Nut-based crusts have long been used as gluten-free alternatives to traditional pastry and cookie crusts. Pecans and pistachios provide rich flavor, sturdy texture, and naturally occurring unsaturated fats that pair well with fruit, citrus, cream-style, and custard desserts while avoiding refined flour and butter.",
+"ingredientGroups": [
+{
+"title": "Nut Crust",
+"items": [
+{
+"id": "pecans",
+"amount": 1.0,
+"unit": "cup",
+"item": "pecan halves",
+"prep": ""
+},
+{
+"id": "pistachios",
+"amount": 0.5,
+"unit": "cup",
+"item": "shelled pistachios",
+"prep": ""
+},
+{
+"id": "date-sugar",
+"amount": 2.0,
+"unit": "tablespoons",
+"item": "date sugar",
+"prep": ""
+},
+{
+"id": "kosher-salt",
+"amount": 0.25,
+"unit": "teaspoon",
+"item": "kosher salt",
+"prep": ""
+},
+{
+"id": "avocado-oil",
+"amount": 2.0,
+"unit": "tablespoons",
+"item": "avocado oil",
+"prep": ""
+},
+{
+"id": "egg-white",
+"amount": 1.0,
+"unit": "",
+"item": "large egg white",
+"prep": ""
+}
+]
+}
+],
+"stepGroups": [
+{
+"title": "Toast and Grind",
+"items": [
+"Heat the oven to 325°F.",
+"Toast the {{quantity:pecans}} pecan halves and {{quantity:pistachios}} shelled pistachios for 8 minutes until fragrant. Cool completely.",
+"Pulse the toasted {{quantity:pecans}} pecan halves and {{quantity:pistachios}} shelled pistachios in a food processor until coarse crumbs form."
+]
+},
+{
+"title": "Build the Crust",
+"items": [
+"Add the {{quantity:date-sugar}} date sugar and {{quantity:kosher-salt}} kosher salt to the food processor and pulse to combine.",
+"Add the {{quantity:avocado-oil}} avocado oil and the {{quantity:egg-white}} large egg white. Pulse until the mixture resembles damp sand and holds together when squeezed."
+]
+},
+{
+"title": "Bake",
+"items": [
+"Increase the oven temperature to 350°F.",
+"Press the nut mixture firmly into the bottom and sides of a 9-inch pie plate.",
+"Bake the crust for 10 to 12 minutes until lightly golden and fragrant.",
+"Cool completely before filling with the desired pie filling."
+]
+}
+]
+}
