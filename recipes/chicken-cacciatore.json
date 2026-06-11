@@ -7,35 +7,39 @@
   "displayCategory": "Mains",
   "cScale": 4,
   "ldlActive": false,
-  "cScaleSummary": "C4 because the recipe contains 1 1/2 pounds of boneless skinless chicken thighs distributed across 4 servings. Chicken thighs contribute more cholesterol than lean chicken breast, but the dish remains moderate overall due to the absence of butter, cream, cheese, egg yolks, or other concentrated cholesterol sources.",
-  "ldlActiveSummary": "LDL Active is false because this recipe is built around chicken thighs as the primary protein. While it uses a large quantity of vegetables, olive oil, and a tomato-based sauce, it is not specifically structured around LDL-lowering ingredients at levels sufficient to qualify for LDL Active status.",
+  "cScaleSummary": "C4 because the recipe contains boneless skinless chicken thighs as the primary protein. Chicken thighs contribute more cholesterol than lean chicken breast, but the dish avoids butter, cream, cheese, egg yolks, sausage, bacon, and other concentrated cholesterol sources.",
+  "ldlActiveSummary": "LDL Active is false because this recipe is built around chicken thighs as the primary protein. The recipe remains EWHF-appropriate because it is vegetable-forward, tomato-based, and uses olive oil instead of butter, cream, or cheese.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
-  "intro": "Chicken cacciatore is a classic Italian hunter-style braise built from chicken, tomatoes, peppers, onions, mushrooms, garlic, wine, and herbs. The long simmer allows the vegetables to soften into the sauce while the chicken becomes tender and flavorful. This version keeps the rustic character of the traditional dish while avoiding butter, cream, and excessive sodium.",
+  "intro": "Chicken cacciatore is a classic Italian hunter-style braise built from chicken, tomatoes, peppers, onions, mushrooms, garlic, wine, and herbs. This version keeps the rustic character of the traditional dish while using skinless chicken thighs, a vegetable-heavy sauce, and no butter, cream, or cheese.",
   "ingredientGroups": [
     {
       "title": "Chicken",
       "items": [
         {
+          "id": "chicken-thighs",
           "amount": 1.5,
           "unit": "pounds",
           "item": "boneless skinless chicken thighs",
           "prep": "trimmed"
         },
         {
+          "id": "kosher-salt",
           "amount": 0.75,
           "unit": "teaspoon",
           "item": "kosher salt",
           "prep": "divided"
         },
         {
+          "id": "black-pepper",
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "black pepper",
           "prep": ""
         },
         {
+          "id": "olive-oil",
           "amount": 2,
           "unit": "tablespoons",
           "item": "olive oil",
@@ -47,78 +51,91 @@
       "title": "Cacciatore Sauce",
       "items": [
         {
+          "id": "cremini-mushrooms",
           "amount": 8,
           "unit": "ounces",
           "item": "cremini mushrooms",
           "prep": "sliced"
         },
         {
+          "id": "yellow-onion",
           "amount": 1,
           "unit": "large",
           "item": "yellow onion",
           "prep": "thinly sliced"
         },
         {
+          "id": "red-bell-pepper",
           "amount": 1,
           "unit": "medium",
           "item": "red bell pepper",
           "prep": "sliced"
         },
         {
+          "id": "bell-pepper",
           "amount": 1,
           "unit": "medium",
           "item": "bell pepper",
           "prep": "sliced"
         },
         {
+          "id": "garlic",
           "amount": 4,
           "unit": "cloves",
           "item": "garlic",
           "prep": "thinly sliced"
         },
         {
+          "id": "tomato-paste",
           "amount": 2,
           "unit": "tablespoons",
           "item": "tomato paste",
           "prep": ""
         },
         {
+          "id": "dry-red-wine",
           "amount": 0.5,
           "unit": "cup",
           "item": "dry red wine",
           "prep": ""
         },
         {
+          "id": "crushed-tomatoes",
           "amount": 28,
           "unit": "ounces",
           "item": "crushed tomatoes",
           "prep": ""
         },
         {
+          "id": "chicken-broth",
           "amount": 0.5,
           "unit": "cup",
           "item": "low-sodium chicken broth",
           "prep": ""
         },
         {
+          "id": "dried-oregano",
           "amount": 1,
           "unit": "teaspoon",
           "item": "dried oregano",
           "prep": ""
         },
         {
+          "id": "dried-thyme",
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "dried thyme",
           "prep": ""
         },
         {
+          "id": "red-pepper-flakes",
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "crushed red pepper flakes",
           "prep": ""
         },
         {
+          "id": "bay-leaf",
           "amount": 1,
           "unit": "each",
           "item": "bay leaf",
@@ -130,12 +147,14 @@
       "title": "Finish",
       "items": [
         {
+          "id": "red-wine-vinegar",
           "amount": 1,
           "unit": "tablespoon",
           "item": "red wine vinegar",
           "prep": ""
         },
         {
+          "id": "fresh-parsley",
           "amount": 0.25,
           "unit": "cup",
           "item": "fresh parsley",
@@ -144,13 +163,26 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Pat {{ingredient:chicken-thighs}} dry.",
+    "Have {{ingredient:cremini-mushrooms}} ready.",
+    "Have {{ingredient:yellow-onion}} ready.",
+    "Have {{ingredient:red-bell-pepper}} ready.",
+    "Have {{ingredient:bell-pepper}} ready.",
+    "Have {{ingredient:garlic}} ready.",
+    "Measure {{ingredient:tomato-paste}}.",
+    "Measure {{ingredient:dry-red-wine}}.",
+    "Measure {{ingredient:crushed-tomatoes}}.",
+    "Measure {{ingredient:chicken-broth}}.",
+    "Measure {{ingredient:dried-oregano}}, {{ingredient:dried-thyme}}, {{ingredient:red-pepper-flakes}}, and {{ingredient:bay-leaf}}.",
+    "Measure {{ingredient:red-wine-vinegar}} and have {{ingredient:fresh-parsley}} ready."
+  ],
   "stepGroups": [
     {
       "title": "Prepare and Brown the Chicken",
       "items": [
-        "Pat the 1 1/2 pounds boneless skinless chicken thighs dry.",
-        "Season the chicken with 1/2 teaspoon kosher salt and 1/2 teaspoon black pepper.",
-        "Heat 1 tablespoon olive oil in a large Dutch oven or deep skillet over medium-high heat.",
+        "Season the dried chicken with 1/2 teaspoon of {{ingredient:kosher-salt}} and {{ingredient:black-pepper}}.",
+        "Heat 1 tablespoon of {{ingredient:olive-oil}} in a large Dutch oven or deep skillet over medium-high heat.",
         "Brown the seasoned chicken thighs for 3 to 4 minutes per side until well colored but not fully cooked through.",
         "Transfer the browned chicken to a plate and reserve."
       ]
@@ -158,20 +190,20 @@
     {
       "title": "Build the Sauce",
       "items": [
-        "Add the remaining 1 tablespoon olive oil to the pan.",
-        "Add the 8 ounces sliced cremini mushrooms and cook for 5 to 6 minutes until browned.",
-        "Add the 1 large sliced yellow onion, 1 sliced red bell pepper, 1 sliced bell pepper, and remaining 1/4 teaspoon kosher salt.",
+        "Add the remaining {{ingredient:olive-oil}} to the pan.",
+        "Add {{ingredient:cremini-mushrooms}} and cook for 5 to 6 minutes until browned.",
+        "Add {{ingredient:yellow-onion}}, {{ingredient:red-bell-pepper}}, {{ingredient:bell-pepper}}, and the remaining {{ingredient:kosher-salt}}.",
         "Cook for 6 to 8 minutes until the vegetables soften and begin to caramelize.",
-        "Add the 4 thinly sliced garlic cloves and cook for 30 seconds.",
-        "Stir in the 2 tablespoons tomato paste and cook for 1 to 2 minutes until slightly darkened.",
-        "Pour in the 1/2 cup dry red wine and scrape up any browned bits from the bottom of the pan.",
+        "Add {{ingredient:garlic}} and cook for 30 seconds.",
+        "Stir in {{ingredient:tomato-paste}} and cook for 1 to 2 minutes until slightly darkened.",
+        "Pour in {{ingredient:dry-red-wine}} and scrape up any browned bits from the bottom of the pan.",
         "Simmer for 2 minutes."
       ]
     },
     {
       "title": "Braise the Chicken",
       "items": [
-        "Add the 28 ounces crushed tomatoes, 1/2 cup low-sodium chicken broth, 1 teaspoon dried oregano, 1/2 teaspoon dried thyme, 1/4 teaspoon crushed red pepper flakes, and 1 bay leaf.",
+        "Add {{ingredient:crushed-tomatoes}}, {{ingredient:chicken-broth}}, {{ingredient:dried-oregano}}, {{ingredient:dried-thyme}}, {{ingredient:red-pepper-flakes}}, and {{ingredient:bay-leaf}}.",
         "Stir to combine.",
         "Return the browned chicken and any accumulated juices to the pan.",
         "Reduce the heat to low and partially cover the pan.",
@@ -183,7 +215,7 @@
       "items": [
         "Remove the bay leaf.",
         "If the sauce is thinner than desired, simmer uncovered for approximately 5 minutes until thickened.",
-        "Stir in the 1 tablespoon red wine vinegar and 1/4 cup chopped fresh parsley.",
+        "Stir in {{ingredient:red-wine-vinegar}} and {{ingredient:fresh-parsley}}.",
         "Taste and adjust with additional vinegar or black pepper if desired.",
         "Serve hot."
       ]
