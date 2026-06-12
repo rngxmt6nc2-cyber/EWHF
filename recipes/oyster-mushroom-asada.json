@@ -1,28 +1,27 @@
 
 {
-  "id": "oyster-mushroom-asada",
-  "title": "Oyster Mushroom Asada",
+  "id": "oyster-mushroom-carne-asada",
+  "title": "Oyster Mushroom Carne Asada",
   "section": "Main Dishes",
   "sortOrder": 0,
   "category": "mains",
   "displayCategory": "Main Dishes",
-  "cScale": 3,
+  "cScale": 0,
   "ldlActive": false,
-  "cScaleSummary": "Oyster mushrooms provide satisfying texture and umami without cholesterol. The marinade delivers bold flavor with minimal added fat.",
-  "ldlActiveSummary": "While low in saturated fat and cholesterol-free, this recipe does not contain a significant source of soluble fiber or other ingredients with established LDL-lowering effects.",
+  "cScaleSummary": "Oyster mushrooms, citrus, garlic, herbs, and spices provide bold flavor with essentially no dietary cholesterol and very little saturated fat.",
+  "ldlActiveSummary": "While highly cholesterol-conscious, this recipe does not contain a significant source of soluble fiber or other ingredients with established LDL-lowering effects.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [
     "mushrooms",
-    "tex-mex",
-    "plant-based",
+    "mexican-inspired",
     "tacos",
-    "cast-iron"
+    "weeknight"
   ],
-  "intro": "Inspired by a classic Texas carne asada marinade of coffee, tomato paste, Worcestershire sauce, lime, and cayenne. Oyster mushrooms absorb the bold flavors and develop crisp, charred edges that are perfect for tacos, burrito bowls, or rice plates.",
+  "intro": "Oyster mushrooms naturally shred and char, making them an excellent stand-in for traditional carne asada. A citrus-garlic marinade, smoky spices, chipotle, and a hot cast-iron skillet create deeply savory flavor and crisp edges that are perfect for tacos, bowls, or burritos.",
   "ingredientGroups": [
     {
-      "title": "Asada Mushrooms",
+      "title": "Carne Asada Mushrooms",
       "items": [
         {
           "id": "oyster-mushrooms",
@@ -32,60 +31,95 @@
           "prep": "torn into bite-sized strips"
         },
         {
-          "id": "tomato-paste",
-          "amount": 4,
-          "unit": "tablespoons",
-          "item": "tomato paste",
-          "prep": ""
-        },
-        {
-          "id": "coffee",
-          "amount": 1,
-          "unit": "cup",
-          "item": "strong black coffee",
-          "prep": ""
-        },
-        {
-          "id": "vegan-worcestershire",
-          "amount": 0.25,
-          "unit": "cup",
-          "item": "vegan Worcestershire sauce",
-          "prep": ""
-        },
-        {
-          "id": "salt",
-          "amount": 2,
-          "unit": "teaspoons",
-          "item": "kosher salt",
-          "prep": ""
-        },
-        {
-          "id": "cayenne",
-          "amount": 1,
-          "unit": "teaspoon",
-          "item": "cayenne pepper",
-          "prep": ""
-        },
-        {
-          "id": "black-pepper",
-          "amount": 1,
-          "unit": "teaspoon",
-          "item": "black pepper",
-          "prep": ""
-        },
-        {
-          "id": "lime-juice",
-          "amount": 2,
-          "unit": "tablespoons",
-          "item": "fresh lime juice",
-          "prep": ""
-        },
-        {
           "id": "olive-oil",
           "amount": 1,
           "unit": "tablespoon",
           "item": "olive oil",
           "prep": ""
+        },
+        {
+          "id": "lime-juice",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "lime juice",
+          "prep": ""
+        },
+        {
+          "id": "orange-juice",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "orange juice",
+          "prep": ""
+        },
+        {
+          "id": "low-sodium-soy-sauce",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "ground-cumin",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "id": "chili-powder",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "chili powder",
+          "prep": ""
+        },
+        {
+          "id": "smoked-paprika",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "id": "dried-oregano",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "dried oregano",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "chipotle-pepper",
+          "amount": 1,
+          "unit": "",
+          "item": "chipotle pepper in adobo",
+          "prep": "minced"
+        },
+        {
+          "id": "worcestershire",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Worcestershire sauce",
+          "prep": ""
+        },
+        {
+          "id": "cilantro",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "cilantro",
+          "prep": "chopped"
         }
       ]
     },
@@ -107,14 +141,14 @@
           "prep": "finely diced"
         },
         {
-          "id": "cilantro",
+          "id": "cilantro-serving",
           "amount": 0.25,
           "unit": "cup",
           "item": "cilantro",
           "prep": "chopped"
         },
         {
-          "id": "lime",
+          "id": "lime-wedges",
           "amount": 1,
           "unit": "",
           "item": "lime",
@@ -127,19 +161,18 @@
     {
       "title": "Instructions",
       "items": [
-        "Combine the 4 tablespoons tomato paste, 1 cup strong black coffee, 1/4 cup vegan Worcestershire sauce, 2 teaspoons kosher salt, 1 teaspoon cayenne pepper, 1 teaspoon black pepper, 2 tablespoons fresh lime juice, and 1 tablespoon olive oil in a small saucepan.",
-        "Bring the marinade to a simmer over medium heat and cook for 3 to 5 minutes, whisking until the tomato paste is fully incorporated.",
-        "Remove the marinade from the heat and cool completely.",
-        "Toss the 1 pound oyster mushrooms with the cooled marinade until evenly coated.",
-        "Marinate the oyster mushrooms for 20 to 30 minutes.",
-        "Reserve 1/4 cup of the marinade and drain the mushrooms.",
+        "Tear the 1 pound oyster mushrooms into bite-sized strips, leaving some larger pieces for texture.",
+        "Whisk together the 3 tablespoons lime juice, 2 tablespoons orange juice, 2 tablespoons low-sodium soy sauce, 3 minced garlic cloves, 1 teaspoon ground cumin, 1 teaspoon chili powder, 1 teaspoon smoked paprika, 1/2 teaspoon dried oregano, 1/4 teaspoon black pepper, and 1 minced chipotle pepper in adobo.",
+        "Toss the 1 pound oyster mushrooms with the marinade until evenly coated. Let stand for 20 to 30 minutes.",
         "Heat a large cast-iron skillet over high heat until very hot.",
-        "Add the marinated oyster mushrooms and cook undisturbed for 2 to 3 minutes to develop char.",
-        "Stir and continue cooking for 6 to 8 minutes until the mushrooms darken and most of their moisture has evaporated.",
-        "Add the reserved 1/4 cup marinade and continue cooking until the liquid reduces to a glossy coating on the mushrooms.",
-        "Continue cooking until the mushrooms are deeply browned with crisp edges and only small patches of sauce remain.",
+        "Add the 1 tablespoon olive oil and swirl to coat the skillet.",
+        "Add the marinated oyster mushrooms and all of the marinade to the skillet.",
+        "Cook undisturbed for 2 to 3 minutes to develop deep browning and char.",
+        "Stir the mushrooms and continue cooking for 6 to 8 minutes until the liquid evaporates and the mushrooms become dark, concentrated, and crispy around the edges.",
+        "Continue cooking as needed until patches of char appear across the mushrooms.",
+        "Remove the skillet from the heat and stir in the 1 teaspoon Worcestershire sauce and 1 tablespoon chopped cilantro.",
         "Warm the 8 corn tortillas.",
-        "Serve the oyster mushroom asada in the warm tortillas topped with the 1/2 cup finely diced white onion, 1/4 cup chopped cilantro, and lime wedges."
+        "Serve the oyster mushroom carne asada in the warm tortillas topped with the 1/2 cup finely diced white onion, 1/4 cup chopped cilantro, and lime wedges."
       ]
     }
   ]
