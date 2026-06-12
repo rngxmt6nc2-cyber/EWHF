@@ -1,0 +1,146 @@
+
+{
+  "id": "oyster-mushroom-asada",
+  "title": "Oyster Mushroom Asada",
+  "section": "Main Dishes",
+  "sortOrder": 0,
+  "category": "mains",
+  "displayCategory": "Main Dishes",
+  "cScale": 3,
+  "ldlActive": false,
+  "cScaleSummary": "Oyster mushrooms provide satisfying texture and umami without cholesterol. The marinade delivers bold flavor with minimal added fat.",
+  "ldlActiveSummary": "While low in saturated fat and cholesterol-free, this recipe does not contain a significant source of soluble fiber or other ingredients with established LDL-lowering effects.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [
+    "mushrooms",
+    "tex-mex",
+    "plant-based",
+    "tacos",
+    "cast-iron"
+  ],
+  "intro": "Inspired by a classic Texas carne asada marinade of coffee, tomato paste, Worcestershire sauce, lime, and cayenne. Oyster mushrooms absorb the bold flavors and develop crisp, charred edges that are perfect for tacos, burrito bowls, or rice plates.",
+  "ingredientGroups": [
+    {
+      "title": "Asada Mushrooms",
+      "items": [
+        {
+          "id": "oyster-mushrooms",
+          "amount": 1,
+          "unit": "pound",
+          "item": "oyster mushrooms",
+          "prep": "torn into bite-sized strips"
+        },
+        {
+          "id": "tomato-paste",
+          "amount": 4,
+          "unit": "tablespoons",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "coffee",
+          "amount": 1,
+          "unit": "cup",
+          "item": "strong black coffee",
+          "prep": ""
+        },
+        {
+          "id": "vegan-worcestershire",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "vegan Worcestershire sauce",
+          "prep": ""
+        },
+        {
+          "id": "salt",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "cayenne",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "cayenne pepper",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        },
+        {
+          "id": "lime-juice",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh lime juice",
+          "prep": ""
+        },
+        {
+          "id": "olive-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "For Serving",
+      "items": [
+        {
+          "id": "corn-tortillas",
+          "amount": 8,
+          "unit": "",
+          "item": "corn tortillas",
+          "prep": "warmed"
+        },
+        {
+          "id": "white-onion",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "white onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "cilantro",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "cilantro",
+          "prep": "chopped"
+        },
+        {
+          "id": "lime",
+          "amount": 1,
+          "unit": "",
+          "item": "lime",
+          "prep": "cut into wedges"
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Instructions",
+      "items": [
+        "Combine the 4 tablespoons tomato paste, 1 cup strong black coffee, 1/4 cup vegan Worcestershire sauce, 2 teaspoons kosher salt, 1 teaspoon cayenne pepper, 1 teaspoon black pepper, 2 tablespoons fresh lime juice, and 1 tablespoon olive oil in a small saucepan.",
+        "Bring the marinade to a simmer over medium heat and cook for 3 to 5 minutes, whisking until the tomato paste is fully incorporated.",
+        "Remove the marinade from the heat and cool completely.",
+        "Toss the 1 pound oyster mushrooms with the cooled marinade until evenly coated.",
+        "Marinate the oyster mushrooms for 20 to 30 minutes.",
+        "Reserve 1/4 cup of the marinade and drain the mushrooms.",
+        "Heat a large cast-iron skillet over high heat until very hot.",
+        "Add the marinated oyster mushrooms and cook undisturbed for 2 to 3 minutes to develop char.",
+        "Stir and continue cooking for 6 to 8 minutes until the mushrooms darken and most of their moisture has evaporated.",
+        "Add the reserved 1/4 cup marinade and continue cooking until the liquid reduces to a glossy coating on the mushrooms.",
+        "Continue cooking until the mushrooms are deeply browned with crisp edges and only small patches of sauce remain.",
+        "Warm the 8 corn tortillas.",
+        "Serve the oyster mushroom asada in the warm tortillas topped with the 1/2 cup finely diced white onion, 1/4 cup chopped cilantro, and lime wedges."
+      ]
+    }
+  ]
+}
