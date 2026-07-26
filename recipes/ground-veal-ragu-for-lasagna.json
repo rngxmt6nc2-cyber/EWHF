@@ -1,0 +1,243 @@
+{
+  "id": "ground-veal-ragu-for-lasagna",
+  "title": "Ground Veal Ragù for Lasagna",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Sauces & Bases",
+  "displayCategory": "Sauces & Bases",
+  "cScale": 1,
+  "ldlActive": false,
+  "cScaleSummary": "Approximately 21–24 mg cholesterol per serving, primarily from the ground veal, with smaller contributions from the Parmesan and chicken stock.",
+  "ldlActiveSummary": "The ragù is low in fiber and centered on veal and Parmesan. Its vegetables and olive oil are beneficial but insufficient to make it actively LDL-lowering.",
+  "yield": 20,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Ground-meat ragù appears throughout Italy in countless regional forms, ranging from restrained northern sauces to more tomato-forward preparations associated with southern Italian and Italian-American cooking. This version uses ground veal for delicate richness, while fresh thyme, sage, rosemary and nutmeg create a quieter, more herbaceous character than conventional red sauce. A small amount of fish sauce strengthens the savory foundation without announcing itself. Parmesan deepens the finish, and fresh parsley provides brightness. Cooked until exceptionally thick, this ragù is designed for layering without making the finished lasagna watery. It yields about 5 cups.",
+  "ingredientGroups": [
+    {
+      "title": "Veal",
+      "items": [
+        {
+          "id": "ground-veal",
+          "amount": 1,
+          "unit": "pound",
+          "item": "ground veal",
+          "prep": ""
+        },
+        {
+          "id": "veal-salt",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "freshly ground black pepper",
+          "prep": ""
+        },
+        {
+          "id": "olive-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Aromatic Base",
+      "items": [
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "carrot",
+          "amount": 1,
+          "unit": "small",
+          "item": "carrot",
+          "prep": "finely diced"
+        },
+        {
+          "id": "aromatic-salt",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "garlic",
+          "amount": 5,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "thyme",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "fresh thyme",
+          "prep": "finely chopped"
+        },
+        {
+          "id": "sage",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fresh sage",
+          "prep": "finely chopped"
+        },
+        {
+          "id": "rosemary",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fresh rosemary",
+          "prep": "finely chopped"
+        }
+      ]
+    },
+    {
+      "title": "Flavor Backbone",
+      "items": [
+        {
+          "id": "tomato-paste",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "red-pepper-flakes",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "crushed red-pepper flakes",
+          "prep": ""
+        },
+        {
+          "id": "nutmeg",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "ground nutmeg",
+          "prep": ""
+        },
+        {
+          "id": "red-wine",
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "dry red wine",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Simmering Liquid",
+      "items": [
+        {
+          "id": "whole-peeled-tomatoes",
+          "amount": 1,
+          "unit": "28-ounce can",
+          "item": "whole peeled tomatoes",
+          "prep": "crushed by hand"
+        },
+        {
+          "id": "chicken-stock",
+          "amount": 1,
+          "unit": "cup",
+          "item": "unsalted chicken stock",
+          "prep": ""
+        },
+        {
+          "id": "fish-sauce",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fish sauce",
+          "prep": ""
+        },
+        {
+          "id": "bay-leaf",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "parmesan",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "finely grated Parmesan",
+          "prep": ""
+        },
+        {
+          "id": "parsley",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fresh flat-leaf parsley",
+          "prep": "chopped"
+        },
+        {
+          "id": "finishing-seasoning",
+          "amount": 0,
+          "unit": "",
+          "item": "kosher salt and freshly ground black pepper",
+          "prep": "to finish"
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Have {{ingredient:yellow-onion}}, {{ingredient:carrot}}, and {{ingredient:garlic}} ready.",
+    "Have {{ingredient:thyme}}, {{ingredient:sage}}, and {{ingredient:rosemary}} ready.",
+    "Have {{ingredient:whole-peeled-tomatoes}} ready.",
+    "Measure {{ingredient:red-wine}}, {{ingredient:chicken-stock}}, and {{ingredient:fish-sauce}}.",
+    "Have {{ingredient:parmesan}} and {{ingredient:parsley}} ready."
+  ],
+  "stepGroups": [
+    {
+      "title": "Brown the Veal",
+      "items": [
+        "Heat {{ingredient:olive-oil}} in a large Dutch oven over medium-high heat.",
+        "Season {{ingredient:ground-veal}} with {{ingredient:veal-salt}} and {{ingredient:black-pepper}}.",
+        "Brown the veal in two batches, breaking it into small but distinct pieces. Allow each batch to develop deeply browned edges before stirring. Transfer the browned veal to a bowl."
+      ]
+    },
+    {
+      "title": "Build the Aromatic Base",
+      "items": [
+        "Reduce the heat to medium. Add {{ingredient:yellow-onion}}, {{ingredient:carrot}}, and {{ingredient:aromatic-salt}}. Cook for 8 to 10 minutes, stirring occasionally, until the vegetables are very soft and beginning to brown.",
+        "Add {{ingredient:garlic}}, {{ingredient:thyme}}, {{ingredient:sage}}, and {{ingredient:rosemary}} and cook for 30 seconds."
+      ]
+    },
+    {
+      "title": "Develop the Flavor Backbone",
+      "items": [
+        "Add {{ingredient:tomato-paste}}, {{ingredient:red-pepper-flakes}}, and {{ingredient:nutmeg}}. Cook for 3 to 4 minutes, stirring frequently, until the tomato paste turns dark brick red and begins sticking to the bottom of the pot.",
+        "Add {{ingredient:red-wine}}, scrape up the browned residue, and simmer until the wine has reduced by approximately three-quarters."
+      ]
+    },
+    {
+      "title": "Simmer the Ragù",
+      "items": [
+        "Return the veal and its accumulated juices to the pot. Add {{ingredient:whole-peeled-tomatoes}}, {{ingredient:chicken-stock}}, {{ingredient:fish-sauce}}, and {{ingredient:bay-leaf}}, then bring the mixture just to a simmer.",
+        "Reduce the heat to low and cook uncovered for 75 to 90 minutes, stirring occasionally. Stir more frequently during the final 30 minutes as the ragù thickens."
+      ]
+    },
+    {
+      "title": "Finish the Ragù",
+      "items": [
+        "Remove the bay leaf. Stir in {{ingredient:parmesan}} and {{ingredient:parsley}}.",
+        "Taste and adjust the seasoning. Continue cooking until the ragù is considerably thicker than an ordinary pasta sauce.",
+        "Drag a spoon across the bottom of the pot. The track should remain visible for several seconds, with no watery tomato liquid collecting around the meat. Cool before assembling the lasagna."
+      ]
+    }
+  ]
+}
