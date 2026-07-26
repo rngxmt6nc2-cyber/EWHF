@@ -1,0 +1,197 @@
+{
+  "id": "savory-ricotta-bechamel",
+  "title": "Savory Ricotta Béchamel",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Sauces & Bases",
+  "displayCategory": "Sauces & Bases",
+  "cScale": 1,
+  "ldlActive": false,
+  "cScaleSummary": "Approximately 12 mg cholesterol per serving, primarily from the part-skim ricotta, 2% milk, and Parmesan. The egg whites contain no cholesterol.",
+  "ldlActiveSummary": "The recipe uses olive oil instead of butter and remains relatively low in cholesterol, but its dairy base, refined flour, and minimal fiber prevent it from being actively LDL-lowering.",
+  "yield": 20,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Béchamel began as a French white sauce and became deeply integrated into Italian cooking as besciamella, especially in the layered pastas of Emilia-Romagna. Italian-American lasagnas often pair ricotta with eggs instead, but this version joins the two traditions. A lightly infused olive-oil béchamel gives the filling savory depth, while part-skim ricotta adds body and two egg whites provide a gentle set. The result remains creamy enough to spread yet becomes stable and sliceable as the casserole bakes without becoming dense or rubbery.",
+  "ingredientGroups": [
+    {
+      "title": "Infused Milk",
+      "items": [
+        {
+          "id": "infusion-milk",
+          "amount": 3,
+          "unit": "cups",
+          "item": "2% milk",
+          "prep": ""
+        },
+        {
+          "id": "reserved-milk",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "2% milk",
+          "prep": "reserved for restoring volume"
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 0.5,
+          "unit": "small",
+          "item": "yellow onion",
+          "prep": ""
+        },
+        {
+          "id": "garlic",
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "lightly crushed"
+        },
+        {
+          "id": "bay-leaf",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        },
+        {
+          "id": "black-peppercorns",
+          "amount": 8,
+          "unit": "",
+          "item": "whole black peppercorns",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Roux",
+      "items": [
+        {
+          "id": "olive-oil",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        },
+        {
+          "id": "all-purpose-flour",
+          "amount": 0.33,
+          "unit": "cup",
+          "item": "all-purpose flour",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Ricotta Mixture",
+      "items": [
+        {
+          "id": "part-skim-ricotta",
+          "amount": 15,
+          "unit": "ounces",
+          "item": "part-skim ricotta",
+          "prep": ""
+        },
+        {
+          "id": "parmesan",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "Parmesan",
+          "prep": "finely grated"
+        }
+      ]
+    },
+    {
+      "title": "Seasoning",
+      "items": [
+        {
+          "id": "kosher-salt",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "nutmeg",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "ground nutmeg",
+          "prep": ""
+        },
+        {
+          "id": "ground-black-pepper",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "freshly ground black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Binder",
+      "items": [
+        {
+          "id": "egg-whites",
+          "amount": 2,
+          "unit": "large",
+          "item": "egg whites",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Measure {{ingredient:infusion-milk}} and {{ingredient:reserved-milk}} separately.",
+    "Have {{ingredient:yellow-onion}} and {{ingredient:garlic}} ready.",
+    "Measure {{ingredient:bay-leaf}} and {{ingredient:black-peppercorns}}.",
+    "Have {{ingredient:part-skim-ricotta}} and {{ingredient:parmesan}} ready.",
+    "Separate and refrigerate {{ingredient:egg-whites}} until needed."
+  ],
+  "stepGroups": [
+    {
+      "title": "Infuse the Milk",
+      "items": [
+        "Combine {{ingredient:infusion-milk}} with {{ingredient:yellow-onion}}, {{ingredient:garlic}}, {{ingredient:bay-leaf}}, and {{ingredient:black-peppercorns}} in a saucepan.",
+        "Heat until steaming but not boiling. Remove from the heat, cover, and steep for 15 minutes.",
+        "Strain the infused milk and discard the aromatics. Measure the strained milk and add enough {{ingredient:reserved-milk}} to restore it to exactly {{quantity:infusion-milk}}."
+      ]
+    },
+    {
+      "title": "Build the Béchamel",
+      "items": [
+        "Heat {{ingredient:olive-oil}} in a clean saucepan over medium-low heat.",
+        "Whisk in {{ingredient:all-purpose-flour}} and cook for 2 to 3 minutes without allowing it to brown.",
+        "Gradually whisk in the warm infused milk. Bring to a gentle simmer and cook for 5 to 7 minutes, whisking frequently.",
+        "The béchamel is ready when it is completely smooth, heavily coats the back of a spoon, and briefly holds the tracks of the whisk."
+      ]
+    },
+    {
+      "title": "Add the Ricotta",
+      "items": [
+        "Remove the béchamel from the heat.",
+        "Process {{ingredient:part-skim-ricotta}} only until smooth, then whisk it and {{ingredient:parmesan}} into the warm béchamel until evenly incorporated."
+      ]
+    },
+    {
+      "title": "Season and Cool",
+      "items": [
+        "Season the ricotta béchamel with {{ingredient:kosher-salt}}, {{ingredient:nutmeg}}, and {{ingredient:ground-black-pepper}}.",
+        "Taste and correct the seasoning before adding the egg whites.",
+        "Let the mixture cool to 120°F to 130°F."
+      ]
+    },
+    {
+      "title": "Incorporate the Egg Whites",
+      "items": [
+        "Whisk {{ingredient:egg-whites}} in a small bowl just until loosened and fluid but not foamy.",
+        "Gently fold the egg whites into the ricotta béchamel until no visible streaks remain.",
+        "The finished mixture should be thick enough to spread without running while remaining creamy."
+      ]
+    },
+    {
+      "title": "Hold the Ricotta Béchamel",
+      "items": [
+        "Use the ricotta béchamel promptly, or cover and refrigerate it until ready to assemble the lasagna.",
+        "During baking, the roux and egg whites will give the layer a gentle, sliceable set without making it firm or rubbery."
+      ]
+    }
+  ]
+}
