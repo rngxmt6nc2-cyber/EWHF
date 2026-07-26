@@ -1,0 +1,146 @@
+{
+  "id": "ultimate-pork-and-veal-lasagna",
+  "title": "Ultimate Pork & Veal Lasagna",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Pasta & Noodles",
+  "displayCategory": "Pasta & Noodles",
+  "cScale": 5,
+  "ldlActive": false,
+  "cScaleSummary": "A rich, special-occasion lasagna built with pork, veal, pancetta, sausage, whole-milk cheeses, and Parmesan béchamel.",
+  "ldlActiveSummary": "This recipe is an indulgence and is not designed as an LDL-active dish.",
+  "yield": 12,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Lasagna is one of those dishes that rewards patience more than complexity. This version is inspired by the elegant meat-forward lasagnas of Northern Italy, where a slow-simmered ragù and delicate béchamel take center stage instead of excessive cheese or tomato sauce. Every layer serves a purpose, creating a finished dish that is rich without becoming heavy and refined without feeling fussy. Give the ragù plenty of time, build thin, even layers, and allow the finished lasagna to rest. The result is a lasagna that slices beautifully and tastes even better the next day.",
+  "ingredientGroups": [
+    {
+      "title": "Ragù",
+      "items": [
+        {"id":"pancetta","amount":4,"unit":"ounces","item":"pancetta","prep":"finely diced"},
+        {"id":"ground-veal","amount":1,"unit":"pound","item":"ground veal","prep":""},
+        {"id":"ground-pork","amount":1,"unit":"pound","item":"ground pork","prep":""},
+        {"id":"sweet-italian-sausage","amount":4,"unit":"ounces","item":"sweet Italian sausage","prep":"casings removed"},
+        {"id":"hot-italian-sausage","amount":4,"unit":"ounces","item":"hot Italian sausage","prep":"casings removed"},
+        {"id":"yellow-onions","amount":2,"unit":"medium","item":"yellow onions","prep":"finely diced"},
+        {"id":"carrots","amount":2,"unit":"medium","item":"carrots","prep":"finely diced"},
+        {"id":"celery-ribs","amount":3,"unit":"ribs","item":"celery","prep":"finely diced"},
+        {"id":"garlic","amount":5,"unit":"cloves","item":"garlic","prep":"minced"},
+        {"id":"tomato-paste","amount":1,"unit":"tablespoon","item":"tomato paste","prep":""},
+        {"id":"white-wine","amount":1,"unit":"cup","item":"dry white wine","prep":""},
+        {"id":"ragout-whole-milk","amount":2,"unit":"cups","item":"whole milk","prep":""},
+        {"id":"san-marzano-tomatoes","amount":28,"unit":"ounces","item":"San Marzano tomatoes","prep":"crushed by hand"},
+        {"id":"beef-stock","amount":2,"unit":"cups","item":"beef stock","prep":"as needed"},
+        {"id":"ragout-bay-leaves","amount":2,"unit":"","item":"bay leaves","prep":""},
+        {"id":"fresh-thyme","amount":4,"unit":"sprigs","item":"fresh thyme","prep":""},
+        {"id":"fresh-rosemary","amount":1,"unit":"small sprig","item":"fresh rosemary","prep":""},
+        {"id":"ragout-nutmeg","amount":1,"unit":"pinch","item":"freshly grated nutmeg","prep":""},
+        {"id":"fish-sauce","amount":1,"unit":"teaspoon","item":"fish sauce","prep":""},
+        {"id":"parmesan-rind","amount":1,"unit":"","item":"Parmesan rind","prep":""},
+        {"id":"ragout-kosher-salt","amount":0,"unit":"","item":"kosher salt","prep":"to taste"},
+        {"id":"ragout-black-pepper","amount":0,"unit":"","item":"freshly ground black pepper","prep":"to taste"}
+      ]
+    },
+    {
+      "title": "Parmesan Béchamel",
+      "items": [
+        {"id":"bechamel-whole-milk","amount":6,"unit":"cups","item":"whole milk","prep":""},
+        {"id":"bechamel-onion","amount":0.5,"unit":"medium","item":"onion","prep":""},
+        {"id":"bechamel-bay-leaf","amount":1,"unit":"","item":"bay leaf","prep":""},
+        {"id":"black-peppercorns","amount":8,"unit":"","item":"whole black peppercorns","prep":""},
+        {"id":"bechamel-butter","amount":8,"unit":"tablespoons","item":"unsalted butter","prep":""},
+        {"id":"all-purpose-flour","amount":0.5,"unit":"cup","item":"all-purpose flour","prep":""},
+        {"id":"bechamel-kosher-salt","amount":1.5,"unit":"teaspoons","item":"kosher salt","prep":""},
+        {"id":"bechamel-nutmeg","amount":1,"unit":"pinch","item":"freshly grated nutmeg","prep":""},
+        {"id":"white-pepper","amount":0,"unit":"","item":"white pepper","prep":"to taste"},
+        {"id":"bechamel-parmigiano","amount":10,"unit":"ounces","item":"Parmigiano-Reggiano","prep":"freshly grated"},
+        {"id":"egg-yolk","amount":1,"unit":"","item":"egg yolk","prep":""}
+      ]
+    },
+    {
+      "title": "Ricotta Layer",
+      "items": [
+        {"id":"whole-milk-ricotta","amount":10,"unit":"ounces","item":"whole milk ricotta","prep":""},
+        {"id":"ricotta-egg","amount":1,"unit":"large","item":"egg","prep":""},
+        {"id":"ricotta-parmigiano","amount":0.5,"unit":"cup","item":"Parmigiano-Reggiano","prep":"freshly grated"},
+        {"id":"italian-parsley","amount":2,"unit":"tablespoons","item":"fresh Italian parsley","prep":"chopped"},
+        {"id":"ricotta-black-pepper","amount":0,"unit":"","item":"freshly ground black pepper","prep":"to taste"}
+      ]
+    },
+    {
+      "title": "Assembly",
+      "items": [
+        {"id":"lasagna-sheets","amount":1,"unit":"pound","item":"fresh lasagna sheets, or high-quality dried lasagna sheets","prep":"dried sheets cooked just shy of al dente"},
+        {"id":"mozzarella","amount":12,"unit":"ounces","item":"whole milk low-moisture mozzarella","prep":"freshly grated"},
+        {"id":"assembly-parmigiano","amount":20,"unit":"ounces","item":"Parmigiano-Reggiano","prep":"freshly grated"},
+        {"id":"assembly-butter","amount":1,"unit":"tablespoon","item":"unsalted butter","prep":""}
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Have {{ingredient:yellow-onions}}, {{ingredient:carrots}}, and {{ingredient:celery-ribs}} ready.",
+    "Have {{ingredient:garlic}} ready.",
+    "Prepare {{ingredient:san-marzano-tomatoes}}.",
+    "Grate {{ingredient:bechamel-parmigiano}}, {{ingredient:ricotta-parmigiano}}, {{ingredient:mozzarella}}, and {{ingredient:assembly-parmigiano}}.",
+    "Measure the remaining ragù, béchamel, ricotta, and assembly ingredients before beginning."
+  ],
+  "stepGroups": [
+    {"title":"Brown the Meat","items":[
+      "Heat a large Dutch oven over medium heat. Add {{ingredient:pancetta}} and cook until lightly crisp and most of the fat has rendered, about 6 to 8 minutes. Remove the pancetta with a slotted spoon, leaving the rendered fat in the pot.",
+      "Increase the heat to medium-high. Brown {{ingredient:ground-veal}} in batches, spreading the meat into a loose layer and allowing a deep crust to develop before stirring. Transfer the browned veal to a bowl.",
+      "Repeat with {{ingredient:ground-pork}}, then {{ingredient:sweet-italian-sausage}} and {{ingredient:hot-italian-sausage}}. Do not overcrowd the pot. The meat is ready when it is richly caramelized and browned bits remain on the bottom of the pot."
+    ]},
+    {"title":"Cook the Soffritto","items":[
+      "Reduce the heat to medium-low. Add {{ingredient:yellow-onions}}, {{ingredient:carrots}}, and {{ingredient:celery-ribs}} to the rendered fat. Cook for about 20 minutes, stirring occasionally, until the vegetables are soft, translucent, and sweet without developing significant color.",
+      "Add {{ingredient:garlic}} and cook for 1 minute until fragrant.",
+      "Stir in {{ingredient:tomato-paste}} and cook for 2 to 3 minutes until it darkens from bright red to a deep brick-red color."
+    ]},
+    {"title":"Simmer the Ragù","items":[
+      "Pour {{ingredient:white-wine}} into the pot, scraping the bottom thoroughly to dissolve every browned bit. Continue simmering until the wine has almost completely evaporated and the aroma of alcohol has disappeared.",
+      "Return the browned pancetta, veal, pork, and sausage to the pot.",
+      "Pour in {{ingredient:ragout-whole-milk}} and simmer gently until reduced by approximately one-half.",
+      "Add {{ingredient:san-marzano-tomatoes}}, {{ingredient:ragout-bay-leaves}}, {{ingredient:fresh-thyme}}, {{ingredient:fresh-rosemary}}, {{ingredient:ragout-nutmeg}}, {{ingredient:fish-sauce}}, and {{ingredient:parmesan-rind}}.",
+      "Bring to a very gentle simmer and cook uncovered for 3 to 4 hours. Stir every 20 to 30 minutes, scraping the bottom of the pot to prevent scorching as the sauce slowly reduces.",
+      "If the ragù begins to tighten too much, add {{ingredient:beef-stock}} a little at a time, using only what is needed to maintain a thick, gently simmering sauce.",
+      "The finished ragù should be glossy, rich, and cohesive. Dragging a spoon across the bottom of the pot should leave a trail that slowly fills after about one second. The vegetables should have nearly disappeared into the sauce, and the meat should be exceptionally tender.",
+      "Remove and discard the bay leaves, thyme, rosemary, and Parmesan rind. Season with {{ingredient:ragout-kosher-salt}} and {{ingredient:ragout-black-pepper}}."
+    ]},
+    {"title":"Prepare the Parmesan Béchamel","items":[
+      "While the ragù cooks, combine {{ingredient:bechamel-whole-milk}}, {{ingredient:bechamel-onion}}, {{ingredient:bechamel-bay-leaf}}, and {{ingredient:black-peppercorns}} in a saucepan. Heat until steaming but not boiling. Remove from the heat and steep for 20 minutes, then strain.",
+      "In a separate saucepan, melt {{ingredient:bechamel-butter}} over medium heat. Whisk in {{ingredient:all-purpose-flour}} and cook for 2 to 3 minutes without allowing it to brown.",
+      "Gradually whisk the warm infused milk into the roux until completely smooth. Continue cooking until the sauce coats the back of a spoon while still pouring easily.",
+      "Season with {{ingredient:bechamel-kosher-salt}}, {{ingredient:bechamel-nutmeg}}, and {{ingredient:white-pepper}}.",
+      "Remove from the heat and whisk in {{ingredient:bechamel-parmigiano}} until completely melted. Allow the sauce to cool for about 5 minutes before whisking in {{ingredient:egg-yolk}} until fully incorporated."
+    ]},
+    {"title":"Prepare the Ricotta Layer","items":[
+      "Combine {{ingredient:whole-milk-ricotta}}, {{ingredient:ricotta-egg}}, {{ingredient:ricotta-parmigiano}}, {{ingredient:italian-parsley}}, and {{ingredient:ricotta-black-pepper}}. Stir until smooth and evenly combined."
+    ]},
+    {"title":"Assemble the Lasagna","items":[
+      "Preheat the oven to 325°F.",
+      "Lightly coat a deep 9 × 13-inch baking dish with {{ingredient:assembly-butter}}.",
+      "Spread a thin layer of the finished ragù over the bottom of the baking dish to prevent {{ingredient:lasagna-sheets}} from sticking.",
+      "Build each layer with lasagna sheets, a thin layer of Parmesan béchamel, small dollops of the ricotta mixture, a light sprinkle of {{ingredient:mozzarella}}, a thin and even layer of ragù, and a sprinkle of {{ingredient:assembly-parmigiano}}.",
+      "Spread each component thinly and evenly. Resist the temptation to overload any individual layer. Repeat until six pasta layers have been completed.",
+      "Finish with a final layer of Parmesan béchamel spread completely to the edges, the remaining mozzarella, and a generous layer of Parmigiano-Reggiano. Covering the edges with béchamel prevents the exposed pasta from drying during baking."
+    ]},
+    {"title":"Bake","items":[
+      "Cover the baking dish loosely with aluminum foil and bake at 325°F for 50 minutes.",
+      "Remove the foil, rotate the pan 180 degrees, and increase the oven temperature to 400°F.",
+      "Continue baking for 15 to 20 minutes until the top is deeply browned, the edges are bubbling vigorously, and the center reaches 170°F to 180°F."
+    ]},
+    {"title":"Rest and Serve","items":[
+      "Allow the lasagna to rest for 45 to 60 minutes before slicing so the layers can set.",
+      "For the fullest flavor, cool the lasagna completely, refrigerate overnight, and reheat the following day. Before reheating, allow it to stand at room temperature for about 30 minutes for more even warming."
+    ]},
+    {"title":"Chef's Notes","items":[
+      "Freshly grate every cheese. Pre-shredded cheese contains anti-caking agents that prevent smooth melting.",
+      "Take your time browning the meat. Deep caramelization contributes far more flavor than additional seasoning.",
+      "Cook the soffritto gently. Properly softened vegetables melt into the ragù and create natural sweetness without noticeable texture.",
+      "Keep the ragù meat-forward rather than tomato-forward. The tomatoes support the sauce rather than dominate it.",
+      "The béchamel should remain pourable. A sauce that is too thick creates a heavy finished lasagna.",
+      "Thin, even layers produce a more elegant lasagna than thick ones.",
+      "A deeply browned top and crisp edges are signs of a properly baked lasagna.",
+      "The lasagna will slice more cleanly and develop deeper flavor after an overnight rest."
+    ]}
+  ]
+}
