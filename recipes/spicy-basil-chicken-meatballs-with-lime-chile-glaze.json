@@ -1,0 +1,308 @@
+{
+  "id": "spicy-basil-chicken-meatballs-with-lime-chile-glaze",
+  "title": "Spicy Basil Chicken Meatballs with Lime-Chile Glaze",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 2,
+  "ldlActive": false,
+  "cScaleSummary": "C2 because the recipe’s cholesterol comes primarily from lean ground chicken. The egg white, vegetables, herbs, seasonings, rice, and cooking spray contribute little or no cholesterol, and the recipe avoids butter, cream, cheese, egg yolks, and animal fat.",
+  "ldlActiveSummary": "LDL-Active is false because the recipe is centered on chicken rather than a fiber-forward structure built around legumes, whole grains, nuts, seeds, or vegetables. It remains EWHF-appropriate because it uses lean chicken, minimal added fat, and no butter, cream, cheese, or egg yolk.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "These tender chicken meatballs use ordinary sweet basil, cilantro, ginger, garlic, and a restrained pinch of fennel seed to recreate some of Thai basil’s aromatic character. Roasting develops color without pan-frying, while grated onion and a light panko panade protect the lean chicken from drying out. The meatballs finish in a sharp, savory glaze built from lime, fish sauce, sambal, and just enough honey to round the edges without becoming sweet. Serve them with jasmine rice and blistered bok choy, broccolini, or green beans for a complete meal.",
+  "ingredientGroups": [
+    {
+      "title": "Meatballs",
+      "items": [
+        {
+          "id": "ground-chicken",
+          "amount": 1,
+          "unit": "pound",
+          "item": "lean ground chicken",
+          "prep": ""
+        },
+        {
+          "id": "meatball-basil",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "loosely packed fresh basil leaves",
+          "prep": "finely chopped"
+        },
+        {
+          "id": "meatball-cilantro",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fresh cilantro",
+          "prep": "finely chopped"
+        },
+        {
+          "id": "meatball-scallions",
+          "amount": 2,
+          "unit": "each",
+          "item": "scallions",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "yellow onion",
+          "prep": "finely grated"
+        },
+        {
+          "id": "garlic",
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "finely grated"
+        },
+        {
+          "id": "fresh-ginger",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh ginger",
+          "prep": "finely grated"
+        },
+        {
+          "id": "panko",
+          "amount": 0.3333333333,
+          "unit": "cup",
+          "item": "plain panko breadcrumbs",
+          "prep": ""
+        },
+        {
+          "id": "oat-milk",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "unsweetened oat milk or low-sodium chicken stock",
+          "prep": ""
+        },
+        {
+          "id": "egg-white",
+          "amount": 1,
+          "unit": "large",
+          "item": "egg white",
+          "prep": ""
+        },
+        {
+          "id": "meatball-fish-sauce",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "fish sauce",
+          "prep": ""
+        },
+        {
+          "id": "lime-zest",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "lime zest",
+          "prep": "finely grated"
+        },
+        {
+          "id": "meatball-sambal",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "sambal oelek",
+          "prep": ""
+        },
+        {
+          "id": "ground-fennel-seed",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "ground fennel seed",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "freshly ground black pepper",
+          "prep": ""
+        },
+        {
+          "id": "cooking-spray",
+          "amount": 0,
+          "unit": "",
+          "item": "neutral cooking spray",
+          "prep": "as needed"
+        }
+      ]
+    },
+    {
+      "title": "Lime-Chile Glaze",
+      "items": [
+        {
+          "id": "chicken-stock",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "low-sodium chicken stock",
+          "prep": ""
+        },
+        {
+          "id": "glaze-fish-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fish sauce",
+          "prep": ""
+        },
+        {
+          "id": "lime-juice",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh lime juice",
+          "prep": ""
+        },
+        {
+          "id": "glaze-sambal",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "sambal oelek",
+          "prep": "plus more to taste"
+        },
+        {
+          "id": "honey",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "honey",
+          "prep": ""
+        },
+        {
+          "id": "soy-sauce",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "cornstarch",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "cornstarch",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish and Serve",
+      "items": [
+        {
+          "id": "finish-scallion",
+          "amount": 1,
+          "unit": "each",
+          "item": "scallion",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "finish-basil",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "fresh basil leaves",
+          "prep": "torn"
+        },
+        {
+          "id": "finish-cilantro",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh cilantro leaves",
+          "prep": ""
+        },
+        {
+          "id": "lime-wedges",
+          "amount": 1,
+          "unit": "each",
+          "item": "lime",
+          "prep": "cut into wedges"
+        },
+        {
+          "id": "jasmine-rice",
+          "amount": 3,
+          "unit": "cups",
+          "item": "cooked jasmine rice",
+          "prep": "hot"
+        },
+        {
+          "id": "green-vegetable",
+          "amount": 1,
+          "unit": "pound",
+          "item": "bok choy, broccolini, or green beans",
+          "prep": "blistered"
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Chop {{ingredient:meatball-basil}} and {{ingredient:meatball-cilantro}}.",
+    "Slice {{ingredient:meatball-scallions}} and grate {{ingredient:yellow-onion}}, {{ingredient:garlic}}, and {{ingredient:fresh-ginger}}.",
+    "Measure {{ingredient:panko}} and {{ingredient:oat-milk}}.",
+    "Separate {{ingredient:egg-white}}.",
+    "Measure {{ingredient:meatball-fish-sauce}}, {{ingredient:lime-zest}}, {{ingredient:meatball-sambal}}, {{ingredient:ground-fennel-seed}}, and {{ingredient:black-pepper}}.",
+    "Measure {{ingredient:chicken-stock}}, {{ingredient:glaze-fish-sauce}}, {{ingredient:lime-juice}}, {{ingredient:glaze-sambal}}, {{ingredient:honey}}, {{ingredient:soy-sauce}}, and {{ingredient:cornstarch}}.",
+    "Prepare {{ingredient:finish-scallion}}, {{ingredient:finish-basil}}, {{ingredient:finish-cilantro}}, and {{ingredient:lime-wedges}}.",
+    "Have {{ingredient:jasmine-rice}} and {{ingredient:green-vegetable}} ready for serving."
+  ],
+  "stepGroups": [
+    {
+      "title": "Prepare the Oven and Pan",
+      "items": [
+        "Heat the oven to 450°F.",
+        "Line a rimmed sheet pan with parchment paper and coat it lightly with {{ingredient:cooking-spray}}."
+      ]
+    },
+    {
+      "title": "Make the Panade",
+      "items": [
+        "Combine {{ingredient:panko}} and {{ingredient:oat-milk}} in a large bowl.",
+        "Let stand for 5 minutes, until the crumbs have absorbed the liquid."
+      ]
+    },
+    {
+      "title": "Mix the Meatballs",
+      "items": [
+        "Add {{ingredient:ground-chicken}}, {{ingredient:meatball-basil}}, {{ingredient:meatball-cilantro}}, {{ingredient:meatball-scallions}}, {{ingredient:yellow-onion}}, {{ingredient:garlic}}, {{ingredient:fresh-ginger}}, {{ingredient:egg-white}}, {{ingredient:meatball-fish-sauce}}, {{ingredient:lime-zest}}, {{ingredient:meatball-sambal}}, {{ingredient:ground-fennel-seed}}, and {{ingredient:black-pepper}} to the panade.",
+        "Mix gently with your hands just until evenly combined. Do not knead or compact the mixture."
+      ]
+    },
+    {
+      "title": "Shape the Meatballs",
+      "items": [
+        "With damp hands, divide the mixture into approximately 20 meatballs, using about 1½ tablespoons for each.",
+        "Arrange the meatballs on the prepared sheet pan with space between them.",
+        "Lightly mist the tops with {{ingredient:cooking-spray}}."
+      ]
+    },
+    {
+      "title": "Roast the Meatballs",
+      "items": [
+        "Roast for 10 to 13 minutes, until lightly browned and the centers reach 165°F.",
+        "Do not cook the meatballs beyond temperature; lean chicken dries quickly."
+      ]
+    },
+    {
+      "title": "Build the Glaze",
+      "items": [
+        "While the meatballs roast, whisk together {{ingredient:chicken-stock}}, {{ingredient:glaze-fish-sauce}}, {{ingredient:lime-juice}}, {{ingredient:glaze-sambal}}, {{ingredient:honey}}, {{ingredient:soy-sauce}}, and {{ingredient:cornstarch}} in a wide skillet.",
+        "Bring to a simmer over medium heat, whisking frequently.",
+        "Cook for 2 to 3 minutes, until glossy and lightly thickened."
+      ]
+    },
+    {
+      "title": "Glaze the Meatballs",
+      "items": [
+        "Transfer the cooked meatballs directly to the skillet.",
+        "Turn them gently through the glaze and simmer for 1 to 2 minutes, just until evenly coated.",
+        "Remove the skillet from the heat."
+      ]
+    },
+    {
+      "title": "Finish and Serve",
+      "items": [
+        "Fold in {{ingredient:finish-basil}}, {{ingredient:finish-cilantro}}, and {{ingredient:finish-scallion}}.",
+        "Taste the glaze and add more {{ingredient:glaze-sambal}} or lime juice if needed.",
+        "Serve immediately over {{ingredient:jasmine-rice}} with {{ingredient:green-vegetable}} and {{ingredient:lime-wedges}}."
+      ]
+    }
+  ]
+}
