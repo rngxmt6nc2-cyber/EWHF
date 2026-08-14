@@ -1,0 +1,245 @@
+{
+  "id": "mushroom-stroganoff",
+  "title": "Grilled Portobello Mushroom Stroganoff",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Pasta & Noodles",
+  "displayCategory": "Pasta & Noodles",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The portobello and cremini mushrooms, egg-free whole-wheat noodles, olive oil, plant-based yogurt, vegetable stock, mustards, aromatics, herbs, and seasonings contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the dish is centered on mushrooms and whole-wheat noodles, uses unsaturated olive oil, and builds creaminess with unsweetened plant-based yogurt rather than butter, cream, or full-fat dairy. Its plant-forward, whole-grain structure supports LDL lowering.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Stroganoff is traditionally a quick sauté finished with mustard and sour cream. This version keeps that sharp, creamy identity but makes whole grilled portobello caps the centerpiece. Charred mushrooms sit over broad whole-wheat noodles while browned cremini mushrooms give the tarragon-Dijon sauce depth and body.",
+  "ingredientGroups": [
+    {
+      "title": "Grilled Portobellos",
+      "items": [
+        {
+          "id": "portobello-caps",
+          "amount": 4,
+          "unit": "large",
+          "item": "portobello mushroom caps",
+          "prep": "stems removed and dark gills scraped out"
+        },
+        {
+          "id": "olive-oil-portobellos",
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt-portobellos",
+          "amount": 0.75,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-portobellos",
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Tarragon-Mustard Stroganoff Sauce",
+      "items": [
+        {
+          "id": "cremini-mushrooms",
+          "amount": 8,
+          "unit": "oz",
+          "item": "cremini mushrooms",
+          "prep": "sliced 1/4 inch thick"
+        },
+        {
+          "id": "olive-oil-sauce",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt-sauce",
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": "plus more to taste"
+        },
+        {
+          "id": "black-pepper-sauce",
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": "plus more to taste"
+        },
+        {
+          "id": "shallot",
+          "amount": 1,
+          "unit": "large",
+          "item": "shallot",
+          "prep": "finely chopped"
+        },
+        {
+          "id": "garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "all-purpose-flour",
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "id": "mushroom-stock",
+          "amount": 2,
+          "unit": "cups",
+          "item": "low-sodium mushroom or vegetable stock",
+          "prep": ""
+        },
+        {
+          "id": "dijon-mustard",
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "id": "whole-grain-mustard",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "whole-grain mustard",
+          "prep": ""
+        },
+        {
+          "id": "soy-sauce",
+          "amount": 2,
+          "unit": "tsp",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "vegan-worcestershire",
+          "amount": 1,
+          "unit": "tsp",
+          "item": "vegan Worcestershire sauce",
+          "prep": ""
+        },
+        {
+          "id": "plant-based-yogurt",
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "unsweetened plain plant-based yogurt",
+          "prep": "preferably soy; room temperature"
+        },
+        {
+          "id": "fresh-tarragon",
+          "amount": 3,
+          "unit": "tbsp",
+          "item": "fresh tarragon leaves",
+          "prep": "chopped and divided"
+        },
+        {
+          "id": "lemon-juice",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "fresh lemon juice",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Noodles",
+      "items": [
+        {
+          "id": "whole-wheat-noodles",
+          "amount": 12,
+          "unit": "oz",
+          "item": "egg-free whole-wheat wide noodles",
+          "prep": ""
+        },
+        {
+          "id": "water",
+          "amount": 3,
+          "unit": "quarts",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt-noodles",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "stepGroups": [
+    {
+      "title": "Prepare the Portobellos",
+      "items": [
+        "Heat a gas or charcoal grill to high, about 450 to 500°F, and clean the grates.",
+        "Wipe the portobello caps ({{quantity:portobello-caps}}) clean. Remove the stems and gently scrape out the dark gills with a spoon so they do not muddy the pale sauce.",
+        "Brush both sides with the olive oil ({{quantity:olive-oil-portobellos}}), then season with the kosher salt ({{quantity:kosher-salt-portobellos}}) and black pepper ({{quantity:black-pepper-portobellos}})."
+      ]
+    },
+    {
+      "title": "Grill the Portobellos",
+      "items": [
+        "Place the caps gill-side down over direct high heat. Grill without moving until deeply marked, 4 to 5 minutes.",
+        "Flip and grill cap-side down until tender but still substantial, 4 to 6 minutes more. Move them to indirect heat if they color too quickly.",
+        "Transfer to a board and rest for 5 minutes. Keep the caps whole until serving so they retain their juices."
+      ]
+    },
+    {
+      "title": "Cook the Noodles",
+      "items": [
+        "Bring the water ({{quantity:water}}) to a boil and add the kosher salt ({{quantity:kosher-salt-noodles}}).",
+        "Cook the egg-free whole-wheat wide noodles ({{quantity:whole-wheat-noodles}}) until just al dente. Reserve 1 cup of noodle water, then drain."
+      ]
+    },
+    {
+      "title": "Brown the Cremini Mushrooms",
+      "items": [
+        "While the noodles cook, heat a wide skillet over medium-high heat. Add the olive oil ({{quantity:olive-oil-sauce}}) and cremini mushrooms ({{quantity:cremini-mushrooms}}), spreading them into a single layer.",
+        "Cook without frequent stirring until the mushrooms release their moisture and develop deep brown edges, 7 to 9 minutes.",
+        "Season with the kosher salt ({{quantity:kosher-salt-sauce}}) and black pepper ({{quantity:black-pepper-sauce}})."
+      ]
+    },
+    {
+      "title": "Build the Sauce",
+      "items": [
+        "Reduce the heat to medium. Add the shallot ({{quantity:shallot}}) and cook until softened, about 3 minutes. Add the garlic ({{quantity:garlic}}) and cook for 30 seconds.",
+        "Sprinkle in the all-purpose flour ({{quantity:all-purpose-flour}}) and cook, stirring, for 1 minute.",
+        "Gradually whisk in the mushroom stock ({{quantity:mushroom-stock}}), scraping up the browned fond. Stir in the Dijon mustard ({{quantity:dijon-mustard}}), whole-grain mustard ({{quantity:whole-grain-mustard}}), soy sauce ({{quantity:soy-sauce}}), and vegan Worcestershire sauce ({{quantity:vegan-worcestershire}}).",
+        "Bring to a gentle simmer and cook until the sauce coats a spoon, 5 to 7 minutes."
+      ]
+    },
+    {
+      "title": "Finish the Sauce Gently",
+      "items": [
+        "Remove the skillet from the heat. Whisk a few spoonfuls of hot sauce into the room-temperature plant-based yogurt ({{quantity:plant-based-yogurt}}), then stir the tempered yogurt into the skillet.",
+        "Stir in 2 tablespoons of the fresh tarragon ({{quantity:fresh-tarragon}}) and the lemon juice ({{quantity:lemon-juice}}). Do not boil after adding the yogurt.",
+        "Taste and adjust salt, pepper, mustard, or lemon. If the sauce is too thick, loosen it with reserved noodle water a tablespoon at a time."
+      ]
+    },
+    {
+      "title": "Plate and Serve",
+      "items": [
+        "Divide the noodles among four shallow bowls and spoon the creamy tarragon-mustard mushroom sauce over them.",
+        "Slice each whole grilled portobello into thick 3/4-inch strips, keeping each cap together, and set one over each serving.",
+        "Finish with the remaining fresh tarragon and black pepper. Serve immediately."
+      ]
+    }
+  ]
+}
