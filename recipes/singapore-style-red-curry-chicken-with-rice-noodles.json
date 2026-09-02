@@ -1,0 +1,211 @@
+{
+  "id": "singapore-style-red-curry-chicken-with-rice-noodles",
+  "title": "Singapore-Style Red Curry Chicken with Rice Noodles",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Pasta & Noodles",
+  "displayCategory": "Pasta & Noodles",
+  "cScale": 3,
+  "ldlActive": false,
+  "cScaleSummary": "C3 because 1 pound of boneless skinless chicken thighs divided across 4 servings is estimated to place each serving in the 76 to 150 mg cholesterol range. The coconut milk, coconut cream, noodles, vegetables, aromatics, and seasonings contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is false because the recipe is centered on chicken and a coconut-rich sauce rather than a fiber-forward structure built around legumes, whole grains, nuts, seeds, or vegetables. Full-fat coconut milk and coconut cream also add substantial saturated fat, so this is best treated as an occasional EWHF dish.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "A deliberately lavish hybrid of Singapore noodles and Thai red curry: yellow curry powder, turmeric, white pepper, soy, Shaoxing wine, and sesame oil meet Maesri red curry paste in a deeply aromatic coconut sauce. Thin rice vermicelli drink in the curry while chicken thighs, straw mushrooms, and water chestnuts keep the bowl savory, earthy, and crisp. The flavor should arrive in this order: yellow curry and ginger, red-curry heat, savory coconut, then lime and sesame.",
+  "ingredientGroups": [
+    {
+      "title": "Noodles and Chicken",
+      "items": [
+        {
+          "id": "rice-vermicelli",
+          "amount": 8,
+          "unit": "ounces",
+          "item": "thin rice vermicelli",
+          "prep": ""
+        },
+        {
+          "id": "chicken-thighs",
+          "amount": 1,
+          "unit": "pound",
+          "item": "boneless skinless chicken thighs",
+          "prep": "sliced thinly across the grain"
+        },
+        {
+          "id": "neutral-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "neutral oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Aromatics and Curry",
+      "items": [
+        {
+          "id": "scallions",
+          "amount": 6,
+          "unit": "whole",
+          "item": "scallions",
+          "prep": "whites thinly sliced and greens cut diagonally, kept separate"
+        },
+        {
+          "id": "garlic",
+          "amount": 6,
+          "unit": "large cloves",
+          "item": "garlic",
+          "prep": "finely minced"
+        },
+        {
+          "id": "fresh-ginger",
+          "amount": 2,
+          "unit": "packed tablespoons",
+          "item": "fresh ginger",
+          "prep": "finely grated"
+        },
+        {
+          "id": "red-curry-paste",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "Maesri red curry paste",
+          "prep": ""
+        },
+        {
+          "id": "coconut-cream",
+          "amount": 0.3333333333,
+          "unit": "cup",
+          "item": "coconut cream",
+          "prep": ""
+        },
+        {
+          "id": "madras-curry-powder",
+          "amount": 1.5,
+          "unit": "tablespoons",
+          "item": "Madras-style curry powder",
+          "prep": ""
+        },
+        {
+          "id": "turmeric",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "ground turmeric",
+          "prep": ""
+        },
+        {
+          "id": "white-pepper",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "ground white pepper",
+          "prep": ""
+        },
+        {
+          "id": "shaoxing-wine",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "Shaoxing wine",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Sauce, Vegetables, and Finish",
+      "items": [
+        {
+          "id": "coconut-milk",
+          "amount": 1,
+          "unit": "13.5-ounce can",
+          "item": "full-fat coconut milk",
+          "prep": ""
+        },
+        {
+          "id": "fish-sauce",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "fish sauce",
+          "prep": ""
+        },
+        {
+          "id": "soy-sauce",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "honey",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "honey",
+          "prep": ""
+        },
+        {
+          "id": "straw-mushrooms",
+          "amount": 1,
+          "unit": "can",
+          "item": "whole straw mushrooms",
+          "prep": "drained and thoroughly rinsed"
+        },
+        {
+          "id": "water-chestnuts",
+          "amount": 1,
+          "unit": "can",
+          "item": "sliced water chestnuts",
+          "prep": "drained and thoroughly rinsed"
+        },
+        {
+          "id": "lime-juice",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh lime juice",
+          "prep": ""
+        },
+        {
+          "id": "sesame-oil",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "toasted sesame oil",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Soak or cook {{ingredient:rice-vermicelli}} according to the package directions, stopping while the noodles remain slightly firm. Drain, rinse briefly under cool water, and set aside.",
+    "Slice {{ingredient:chicken-thighs}} thinly across the grain.",
+    "Separate the whites and greens of {{ingredient:scallions}}. Prepare {{ingredient:garlic}} and {{ingredient:fresh-ginger}}.",
+    "Combine {{ingredient:madras-curry-powder}}, {{ingredient:turmeric}}, and {{ingredient:white-pepper}} in a small bowl.",
+    "Combine {{ingredient:coconut-milk}}, {{ingredient:fish-sauce}}, {{ingredient:soy-sauce}}, and {{ingredient:honey}} in a measuring cup.",
+    "Drain and thoroughly rinse {{ingredient:straw-mushrooms}} and {{ingredient:water-chestnuts}}."
+  ],
+  "stepGroups": [
+    {
+      "title": "Brown the Chicken",
+      "items": [
+        "Heat a large wok or deep skillet over medium-high heat. Add {{ingredient:neutral-oil}}.",
+        "Add {{ingredient:chicken-thighs}} and spread the pieces into one layer. Cook undisturbed for 90 seconds, then toss and cook for another 1 to 2 minutes. The chicken should develop some color but remain undercooked in the center.",
+        "Transfer the chicken to a plate."
+      ]
+    },
+    {
+      "title": "Build the Curry",
+      "items": [
+        "Reduce the heat to medium. Add the sliced whites from {{ingredient:scallions}}, {{ingredient:garlic}}, and {{ingredient:fresh-ginger}}. Cook for 45 seconds, stirring constantly.",
+        "Add {{ingredient:red-curry-paste}} and {{ingredient:coconut-cream}}. Cook for 2 minutes, stirring and scraping, until deeply fragrant and coconut fat begins appearing around the edges.",
+        "Add {{ingredient:madras-curry-powder}}, {{ingredient:turmeric}}, and {{ingredient:white-pepper}}. Cook for 30 seconds to bloom the spices.",
+        "Add {{ingredient:shaoxing-wine}} and let it bubble for 20 to 30 seconds.",
+        "Pour in the prepared mixture of {{ingredient:coconut-milk}}, {{ingredient:fish-sauce}}, {{ingredient:soy-sauce}}, and {{ingredient:honey}}. Stir thoroughly, scraping the bottom of the pan. Bring to a gentle simmer and cook for 3 minutes."
+      ]
+    },
+    {
+      "title": "Finish the Chicken and Noodles",
+      "items": [
+        "Add {{ingredient:straw-mushrooms}}, {{ingredient:water-chestnuts}}, and the partially cooked chicken with its accumulated juices.",
+        "Simmer gently for 4 to 5 minutes, until the chicken is cooked through and the sauce has thickened slightly. Do not boil aggressively; that can tighten the chicken and split the coconut sauce.",
+        "Add the drained {{ingredient:rice-vermicelli}} and toss gently for 1 to 2 minutes, until the noodles are hot and have absorbed some curry sauce. The finished dish should remain decidedly saucy.",
+        "Remove the pan from the heat. Fold in {{ingredient:lime-juice}}, {{ingredient:sesame-oil}}, and half of the scallion greens.",
+        "Divide among four bowls and finish with the remaining scallion greens. Serve immediately; the noodles will continue absorbing sauce as they sit."
+      ]
+    }
+  ]
+}
