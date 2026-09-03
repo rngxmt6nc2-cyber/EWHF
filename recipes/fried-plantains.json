@@ -1,0 +1,79 @@
+{
+  "id": "fried-plantains",
+  "title": "Fried Plantains (Maduros)",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Vegetables & Sides",
+  "displayCategory": "Vegetables & Sides",
+  "cScale": 0,
+  "ldlActive": false,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients that contribute cholesterol. The plantains, avocado oil, kosher salt, and lime all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is false because this is a fried starchy side rather than a recipe structured around soluble-fiber-rich legumes, whole grains, nuts, seeds, or a substantial quantity of vegetables.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Maduros turn very ripe plantains into a deeply caramelized side with crisp, bronzed edges and a soft, custardy center. The key is patience before cooking: plantains with mostly black skins contain more developed sugar and fry sweeter and more tender than yellow or green fruit. Moderate heat gives the slices time to soften before their surfaces become too dark.",
+  "ingredientGroups": [
+    {
+      "title": "Fried Plantains",
+      "items": [
+        {
+          "id": "ripe-plantains",
+          "amount": 3,
+          "unit": "large",
+          "item": "very ripe plantains",
+          "prep": "skins mostly black"
+        },
+        {
+          "id": "avocado-oil",
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "avocado oil",
+          "prep": "for shallow-frying"
+        },
+        {
+          "id": "kosher-salt",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": "plus more to taste"
+        },
+        {
+          "id": "lime",
+          "amount": 1,
+          "unit": "",
+          "item": "lime",
+          "prep": "cut into wedges, optional"
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Trim the ends from {{ingredient:ripe-plantains}}, score each skin lengthwise, remove the skins, and cut the fruit on a sharp diagonal into 1-inch-thick slices.",
+    "Measure {{ingredient:avocado-oil}} and {{ingredient:kosher-salt}}; cut {{ingredient:lime}} into wedges if using.",
+    "Set a wire rack inside a rimmed sheet pan for draining the fried plantains."
+  ],
+  "stepGroups": [
+    {
+      "title": "Heat the Oil",
+      "items": [
+        "Pour {{ingredient:avocado-oil}} into a 10- to 12-inch heavy skillet. Heat over medium until the oil reaches 340°F."
+      ]
+    },
+    {
+      "title": "Fry the Plantains",
+      "items": [
+        "Working in batches so the skillet is not crowded, carefully add the sliced {{ingredient:ripe-plantains}} in a single layer. Fry for 2 to 3 minutes, until the undersides are deep golden brown.",
+        "Turn the slices and fry for 2 to 3 minutes more, adjusting the heat to keep the oil near 340°F, until both sides are deeply caramelized and the centers are very tender.",
+        "Transfer the fried plantains to the prepared rack. Allow the oil to return to 340°F before frying the next batch."
+      ]
+    },
+    {
+      "title": "Season and Serve",
+      "items": [
+        "While the plantains are still hot, season evenly with {{ingredient:kosher-salt}}.",
+        "Serve immediately with {{ingredient:lime}} alongside, if desired."
+      ]
+    }
+  ]
+}
