@@ -21,19 +21,22 @@
           "amount": 1,
           "unit": "tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 1,
           "unit": "medium",
           "item": "yellow onion",
-          "prep": "sliced"
+          "prep": "sliced",
+          "id": "yellow-onion"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         }
       ]
     },
@@ -44,7 +47,8 @@
           "amount": 1,
           "unit": "28 oz can",
           "item": "whole peeled tomatoes",
-          "prep": "with juice"
+          "prep": "with juice",
+          "id": "whole-peeled-tomatoes"
         }
       ]
     },
@@ -55,34 +59,45 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "stock",
-          "prep": ""
+          "prep": "",
+          "id": "stock"
         },
         {
           "amount": 0.75,
           "unit": "tsp",
           "item": "soy sauce",
-          "prep": ""
+          "prep": "",
+          "id": "soy-sauce"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "fish sauce",
-          "prep": ""
+          "prep": "",
+          "id": "fish-sauce"
         },
         {
           "amount": 0.375,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-2"
         },
         {
           "amount": 0.375,
           "unit": "tsp",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Slice {{ingredient:yellow-onion}}.",
+    "Prepare {{ingredient:whole-peeled-tomatoes}} as specified: with juice.",
+    "Measure and stage {{ingredient:olive-oil}}, {{ingredient:kosher-salt}}, {{ingredient:stock}}, {{ingredient:soy-sauce}}, and {{ingredient:fish-sauce}}.",
+    "Measure and stage {{ingredient:kosher-salt-2}} and {{ingredient:black-pepper}}."
   ],
   "stepGroups": [
     {

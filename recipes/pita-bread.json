@@ -21,43 +21,50 @@
           "amount": 500,
           "unit": "g",
           "item": "bread flour",
-          "prep": ""
+          "prep": "",
+          "id": "bread-flour"
         },
         {
           "amount": 120,
           "unit": "g",
           "item": "whole wheat flour",
-          "prep": ""
+          "prep": "",
+          "id": "whole-wheat-flour"
         },
         {
           "amount": 430,
           "unit": "g",
           "item": "warm water",
-          "prep": ""
+          "prep": "",
+          "id": "warm-water"
         },
         {
           "amount": 10,
           "unit": "g",
           "item": "fine sea salt",
-          "prep": ""
+          "prep": "",
+          "id": "fine-sea-salt"
         },
         {
           "amount": 7,
           "unit": "g",
           "item": "instant yeast",
-          "prep": ""
+          "prep": "",
+          "id": "instant-yeast"
         },
         {
           "amount": 15,
           "unit": "g",
           "item": "extra-virgin olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "extra-virgin-olive-oil"
         },
         {
           "amount": 10,
           "unit": "g",
           "item": "honey",
-          "prep": ""
+          "prep": "",
+          "id": "honey"
         }
       ]
     },
@@ -68,16 +75,22 @@
           "amount": 2,
           "unit": "tablespoons",
           "item": "bread flour",
-          "prep": ""
+          "prep": "",
+          "id": "bread-flour-2"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "extra-virgin olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "extra-virgin-olive-oil-2"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Measure and stage {{ingredient:bread-flour}}, {{ingredient:whole-wheat-flour}}, {{ingredient:warm-water}}, {{ingredient:fine-sea-salt}}, and {{ingredient:instant-yeast}}.",
+    "Measure and stage {{ingredient:extra-virgin-olive-oil}}, {{ingredient:honey}}, {{ingredient:bread-flour-2}}, and {{ingredient:extra-virgin-olive-oil-2}}."
   ],
   "stepGroups": [
     {

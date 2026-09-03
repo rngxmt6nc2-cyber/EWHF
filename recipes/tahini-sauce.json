@@ -21,52 +21,65 @@
           "amount": 2,
           "unit": "cloves",
           "item": "garlic",
-          "prep": ""
+          "prep": "",
+          "id": "garlic"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "table salt",
-          "prep": ""
+          "prep": "",
+          "id": "table-salt"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "fresh lemon juice",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-lemon-juice"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "tahini",
-          "prep": ""
+          "prep": "",
+          "id": "tahini"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "ice-cold water",
-          "prep": "up to"
+          "prep": "up to",
+          "id": "ice-cold-water"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "fresh parsley",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "fresh-parsley"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "ground cumin",
-          "prep": ""
+          "prep": "",
+          "id": "ground-cumin"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "cayenne",
-          "prep": ""
+          "prep": "",
+          "id": "cayenne"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Finely chop {{ingredient:fresh-parsley}}.",
+    "Measure and stage {{ingredient:garlic}}, {{ingredient:table-salt}}, {{ingredient:fresh-lemon-juice}}, {{ingredient:tahini}}, and {{ingredient:ice-cold-water}}.",
+    "Measure and stage {{ingredient:ground-cumin}} and {{ingredient:cayenne}}."
   ],
   "stepGroups": [
     {

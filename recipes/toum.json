@@ -21,19 +21,22 @@
           "amount": 4,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "peeled"
+          "prep": "peeled",
+          "id": "garlic"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         },
         {
           "amount": 1,
           "unit": "",
           "item": "lemon",
-          "prep": "Juice of"
+          "prep": "Juice of",
+          "id": "lemon"
         }
       ]
     },
@@ -44,16 +47,23 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "grapeseed oil",
-          "prep": ""
+          "prep": "",
+          "id": "grapeseed-oil"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "ice water",
-          "prep": ""
+          "prep": "",
+          "id": "ice-water"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Peel {{ingredient:garlic}}.",
+    "Prepare {{ingredient:lemon}} as specified: Juice of.",
+    "Measure and stage {{ingredient:kosher-salt}}, {{ingredient:grapeseed-oil}}, and {{ingredient:ice-water}}."
   ],
   "stepGroups": [
     {

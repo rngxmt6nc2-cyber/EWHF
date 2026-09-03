@@ -212,6 +212,20 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Lightly crush {{ingredient:crushed-garlic-cloves}}.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Mince {{ingredient:minced-garlic}}.",
+    "Mince {{ingredient:minced-rosemary-base}}.",
+    "Chop {{ingredient:parsley}}.",
+    "Prepare {{ingredient:sourdough-bread}} as specified: cut into 1/2-inch cubes.",
+    "Finely grate {{ingredient:grated-garlic-croutons}}.",
+    "Mince {{ingredient:minced-rosemary-croutons}}.",
+    "Measure and stage {{ingredient:dried-chickpeas}}, {{ingredient:soaking-water}}, {{ingredient:cooking-water}}, {{ingredient:bay-leaf}}, and {{ingredient:rosemary-sprig}}.",
+    "Measure and stage {{ingredient:kosher-salt-chickpeas}}, {{ingredient:olive-oil-base}}, {{ingredient:tomato-paste}}, {{ingredient:crushed-red-pepper-flakes}}, and {{ingredient:kosher-salt-base}}.",
+    "Measure and stage {{ingredient:black-pepper-base}}, {{ingredient:cooked-chickpeas}}, {{ingredient:chickpea-cooking-liquid}}, {{ingredient:ditalini}}, and {{ingredient:lemon-juice}}.",
+    "Measure and stage {{ingredient:olive-oil-croutons}}, {{ingredient:kosher-salt-croutons}}, and {{ingredient:black-pepper-croutons}}."
+  ],
   "stepGroups": [
     {
       "title": "Cook the chickpeas",

@@ -112,6 +112,12 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Grate {{ingredient:fresh-ginger}}.",
+    "Thinly slice {{ingredient:scallion}}.",
+    "Measure and stage {{ingredient:chicken-stock}}, {{ingredient:low-sodium-soy-sauce}}, {{ingredient:fine-sea-salt}}, {{ingredient:white-pepper}}, and {{ingredient:cornstarch}}.",
+    "Measure and stage {{ingredient:cold-water-slurry}}, {{ingredient:eggs}}, {{ingredient:cold-water-eggs}}, and {{ingredient:toasted-sesame-oil}}."
+  ],
   "stepGroups": [
     {
       "title": "Build the Broth",

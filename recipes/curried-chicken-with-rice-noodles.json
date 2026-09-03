@@ -21,154 +21,186 @@
           "amount": 2,
           "unit": "",
           "item": "to 3 boneless skinless chicken thighs",
-          "prep": "(about 12 oz)"
+          "prep": "(about 12 oz)",
+          "id": "to-3-boneless-skinless-chicken-thighs"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "freshly cracked black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "freshly-cracked-black-pepper"
         },
         {
           "amount": 0.25,
           "unit": "tsp",
           "item": "cayenne",
-          "prep": ""
+          "prep": "",
+          "id": "cayenne"
         },
         {
           "amount": 0.25,
           "unit": "tsp",
           "item": "smoked paprika",
-          "prep": ""
+          "prep": "",
+          "id": "smoked-paprika"
         },
         {
           "amount": 1.5,
           "unit": "tsp",
           "item": "cornstarch",
-          "prep": ""
+          "prep": "",
+          "id": "cornstarch"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "low-sodium soy sauce",
-          "prep": ""
+          "prep": "",
+          "id": "low-sodium-soy-sauce"
         },
         {
           "amount": 1,
           "unit": "large",
           "item": "yellow onion",
-          "prep": ""
+          "prep": "",
+          "id": "yellow-onion"
         },
         {
           "amount": 1,
           "unit": "large",
           "item": "bok choy",
-          "prep": ""
+          "prep": "",
+          "id": "bok-choy"
         },
         {
           "amount": 1,
           "unit": "cup",
           "item": "baby corn",
-          "prep": ""
+          "prep": "",
+          "id": "baby-corn"
         },
         {
           "amount": 3,
           "unit": "cloves",
           "item": "garlic",
-          "prep": ""
+          "prep": "",
+          "id": "garlic"
         },
         {
           "amount": 3,
           "unit": "inches",
           "item": "fresh ginger",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-ginger"
         },
         {
           "amount": 1,
           "unit": "",
           "item": "lime",
-          "prep": ""
+          "prep": "",
+          "id": "lime"
         },
         {
           "amount": 3,
           "unit": "Tbsp",
           "item": "red curry paste",
-          "prep": ""
+          "prep": "",
+          "id": "red-curry-paste"
         },
         {
           "amount": 2,
           "unit": "Tbsp",
           "item": "light coconut milk",
-          "prep": ""
+          "prep": "",
+          "id": "light-coconut-milk"
         },
         {
           "amount": 1.5,
           "unit": "cups",
           "item": "chicken stock",
-          "prep": ""
+          "prep": "",
+          "id": "chicken-stock"
         },
         {
           "amount": 1.5,
           "unit": "Tbsp",
           "item": "low-sodium soy sauce",
-          "prep": ""
+          "prep": "",
+          "id": "low-sodium-soy-sauce-2"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "rice vinegar",
-          "prep": ""
+          "prep": "",
+          "id": "rice-vinegar"
         },
         {
           "amount": 8,
           "unit": "oz",
           "item": "flat rice noodles",
-          "prep": ""
+          "prep": "",
+          "id": "flat-rice-noodles"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": "(for noodle water)"
+          "prep": "(for noodle water)",
+          "id": "kosher-salt-2"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "sesame oil",
-          "prep": ""
+          "prep": "",
+          "id": "sesame-oil"
         },
         {
           "amount": 1.5,
           "unit": "Tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 1,
           "unit": "Tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil-2"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "Thai basil or ⅓ cup sweet Italian basil plus 1 Tbsp fresh mint",
-          "prep": ""
+          "prep": "",
+          "id": "thai-basil-or-1-3-cup-sweet-italian-basil-plus-1-tbsp-fresh-mint"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "chili crisp",
-          "prep": "(crunchy chili oil with garlic and spices)"
+          "prep": "(crunchy chili oil with garlic and spices)",
+          "id": "chili-crisp"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Measure and stage {{ingredient:to-3-boneless-skinless-chicken-thighs}}, {{ingredient:kosher-salt}}, {{ingredient:freshly-cracked-black-pepper}}, {{ingredient:cayenne}}, and {{ingredient:smoked-paprika}}.",
+    "Measure and stage {{ingredient:cornstarch}}, {{ingredient:low-sodium-soy-sauce}}, {{ingredient:yellow-onion}}, {{ingredient:bok-choy}}, and {{ingredient:baby-corn}}.",
+    "Measure and stage {{ingredient:garlic}}, {{ingredient:fresh-ginger}}, {{ingredient:lime}}, {{ingredient:red-curry-paste}}, and {{ingredient:light-coconut-milk}}.",
+    "Measure and stage {{ingredient:chicken-stock}}, {{ingredient:low-sodium-soy-sauce-2}}, {{ingredient:rice-vinegar}}, {{ingredient:flat-rice-noodles}}, and {{ingredient:kosher-salt-2}}.",
+    "Measure and stage {{ingredient:sesame-oil}}, {{ingredient:olive-oil}}, {{ingredient:olive-oil-2}}, {{ingredient:thai-basil-or-1-3-cup-sweet-italian-basil-plus-1-tbsp-fresh-mint}}, and {{ingredient:chili-crisp}}."
   ],
   "stepGroups": [
     {

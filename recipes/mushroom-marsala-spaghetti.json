@@ -161,6 +161,16 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:cremini-mushrooms}} as specified: sliced 1/4 inch thick.",
+    "Finely mince {{ingredient:shallot}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Mince {{ingredient:thyme}}.",
+    "Chop {{ingredient:parsley}}.",
+    "Measure and stage {{ingredient:olive-oil-mushrooms}}, {{ingredient:kosher-salt-mushrooms}}, {{ingredient:black-pepper-mushrooms}}, {{ingredient:olive-oil-sauce}}, and {{ingredient:tomato-paste}}.",
+    "Measure and stage {{ingredient:dry-marsala}}, {{ingredient:vegetable-stock}}, {{ingredient:soy-sauce}}, {{ingredient:black-pepper-sauce}}, and {{ingredient:thin-spaghetti}}.",
+    "Measure and stage {{ingredient:water}}, {{ingredient:kosher-salt-pasta}}, and {{ingredient:lemon-juice}}."
+  ],
   "stepGroups": [
     {
       "title": "Brown the mushrooms",

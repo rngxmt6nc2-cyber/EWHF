@@ -189,6 +189,18 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Pick over and rinse {{ingredient:dried-chickpeas}}.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Mince {{ingredient:fresh-ginger}}.",
+    "Mince {{ingredient:serrano-chile}}.",
+    "Chop {{ingredient:fresh-cilantro}}.",
+    "Measure and stage {{ingredient:water-soaking}}, {{ingredient:water-cooking}}, {{ingredient:bay-leaf}}, {{ingredient:olive-oil}}, and {{ingredient:fine-sea-salt-onion}}.",
+    "Measure and stage {{ingredient:tomato-paste}}, {{ingredient:crushed-tomatoes}}, {{ingredient:ground-cumin}}, {{ingredient:ground-coriander}}, and {{ingredient:kashmiri-chile-powder}}.",
+    "Measure and stage {{ingredient:ground-turmeric}}, {{ingredient:garam-masala}}, {{ingredient:black-pepper}}, {{ingredient:chickpea-cooking-liquid}}, and {{ingredient:fine-sea-salt-sauce}}.",
+    "Measure and stage {{ingredient:lemon-juice}}."
+  ],
   "stepGroups": [
     {
       "title": "Soak the Chickpeas",

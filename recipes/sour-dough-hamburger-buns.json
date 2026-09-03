@@ -21,43 +21,50 @@
           "amount": 100,
           "unit": "g",
           "item": "active sourdough starter",
-          "prep": ""
+          "prep": "",
+          "id": "active-sourdough-starter"
         },
         {
           "amount": 220,
           "unit": "g",
           "item": "warm water",
-          "prep": ""
+          "prep": "",
+          "id": "warm-water"
         },
         {
           "amount": 1,
           "unit": "large",
           "item": "egg",
-          "prep": ""
+          "prep": "",
+          "id": "egg"
         },
         {
           "amount": 35,
           "unit": "g",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 20,
           "unit": "g",
           "item": "honey",
-          "prep": ""
+          "prep": "",
+          "id": "honey"
         },
         {
           "amount": 500,
           "unit": "g",
           "item": "bread flour",
-          "prep": ""
+          "prep": "",
+          "id": "bread-flour"
         },
         {
           "amount": 10,
           "unit": "g",
           "item": "fine salt",
-          "prep": ""
+          "prep": "",
+          "id": "fine-salt"
         }
       ]
     },
@@ -68,22 +75,29 @@
           "amount": 1,
           "unit": "large",
           "item": "egg",
-          "prep": ""
+          "prep": "",
+          "id": "egg-2"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "water",
-          "prep": ""
+          "prep": "",
+          "id": "water"
         },
         {
           "amount": 10,
           "unit": "g",
           "item": "sesame seeds",
-          "prep": ""
+          "prep": "",
+          "id": "sesame-seeds"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Measure and stage {{ingredient:active-sourdough-starter}}, {{ingredient:warm-water}}, {{ingredient:egg}}, {{ingredient:olive-oil}}, and {{ingredient:honey}}.",
+    "Measure and stage {{ingredient:bread-flour}}, {{ingredient:fine-salt}}, {{ingredient:egg-2}}, {{ingredient:water}}, and {{ingredient:sesame-seeds}}."
   ],
   "stepGroups": [
     {

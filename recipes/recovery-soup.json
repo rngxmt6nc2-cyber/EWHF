@@ -21,13 +21,15 @@
           "amount": 0.75,
           "unit": "cup",
           "item": "dried cannellini beans",
-          "prep": ""
+          "prep": "",
+          "id": "dried-cannellini-beans"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Water",
-          "prep": "for soaking"
+          "prep": "for soaking",
+          "id": "water"
         }
       ]
     },
@@ -38,43 +40,50 @@
           "amount": 1,
           "unit": "large",
           "item": "onion",
-          "prep": "diced"
+          "prep": "diced",
+          "id": "onion"
         },
         {
           "amount": 2,
           "unit": "",
           "item": "carrots",
-          "prep": "diced"
+          "prep": "diced",
+          "id": "carrots"
         },
         {
           "amount": 2,
           "unit": "ribs",
           "item": "celery",
-          "prep": "diced"
+          "prep": "diced",
+          "id": "celery"
         },
         {
           "amount": 6,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "smashed"
+          "prep": "smashed",
+          "id": "garlic"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         }
       ]
     },
@@ -85,37 +94,43 @@
           "amount": 1,
           "unit": "tablespoon",
           "item": "tomato paste",
-          "prep": ""
+          "prep": "",
+          "id": "tomato-paste"
         },
         {
           "amount": 1.5,
           "unit": "teaspoons",
           "item": "smoked paprika",
-          "prep": ""
+          "prep": "",
+          "id": "smoked-paprika"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "ground cumin",
-          "prep": ""
+          "prep": "",
+          "id": "ground-cumin"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "ground coriander",
-          "prep": ""
+          "prep": "",
+          "id": "ground-coriander"
         },
         {
           "amount": 0.5,
           "unit": "",
           "item": "–1 teaspoon chili flakes",
-          "prep": ""
+          "prep": "",
+          "id": "1-teaspoon-chili-flakes"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper-2"
         }
       ]
     },
@@ -126,19 +141,22 @@
           "amount": 0.75,
           "unit": "cup",
           "item": "dried cannellini beans",
-          "prep": ""
+          "prep": "",
+          "id": "dried-cannellini-beans-2"
         },
         {
           "amount": 1,
           "unit": "cup",
           "item": "dried brown or green lentils",
-          "prep": ""
+          "prep": "",
+          "id": "dried-brown-or-green-lentils"
         },
         {
           "amount": 1,
           "unit": "",
           "item": "bay leaf",
-          "prep": ""
+          "prep": "",
+          "id": "bay-leaf"
         }
       ]
     },
@@ -149,31 +167,36 @@
           "amount": 8,
           "unit": "cups",
           "item": "chicken stock",
-          "prep": ""
+          "prep": "",
+          "id": "chicken-stock"
         },
         {
           "amount": 6,
           "unit": "cups",
           "item": "water",
-          "prep": ""
+          "prep": "",
+          "id": "water-2"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "red miso",
-          "prep": ""
+          "prep": "",
+          "id": "red-miso"
         },
         {
           "amount": 2,
           "unit": "teaspoons",
           "item": "Better Than Bouillon chicken",
-          "prep": ""
+          "prep": "",
+          "id": "better-than-bouillon-chicken"
         },
         {
           "amount": 2,
           "unit": "teaspoons",
           "item": "Better Than Bouillon beef",
-          "prep": ""
+          "prep": "",
+          "id": "better-than-bouillon-beef"
         }
       ]
     },
@@ -184,19 +207,22 @@
           "amount": 3,
           "unit": "cups",
           "item": "kale",
-          "prep": "stems removed and cut into short ribbons"
+          "prep": "stems removed and cut into short ribbons",
+          "id": "kale"
         },
         {
           "amount": 1,
           "unit": "cup",
           "item": "parsley",
-          "prep": "roughly chopped"
+          "prep": "roughly chopped",
+          "id": "parsley"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Kosher salt",
-          "prep": "for massaging kale"
+          "prep": "for massaging kale",
+          "id": "kosher-salt-2"
         }
       ]
     },
@@ -207,22 +233,38 @@
           "amount": 0,
           "unit": "",
           "item": "Juice of 1 lemon",
-          "prep": ""
+          "prep": "",
+          "id": "juice-of-1-lemon"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Extra-virgin olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "extra-virgin-olive-oil"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Salt",
-          "prep": "to taste"
+          "prep": "to taste",
+          "id": "salt"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Dice {{ingredient:onion}}.",
+    "Dice {{ingredient:carrots}}.",
+    "Dice {{ingredient:celery}}.",
+    "Smash {{ingredient:garlic}}.",
+    "Prepare {{ingredient:kale}} as specified: stems removed and cut into short ribbons.",
+    "Roughly chop {{ingredient:parsley}}.",
+    "Measure and stage {{ingredient:dried-cannellini-beans}}, {{ingredient:water}}, {{ingredient:olive-oil}}, {{ingredient:kosher-salt}}, and {{ingredient:black-pepper}}.",
+    "Measure and stage {{ingredient:tomato-paste}}, {{ingredient:smoked-paprika}}, {{ingredient:ground-cumin}}, {{ingredient:ground-coriander}}, and {{ingredient:1-teaspoon-chili-flakes}}.",
+    "Measure and stage {{ingredient:black-pepper-2}}, {{ingredient:dried-cannellini-beans-2}}, {{ingredient:dried-brown-or-green-lentils}}, {{ingredient:bay-leaf}}, and {{ingredient:chicken-stock}}.",
+    "Measure and stage {{ingredient:water-2}}, {{ingredient:red-miso}}, {{ingredient:better-than-bouillon-chicken}}, {{ingredient:better-than-bouillon-beef}}, and {{ingredient:kosher-salt-2}}.",
+    "Measure and stage {{ingredient:juice-of-1-lemon}}, {{ingredient:extra-virgin-olive-oil}}, and {{ingredient:salt}}."
   ],
   "stepGroups": [
     {

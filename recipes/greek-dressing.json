@@ -21,67 +21,78 @@
           "amount": 3,
           "unit": "tablespoons",
           "item": "red wine vinegar",
-          "prep": ""
+          "prep": "",
+          "id": "red-wine-vinegar"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "fresh lemon juice",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-lemon-juice"
         },
         {
           "amount": 0.125,
           "unit": "teaspoon",
           "item": "malic acid",
-          "prep": ""
+          "prep": "",
+          "id": "malic-acid"
         },
         {
           "amount": 0.125,
           "unit": "teaspoon",
           "item": "lactic acid powder",
-          "prep": ""
+          "prep": "",
+          "id": "lactic-acid-powder"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "dried oregano",
-          "prep": ""
+          "prep": "",
+          "id": "dried-oregano"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "garlic powder",
-          "prep": ""
+          "prep": "",
+          "id": "garlic-powder"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "onion powder",
-          "prep": ""
+          "prep": "",
+          "id": "onion-powder"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "fine sea salt",
-          "prep": ""
+          "prep": "",
+          "id": "fine-sea-salt"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "nutritional yeast",
-          "prep": ""
+          "prep": "",
+          "id": "nutritional-yeast"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "Dijon mustard",
-          "prep": ""
+          "prep": "",
+          "id": "dijon-mustard"
         }
       ]
     },
@@ -92,22 +103,30 @@
           "amount": 0.25,
           "unit": "cup",
           "item": "aquafaba",
-          "prep": ""
+          "prep": "",
+          "id": "aquafaba"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "cold water",
-          "prep": ""
+          "prep": "",
+          "id": "cold-water"
         },
         {
           "amount": 3,
           "unit": "tablespoons",
           "item": "extra-virgin olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "extra-virgin-olive-oil"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Measure and stage {{ingredient:red-wine-vinegar}}, {{ingredient:fresh-lemon-juice}}, {{ingredient:malic-acid}}, {{ingredient:lactic-acid-powder}}, and {{ingredient:dried-oregano}}.",
+    "Measure and stage {{ingredient:garlic-powder}}, {{ingredient:onion-powder}}, {{ingredient:fine-sea-salt}}, {{ingredient:black-pepper}}, and {{ingredient:nutritional-yeast}}.",
+    "Measure and stage {{ingredient:dijon-mustard}}, {{ingredient:aquafaba}}, {{ingredient:cold-water}}, and {{ingredient:extra-virgin-olive-oil}}."
   ],
   "stepGroups": [
     {

@@ -184,6 +184,20 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Finely grate {{ingredient:parmesan-meatballs}}.",
+    "Mince {{ingredient:parsley-meatballs}}.",
+    "Mince {{ingredient:garlic-meatballs}}.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Finely dice {{ingredient:carrot}}.",
+    "Finely dice {{ingredient:celery}}.",
+    "Mince {{ingredient:garlic-soup-base}}.",
+    "Chop {{ingredient:escarole}}.",
+    "Mince {{ingredient:parsley-finish}}.",
+    "Measure and stage {{ingredient:ground-chicken-breast}}, {{ingredient:egg-white}}, {{ingredient:plain-breadcrumbs}}, {{ingredient:fine-sea-salt-meatballs}}, and {{ingredient:black-pepper-meatballs}}.",
+    "Measure and stage {{ingredient:ground-nutmeg}}, {{ingredient:olive-oil}}, {{ingredient:fine-sea-salt-soup-base}}, {{ingredient:black-pepper-soup-base}}, and {{ingredient:chicken-stock}}.",
+    "Measure and stage {{ingredient:parmesan-rind}}, {{ingredient:acini-di-pepe}}, and {{ingredient:lemon-juice}}."
+  ],
   "stepGroups": [
     {
       "title": "Make the Meatballs",

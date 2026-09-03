@@ -21,43 +21,50 @@
           "amount": 4,
           "unit": "oz",
           "item": "seitan",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "seitan"
         },
         {
           "amount": 2,
           "unit": "oz",
           "item": "seitan",
-          "prep": "chopped into small irregular chunks (lentil to pea size)"
+          "prep": "chopped into small irregular chunks (lentil to pea size)",
+          "id": "seitan-2"
         },
         {
           "amount": 4,
           "unit": "oz",
           "item": "cremini mushrooms",
-          "prep": "finitely chopped"
+          "prep": "finitely chopped",
+          "id": "cremini-mushrooms"
         },
         {
           "amount": 2,
           "unit": "oz",
           "item": "cremini mushrooms",
-          "prep": "coarsely chopped"
+          "prep": "coarsely chopped",
+          "id": "cremini-mushrooms-2"
         },
         {
           "amount": 2,
           "unit": "tbsp",
           "item": "very finely chopped onion",
-          "prep": ""
+          "prep": "",
+          "id": "very-finely-chopped-onion"
         },
         {
           "amount": 2,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "paste"
+          "prep": "paste",
+          "id": "garlic"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         }
       ]
     },
@@ -68,49 +75,57 @@
           "amount": 0.3333333333,
           "unit": "cup",
           "item": "fresh whole wheat breadcrumbs",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-whole-wheat-breadcrumbs"
         },
         {
           "amount": 0.3333333333,
           "unit": "cup",
           "item": "stock",
-          "prep": ""
+          "prep": "",
+          "id": "stock"
         },
         {
           "amount": 1.5,
           "unit": "tbsp",
           "item": "Dijon mustard",
-          "prep": ""
+          "prep": "",
+          "id": "dijon-mustard"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "soy sauce",
-          "prep": ""
+          "prep": "",
+          "id": "soy-sauce"
         },
         {
           "amount": 0.625,
           "unit": "tsp",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "finely chopped fresh thyme",
-          "prep": ""
+          "prep": "",
+          "id": "finely-chopped-fresh-thyme"
         },
         {
           "amount": 0.125,
           "unit": "tsp",
           "item": "finely chopped fresh sage",
-          "prep": ""
+          "prep": "",
+          "id": "finely-chopped-fresh-sage"
         },
         {
           "amount": 3,
           "unit": "drops",
           "item": "hot sauce",
-          "prep": ""
+          "prep": "",
+          "id": "hot-sauce"
         }
       ]
     },
@@ -121,13 +136,15 @@
           "amount": 1.5,
           "unit": "tbsp",
           "item": "cornstarch",
-          "prep": ""
+          "prep": "",
+          "id": "cornstarch"
         },
         {
           "amount": 2,
           "unit": "tbsp",
           "item": "cold stock",
-          "prep": ""
+          "prep": "",
+          "id": "cold-stock"
         }
       ]
     },
@@ -138,13 +155,15 @@
           "amount": 3,
           "unit": "tbsp",
           "item": "all-purpose flour",
-          "prep": ""
+          "prep": "",
+          "id": "all-purpose-flour"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         }
       ]
     },
@@ -155,10 +174,21 @@
           "amount": 2,
           "unit": "tbsp",
           "item": "stock",
-          "prep": ""
+          "prep": "",
+          "id": "stock-2"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Finely chop {{ingredient:seitan}}.",
+    "Prepare {{ingredient:seitan-2}} as specified: chopped into small irregular chunks (lentil to pea size).",
+    "Prepare {{ingredient:cremini-mushrooms}} as specified: finitely chopped.",
+    "Prepare {{ingredient:cremini-mushrooms-2}} as specified: coarsely chopped.",
+    "Measure and stage {{ingredient:very-finely-chopped-onion}}, {{ingredient:garlic}}, {{ingredient:kosher-salt}}, {{ingredient:fresh-whole-wheat-breadcrumbs}}, and {{ingredient:stock}}.",
+    "Measure and stage {{ingredient:dijon-mustard}}, {{ingredient:soy-sauce}}, {{ingredient:black-pepper}}, {{ingredient:finely-chopped-fresh-thyme}}, and {{ingredient:finely-chopped-fresh-sage}}.",
+    "Measure and stage {{ingredient:hot-sauce}}, {{ingredient:cornstarch}}, {{ingredient:cold-stock}}, {{ingredient:all-purpose-flour}}, and {{ingredient:olive-oil}}.",
+    "Measure and stage {{ingredient:stock-2}}."
   ],
   "stepGroups": [
     {

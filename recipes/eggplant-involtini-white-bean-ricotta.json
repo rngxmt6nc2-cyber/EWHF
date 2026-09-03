@@ -203,6 +203,21 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:eggplant}} as specified: sliced lengthwise 1/4 inch thick.",
+    "Drain {{ingredient:cannellini-beans}}.",
+    "Grate {{ingredient:garlic-filling}}.",
+    "Chop {{ingredient:basil-filling}}.",
+    "Chop {{ingredient:parsley-filling}}.",
+    "Thinly slice {{ingredient:garlic-sauce}}.",
+    "Chop {{ingredient:oregano}}.",
+    "Chop {{ingredient:basil-sauce}}.",
+    "Tear {{ingredient:basil-finish}}.",
+    "Chop {{ingredient:parsley-finish}}.",
+    "Measure and stage {{ingredient:olive-oil-eggplant}}, {{ingredient:salt-eggplant}}, {{ingredient:black-pepper-eggplant}}, {{ingredient:olive-oil-filling}}, and {{ingredient:lemon-juice-filling}}.",
+    "Measure and stage {{ingredient:lemon-zest}}, {{ingredient:white-miso}}, {{ingredient:dijon-mustard}}, {{ingredient:salt-filling}}, and {{ingredient:black-pepper-filling}}.",
+    "Measure and stage {{ingredient:olive-oil-sauce}}, {{ingredient:red-pepper-flakes}}, {{ingredient:crushed-tomatoes}}, and {{ingredient:salt-sauce}}."
+  ],
   "stepGroups": [
     {
       "title": "Roast the Eggplant",

@@ -196,6 +196,21 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:dried-black-beans}} as specified: soaked overnight or quick-soaked.",
+    "Prepare {{ingredient:corn-tortillas}} as specified: cut into thin strips.",
+    "Prepare {{ingredient:poblano-peppers}} as specified: charred, peeled, seeded, and diced.",
+    "Dice {{ingredient:yellow-onion}}.",
+    "Dice {{ingredient:red-bell-pepper}}.",
+    "Mince {{ingredient:garlic-cloves}}.",
+    "Chop {{ingredient:mexican-oregano}}.",
+    "Prepare {{ingredient:corn-kernels}} as specified: charred in a dry skillet.",
+    "Chop {{ingredient:fresh-cilantro}}.",
+    "Thinly slice {{ingredient:scallions}}.",
+    "Measure and stage {{ingredient:water-beans}}, {{ingredient:bay-leaf}}, {{ingredient:kosher-salt-beans}}, {{ingredient:olive-oil-tortillas}}, and {{ingredient:kosher-salt-tortillas}}.",
+    "Measure and stage {{ingredient:olive-oil-skillet}}, {{ingredient:tomato-paste}}, {{ingredient:ground-cumin}}, {{ingredient:chili-powder}}, and {{ingredient:smoked-paprika}}.",
+    "Measure and stage {{ingredient:kosher-salt-skillet}}, {{ingredient:vegetable-stock}}, and {{ingredient:lime-juice}}."
+  ],
   "stepGroups": [
     {
       "title": "Soak the Beans",

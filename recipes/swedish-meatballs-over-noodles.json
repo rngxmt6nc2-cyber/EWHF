@@ -184,6 +184,17 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Finely grate {{ingredient:grated-onion}}.",
+    "Thinly slice {{ingredient:mushrooms}}.",
+    "Finely dice {{ingredient:diced-onion}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Chop {{ingredient:fresh-parsley}}.",
+    "Measure and stage {{ingredient:ground-turkey}}, {{ingredient:fresh-breadcrumbs}}, {{ingredient:egg-white}}, {{ingredient:soy-sauce-meatballs}}, and {{ingredient:dijon-meatballs}}.",
+    "Measure and stage {{ingredient:kosher-salt-meatballs}}, {{ingredient:black-pepper-meatballs}}, {{ingredient:allspice}}, {{ingredient:nutmeg}}, and {{ingredient:olive-oil-meatballs}}.",
+    "Measure and stage {{ingredient:olive-oil-gravy}}, {{ingredient:flour}}, {{ingredient:chicken-stock}}, {{ingredient:soy-sauce-gravy}}, and {{ingredient:dijon-gravy}}.",
+    "Measure and stage {{ingredient:black-pepper-gravy}} and {{ingredient:egg-noodles}}."
+  ],
   "stepGroups": [
     {
       "title": "Make the Meatballs",

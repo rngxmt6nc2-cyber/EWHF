@@ -21,31 +21,36 @@
           "amount": 4,
           "unit": "",
           "item": "very ripe bananas",
-          "prep": "about 2 cups mashed"
+          "prep": "about 2 cups mashed",
+          "id": "very-ripe-bananas"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "honey",
-          "prep": ""
+          "prep": "",
+          "id": "honey"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "unsweetened oat milk",
-          "prep": ""
+          "prep": "",
+          "id": "unsweetened-oat-milk"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "vanilla extract",
-          "prep": ""
+          "prep": "",
+          "id": "vanilla-extract"
         }
       ]
     },
@@ -56,37 +61,43 @@
           "amount": 1,
           "unit": "cup",
           "item": "whole wheat flour",
-          "prep": ""
+          "prep": "",
+          "id": "whole-wheat-flour"
         },
         {
           "amount": 1,
           "unit": "cup",
           "item": "all-purpose flour",
-          "prep": ""
+          "prep": "",
+          "id": "all-purpose-flour"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "baking soda",
-          "prep": ""
+          "prep": "",
+          "id": "baking-soda"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "baking powder",
-          "prep": ""
+          "prep": "",
+          "id": "baking-powder"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "salt",
-          "prep": ""
+          "prep": "",
+          "id": "salt"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "cinnamon",
-          "prep": ""
+          "prep": "",
+          "id": "cinnamon"
         }
       ]
     },
@@ -97,19 +108,22 @@
           "amount": 0.25,
           "unit": "cup",
           "item": "unsweetened cocoa powder",
-          "prep": ""
+          "prep": "",
+          "id": "unsweetened-cocoa-powder"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "honey",
-          "prep": ""
+          "prep": "",
+          "id": "honey-2"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "oat milk",
-          "prep": ""
+          "prep": "",
+          "id": "oat-milk"
         }
       ]
     },
@@ -120,10 +134,16 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "chopped walnuts",
-          "prep": ""
+          "prep": "",
+          "id": "chopped-walnuts"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Measure and stage {{ingredient:very-ripe-bananas}}, {{ingredient:olive-oil}}, {{ingredient:honey}}, {{ingredient:unsweetened-oat-milk}}, and {{ingredient:vanilla-extract}}.",
+    "Measure and stage {{ingredient:whole-wheat-flour}}, {{ingredient:all-purpose-flour}}, {{ingredient:baking-soda}}, {{ingredient:baking-powder}}, and {{ingredient:salt}}.",
+    "Measure and stage {{ingredient:cinnamon}}, {{ingredient:unsweetened-cocoa-powder}}, {{ingredient:honey-2}}, {{ingredient:oat-milk}}, and {{ingredient:chopped-walnuts}}."
   ],
   "stepGroups": [
     {

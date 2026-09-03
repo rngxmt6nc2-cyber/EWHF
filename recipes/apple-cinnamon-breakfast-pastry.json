@@ -161,6 +161,14 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:apples}} as specified: peeled and diced small.",
+    "Prepare {{ingredient:medjool-dates}} as specified: pitted and finely chopped.",
+    "Finely chop {{ingredient:walnuts}}.",
+    "Measure and stage {{ingredient:apple-cider-filling}}, {{ingredient:lemon-juice}}, {{ingredient:lemon-zest}}, {{ingredient:cinnamon}}, and {{ingredient:vanilla-extract}}.",
+    "Measure and stage {{ingredient:kosher-salt-filling}}, {{ingredient:apple-cider-glaze}}, {{ingredient:white-whole-wheat-flour}}, {{ingredient:all-purpose-flour}}, and {{ingredient:baking-powder}}.",
+    "Measure and stage {{ingredient:kosher-salt-dough}}, {{ingredient:olive-oil}}, {{ingredient:unsweetened-applesauce}}, {{ingredient:oat-milk}}, and {{ingredient:bench-flour}}."
+  ],
   "stepGroups": [
     {
       "title": "Make the Apple-Date Filling",

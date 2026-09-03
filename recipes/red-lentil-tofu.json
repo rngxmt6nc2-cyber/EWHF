@@ -21,13 +21,15 @@
           "amount": 0.75,
           "unit": "cup",
           "item": "split red lentils",
-          "prep": ""
+          "prep": "",
+          "id": "split-red-lentils"
         },
         {
           "amount": 1.5,
           "unit": "cups",
           "item": "boiling water",
-          "prep": ""
+          "prep": "",
+          "id": "boiling-water"
         }
       ]
     },
@@ -38,7 +40,8 @@
           "amount": 1,
           "unit": "cup",
           "item": "room temperature water",
-          "prep": ""
+          "prep": "",
+          "id": "room-temperature-water"
         }
       ]
     },
@@ -49,10 +52,14 @@
           "amount": 1,
           "unit": "teaspoon",
           "item": "salt",
-          "prep": ""
+          "prep": "",
+          "id": "salt"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Measure and stage {{ingredient:split-red-lentils}}, {{ingredient:boiling-water}}, {{ingredient:room-temperature-water}}, and {{ingredient:salt}}."
   ],
   "stepGroups": [
     {

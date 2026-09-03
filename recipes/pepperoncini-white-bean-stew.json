@@ -21,7 +21,8 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "dried white beans",
-          "prep": ""
+          "prep": "",
+          "id": "dried-white-beans"
         }
       ]
     },
@@ -32,19 +33,22 @@
           "amount": 3,
           "unit": "tablespoons",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 1,
           "unit": "medium",
           "item": "yellow onion",
-          "prep": "diced"
+          "prep": "diced",
+          "id": "yellow-onion"
         },
         {
           "amount": 30,
           "unit": "whole",
           "item": "garlic cloves",
-          "prep": "peeled"
+          "prep": "peeled",
+          "id": "garlic-cloves"
         }
       ]
     },
@@ -55,25 +59,29 @@
           "amount": 1,
           "unit": "pound",
           "item": "cremini mushrooms",
-          "prep": "sliced thick"
+          "prep": "sliced thick",
+          "id": "cremini-mushrooms"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "dry pearled barley",
-          "prep": ""
+          "prep": "",
+          "id": "dry-pearled-barley"
         }
       ]
     },
@@ -84,37 +92,43 @@
           "amount": 1,
           "unit": "cup",
           "item": "pepperoncini peppers",
-          "prep": ""
+          "prep": "",
+          "id": "pepperoncini-peppers"
         },
         {
           "amount": 1,
           "unit": "cup",
           "item": "pepperoncini brine",
-          "prep": ""
+          "prep": "",
+          "id": "pepperoncini-brine"
         },
         {
           "amount": 4,
           "unit": "cups",
           "item": "beef stock",
-          "prep": ""
+          "prep": "",
+          "id": "beef-stock"
         },
         {
           "amount": 1,
           "unit": "small",
           "item": "rosemary sprig",
-          "prep": ""
+          "prep": "",
+          "id": "rosemary-sprig"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "chopped fresh Mediterranean oregano",
-          "prep": ""
+          "prep": "",
+          "id": "chopped-fresh-mediterranean-oregano"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "chopped fresh Italian parsley",
-          "prep": ""
+          "prep": "",
+          "id": "chopped-fresh-italian-parsley"
         }
       ]
     },
@@ -125,10 +139,19 @@
           "amount": 0,
           "unit": "",
           "item": "hot crusty bread",
-          "prep": ""
+          "prep": "",
+          "id": "hot-crusty-bread"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Dice {{ingredient:yellow-onion}}.",
+    "Peel {{ingredient:garlic-cloves}}.",
+    "Prepare {{ingredient:cremini-mushrooms}} as specified: sliced thick.",
+    "Measure and stage {{ingredient:dried-white-beans}}, {{ingredient:olive-oil}}, {{ingredient:kosher-salt}}, {{ingredient:black-pepper}}, and {{ingredient:dry-pearled-barley}}.",
+    "Measure and stage {{ingredient:pepperoncini-peppers}}, {{ingredient:pepperoncini-brine}}, {{ingredient:beef-stock}}, {{ingredient:rosemary-sprig}}, and {{ingredient:chopped-fresh-mediterranean-oregano}}.",
+    "Measure and stage {{ingredient:chopped-fresh-italian-parsley}} and {{ingredient:hot-crusty-bread}}."
   ],
   "stepGroups": [
     {

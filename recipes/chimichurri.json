@@ -21,25 +21,29 @@
           "amount": 1,
           "unit": "cup",
           "item": "fresh flat-leaf parsley",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "fresh-flat-leaf-parsley"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "fresh oregano",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "fresh-oregano"
         },
         {
           "amount": 3,
           "unit": "medium",
           "item": "garlic cloves",
-          "prep": "finely minced"
+          "prep": "finely minced",
+          "id": "garlic-cloves"
         },
         {
           "amount": 1,
           "unit": "small",
           "item": "shallot",
-          "prep": "finely minced"
+          "prep": "finely minced",
+          "id": "shallot"
         }
       ]
     },
@@ -50,37 +54,43 @@
           "amount": 3,
           "unit": "tablespoons",
           "item": "red wine vinegar",
-          "prep": ""
+          "prep": "",
+          "id": "red-wine-vinegar"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "fresh lemon juice",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-lemon-juice"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "crushed red pepper flakes",
-          "prep": ""
+          "prep": "",
+          "id": "crushed-red-pepper-flakes"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "smoked paprika",
-          "prep": ""
+          "prep": "",
+          "id": "smoked-paprika"
         }
       ]
     },
@@ -91,10 +101,19 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "extra-virgin olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "extra-virgin-olive-oil"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Finely chop {{ingredient:fresh-flat-leaf-parsley}}.",
+    "Finely chop {{ingredient:fresh-oregano}}.",
+    "Finely mince {{ingredient:garlic-cloves}}.",
+    "Finely mince {{ingredient:shallot}}.",
+    "Measure and stage {{ingredient:red-wine-vinegar}}, {{ingredient:fresh-lemon-juice}}, {{ingredient:kosher-salt}}, {{ingredient:black-pepper}}, and {{ingredient:crushed-red-pepper-flakes}}.",
+    "Measure and stage {{ingredient:smoked-paprika}} and {{ingredient:extra-virgin-olive-oil}}."
   ],
   "stepGroups": [
     {

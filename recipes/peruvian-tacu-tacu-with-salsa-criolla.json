@@ -194,6 +194,19 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Pick over and rinse {{ingredient:dried-beans}}.",
+    "Prepare {{ingredient:long-grain-white-rice}} as specified: rinsed until the water runs mostly clear.",
+    "Finely dice {{ingredient:red-onion-base}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Chop {{ingredient:fresh-cilantro-base}}.",
+    "Very thinly slice {{ingredient:red-onion-salsa}}.",
+    "Thinly slice {{ingredient:fresh-chile}}.",
+    "Chop {{ingredient:fresh-cilantro-salsa}}.",
+    "Measure and stage {{ingredient:water-soaking}}, {{ingredient:water-cooking-beans}}, {{ingredient:bay-leaf}}, {{ingredient:water-rice}}, and {{ingredient:fine-sea-salt-rice}}.",
+    "Measure and stage {{ingredient:olive-oil-base}}, {{ingredient:ground-cumin}}, {{ingredient:smoked-paprika}}, {{ingredient:fine-sea-salt-base}}, and {{ingredient:black-pepper}}.",
+    "Measure and stage {{ingredient:lime-juice}}, {{ingredient:red-wine-vinegar}}, {{ingredient:fine-sea-salt-salsa}}, and {{ingredient:olive-oil-cakes}}."
+  ],
   "stepGroups": [
     {
       "title": "Soak the Beans",

@@ -184,6 +184,17 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:portobello-caps}} as specified: stems removed and dark gills scraped out.",
+    "Prepare {{ingredient:cremini-mushrooms}} as specified: sliced 1/4 inch thick.",
+    "Finely chop {{ingredient:shallot}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Prepare {{ingredient:fresh-tarragon}} as specified: chopped and divided.",
+    "Measure and stage {{ingredient:olive-oil-portobellos}}, {{ingredient:kosher-salt-portobellos}}, {{ingredient:black-pepper-portobellos}}, {{ingredient:olive-oil-sauce}}, and {{ingredient:kosher-salt-sauce}}.",
+    "Measure and stage {{ingredient:black-pepper-sauce}}, {{ingredient:all-purpose-flour}}, {{ingredient:mushroom-stock}}, {{ingredient:dijon-mustard}}, and {{ingredient:whole-grain-mustard}}.",
+    "Measure and stage {{ingredient:soy-sauce}}, {{ingredient:vegan-worcestershire}}, {{ingredient:plant-based-yogurt}}, {{ingredient:lemon-juice}}, and {{ingredient:whole-wheat-noodles}}.",
+    "Measure and stage {{ingredient:water}} and {{ingredient:kosher-salt-noodles}}."
+  ],
   "stepGroups": [
     {
       "title": "Prepare the Portobellos",

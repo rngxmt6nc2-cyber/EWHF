@@ -250,6 +250,19 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:portobello-mushrooms}} as specified: stems removed and gills scraped out.",
+    "Prepare {{ingredient:panko-breadcrumbs}} as specified: crushed lightly by hand.",
+    "Finely chop {{ingredient:cremini-mushrooms}}.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Mince {{ingredient:garlic-gravy}}.",
+    "Mince {{ingredient:fresh-parsley}}.",
+    "Measure and stage {{ingredient:fine-sea-salt-mushrooms}}, {{ingredient:black-pepper-mushrooms}}, {{ingredient:apple-cider-vinegar-mushrooms}}, {{ingredient:unsweetened-soy-milk}}, and {{ingredient:dijon-mustard}}.",
+    "Measure and stage {{ingredient:hot-sauce}}, {{ingredient:all-purpose-flour}}, {{ingredient:fine-cornmeal}}, {{ingredient:paprika}}, and {{ingredient:garlic-powder}}.",
+    "Measure and stage {{ingredient:onion-powder}}, {{ingredient:dried-thyme}}, {{ingredient:black-pepper-crust}}, {{ingredient:fine-sea-salt-crust}}, and {{ingredient:olive-oil-crust}}.",
+    "Measure and stage {{ingredient:olive-oil-gravy}}, {{ingredient:flour-gravy}}, {{ingredient:vegetable-stock}}, {{ingredient:low-sodium-soy-sauce}}, and {{ingredient:dijon-mustard-gravy}}.",
+    "Measure and stage {{ingredient:black-pepper-gravy}}, {{ingredient:fine-sea-salt-gravy}}, {{ingredient:apple-cider-vinegar-gravy}}, and {{ingredient:mashed-potatoes}}."
+  ],
   "stepGroups": [
     {
       "title": "Dry and Season the Portobellos",

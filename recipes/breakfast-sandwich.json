@@ -41,6 +41,10 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Split {{ingredient:english-muffins}}.",
+    "Measure and stage {{ingredient:veggie-sausage-patties}} and {{ingredient:hash-brown-patties}}."
+  ],
   "stepGroups": [
     {
       "title": "Cook the Hash Browns",

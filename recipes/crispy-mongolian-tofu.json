@@ -203,6 +203,18 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:broccoli-florets}} as specified: cut small.",
+    "Mince {{ingredient:garlic-clove-broccoli}}.",
+    "Mince {{ingredient:fresh-ginger}}.",
+    "Mince {{ingredient:garlic-cloves-sauce}}.",
+    "Thinly slice {{ingredient:scallion-whites}}.",
+    "Thinly slice {{ingredient:scallion-greens}}.",
+    "Measure and stage {{ingredient:extra-firm-tofu}}, {{ingredient:soy-sauce-tofu}}, {{ingredient:rice-vinegar-tofu}}, {{ingredient:garlic-powder}}, and {{ingredient:white-pepper-tofu}}.",
+    "Measure and stage {{ingredient:neutral-oil-tofu}}, {{ingredient:cornstarch-tofu}}, {{ingredient:neutral-oil-broccoli}}, {{ingredient:kosher-salt-broccoli}}, and {{ingredient:soy-sauce-sauce}}.",
+    "Measure and stage {{ingredient:water-sauce}}, {{ingredient:date-paste}}, {{ingredient:rice-vinegar-sauce}}, {{ingredient:chinese-black-vinegar}}, and {{ingredient:white-pepper-sauce}}.",
+    "Measure and stage {{ingredient:cornstarch-slurry}}, {{ingredient:water-slurry}}, and {{ingredient:toasted-sesame-seeds}}."
+  ],
   "stepGroups": [
     {
       "title": "Press the Tofu Hard",

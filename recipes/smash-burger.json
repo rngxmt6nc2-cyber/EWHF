@@ -21,61 +21,71 @@
           "amount": 16,
           "unit": "ounces",
           "item": "Impossible ground “beef”",
-          "prep": ""
+          "prep": "",
+          "id": "impossible-ground-beef"
         },
         {
           "amount": 1,
           "unit": "large",
           "item": "egg white",
-          "prep": ""
+          "prep": "",
+          "id": "egg-white"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "panko breadcrumbs",
-          "prep": ""
+          "prep": "",
+          "id": "panko-breadcrumbs"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "garlic powder",
-          "prep": ""
+          "prep": "",
+          "id": "garlic-powder"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "onion powder",
-          "prep": ""
+          "prep": "",
+          "id": "onion-powder"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "cayenne pepper",
-          "prep": ""
+          "prep": "",
+          "id": "cayenne-pepper"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "freshly ground black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "freshly-ground-black-pepper"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "table salt",
-          "prep": ""
+          "prep": "",
+          "id": "table-salt"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "Sazonador Total seasoning",
-          "prep": ""
+          "prep": "",
+          "id": "sazonador-total-seasoning"
         }
       ]
     },
@@ -86,19 +96,22 @@
           "amount": 1,
           "unit": "medium",
           "item": "yellow onion",
-          "prep": "halved and thinly slivered"
+          "prep": "halved and thinly slivered",
+          "id": "yellow-onion"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "avocado oil",
-          "prep": ""
+          "prep": "",
+          "id": "avocado-oil"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "salt",
-          "prep": ""
+          "prep": "",
+          "id": "salt"
         }
       ]
     },
@@ -109,7 +122,8 @@
           "amount": 1,
           "unit": "tablespoon",
           "item": "avocado oil",
-          "prep": ""
+          "prep": "",
+          "id": "avocado-oil-2"
         }
       ]
     },
@@ -120,28 +134,39 @@
           "amount": 2,
           "unit": "",
           "item": "potato buns",
-          "prep": ""
+          "prep": "",
+          "id": "potato-buns"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Dill pickle slices",
-          "prep": ""
+          "prep": "",
+          "id": "dill-pickle-slices"
         },
         {
           "amount": 4,
           "unit": "thin slices",
           "item": "reduced-fat white American cheese",
-          "prep": ""
+          "prep": "",
+          "id": "reduced-fat-white-american-cheese"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Light mayo or burger sauce",
-          "prep": ""
+          "prep": "",
+          "id": "light-mayo-or-burger-sauce"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:yellow-onion}} as specified: halved and thinly slivered.",
+    "Measure and stage {{ingredient:impossible-ground-beef}}, {{ingredient:egg-white}}, {{ingredient:panko-breadcrumbs}}, {{ingredient:olive-oil}}, and {{ingredient:garlic-powder}}.",
+    "Measure and stage {{ingredient:onion-powder}}, {{ingredient:cayenne-pepper}}, {{ingredient:freshly-ground-black-pepper}}, {{ingredient:table-salt}}, and {{ingredient:sazonador-total-seasoning}}.",
+    "Measure and stage {{ingredient:avocado-oil}}, {{ingredient:salt}}, {{ingredient:avocado-oil-2}}, {{ingredient:potato-buns}}, and {{ingredient:dill-pickle-slices}}.",
+    "Measure and stage {{ingredient:reduced-fat-white-american-cheese}} and {{ingredient:light-mayo-or-burger-sauce}}."
   ],
   "stepGroups": [
     {

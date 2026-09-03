@@ -123,6 +123,14 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:whole-chicken}} as specified: breast and thigh meat removed.",
+    "Prepare {{ingredient:carrot}} as specified: peeled & broken into large pieces.",
+    "Prepare {{ingredient:medium-onion}} as specified: peeled & cut in half.",
+    "Prepare {{ingredient:hot-tap-water}} as specified: heat from cold separately.",
+    "Measure and stage {{ingredient:additional-drumsticks}}, {{ingredient:chicken-neck}}, {{ingredient:cold-water}}, {{ingredient:apple-cider-vinegar}}, and {{ingredient:celery-stalk}}.",
+    "Measure and stage {{ingredient:garlic-cloves}}, {{ingredient:bay-leaf}}, {{ingredient:fresh-parsley}}, {{ingredient:fresh-thyme}}, and {{ingredient:whole-black-pepper-corns}}."
+  ],
   "stepGroups": [
     {
       "title": "Directions I – Pressure Extraction",

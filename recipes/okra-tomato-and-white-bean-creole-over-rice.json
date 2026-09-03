@@ -236,6 +236,21 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:long-grain-white-rice}} as specified: rinsed until the water runs mostly clear.",
+    "Prepare {{ingredient:okra}} as specified: trimmed and sliced 1/2 inch thick.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Finely dice {{ingredient:celery}}.",
+    "Finely dice {{ingredient:green-bell-pepper}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Drain {{ingredient:cooked-white-beans}}.",
+    "Mince {{ingredient:fresh-parsley}}.",
+    "Thinly slice {{ingredient:scallions}}.",
+    "Measure and stage {{ingredient:water-rice}}, {{ingredient:fine-sea-salt-rice}}, {{ingredient:olive-oil-okra}}, {{ingredient:fine-sea-salt-okra}}, and {{ingredient:black-pepper-okra}}.",
+    "Measure and stage {{ingredient:olive-oil-base}}, {{ingredient:tomato-paste}}, {{ingredient:smoked-paprika}}, {{ingredient:dried-thyme}}, and {{ingredient:dried-oregano}}.",
+    "Measure and stage {{ingredient:cayenne-pepper}}, {{ingredient:bay-leaf}}, {{ingredient:crushed-tomatoes}}, {{ingredient:vegetable-stock}}, and {{ingredient:low-sodium-soy-sauce}}.",
+    "Measure and stage {{ingredient:fine-sea-salt-gravy}}, {{ingredient:black-pepper-gravy}}, {{ingredient:apple-cider-vinegar}}, and {{ingredient:lemon-juice}}."
+  ],
   "stepGroups": [
     {
       "title": "Cook the Rice",

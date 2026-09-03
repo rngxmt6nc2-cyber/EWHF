@@ -203,6 +203,21 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Pick over and rinse {{ingredient:dried-cannellini-beans}}.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Finely dice {{ingredient:carrots}}.",
+    "Finely dice {{ingredient:celery}}.",
+    "Dice {{ingredient:zucchini}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Chop {{ingredient:green-cabbage}}.",
+    "Chop {{ingredient:escarole-or-kale}}.",
+    "Mince {{ingredient:fresh-parsley}}.",
+    "Chop {{ingredient:fresh-basil}}.",
+    "Measure and stage {{ingredient:water-soaking}}, {{ingredient:water-cooking-beans}}, {{ingredient:bay-leaf-beans}}, {{ingredient:olive-oil}}, and {{ingredient:tomato-paste}}.",
+    "Measure and stage {{ingredient:dried-oregano}}, {{ingredient:dried-thyme}}, {{ingredient:black-pepper}}, {{ingredient:crushed-tomatoes}}, and {{ingredient:vegetable-stock}}.",
+    "Measure and stage {{ingredient:fine-sea-salt}}, {{ingredient:small-pasta}}, {{ingredient:lemon-juice}}, and {{ingredient:red-wine-vinegar}}."
+  ],
   "stepGroups": [
     {
       "title": "Soak the Beans",

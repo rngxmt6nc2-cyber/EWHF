@@ -21,31 +21,36 @@
           "amount": 500,
           "unit": "g",
           "item": "bread flour",
-          "prep": ""
+          "prep": "",
+          "id": "bread-flour"
         },
         {
           "amount": 390,
           "unit": "g",
           "item": "water",
-          "prep": "room temperature"
+          "prep": "room temperature",
+          "id": "water"
         },
         {
           "amount": 10,
           "unit": "g",
           "item": "fine sea salt",
-          "prep": ""
+          "prep": "",
+          "id": "fine-sea-salt"
         },
         {
           "amount": 4,
           "unit": "g",
           "item": "instant yeast",
-          "prep": ""
+          "prep": "",
+          "id": "instant-yeast"
         },
         {
           "amount": 15,
           "unit": "g",
           "item": "extra-virgin olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "extra-virgin-olive-oil"
         }
       ]
     },
@@ -56,34 +61,44 @@
           "amount": 40,
           "unit": "g",
           "item": "extra-virgin olive oil",
-          "prep": "divided"
+          "prep": "divided",
+          "id": "extra-virgin-olive-oil-2"
         },
         {
           "amount": 60,
           "unit": "g",
           "item": "water",
-          "prep": ""
+          "prep": "",
+          "id": "water-2"
         },
         {
           "amount": 6,
           "unit": "g",
           "item": "fine sea salt",
-          "prep": ""
+          "prep": "",
+          "id": "fine-sea-salt-2"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "fresh rosemary leaves",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "fresh-rosemary-leaves"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "flaky sea salt",
-          "prep": ""
+          "prep": "",
+          "id": "flaky-sea-salt"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Chop {{ingredient:fresh-rosemary-leaves}}.",
+    "Measure and stage {{ingredient:bread-flour}}, {{ingredient:water}}, {{ingredient:fine-sea-salt}}, {{ingredient:instant-yeast}}, and {{ingredient:extra-virgin-olive-oil}}.",
+    "Measure and stage {{ingredient:extra-virgin-olive-oil-2}}, {{ingredient:water-2}}, {{ingredient:fine-sea-salt-2}}, and {{ingredient:flaky-sea-salt}}."
   ],
   "stepGroups": [
     {

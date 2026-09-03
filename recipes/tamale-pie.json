@@ -21,136 +21,165 @@
           "amount": 0.75,
           "unit": "cup",
           "item": "dried black beans",
-          "prep": ""
+          "prep": "",
+          "id": "dried-black-beans"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "brown or green lentils",
-          "prep": ""
+          "prep": "",
+          "id": "brown-or-green-lentils"
         },
         {
           "amount": 0.75,
           "unit": "cup",
           "item": "yellow cornmeal",
-          "prep": ""
+          "prep": "",
+          "id": "yellow-cornmeal"
         },
         {
           "amount": 8,
           "unit": "oz",
           "item": "cremini (baby bella) mushrooms",
-          "prep": ""
+          "prep": "",
+          "id": "cremini-baby-bella-mushrooms"
         },
         {
           "amount": 2,
           "unit": "small",
           "item": "onions",
-          "prep": ""
+          "prep": "",
+          "id": "onions"
         },
         {
           "amount": 1,
           "unit": "stalk",
           "item": "celery",
-          "prep": ""
+          "prep": "",
+          "id": "celery"
         },
         {
           "amount": 4,
           "unit": "cloves",
           "item": "garlic",
-          "prep": ""
+          "prep": "",
+          "id": "garlic"
         },
         {
           "amount": 4,
           "unit": "oz",
           "item": "plant based sausage",
-          "prep": ""
+          "prep": "",
+          "id": "plant-based-sausage"
         },
         {
           "amount": 1,
           "unit": "can",
           "item": "(10 oz) Ro-Tel diced tomatoes with green chiles",
-          "prep": ""
+          "prep": "",
+          "id": "10-oz-ro-tel-diced-tomatoes-with-green-chiles"
         },
         {
           "amount": 1,
           "unit": "can",
           "item": "4 oz diced green chiles",
-          "prep": ""
+          "prep": "",
+          "id": "4-oz-diced-green-chiles"
         },
         {
           "amount": 1,
           "unit": "bag",
           "item": "10 oz frozen corn",
-          "prep": ""
+          "prep": "",
+          "id": "10-oz-frozen-corn"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "fat-free refried beans",
-          "prep": ""
+          "prep": "",
+          "id": "fat-free-refried-beans"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "shredded Low-fat sharp cheddar",
-          "prep": ""
+          "prep": "",
+          "id": "shredded-low-fat-sharp-cheddar"
         },
         {
           "amount": 2,
           "unit": "Tbsp",
           "item": "grated Parmigiano-Reggiano",
-          "prep": ""
+          "prep": "",
+          "id": "grated-parmigiano-reggiano"
         },
         {
           "amount": 1,
           "unit": "Tbsp",
           "item": "plain Greek yogurt",
-          "prep": ""
+          "prep": "",
+          "id": "plain-greek-yogurt"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "sliced black olives",
-          "prep": ""
+          "prep": "",
+          "id": "sliced-black-olives"
         },
         {
           "amount": 2,
           "unit": "Tbsp",
           "item": "chili powder",
-          "prep": ""
+          "prep": "",
+          "id": "chili-powder"
         },
         {
           "amount": 1,
           "unit": "Tbsp",
           "item": "ground cumin",
-          "prep": ""
+          "prep": "",
+          "id": "ground-cumin"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "smoked paprika",
-          "prep": ""
+          "prep": "",
+          "id": "smoked-paprika"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Salt",
-          "prep": ""
+          "prep": "",
+          "id": "salt"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Freshly ground black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "freshly-ground-black-pepper"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Measure and stage {{ingredient:dried-black-beans}}, {{ingredient:brown-or-green-lentils}}, {{ingredient:yellow-cornmeal}}, {{ingredient:cremini-baby-bella-mushrooms}}, and {{ingredient:onions}}.",
+    "Measure and stage {{ingredient:celery}}, {{ingredient:garlic}}, {{ingredient:plant-based-sausage}}, {{ingredient:10-oz-ro-tel-diced-tomatoes-with-green-chiles}}, and {{ingredient:4-oz-diced-green-chiles}}.",
+    "Measure and stage {{ingredient:10-oz-frozen-corn}}, {{ingredient:fat-free-refried-beans}}, {{ingredient:shredded-low-fat-sharp-cheddar}}, {{ingredient:grated-parmigiano-reggiano}}, and {{ingredient:plain-greek-yogurt}}.",
+    "Measure and stage {{ingredient:sliced-black-olives}}, {{ingredient:chili-powder}}, {{ingredient:ground-cumin}}, {{ingredient:smoked-paprika}}, and {{ingredient:olive-oil}}.",
+    "Measure and stage {{ingredient:salt}} and {{ingredient:freshly-ground-black-pepper}}."
   ],
   "stepGroups": [
     {

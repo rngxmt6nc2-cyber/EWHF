@@ -21,19 +21,22 @@
           "amount": 400,
           "unit": "g",
           "item": "dried Greek giant beans",
-          "prep": ""
+          "prep": "",
+          "id": "dried-greek-giant-beans"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Water",
-          "prep": "for soaking and cooking"
+          "prep": "for soaking and cooking",
+          "id": "water"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "salt",
-          "prep": ""
+          "prep": "",
+          "id": "salt"
         }
       ]
     },
@@ -44,31 +47,36 @@
           "amount": 2,
           "unit": "tablespoons",
           "item": "extra-virgin olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "extra-virgin-olive-oil"
         },
         {
           "amount": 1,
           "unit": "large",
           "item": "yellow onion",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "yellow-onion"
         },
         {
           "amount": 1,
           "unit": "medium",
           "item": "carrot",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "carrot"
         },
         {
           "amount": 1,
           "unit": "",
           "item": "celery stalk",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "celery-stalk"
         },
         {
           "amount": 4,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "minced"
+          "prep": "minced",
+          "id": "garlic"
         }
       ]
     },
@@ -79,61 +87,71 @@
           "amount": 400,
           "unit": "g",
           "item": "passata",
-          "prep": ""
+          "prep": "",
+          "id": "passata"
         },
         {
           "amount": 4,
           "unit": "tablespoons",
           "item": "tomato paste",
-          "prep": ""
+          "prep": "",
+          "id": "tomato-paste"
         },
         {
           "amount": 60,
           "unit": "ml",
           "item": "dry white wine",
-          "prep": "¼ cup"
+          "prep": "¼ cup",
+          "id": "dry-white-wine"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Zest of ½ lemon",
-          "prep": ""
+          "prep": "",
+          "id": "zest-of-1-2-lemon"
         },
         {
           "amount": 1,
           "unit": "",
           "item": "bay leaf",
-          "prep": ""
+          "prep": "",
+          "id": "bay-leaf"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "pomegranate molasses",
-          "prep": ""
+          "prep": "",
+          "id": "pomegranate-molasses"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "salt",
-          "prep": ""
+          "prep": "",
+          "id": "salt-2"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "freshly ground black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "freshly-ground-black-pepper"
         },
         {
           "amount": 2,
           "unit": "teaspoons",
           "item": "fresh oregano",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "fresh-oregano"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "fresh parsley",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "fresh-parsley"
         }
       ]
     },
@@ -144,40 +162,59 @@
           "amount": 1,
           "unit": "tablespoon",
           "item": "extra-virgin olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "extra-virgin-olive-oil-2"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "fresh dill",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "fresh-dill"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "pomegranate molasses",
-          "prep": ""
+          "prep": "",
+          "id": "pomegranate-molasses-2"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Lemon wedges",
-          "prep": "for serving"
+          "prep": "for serving",
+          "id": "lemon-wedges"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Crusty whole-grain bread",
-          "prep": "for serving"
+          "prep": "for serving",
+          "id": "crusty-whole-grain-bread"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Finely chop {{ingredient:yellow-onion}}.",
+    "Finely chop {{ingredient:carrot}}.",
+    "Finely chop {{ingredient:celery-stalk}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Chop {{ingredient:fresh-oregano}}.",
+    "Chop {{ingredient:fresh-parsley}}.",
+    "Chop {{ingredient:fresh-dill}}.",
+    "Measure and stage {{ingredient:dried-greek-giant-beans}}, {{ingredient:water}}, {{ingredient:salt}}, {{ingredient:extra-virgin-olive-oil}}, and {{ingredient:passata}}.",
+    "Measure and stage {{ingredient:tomato-paste}}, {{ingredient:dry-white-wine}}, {{ingredient:zest-of-1-2-lemon}}, {{ingredient:bay-leaf}}, and {{ingredient:pomegranate-molasses}}.",
+    "Measure and stage {{ingredient:salt-2}}, {{ingredient:freshly-ground-black-pepper}}, {{ingredient:extra-virgin-olive-oil-2}}, {{ingredient:pomegranate-molasses-2}}, and {{ingredient:olive-oil}}.",
+    "Measure and stage {{ingredient:lemon-wedges}} and {{ingredient:crusty-whole-grain-bread}}."
   ],
   "stepGroups": [
     {

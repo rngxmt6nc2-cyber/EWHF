@@ -232,6 +232,22 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:water-rinsing}} as specified: for rinsing.",
+    "Prepare {{ingredient:cauliflower}} as specified: cut into small florets.",
+    "Prepare {{ingredient:yukon-gold-potato}} as specified: peeled and cut into 1/2-inch cubes.",
+    "Thinly slice {{ingredient:yellow-onion}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Grate {{ingredient:fresh-ginger}}.",
+    "Mince {{ingredient:green-chile}}.",
+    "Lightly crush {{ingredient:green-cardamom-pods}}.",
+    "Chop {{ingredient:fresh-cilantro}}.",
+    "Crush {{ingredient:toasted-cumin-seeds}}.",
+    "Measure and stage {{ingredient:split-yellow-moong-dal}}, {{ingredient:basmati-rice}}, {{ingredient:frozen-peas}}, {{ingredient:olive-oil-or-neutral-oil}}, and {{ingredient:bay-leaves}}.",
+    "Measure and stage {{ingredient:cinnamon-stick}}, {{ingredient:whole-cloves}}, {{ingredient:cumin-seeds}}, {{ingredient:ground-turmeric}}, and {{ingredient:ground-coriander}}.",
+    "Measure and stage {{ingredient:ground-cumin}}, {{ingredient:kashmiri-chile-powder-or-mild-paprika}}, {{ingredient:black-pepper}}, {{ingredient:water-cooking}}, and {{ingredient:kosher-salt}}.",
+    "Measure and stage {{ingredient:lemon-juice}}."
+  ],
   "stepGroups": [
     {
       "title": "Toast the Moong Dal",

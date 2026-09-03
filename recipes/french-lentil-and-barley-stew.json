@@ -17,34 +17,142 @@
     {
       "title": "Lentils and Barley",
       "items": [
-        { "id": "french-green-lentils", "amount": 1, "unit": "cup", "item": "French green lentils", "prep": "picked over, rinsed, and drained" },
-        { "id": "pearl-barley", "amount": 0.75, "unit": "cup", "item": "pearl barley", "prep": "rinsed and drained" }
+        {
+          "id": "french-green-lentils",
+          "amount": 1,
+          "unit": "cup",
+          "item": "French green lentils",
+          "prep": "picked over, rinsed, and drained"
+        },
+        {
+          "id": "pearl-barley",
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "pearl barley",
+          "prep": "rinsed and drained"
+        }
       ]
     },
     {
       "title": "Mushrooms and Aromatics",
       "items": [
-        { "id": "cremini-mushrooms", "amount": 1, "unit": "pound", "item": "cremini mushrooms", "prep": "quartered; very large mushrooms cut into sixths" },
-        { "id": "olive-oil", "amount": 3, "unit": "tablespoons", "item": "extra-virgin olive oil", "prep": "divided" },
-        { "id": "kosher-salt", "amount": 1, "unit": "teaspoon", "item": "kosher salt", "prep": "divided, plus more to taste" },
-        { "id": "yellow-onion", "amount": 1, "unit": "large", "item": "yellow onion", "prep": "finely diced" },
-        { "id": "carrots", "amount": 2, "unit": "medium", "item": "carrots", "prep": "finely diced" },
-        { "id": "celery", "amount": 2, "unit": "ribs", "item": "celery", "prep": "finely diced" },
-        { "id": "garlic", "amount": 5, "unit": "cloves", "item": "garlic", "prep": "minced" },
-        { "id": "fresh-thyme", "amount": 2, "unit": "teaspoons", "item": "fresh thyme leaves", "prep": "chopped" },
-        { "id": "black-pepper", "amount": 0.5, "unit": "teaspoon", "item": "freshly ground black pepper", "prep": "" }
+        {
+          "id": "cremini-mushrooms",
+          "amount": 1,
+          "unit": "pound",
+          "item": "cremini mushrooms",
+          "prep": "quartered; very large mushrooms cut into sixths"
+        },
+        {
+          "id": "olive-oil",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "extra-virgin olive oil",
+          "prep": "divided"
+        },
+        {
+          "id": "kosher-salt",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": "divided, plus more to taste"
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "large",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "carrots",
+          "amount": 2,
+          "unit": "medium",
+          "item": "carrots",
+          "prep": "finely diced"
+        },
+        {
+          "id": "celery",
+          "amount": 2,
+          "unit": "ribs",
+          "item": "celery",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 5,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "fresh-thyme",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "fresh thyme leaves",
+          "prep": "chopped"
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "freshly ground black pepper",
+          "prep": ""
+        }
       ]
     },
     {
       "title": "Broth and Finish",
       "items": [
-        { "id": "dry-white-wine", "amount": 0.5, "unit": "cup", "item": "dry white wine", "prep": "" },
-        { "id": "vegetable-stock", "amount": 6, "unit": "cups", "item": "low-sodium vegetable stock", "prep": "plus more as needed" },
-        { "id": "bay-leaves", "amount": 2, "unit": "", "item": "bay leaves", "prep": "" },
-        { "id": "dijon-mustard", "amount": 2, "unit": "tablespoons", "item": "Dijon mustard", "prep": "" },
-        { "id": "whole-grain-mustard", "amount": 1, "unit": "tablespoon", "item": "whole-grain mustard", "prep": "" },
-        { "id": "fresh-tarragon", "amount": 2, "unit": "tablespoons", "item": "fresh tarragon leaves", "prep": "chopped" },
-        { "id": "red-wine-vinegar", "amount": 1, "unit": "tablespoon", "item": "red wine vinegar", "prep": "" }
+        {
+          "id": "dry-white-wine",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "dry white wine",
+          "prep": ""
+        },
+        {
+          "id": "vegetable-stock",
+          "amount": 6,
+          "unit": "cups",
+          "item": "low-sodium vegetable stock",
+          "prep": "plus more as needed"
+        },
+        {
+          "id": "bay-leaves",
+          "amount": 2,
+          "unit": "",
+          "item": "bay leaves",
+          "prep": ""
+        },
+        {
+          "id": "dijon-mustard",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "id": "whole-grain-mustard",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "whole-grain mustard",
+          "prep": ""
+        },
+        {
+          "id": "fresh-tarragon",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh tarragon leaves",
+          "prep": "chopped"
+        },
+        {
+          "id": "red-wine-vinegar",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "red wine vinegar",
+          "prep": ""
+        }
       ]
     }
   ],

@@ -163,6 +163,18 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Slice {{ingredient:fresh-mushrooms}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Grate {{ingredient:fresh-ginger}}.",
+    "Prepare {{ingredient:firm-tofu}} as specified: pressed and cut into 1/2-inch cubes.",
+    "Prepare {{ingredient:baby-bok-choy}} as specified: stems and leaves separated, chopped.",
+    "Thinly slice {{ingredient:scallions}}.",
+    "Chop {{ingredient:fresh-cilantro}}.",
+    "Measure and stage {{ingredient:kombu}}, {{ingredient:dried-shiitake-mushrooms}}, {{ingredient:vegetable-stock}}, {{ingredient:neutral-oil-broth}}, and {{ingredient:soy-sauce-broth}}.",
+    "Measure and stage {{ingredient:rice-vinegar}}, {{ingredient:black-pepper}}, {{ingredient:toasted-sesame-oil}}, {{ingredient:neutral-oil-tofu}}, and {{ingredient:soy-sauce-tofu}}.",
+    "Measure and stage {{ingredient:soba-noodles}} and {{ingredient:toasted-sesame-seeds}}."
+  ],
   "stepGroups": [
     {
       "title": "Make the Broth",

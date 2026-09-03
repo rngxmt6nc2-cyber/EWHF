@@ -125,6 +125,15 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:extra-firm-tofu}} as specified: drained and pressed.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Drain and rinse {{ingredient:black-beans}}.",
+    "Measure and stage {{ingredient:olive-oil}}, {{ingredient:tomato-paste}}, {{ingredient:low-sodium-vegetable-broth}}, {{ingredient:low-sodium-soy-sauce}}, and {{ingredient:apple-cider-vinegar}}.",
+    "Measure and stage {{ingredient:chili-powder}}, {{ingredient:ground-cumin}}, {{ingredient:paprika}}, {{ingredient:dried-oregano}}, and {{ingredient:kosher-salt}}.",
+    "Measure and stage {{ingredient:black-pepper}}."
+  ],
   "stepGroups": [
     {
       "title": "Instructions",

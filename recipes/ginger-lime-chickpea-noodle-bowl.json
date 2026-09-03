@@ -17,40 +17,151 @@
     {
       "title": "Noodles",
       "items": [
-        { "id": "rice-noodles", "amount": 8, "unit": "oz", "item": "wide rice noodles", "prep": "" },
-        { "id": "water", "amount": 2, "unit": "quarts", "item": "water", "prep": "" }
+        {
+          "id": "rice-noodles",
+          "amount": 8,
+          "unit": "oz",
+          "item": "wide rice noodles",
+          "prep": ""
+        },
+        {
+          "id": "water",
+          "amount": 2,
+          "unit": "quarts",
+          "item": "water",
+          "prep": ""
+        }
       ]
     },
     {
       "title": "Crispy chickpeas",
       "items": [
-        { "id": "olive-oil-chickpeas", "amount": 1, "unit": "tbsp", "item": "olive oil", "prep": "" },
-        { "id": "chickpeas", "amount": 1.5, "unit": "cups", "item": "cooked chickpeas", "prep": "patted dry" },
-        { "id": "smoked-paprika", "amount": 0.5, "unit": "tsp", "item": "smoked paprika", "prep": "" },
-        { "id": "kosher-salt", "amount": 0.5, "unit": "tsp", "item": "kosher salt", "prep": "" }
+        {
+          "id": "olive-oil-chickpeas",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "chickpeas",
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "cooked chickpeas",
+          "prep": "patted dry"
+        },
+        {
+          "id": "smoked-paprika",
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "item": "kosher salt",
+          "prep": ""
+        }
       ]
     },
     {
       "title": "Ginger-lime sauce",
       "items": [
-        { "id": "olive-oil-sauce", "amount": 1, "unit": "tbsp", "item": "olive oil", "prep": "" },
-        { "id": "fresh-ginger", "amount": 1, "unit": "tbsp", "item": "fresh ginger", "prep": "finely grated" },
-        { "id": "garlic", "amount": 3, "unit": "cloves", "item": "garlic", "prep": "minced" },
-        { "id": "white-miso", "amount": 1, "unit": "tbsp", "item": "white miso", "prep": "" },
-        { "id": "lime-zest", "amount": 1, "unit": "tsp", "item": "lime zest", "prep": "" },
-        { "id": "lime-juice", "amount": 2, "unit": "tbsp", "item": "lime juice", "prep": "" },
-        { "id": "maple-syrup", "amount": 1, "unit": "tsp", "item": "maple syrup", "prep": "" },
-        { "id": "reserved-noodle-water", "amount": 1, "unit": "cup", "item": "reserved noodle cooking water", "prep": "hot" }
+        {
+          "id": "olive-oil-sauce",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "fresh-ginger",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "fresh ginger",
+          "prep": "finely grated"
+        },
+        {
+          "id": "garlic",
+          "amount": 3,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "white-miso",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "white miso",
+          "prep": ""
+        },
+        {
+          "id": "lime-zest",
+          "amount": 1,
+          "unit": "tsp",
+          "item": "lime zest",
+          "prep": ""
+        },
+        {
+          "id": "lime-juice",
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "lime juice",
+          "prep": ""
+        },
+        {
+          "id": "maple-syrup",
+          "amount": 1,
+          "unit": "tsp",
+          "item": "maple syrup",
+          "prep": ""
+        },
+        {
+          "id": "reserved-noodle-water",
+          "amount": 1,
+          "unit": "cup",
+          "item": "reserved noodle cooking water",
+          "prep": "hot"
+        }
       ]
     },
     {
       "title": "Vegetables and finish",
       "items": [
-        { "id": "spinach", "amount": 4, "unit": "cups", "item": "baby spinach", "prep": "loosely packed" },
-        { "id": "scallions", "amount": 3, "unit": "whole", "item": "scallions", "prep": "thinly sliced" },
-        { "id": "black-pepper", "amount": 0.25, "unit": "tsp", "item": "black pepper", "prep": "freshly ground" }
+        {
+          "id": "spinach",
+          "amount": 4,
+          "unit": "cups",
+          "item": "baby spinach",
+          "prep": "loosely packed"
+        },
+        {
+          "id": "scallions",
+          "amount": 3,
+          "unit": "whole",
+          "item": "scallions",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": "freshly ground"
+        }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:chickpeas}} as specified: patted dry.",
+    "Finely grate {{ingredient:fresh-ginger}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Thinly slice {{ingredient:scallions}}.",
+    "Measure and stage {{ingredient:rice-noodles}}, {{ingredient:water}}, {{ingredient:olive-oil-chickpeas}}, {{ingredient:smoked-paprika}}, and {{ingredient:kosher-salt}}.",
+    "Measure and stage {{ingredient:olive-oil-sauce}}, {{ingredient:white-miso}}, {{ingredient:lime-zest}}, {{ingredient:lime-juice}}, and {{ingredient:maple-syrup}}.",
+    "Measure and stage {{ingredient:reserved-noodle-water}}, {{ingredient:spinach}}, and {{ingredient:black-pepper}}."
   ],
   "stepGroups": [
     {

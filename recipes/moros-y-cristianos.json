@@ -21,19 +21,22 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "dried black beans",
-          "prep": ""
+          "prep": "",
+          "id": "dried-black-beans"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Water",
-          "prep": "for soaking"
+          "prep": "for soaking",
+          "id": "water"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         }
       ]
     },
@@ -44,19 +47,22 @@
           "amount": 3,
           "unit": "cups",
           "item": "water",
-          "prep": ""
+          "prep": "",
+          "id": "water-2"
         },
         {
           "amount": 1,
           "unit": "",
           "item": "bay leaf",
-          "prep": ""
+          "prep": "",
+          "id": "bay-leaf"
         },
         {
           "amount": 0.25,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-2"
         }
       ]
     },
@@ -67,79 +73,92 @@
           "amount": 1,
           "unit": "tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 0.5,
           "unit": "medium",
           "item": "yellow onion",
-          "prep": "finely diced"
+          "prep": "finely diced",
+          "id": "yellow-onion"
         },
         {
           "amount": 0.5,
           "unit": "small",
           "item": "green bell pepper",
-          "prep": "finely diced"
+          "prep": "finely diced",
+          "id": "green-bell-pepper"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "tomato paste",
-          "prep": ""
+          "prep": "",
+          "id": "tomato-paste"
         },
         {
           "amount": 4,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "smashed then minced"
+          "prep": "smashed then minced",
+          "id": "garlic"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "fresh Cuban oregano",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "fresh-cuban-oregano"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "-or-",
-          "prep": ""
+          "prep": "",
+          "id": "or"
         },
         {
           "amount": 2,
           "unit": "tsp",
           "item": "fresh oregano",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-oregano"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "fresh thyme",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-thyme"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "pinch finely minced fresh sage",
-          "prep": ""
+          "prep": "",
+          "id": "pinch-finely-minced-fresh-sage"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "ground cumin",
-          "prep": ""
+          "prep": "",
+          "id": "ground-cumin"
         },
         {
           "amount": 0.25,
           "unit": "tsp",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-3"
         }
       ]
     },
@@ -150,19 +169,22 @@
           "amount": 1,
           "unit": "cup",
           "item": "jasmine rice",
-          "prep": ""
+          "prep": "",
+          "id": "jasmine-rice"
         },
         {
           "amount": 1.3333333333,
           "unit": "cups",
           "item": "black bean cooking broth",
-          "prep": ""
+          "prep": "",
+          "id": "black-bean-cooking-broth"
         },
         {
           "amount": 1.5,
           "unit": "cups",
           "item": "cooked black beans",
-          "prep": ""
+          "prep": "",
+          "id": "cooked-black-beans"
         }
       ]
     },
@@ -173,46 +195,67 @@
           "amount": 1,
           "unit": "tbsp",
           "item": "fresh Cuban oregano",
-          "prep": "finely sliced"
+          "prep": "finely sliced",
+          "id": "fresh-cuban-oregano-2"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "-or-",
-          "prep": ""
+          "prep": "",
+          "id": "or-2"
         },
         {
           "amount": 2,
           "unit": "tsp",
           "item": "fresh oregano",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-oregano-2"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "fresh thyme",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-thyme-2"
         },
         {
           "amount": 2,
           "unit": "tbsp",
           "item": "fresh parsley",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "fresh-parsley"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "red wine vinegar",
-          "prep": ""
+          "prep": "",
+          "id": "red-wine-vinegar"
         },
         {
           "amount": 2,
           "unit": "",
           "item": "scallions",
-          "prep": "thinly sliced"
+          "prep": "thinly sliced",
+          "id": "scallions"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Finely dice {{ingredient:green-bell-pepper}}.",
+    "Prepare {{ingredient:garlic}} as specified: smashed then minced.",
+    "Finely chop {{ingredient:fresh-cuban-oregano}}.",
+    "Prepare {{ingredient:fresh-cuban-oregano-2}} as specified: finely sliced.",
+    "Chop {{ingredient:fresh-parsley}}.",
+    "Thinly slice {{ingredient:scallions}}.",
+    "Measure and stage {{ingredient:dried-black-beans}}, {{ingredient:water}}, {{ingredient:kosher-salt}}, {{ingredient:water-2}}, and {{ingredient:bay-leaf}}.",
+    "Measure and stage {{ingredient:kosher-salt-2}}, {{ingredient:olive-oil}}, {{ingredient:tomato-paste}}, {{ingredient:or}}, and {{ingredient:fresh-oregano}}.",
+    "Measure and stage {{ingredient:fresh-thyme}}, {{ingredient:pinch-finely-minced-fresh-sage}}, {{ingredient:ground-cumin}}, {{ingredient:black-pepper}}, and {{ingredient:kosher-salt-3}}.",
+    "Measure and stage {{ingredient:jasmine-rice}}, {{ingredient:black-bean-cooking-broth}}, {{ingredient:cooked-black-beans}}, {{ingredient:or-2}}, and {{ingredient:fresh-oregano-2}}.",
+    "Measure and stage {{ingredient:fresh-thyme-2}} and {{ingredient:red-wine-vinegar}}."
   ],
   "stepGroups": [
     {

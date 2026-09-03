@@ -21,25 +21,29 @@
           "amount": 1.5,
           "unit": "cups",
           "item": "unsweetened oat milk",
-          "prep": ""
+          "prep": "",
+          "id": "unsweetened-oat-milk"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "malic acid",
-          "prep": ""
+          "prep": "",
+          "id": "malic-acid"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "honey",
-          "prep": ""
+          "prep": "",
+          "id": "honey"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "extra-virgin olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "extra-virgin-olive-oil"
         }
       ]
     },
@@ -50,31 +54,36 @@
           "amount": 1,
           "unit": "cup",
           "item": "stone-ground yellow cornmeal",
-          "prep": ""
+          "prep": "",
+          "id": "stone-ground-yellow-cornmeal"
         },
         {
           "amount": 1,
           "unit": "cup",
           "item": "all-purpose flour",
-          "prep": ""
+          "prep": "",
+          "id": "all-purpose-flour"
         },
         {
           "amount": 4,
           "unit": "teaspoons",
           "item": "baking powder",
-          "prep": ""
+          "prep": "",
+          "id": "baking-powder"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "baking soda",
-          "prep": ""
+          "prep": "",
+          "id": "baking-soda"
         },
         {
           "amount": 0.75,
           "unit": "teaspoon",
           "item": "fine sea salt",
-          "prep": ""
+          "prep": "",
+          "id": "fine-sea-salt"
         }
       ]
     },
@@ -85,16 +94,23 @@
           "amount": 1,
           "unit": "tablespoon",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "coarse sea salt flakes",
-          "prep": "lightly crushed between the fingers"
+          "prep": "lightly crushed between the fingers",
+          "id": "coarse-sea-salt-flakes"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:coarse-sea-salt-flakes}} as specified: lightly crushed between the fingers.",
+    "Measure and stage {{ingredient:unsweetened-oat-milk}}, {{ingredient:malic-acid}}, {{ingredient:honey}}, {{ingredient:extra-virgin-olive-oil}}, and {{ingredient:stone-ground-yellow-cornmeal}}.",
+    "Measure and stage {{ingredient:all-purpose-flour}}, {{ingredient:baking-powder}}, {{ingredient:baking-soda}}, {{ingredient:fine-sea-salt}}, and {{ingredient:olive-oil}}."
   ],
   "stepGroups": [
     {

@@ -21,100 +21,124 @@
           "amount": 0.6666666667,
           "unit": "cup",
           "item": "cornstarch",
-          "prep": ""
+          "prep": "",
+          "id": "cornstarch"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "freshly ground black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "freshly-ground-black-pepper"
         },
         {
           "amount": 1,
           "unit": "medium",
           "item": "eggplant",
-          "prep": "cut into ¾” cubes"
+          "prep": "cut into ¾” cubes",
+          "id": "eggplant"
         },
         {
           "amount": 14,
           "unit": "ounces",
           "item": "extra-firm tofu",
-          "prep": "pressed"
+          "prep": "pressed",
+          "id": "extra-firm-tofu"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Avocado oil, enough for ¼ inch depth in wok",
-          "prep": ""
+          "prep": "",
+          "id": "avocado-oil-enough-for-1-4-inch-depth-in-wok"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "chicken stock",
-          "prep": ""
+          "prep": "",
+          "id": "chicken-stock"
         },
         {
           "amount": 3,
           "unit": "tablespoons",
           "item": "soy sauce",
-          "prep": ""
+          "prep": "",
+          "id": "soy-sauce"
         },
         {
           "amount": 1.5,
           "unit": "tablespoons",
           "item": "rice vinegar",
-          "prep": ""
+          "prep": "",
+          "id": "rice-vinegar"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "lime juice",
-          "prep": ""
+          "prep": "",
+          "id": "lime-juice"
         },
         {
           "amount": 2,
           "unit": "teaspoons",
           "item": "cornstarch",
-          "prep": ""
+          "prep": "",
+          "id": "cornstarch-2"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "grated fresh ginger",
-          "prep": ""
+          "prep": "",
+          "id": "grated-fresh-ginger"
         },
         {
           "amount": 3,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "grated"
+          "prep": "grated",
+          "id": "garlic"
         },
         {
           "amount": 3,
           "unit": "",
           "item": "to 4 Thai bird chiles",
-          "prep": "finely minced"
+          "prep": "finely minced",
+          "id": "to-4-thai-bird-chiles"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "sugar free chili garlic sauce",
-          "prep": ""
+          "prep": "",
+          "id": "sugar-free-chili-garlic-sauce"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "toasted sesame oil",
-          "prep": ""
+          "prep": "",
+          "id": "toasted-sesame-oil"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:eggplant}} as specified: cut into ¾” cubes.",
+    "Grate {{ingredient:garlic}}.",
+    "Finely mince {{ingredient:to-4-thai-bird-chiles}}.",
+    "Measure and stage {{ingredient:cornstarch}}, {{ingredient:kosher-salt}}, {{ingredient:freshly-ground-black-pepper}}, {{ingredient:extra-firm-tofu}}, and {{ingredient:avocado-oil-enough-for-1-4-inch-depth-in-wok}}.",
+    "Measure and stage {{ingredient:chicken-stock}}, {{ingredient:soy-sauce}}, {{ingredient:rice-vinegar}}, {{ingredient:lime-juice}}, and {{ingredient:cornstarch-2}}.",
+    "Measure and stage {{ingredient:grated-fresh-ginger}}, {{ingredient:sugar-free-chili-garlic-sauce}}, and {{ingredient:toasted-sesame-oil}}."
   ],
   "stepGroups": [
     {

@@ -21,100 +21,125 @@
           "amount": 4,
           "unit": "large",
           "item": "egg whites",
-          "prep": "from 4 hard-boiled eggs, chopped"
+          "prep": "from 4 hard-boiled eggs, chopped",
+          "id": "egg-whites"
         },
         {
           "amount": 1,
           "unit": "lb",
           "item": "Yukon Gold potatoes",
-          "prep": "cut into ¾-inch chunks"
+          "prep": "cut into ¾-inch chunks",
+          "id": "yukon-gold-potatoes"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Water",
-          "prep": "to cover potatoes by about 1 inch"
+          "prep": "to cover potatoes by about 1 inch",
+          "id": "water"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         },
         {
           "amount": 2,
           "unit": "tbsp",
           "item": "dill pickle juice",
-          "prep": ""
+          "prep": "",
+          "id": "dill-pickle-juice"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "plain Greek yogurt",
-          "prep": ""
+          "prep": "",
+          "id": "plain-greek-yogurt"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "dill pickle juice",
-          "prep": ""
+          "prep": "",
+          "id": "dill-pickle-juice-2"
         },
         {
           "amount": 0.25,
           "unit": "tsp",
           "item": "celery seed",
-          "prep": ""
+          "prep": "",
+          "id": "celery-seed"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "finely diced celery",
-          "prep": ""
+          "prep": "",
+          "id": "finely-diced-celery"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "finely minced onion",
-          "prep": "soaked in cold water 5 minutes and drained"
+          "prep": "soaked in cold water 5 minutes and drained",
+          "id": "finely-minced-onion"
         },
         {
           "amount": 0.3333333333,
           "unit": "cup",
           "item": "finely chopped dill pickles",
-          "prep": ""
+          "prep": "",
+          "id": "finely-chopped-dill-pickles"
         },
         {
           "amount": 2,
           "unit": "tbsp",
           "item": "finely grated carrot",
-          "prep": ""
+          "prep": "",
+          "id": "finely-grated-carrot"
         },
         {
           "amount": 2,
           "unit": "tbsp",
           "item": "fresh dill",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "fresh-dill"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "paprika",
-          "prep": ""
+          "prep": "",
+          "id": "paprika"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:egg-whites}} as specified: from 4 hard-boiled eggs, chopped.",
+    "Prepare {{ingredient:yukon-gold-potatoes}} as specified: cut into ¾-inch chunks.",
+    "Prepare {{ingredient:finely-minced-onion}} as specified: soaked in cold water 5 minutes and drained.",
+    "Finely chop {{ingredient:fresh-dill}}.",
+    "Measure and stage {{ingredient:water}}, {{ingredient:kosher-salt}}, {{ingredient:dill-pickle-juice}}, {{ingredient:plain-greek-yogurt}}, and {{ingredient:olive-oil}}.",
+    "Measure and stage {{ingredient:dill-pickle-juice-2}}, {{ingredient:celery-seed}}, {{ingredient:black-pepper}}, {{ingredient:finely-diced-celery}}, and {{ingredient:finely-chopped-dill-pickles}}.",
+    "Measure and stage {{ingredient:finely-grated-carrot}} and {{ingredient:paprika}}."
   ],
   "stepGroups": [
     {

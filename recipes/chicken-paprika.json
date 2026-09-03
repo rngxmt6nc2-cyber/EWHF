@@ -175,6 +175,16 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:chicken-breast}} as specified: cut into bite-size pieces.",
+    "Thinly slice {{ingredient:yellow-onion}}.",
+    "Thinly slice {{ingredient:red-bell-pepper}}.",
+    "Mince {{ingredient:garlic-cloves}}.",
+    "Chop {{ingredient:parsley}}.",
+    "Measure and stage {{ingredient:water-noodles}}, {{ingredient:kosher-salt-noodles}}, {{ingredient:regular-wide-noodles}}, {{ingredient:kosher-salt-chicken}}, and {{ingredient:sweet-paprika-chicken}}.",
+    "Measure and stage {{ingredient:black-pepper-chicken}}, {{ingredient:olive-oil-chicken}}, {{ingredient:silken-tofu}}, {{ingredient:vegetable-stock}}, and {{ingredient:lemon-juice}}.",
+    "Measure and stage {{ingredient:olive-oil-sauce}}, {{ingredient:sweet-paprika-sauce}}, {{ingredient:smoked-paprika}}, {{ingredient:all-purpose-flour}}, and {{ingredient:kosher-salt-sauce}}."
+  ],
   "stepGroups": [
     {
       "title": "Cook the Noodles",

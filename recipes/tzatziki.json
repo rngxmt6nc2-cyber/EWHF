@@ -21,13 +21,15 @@
           "amount": 0.5,
           "unit": "",
           "item": "English cucumber",
-          "prep": ""
+          "prep": "",
+          "id": "english-cucumber"
         },
         {
           "amount": 0.75,
           "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         }
       ]
     },
@@ -38,25 +40,29 @@
           "amount": 1,
           "unit": "cup",
           "item": "nonfat Greek yogurt",
-          "prep": ""
+          "prep": "",
+          "id": "nonfat-greek-yogurt"
         },
         {
           "amount": 1,
           "unit": "clove",
           "item": "garlic",
-          "prep": "very finely grated"
+          "prep": "very finely grated",
+          "id": "garlic"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "fresh lemon juice",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-lemon-juice"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "extra virgin olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "extra-virgin-olive-oil"
         }
       ]
     },
@@ -67,16 +73,24 @@
           "amount": 1,
           "unit": "tablespoon",
           "item": "fresh dill",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "fresh-dill"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "fresh parsley",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "fresh-parsley"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Very finely grate {{ingredient:garlic}}.",
+    "Finely chop {{ingredient:fresh-dill}}.",
+    "Finely chop {{ingredient:fresh-parsley}}.",
+    "Measure and stage {{ingredient:english-cucumber}}, {{ingredient:kosher-salt}}, {{ingredient:nonfat-greek-yogurt}}, {{ingredient:fresh-lemon-juice}}, and {{ingredient:extra-virgin-olive-oil}}."
   ],
   "stepGroups": [
     {

@@ -21,19 +21,22 @@
           "amount": 6,
           "unit": "g",
           "item": "dried porcini mushrooms",
-          "prep": ""
+          "prep": "",
+          "id": "dried-porcini-mushrooms"
         },
         {
           "amount": 4,
           "unit": "g",
           "item": "dried shiitake mushrooms",
-          "prep": ""
+          "prep": "",
+          "id": "dried-shiitake-mushrooms"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Hot water or stock",
-          "prep": "enough to cover"
+          "prep": "enough to cover",
+          "id": "hot-water-or-stock"
         }
       ]
     },
@@ -44,31 +47,36 @@
           "amount": 1,
           "unit": "large",
           "item": "egg",
-          "prep": ""
+          "prep": "",
+          "id": "egg"
         },
         {
           "amount": 1.5,
           "unit": "tbsp",
           "item": "soy sauce",
-          "prep": ""
+          "prep": "",
+          "id": "soy-sauce"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "Dijon mustard",
-          "prep": ""
+          "prep": "",
+          "id": "dijon-mustard"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "Worcestershire sauce",
-          "prep": ""
+          "prep": "",
+          "id": "worcestershire-sauce"
         },
         {
           "amount": 0.75,
           "unit": "cup",
           "item": "panko breadcrumbs",
-          "prep": ""
+          "prep": "",
+          "id": "panko-breadcrumbs"
         }
       ]
     },
@@ -79,55 +87,64 @@
           "amount": 16,
           "unit": "oz",
           "item": "Beyond Beef",
-          "prep": ""
+          "prep": "",
+          "id": "beyond-beef"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Rehydrated porcini and shiitake",
-          "prep": "squeezed dry and minced very fine"
+          "prep": "squeezed dry and minced very fine",
+          "id": "rehydrated-porcini-and-shiitake"
         },
         {
           "amount": 1,
           "unit": "medium",
           "item": "yellow onion",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "yellow-onion"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "smoked paprika",
-          "prep": ""
+          "prep": "",
+          "id": "smoked-paprika"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "cayenne pepper",
-          "prep": ""
+          "prep": "",
+          "id": "cayenne-pepper"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "garlic powder",
-          "prep": ""
+          "prep": "",
+          "id": "garlic-powder"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "sezonador total",
-          "prep": ""
+          "prep": "",
+          "id": "sezonador-total"
         },
         {
           "amount": 1.5,
           "unit": "tbsp",
           "item": "fresh parsley",
-          "prep": "minced"
+          "prep": "minced",
+          "id": "fresh-parsley"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Fresh black pepper",
-          "prep": "to taste"
+          "prep": "to taste",
+          "id": "fresh-black-pepper"
         }
       ]
     },
@@ -138,25 +155,29 @@
           "amount": 3,
           "unit": "tbsp",
           "item": "cornstarch",
-          "prep": ""
+          "prep": "",
+          "id": "cornstarch"
         },
         {
           "amount": 4.5,
           "unit": "tbsp",
           "item": "cold water",
-          "prep": ""
+          "prep": "",
+          "id": "cold-water"
         },
         {
           "amount": 1.5,
           "unit": "cups",
           "item": "plain panko breadcrumbs",
-          "prep": ""
+          "prep": "",
+          "id": "plain-panko-breadcrumbs"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Light pinch black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "light-pinch-black-pepper"
         }
       ]
     },
@@ -167,16 +188,28 @@
           "amount": 0,
           "unit": "",
           "item": "Olive oil",
-          "prep": "just enough to lightly coat the pan"
+          "prep": "just enough to lightly coat the pan",
+          "id": "olive-oil"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Heinz jar gravy",
-          "prep": "warmed separately"
+          "prep": "warmed separately",
+          "id": "heinz-jar-gravy"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:rehydrated-porcini-and-shiitake}} as specified: squeezed dry and minced very fine.",
+    "Chop {{ingredient:yellow-onion}}.",
+    "Mince {{ingredient:fresh-parsley}}.",
+    "Prepare {{ingredient:heinz-jar-gravy}} as specified: warmed separately.",
+    "Measure and stage {{ingredient:dried-porcini-mushrooms}}, {{ingredient:dried-shiitake-mushrooms}}, {{ingredient:hot-water-or-stock}}, {{ingredient:egg}}, and {{ingredient:soy-sauce}}.",
+    "Measure and stage {{ingredient:dijon-mustard}}, {{ingredient:worcestershire-sauce}}, {{ingredient:panko-breadcrumbs}}, {{ingredient:beyond-beef}}, and {{ingredient:smoked-paprika}}.",
+    "Measure and stage {{ingredient:cayenne-pepper}}, {{ingredient:garlic-powder}}, {{ingredient:sezonador-total}}, {{ingredient:fresh-black-pepper}}, and {{ingredient:cornstarch}}.",
+    "Measure and stage {{ingredient:cold-water}}, {{ingredient:plain-panko-breadcrumbs}}, {{ingredient:light-pinch-black-pepper}}, and {{ingredient:olive-oil}}."
   ],
   "stepGroups": [
     {

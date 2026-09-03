@@ -21,76 +21,93 @@
           "amount": 1.5,
           "unit": "cups",
           "item": "unsweetened almond milk",
-          "prep": ""
+          "prep": "",
+          "id": "unsweetened-almond-milk"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "cold water",
-          "prep": ""
+          "prep": "",
+          "id": "cold-water"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "fresh peanut butter",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-peanut-butter"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "whole flax seeds",
-          "prep": ""
+          "prep": "",
+          "id": "whole-flax-seeds"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "chia seeds",
-          "prep": ""
+          "prep": "",
+          "id": "chia-seeds"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "cacao nibs",
-          "prep": ""
+          "prep": "",
+          "id": "cacao-nibs"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "fine sea salt",
-          "prep": "Small pinch"
+          "prep": "Small pinch",
+          "id": "fine-sea-salt"
         },
         {
           "amount": 1,
           "unit": "packed cup",
           "item": "fresh spinach",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-spinach"
         },
         {
           "amount": 1,
           "unit": "",
           "item": "frozen banana",
-          "prep": ""
+          "prep": "",
+          "id": "frozen-banana"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "frozen blueberries",
-          "prep": ""
+          "prep": "",
+          "id": "frozen-blueberries"
         },
         {
           "amount": 2,
           "unit": "scoops",
           "item": "Tom Brady Vanilla protein powder",
-          "prep": ""
+          "prep": "",
+          "id": "tom-brady-vanilla-protein-powder"
         },
         {
           "amount": 1,
           "unit": "cup",
           "item": "ice",
-          "prep": ""
+          "prep": "",
+          "id": "ice"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Measure and stage {{ingredient:unsweetened-almond-milk}}, {{ingredient:cold-water}}, {{ingredient:fresh-peanut-butter}}, {{ingredient:whole-flax-seeds}}, and {{ingredient:chia-seeds}}.",
+    "Measure and stage {{ingredient:cacao-nibs}}, {{ingredient:fine-sea-salt}}, {{ingredient:fresh-spinach}}, {{ingredient:frozen-banana}}, and {{ingredient:frozen-blueberries}}.",
+    "Measure and stage {{ingredient:tom-brady-vanilla-protein-powder}} and {{ingredient:ice}}."
   ],
   "stepGroups": [
     {

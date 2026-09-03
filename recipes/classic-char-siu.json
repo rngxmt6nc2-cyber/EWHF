@@ -153,6 +153,14 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:pork-collar}} as specified: cut into long strips about 2 inches wide.",
+    "Finely grate {{ingredient:garlic}}.",
+    "Finely grate {{ingredient:fresh-ginger}}.",
+    "Measure and stage {{ingredient:hoisin-sauce}}, {{ingredient:light-soy-sauce}}, {{ingredient:dark-soy-sauce}}, {{ingredient:honey-marinade}}, and {{ingredient:brown-sugar}}.",
+    "Measure and stage {{ingredient:shaoxing-wine}}, {{ingredient:oyster-sauce}}, {{ingredient:chinese-five-spice}}, {{ingredient:kosher-salt}}, and {{ingredient:white-pepper}}.",
+    "Measure and stage {{ingredient:toasted-sesame-oil}}, {{ingredient:red-food-coloring}}, {{ingredient:honey-glaze}}, and {{ingredient:hot-water}}."
+  ],
   "stepGroups": [
     {
       "title": "Marinate the Pork",

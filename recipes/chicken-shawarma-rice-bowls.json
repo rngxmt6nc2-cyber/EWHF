@@ -196,6 +196,19 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:basmati-rice}} as specified: rinsed until the water runs mostly clear.",
+    "Prepare {{ingredient:chicken}} as specified: cut into thin strips.",
+    "Mince {{ingredient:garlic}}.",
+    "Finely grate {{ingredient:garlic-sauce}}.",
+    "Dice {{ingredient:cucumber}}.",
+    "Dice {{ingredient:tomatoes}}.",
+    "Thinly slice {{ingredient:red-onion}}.",
+    "Chop {{ingredient:parsley}}.",
+    "Measure and stage {{ingredient:water}}, {{ingredient:salt-rice}}, {{ingredient:olive-oil}}, {{ingredient:lemon-juice-chicken}}, and {{ingredient:cumin}}.",
+    "Measure and stage {{ingredient:coriander}}, {{ingredient:paprika}}, {{ingredient:turmeric}}, {{ingredient:cinnamon}}, and {{ingredient:black-pepper}}.",
+    "Measure and stage {{ingredient:salt-chicken}}, {{ingredient:tahini}}, {{ingredient:lemon-juice-sauce}}, {{ingredient:water-sauce}}, and {{ingredient:salt-sauce}}."
+  ],
   "stepGroups": [
     {
       "title": "Cook the Rice",

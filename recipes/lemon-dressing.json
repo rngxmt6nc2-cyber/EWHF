@@ -21,46 +21,58 @@
           "amount": 3,
           "unit": "tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 1.5,
           "unit": "tbsp",
           "item": "lemon juice",
-          "prep": ""
+          "prep": "",
+          "id": "lemon-juice"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "lemon zest",
-          "prep": ""
+          "prep": "",
+          "id": "lemon-zest"
         },
         {
           "amount": 0.5,
           "unit": "small",
           "item": "garlic clove",
-          "prep": "very finely grated"
+          "prep": "very finely grated",
+          "id": "garlic-clove"
         },
         {
           "amount": 0.125,
           "unit": "tsp",
           "item": "dry mustard powder",
-          "prep": ""
+          "prep": "",
+          "id": "dry-mustard-powder"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Pinch kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "pinch-kosher-salt"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Very finely grate {{ingredient:garlic-clove}}.",
+    "Measure and stage {{ingredient:olive-oil}}, {{ingredient:lemon-juice}}, {{ingredient:lemon-zest}}, {{ingredient:dry-mustard-powder}}, and {{ingredient:pinch-kosher-salt}}.",
+    "Measure and stage {{ingredient:black-pepper}}."
   ],
   "stepGroups": [
     {

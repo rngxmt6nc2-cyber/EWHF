@@ -222,6 +222,19 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:eggplant}} as specified: cut into 3/4-inch cubes.",
+    "Pick over and rinse {{ingredient:brown-or-green-lentils}}.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Finely dice {{ingredient:red-bell-pepper}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Chop {{ingredient:fresh-parsley}}.",
+    "Chop {{ingredient:fresh-cilantro}}.",
+    "Measure and stage {{ingredient:olive-oil-eggplant}}, {{ingredient:fine-sea-salt-eggplant}}, {{ingredient:smoked-paprika-eggplant}}, {{ingredient:vegetable-stock-lentils}}, and {{ingredient:bay-leaf}}.",
+    "Measure and stage {{ingredient:olive-oil-base}}, {{ingredient:tomato-paste}}, {{ingredient:ground-cumin}}, {{ingredient:ground-coriander}}, and {{ingredient:smoked-paprika-base}}.",
+    "Measure and stage {{ingredient:ground-caraway}}, {{ingredient:cinnamon}}, {{ingredient:black-pepper}}, {{ingredient:crushed-tomatoes}}, and {{ingredient:vegetable-stock-sauce}}.",
+    "Measure and stage {{ingredient:harissa-paste}}, {{ingredient:fine-sea-salt-sauce}}, {{ingredient:lemon-juice}}, and {{ingredient:red-wine-vinegar}}."
+  ],
   "stepGroups": [
     {
       "title": "Roast the Eggplant",

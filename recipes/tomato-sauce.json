@@ -21,31 +21,36 @@
           "amount": 2,
           "unit": "tablespoons",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 2,
           "unit": "teaspoons",
           "item": "garlic",
-          "prep": "finely grated"
+          "prep": "finely grated",
+          "id": "garlic"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "dried oregano",
-          "prep": ""
+          "prep": "",
+          "id": "dried-oregano"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "red pepper flakes",
-          "prep": "Pinch"
+          "prep": "Pinch",
+          "id": "red-pepper-flakes"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "kosher salt",
-          "prep": "Pinch"
+          "prep": "Pinch",
+          "id": "kosher-salt"
         }
       ]
     },
@@ -56,13 +61,15 @@
           "amount": 1,
           "unit": "(28 oz) can",
           "item": "whole peeled tomatoes with their juice",
-          "prep": ""
+          "prep": "",
+          "id": "whole-peeled-tomatoes-with-their-juice"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "kosher salt",
-          "prep": "Pinch"
+          "prep": "Pinch",
+          "id": "kosher-salt-2"
         }
       ]
     },
@@ -73,22 +80,31 @@
           "amount": 1,
           "unit": "",
           "item": "yellow onion",
-          "prep": "peeled and cut in half"
+          "prep": "peeled and cut in half",
+          "id": "yellow-onion"
         },
         {
           "amount": 2,
           "unit": "basil sprigs",
           "item": "",
-          "prep": ""
+          "prep": "",
+          "id": "ingredient"
         },
         {
           "amount": 2,
           "unit": "sprigs",
           "item": "fresh mediterranean oregano",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-mediterranean-oregano"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Finely grate {{ingredient:garlic}}.",
+    "Prepare {{ingredient:yellow-onion}} as specified: peeled and cut in half.",
+    "Measure and stage {{ingredient:olive-oil}}, {{ingredient:dried-oregano}}, {{ingredient:red-pepper-flakes}}, {{ingredient:kosher-salt}}, and {{ingredient:whole-peeled-tomatoes-with-their-juice}}.",
+    "Measure and stage {{ingredient:kosher-salt-2}}, {{ingredient:ingredient}}, and {{ingredient:fresh-mediterranean-oregano}}."
   ],
   "stepGroups": [
     {

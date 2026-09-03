@@ -74,6 +74,11 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:portobello-mushroom-caps}} as specified: gills scraped, sliced into 1/4-inch strips.",
+    "Measure and stage {{ingredient:soy-sauce}}, {{ingredient:olive-oil}}, {{ingredient:smoked-paprika}}, {{ingredient:balsamic-vinegar}}, and {{ingredient:garlic-powder}}.",
+    "Measure and stage {{ingredient:black-pepper}}."
+  ],
   "stepGroups": [
     {
       "title": "Dehydrate the portobello bacon",

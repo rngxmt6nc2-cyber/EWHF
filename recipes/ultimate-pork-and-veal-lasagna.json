@@ -17,63 +17,315 @@
     {
       "title": "Ragù",
       "items": [
-        {"id":"pancetta","amount":4,"unit":"ounces","item":"pancetta","prep":"finely diced"},
-        {"id":"ground-veal","amount":1,"unit":"pound","item":"ground veal","prep":""},
-        {"id":"ground-pork","amount":1,"unit":"pound","item":"ground pork","prep":""},
-        {"id":"sweet-italian-sausage","amount":4,"unit":"ounces","item":"sweet Italian sausage","prep":"casings removed"},
-        {"id":"hot-italian-sausage","amount":4,"unit":"ounces","item":"hot Italian sausage","prep":"casings removed"},
-        {"id":"yellow-onions","amount":2,"unit":"medium","item":"yellow onions","prep":"finely diced"},
-        {"id":"carrots","amount":2,"unit":"medium","item":"carrots","prep":"finely diced"},
-        {"id":"celery-ribs","amount":3,"unit":"ribs","item":"celery","prep":"finely diced"},
-        {"id":"garlic","amount":5,"unit":"cloves","item":"garlic","prep":"minced"},
-        {"id":"tomato-paste","amount":1,"unit":"tablespoon","item":"tomato paste","prep":""},
-        {"id":"white-wine","amount":1,"unit":"cup","item":"dry white wine","prep":""},
-        {"id":"ragout-whole-milk","amount":2,"unit":"cups","item":"whole milk","prep":""},
-        {"id":"san-marzano-tomatoes","amount":28,"unit":"ounces","item":"San Marzano tomatoes","prep":"crushed by hand"},
-        {"id":"beef-stock","amount":2,"unit":"cups","item":"beef stock","prep":"as needed"},
-        {"id":"ragout-bay-leaves","amount":2,"unit":"","item":"bay leaves","prep":""},
-        {"id":"fresh-thyme","amount":4,"unit":"sprigs","item":"fresh thyme","prep":""},
-        {"id":"fresh-rosemary","amount":1,"unit":"small sprig","item":"fresh rosemary","prep":""},
-        {"id":"ragout-nutmeg","amount":1,"unit":"pinch","item":"freshly grated nutmeg","prep":""},
-        {"id":"fish-sauce","amount":1,"unit":"teaspoon","item":"fish sauce","prep":""},
-        {"id":"parmesan-rind","amount":1,"unit":"","item":"Parmesan rind","prep":""},
-        {"id":"ragout-kosher-salt","amount":0,"unit":"","item":"kosher salt","prep":"to taste"},
-        {"id":"ragout-black-pepper","amount":0,"unit":"","item":"freshly ground black pepper","prep":"to taste"}
+        {
+          "id": "pancetta",
+          "amount": 4,
+          "unit": "ounces",
+          "item": "pancetta",
+          "prep": "finely diced"
+        },
+        {
+          "id": "ground-veal",
+          "amount": 1,
+          "unit": "pound",
+          "item": "ground veal",
+          "prep": ""
+        },
+        {
+          "id": "ground-pork",
+          "amount": 1,
+          "unit": "pound",
+          "item": "ground pork",
+          "prep": ""
+        },
+        {
+          "id": "sweet-italian-sausage",
+          "amount": 4,
+          "unit": "ounces",
+          "item": "sweet Italian sausage",
+          "prep": "casings removed"
+        },
+        {
+          "id": "hot-italian-sausage",
+          "amount": 4,
+          "unit": "ounces",
+          "item": "hot Italian sausage",
+          "prep": "casings removed"
+        },
+        {
+          "id": "yellow-onions",
+          "amount": 2,
+          "unit": "medium",
+          "item": "yellow onions",
+          "prep": "finely diced"
+        },
+        {
+          "id": "carrots",
+          "amount": 2,
+          "unit": "medium",
+          "item": "carrots",
+          "prep": "finely diced"
+        },
+        {
+          "id": "celery-ribs",
+          "amount": 3,
+          "unit": "ribs",
+          "item": "celery",
+          "prep": "finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 5,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "tomato-paste",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "tomato paste",
+          "prep": ""
+        },
+        {
+          "id": "white-wine",
+          "amount": 1,
+          "unit": "cup",
+          "item": "dry white wine",
+          "prep": ""
+        },
+        {
+          "id": "ragout-whole-milk",
+          "amount": 2,
+          "unit": "cups",
+          "item": "whole milk",
+          "prep": ""
+        },
+        {
+          "id": "san-marzano-tomatoes",
+          "amount": 28,
+          "unit": "ounces",
+          "item": "San Marzano tomatoes",
+          "prep": "crushed by hand"
+        },
+        {
+          "id": "beef-stock",
+          "amount": 2,
+          "unit": "cups",
+          "item": "beef stock",
+          "prep": "as needed"
+        },
+        {
+          "id": "ragout-bay-leaves",
+          "amount": 2,
+          "unit": "",
+          "item": "bay leaves",
+          "prep": ""
+        },
+        {
+          "id": "fresh-thyme",
+          "amount": 4,
+          "unit": "sprigs",
+          "item": "fresh thyme",
+          "prep": ""
+        },
+        {
+          "id": "fresh-rosemary",
+          "amount": 1,
+          "unit": "small sprig",
+          "item": "fresh rosemary",
+          "prep": ""
+        },
+        {
+          "id": "ragout-nutmeg",
+          "amount": 1,
+          "unit": "pinch",
+          "item": "freshly grated nutmeg",
+          "prep": ""
+        },
+        {
+          "id": "fish-sauce",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fish sauce",
+          "prep": ""
+        },
+        {
+          "id": "parmesan-rind",
+          "amount": 1,
+          "unit": "",
+          "item": "Parmesan rind",
+          "prep": ""
+        },
+        {
+          "id": "ragout-kosher-salt",
+          "amount": 0,
+          "unit": "",
+          "item": "kosher salt",
+          "prep": "to taste"
+        },
+        {
+          "id": "ragout-black-pepper",
+          "amount": 0,
+          "unit": "",
+          "item": "freshly ground black pepper",
+          "prep": "to taste"
+        }
       ]
     },
     {
       "title": "Parmesan Béchamel",
       "items": [
-        {"id":"bechamel-whole-milk","amount":6,"unit":"cups","item":"whole milk","prep":""},
-        {"id":"bechamel-onion","amount":0.5,"unit":"medium","item":"onion","prep":""},
-        {"id":"bechamel-bay-leaf","amount":1,"unit":"","item":"bay leaf","prep":""},
-        {"id":"black-peppercorns","amount":8,"unit":"","item":"whole black peppercorns","prep":""},
-        {"id":"bechamel-butter","amount":8,"unit":"tablespoons","item":"unsalted butter","prep":""},
-        {"id":"all-purpose-flour","amount":0.5,"unit":"cup","item":"all-purpose flour","prep":""},
-        {"id":"bechamel-kosher-salt","amount":1.5,"unit":"teaspoons","item":"kosher salt","prep":""},
-        {"id":"bechamel-nutmeg","amount":1,"unit":"pinch","item":"freshly grated nutmeg","prep":""},
-        {"id":"white-pepper","amount":0,"unit":"","item":"white pepper","prep":"to taste"},
-        {"id":"bechamel-parmigiano","amount":10,"unit":"ounces","item":"Parmigiano-Reggiano","prep":"freshly grated"},
-        {"id":"egg-yolk","amount":1,"unit":"","item":"egg yolk","prep":""}
+        {
+          "id": "bechamel-whole-milk",
+          "amount": 6,
+          "unit": "cups",
+          "item": "whole milk",
+          "prep": ""
+        },
+        {
+          "id": "bechamel-onion",
+          "amount": 0.5,
+          "unit": "medium",
+          "item": "onion",
+          "prep": ""
+        },
+        {
+          "id": "bechamel-bay-leaf",
+          "amount": 1,
+          "unit": "",
+          "item": "bay leaf",
+          "prep": ""
+        },
+        {
+          "id": "black-peppercorns",
+          "amount": 8,
+          "unit": "",
+          "item": "whole black peppercorns",
+          "prep": ""
+        },
+        {
+          "id": "bechamel-butter",
+          "amount": 8,
+          "unit": "tablespoons",
+          "item": "unsalted butter",
+          "prep": ""
+        },
+        {
+          "id": "all-purpose-flour",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "id": "bechamel-kosher-salt",
+          "amount": 1.5,
+          "unit": "teaspoons",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "bechamel-nutmeg",
+          "amount": 1,
+          "unit": "pinch",
+          "item": "freshly grated nutmeg",
+          "prep": ""
+        },
+        {
+          "id": "white-pepper",
+          "amount": 0,
+          "unit": "",
+          "item": "white pepper",
+          "prep": "to taste"
+        },
+        {
+          "id": "bechamel-parmigiano",
+          "amount": 10,
+          "unit": "ounces",
+          "item": "Parmigiano-Reggiano",
+          "prep": "freshly grated"
+        },
+        {
+          "id": "egg-yolk",
+          "amount": 1,
+          "unit": "",
+          "item": "egg yolk",
+          "prep": ""
+        }
       ]
     },
     {
       "title": "Ricotta Layer",
       "items": [
-        {"id":"whole-milk-ricotta","amount":10,"unit":"ounces","item":"whole milk ricotta","prep":""},
-        {"id":"ricotta-egg","amount":1,"unit":"large","item":"egg","prep":""},
-        {"id":"ricotta-parmigiano","amount":0.5,"unit":"cup","item":"Parmigiano-Reggiano","prep":"freshly grated"},
-        {"id":"italian-parsley","amount":2,"unit":"tablespoons","item":"fresh Italian parsley","prep":"chopped"},
-        {"id":"ricotta-black-pepper","amount":0,"unit":"","item":"freshly ground black pepper","prep":"to taste"}
+        {
+          "id": "whole-milk-ricotta",
+          "amount": 10,
+          "unit": "ounces",
+          "item": "whole milk ricotta",
+          "prep": ""
+        },
+        {
+          "id": "ricotta-egg",
+          "amount": 1,
+          "unit": "large",
+          "item": "egg",
+          "prep": ""
+        },
+        {
+          "id": "ricotta-parmigiano",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "Parmigiano-Reggiano",
+          "prep": "freshly grated"
+        },
+        {
+          "id": "italian-parsley",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh Italian parsley",
+          "prep": "chopped"
+        },
+        {
+          "id": "ricotta-black-pepper",
+          "amount": 0,
+          "unit": "",
+          "item": "freshly ground black pepper",
+          "prep": "to taste"
+        }
       ]
     },
     {
       "title": "Assembly",
       "items": [
-        {"id":"lasagna-sheets","amount":1,"unit":"pound","item":"fresh lasagna sheets, or high-quality dried lasagna sheets","prep":"dried sheets cooked just shy of al dente"},
-        {"id":"mozzarella","amount":12,"unit":"ounces","item":"whole milk low-moisture mozzarella","prep":"freshly grated"},
-        {"id":"assembly-parmigiano","amount":20,"unit":"ounces","item":"Parmigiano-Reggiano","prep":"freshly grated"},
-        {"id":"assembly-butter","amount":1,"unit":"tablespoon","item":"unsalted butter","prep":""}
+        {
+          "id": "lasagna-sheets",
+          "amount": 1,
+          "unit": "pound",
+          "item": "fresh lasagna sheets, or high-quality dried lasagna sheets",
+          "prep": "dried sheets cooked just shy of al dente"
+        },
+        {
+          "id": "mozzarella",
+          "amount": 12,
+          "unit": "ounces",
+          "item": "whole milk low-moisture mozzarella",
+          "prep": "freshly grated"
+        },
+        {
+          "id": "assembly-parmigiano",
+          "amount": 20,
+          "unit": "ounces",
+          "item": "Parmigiano-Reggiano",
+          "prep": "freshly grated"
+        },
+        {
+          "id": "assembly-butter",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "unsalted butter",
+          "prep": ""
+        }
       ]
     }
   ],

@@ -21,19 +21,22 @@
           "amount": 1,
           "unit": "medium",
           "item": "yellow onion",
-          "prep": "thinly sliced"
+          "prep": "thinly sliced",
+          "id": "yellow-onion"
         },
         {
           "amount": 2,
           "unit": "tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         }
       ]
     },
@@ -44,19 +47,22 @@
           "amount": 8,
           "unit": "oz",
           "item": "mushrooms",
-          "prep": "sliced"
+          "prep": "sliced",
+          "id": "mushrooms"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil-2"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Pinch kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "pinch-kosher-salt"
         }
       ]
     },
@@ -67,13 +73,15 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "pearl barley",
-          "prep": ""
+          "prep": "",
+          "id": "pearl-barley"
         },
         {
           "amount": 4,
           "unit": "cups",
           "item": "chicken stock",
-          "prep": ""
+          "prep": "",
+          "id": "chicken-stock"
         }
       ]
     },
@@ -84,13 +92,15 @@
           "amount": 2,
           "unit": "large",
           "item": "leeks",
-          "prep": "cleaned and sliced (white and light green only)"
+          "prep": "cleaned and sliced (white and light green only)",
+          "id": "leeks"
         },
         {
           "amount": 3,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "minced"
+          "prep": "minced",
+          "id": "garlic"
         }
       ]
     },
@@ -101,25 +111,29 @@
           "amount": 3,
           "unit": "medium",
           "item": "Yukon Gold potatoes",
-          "prep": "peeled and 1/2-inch diced"
+          "prep": "peeled and 1/2-inch diced",
+          "id": "yukon-gold-potatoes"
         },
         {
           "amount": 1,
           "unit": "",
           "item": "bay leaf",
-          "prep": ""
+          "prep": "",
+          "id": "bay-leaf"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         },
         {
           "amount": 3,
           "unit": "cups",
           "item": "chicken stock",
-          "prep": "start with 3, adjust later"
+          "prep": "start with 3, adjust later",
+          "id": "chicken-stock-2"
         }
       ]
     },
@@ -130,19 +144,22 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "finely chopped fresh parsley",
-          "prep": ""
+          "prep": "",
+          "id": "finely-chopped-fresh-parsley"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "fresh thyme leaves",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-thyme-leaves"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "lemon juice",
-          "prep": ""
+          "prep": "",
+          "id": "lemon-juice"
         }
       ]
     },
@@ -153,16 +170,28 @@
           "amount": 1,
           "unit": "tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil-3"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Pinch kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "pinch-kosher-salt-2"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Thinly slice {{ingredient:yellow-onion}}.",
+    "Slice {{ingredient:mushrooms}}.",
+    "Prepare {{ingredient:leeks}} as specified: cleaned and sliced (white and light green only).",
+    "Mince {{ingredient:garlic}}.",
+    "Prepare {{ingredient:yukon-gold-potatoes}} as specified: peeled and 1/2-inch diced.",
+    "Measure and stage {{ingredient:olive-oil}}, {{ingredient:kosher-salt}}, {{ingredient:olive-oil-2}}, {{ingredient:pinch-kosher-salt}}, and {{ingredient:pearl-barley}}.",
+    "Measure and stage {{ingredient:chicken-stock}}, {{ingredient:bay-leaf}}, {{ingredient:black-pepper}}, {{ingredient:chicken-stock-2}}, and {{ingredient:finely-chopped-fresh-parsley}}.",
+    "Measure and stage {{ingredient:fresh-thyme-leaves}}, {{ingredient:lemon-juice}}, {{ingredient:olive-oil-3}}, and {{ingredient:pinch-kosher-salt-2}}."
   ],
   "stepGroups": [
     {

@@ -21,19 +21,22 @@
           "amount": 0.5,
           "unit": "pound",
           "item": "dried cannellini or Great Northern beans",
-          "prep": "soaked overnight and drained"
+          "prep": "soaked overnight and drained",
+          "id": "dried-cannellini-or-great-northern-beans"
         },
         {
           "amount": 6,
           "unit": "cups",
           "item": "water",
-          "prep": ""
+          "prep": "",
+          "id": "water"
         },
         {
           "amount": 1,
           "unit": "",
           "item": "bay leaf",
-          "prep": ""
+          "prep": "",
+          "id": "bay-leaf"
         }
       ]
     },
@@ -44,67 +47,78 @@
           "amount": 2,
           "unit": "tablespoons",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 1,
           "unit": "medium",
           "item": "yellow onion",
-          "prep": "diced"
+          "prep": "diced",
+          "id": "yellow-onion"
         },
         {
           "amount": 1,
           "unit": "medium",
           "item": "carrot",
-          "prep": "diced"
+          "prep": "diced",
+          "id": "carrot"
         },
         {
           "amount": 1,
           "unit": "stalk",
           "item": "celery",
-          "prep": "diced"
+          "prep": "diced",
+          "id": "celery"
         },
         {
           "amount": 4,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "minced"
+          "prep": "minced",
+          "id": "garlic"
         },
         {
           "amount": 2,
           "unit": "teaspoons",
           "item": "tomato paste",
-          "prep": ""
+          "prep": "",
+          "id": "tomato-paste"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "fresh rosemary",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "fresh-rosemary"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "crushed red pepper",
-          "prep": ""
+          "prep": "",
+          "id": "crushed-red-pepper"
         },
         {
           "amount": 0.75,
           "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": "plus more to taste"
+          "prep": "plus more to taste",
+          "id": "kosher-salt"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         },
         {
           "amount": 3,
           "unit": "cups",
           "item": "chicken stock",
-          "prep": "plus more as needed"
+          "prep": "plus more as needed",
+          "id": "chicken-stock"
         }
       ]
     },
@@ -115,19 +129,22 @@
           "amount": 4,
           "unit": "ounces",
           "item": "kale",
-          "prep": "stems removed, leaves chopped"
+          "prep": "stems removed, leaves chopped",
+          "id": "kale"
         },
         {
           "amount": 2,
           "unit": "teaspoons",
           "item": "lemon juice",
-          "prep": ""
+          "prep": "",
+          "id": "lemon-juice"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "fresh parsley",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "fresh-parsley"
         }
       ]
     },
@@ -138,16 +155,31 @@
           "amount": 0,
           "unit": "",
           "item": "toasted whole grain bread",
-          "prep": ""
+          "prep": "",
+          "id": "toasted-whole-grain-bread"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "extra virgin olive oil for finishing",
-          "prep": ""
+          "prep": "",
+          "id": "extra-virgin-olive-oil-for-finishing"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:dried-cannellini-or-great-northern-beans}} as specified: soaked overnight and drained.",
+    "Dice {{ingredient:yellow-onion}}.",
+    "Dice {{ingredient:carrot}}.",
+    "Dice {{ingredient:celery}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Chop {{ingredient:fresh-rosemary}}.",
+    "Prepare {{ingredient:kale}} as specified: stems removed, leaves chopped.",
+    "Chop {{ingredient:fresh-parsley}}.",
+    "Measure and stage {{ingredient:water}}, {{ingredient:bay-leaf}}, {{ingredient:olive-oil}}, {{ingredient:tomato-paste}}, and {{ingredient:crushed-red-pepper}}.",
+    "Measure and stage {{ingredient:kosher-salt}}, {{ingredient:black-pepper}}, {{ingredient:chicken-stock}}, {{ingredient:lemon-juice}}, and {{ingredient:toasted-whole-grain-bread}}.",
+    "Measure and stage {{ingredient:extra-virgin-olive-oil-for-finishing}}."
   ],
   "stepGroups": [
     {

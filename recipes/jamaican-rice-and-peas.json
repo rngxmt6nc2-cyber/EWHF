@@ -21,19 +21,22 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "dried small red kidney beans",
-          "prep": ""
+          "prep": "",
+          "id": "dried-small-red-kidney-beans"
         },
         {
           "amount": 2,
           "unit": "cups",
           "item": "water",
-          "prep": ""
+          "prep": "",
+          "id": "water"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         }
       ]
     },
@@ -44,25 +47,29 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "long-grain rice",
-          "prep": "preferably jasmine"
+          "prep": "preferably jasmine",
+          "id": "long-grain-rice"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "light coconut milk",
-          "prep": ""
+          "prep": "",
+          "id": "light-coconut-milk"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "water",
-          "prep": ""
+          "prep": "",
+          "id": "water-2"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "chicken stock",
-          "prep": ""
+          "prep": "",
+          "id": "chicken-stock"
         }
       ]
     },
@@ -73,25 +80,29 @@
           "amount": 2,
           "unit": "",
           "item": "scallions",
-          "prep": "cut into 2-inch segments"
+          "prep": "cut into 2-inch segments",
+          "id": "scallions"
         },
         {
           "amount": 2,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "lightly crushed"
+          "prep": "lightly crushed",
+          "id": "garlic"
         },
         {
           "amount": 3,
           "unit": "sprigs",
           "item": "fresh thyme",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-thyme"
         },
         {
           "amount": 0.5,
           "unit": "small",
           "item": "Scotch bonnet pepper",
-          "prep": "left whole"
+          "prep": "left whole",
+          "id": "scotch-bonnet-pepper"
         }
       ]
     },
@@ -102,16 +113,25 @@
           "amount": 0.25,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-2"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "fresh thyme leaves",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "fresh-thyme-leaves"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:scallions}} as specified: cut into 2-inch segments.",
+    "Lightly crush {{ingredient:garlic}}.",
+    "Finely chop {{ingredient:fresh-thyme-leaves}}.",
+    "Measure and stage {{ingredient:dried-small-red-kidney-beans}}, {{ingredient:water}}, {{ingredient:kosher-salt}}, {{ingredient:long-grain-rice}}, and {{ingredient:light-coconut-milk}}.",
+    "Measure and stage {{ingredient:water-2}}, {{ingredient:chicken-stock}}, {{ingredient:fresh-thyme}}, {{ingredient:scotch-bonnet-pepper}}, and {{ingredient:kosher-salt-2}}."
   ],
   "stepGroups": [
     {

@@ -76,6 +76,13 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Split {{ingredient:english-muffins}}.",
+    "Very thinly slice {{ingredient:red-onion}}.",
+    "Drain {{ingredient:capers}}.",
+    "Chop {{ingredient:fresh-dill}}.",
+    "Measure and stage {{ingredient:low-fat-cream-cheese}}, {{ingredient:lox}}, {{ingredient:lemon-juice}}, and {{ingredient:black-pepper}}."
+  ],
   "stepGroups": [
     {
       "title": "Toast the Muffins",

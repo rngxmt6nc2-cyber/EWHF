@@ -161,6 +161,18 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:pearl-barley}} as specified: rinsed well.",
+    "Prepare {{ingredient:water-barley}} as specified: for par-cooking barley.",
+    "Slice {{ingredient:cremini-mushrooms}}.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Finely dice {{ingredient:carrots}}.",
+    "Finely dice {{ingredient:celery}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Mince {{ingredient:fresh-parsley}}.",
+    "Measure and stage {{ingredient:olive-oil-mushrooms}}, {{ingredient:fine-sea-salt-aromatics}}, {{ingredient:black-pepper}}, {{ingredient:tomato-paste}}, and {{ingredient:dried-thyme}}.",
+    "Measure and stage {{ingredient:bay-leaf}}, {{ingredient:vegetable-stock}}, {{ingredient:low-sodium-soy-sauce}}, {{ingredient:dijon-mustard}}, and {{ingredient:apple-cider-vinegar}}."
+  ],
   "stepGroups": [
     {
       "title": "Par-Cook the Barley",

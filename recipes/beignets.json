@@ -102,6 +102,11 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Measure and stage {{ingredient:warm-water}}, {{ingredient:active-dry-yeast}}, {{ingredient:date-syrup}}, {{ingredient:all-purpose-flour}}, and {{ingredient:fine-sea-salt}}.",
+    "Measure and stage {{ingredient:olive-oil-dough}}, {{ingredient:vanilla-extract}}, {{ingredient:olive-oil-finish}}, {{ingredient:date-sugar}}, and {{ingredient:ground-cinnamon}}.",
+    "Measure and stage {{ingredient:finish-salt}}."
+  ],
   "stepGroups": [
     {
       "title": "Make the Dough",

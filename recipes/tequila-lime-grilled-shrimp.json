@@ -21,25 +21,29 @@
           "amount": 2,
           "unit": "pounds",
           "item": "large shrimp",
-          "prep": "16–20 count, peeled and deveined, tails on"
+          "prep": "16–20 count, peeled and deveined, tails on",
+          "id": "large-shrimp"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         }
       ]
     },
@@ -50,55 +54,64 @@
           "amount": 2,
           "unit": "tablespoons",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil-2"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "onion",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "onion"
         },
         {
           "amount": 3,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "garlic"
         },
         {
           "amount": 3,
           "unit": "tablespoons",
           "item": "blanco tequila",
-          "prep": ""
+          "prep": "",
+          "id": "blanco-tequila"
         },
         {
           "amount": 3,
           "unit": "tablespoons",
           "item": "fresh lime juice",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-lime-juice"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "orange juice",
-          "prep": ""
+          "prep": "",
+          "id": "orange-juice"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "lime zest",
-          "prep": ""
+          "prep": "",
+          "id": "lime-zest"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-2"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper-2"
         }
       ]
     },
@@ -109,19 +122,22 @@
           "amount": 1,
           "unit": "tablespoon",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-3"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "lime zest",
-          "prep": ""
+          "prep": "",
+          "id": "lime-zest-2"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "orange zest",
-          "prep": ""
+          "prep": "",
+          "id": "orange-zest"
         }
       ]
     },
@@ -132,16 +148,27 @@
           "amount": 2,
           "unit": "tablespoons",
           "item": "fresh parsley",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "fresh-parsley"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "fresh lime juice",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-lime-juice-2"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:large-shrimp}} as specified: 16–20 count, peeled and deveined, tails on.",
+    "Finely chop {{ingredient:onion}}.",
+    "Finely chop {{ingredient:garlic}}.",
+    "Chop {{ingredient:fresh-parsley}}.",
+    "Measure and stage {{ingredient:olive-oil}}, {{ingredient:kosher-salt}}, {{ingredient:black-pepper}}, {{ingredient:olive-oil-2}}, and {{ingredient:blanco-tequila}}.",
+    "Measure and stage {{ingredient:fresh-lime-juice}}, {{ingredient:orange-juice}}, {{ingredient:lime-zest}}, {{ingredient:kosher-salt-2}}, and {{ingredient:black-pepper-2}}.",
+    "Measure and stage {{ingredient:kosher-salt-3}}, {{ingredient:lime-zest-2}}, {{ingredient:orange-zest}}, and {{ingredient:fresh-lime-juice-2}}."
   ],
   "stepGroups": [
     {

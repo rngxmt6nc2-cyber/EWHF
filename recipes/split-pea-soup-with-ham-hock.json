@@ -135,6 +135,16 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Rinse and pick over {{ingredient:green-split-peas}}.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Finely dice {{ingredient:carrots}}.",
+    "Finely dice {{ingredient:celery}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Mince {{ingredient:fresh-parsley}}.",
+    "Measure and stage {{ingredient:smoked-ham-hock}}, {{ingredient:chicken-stock}}, {{ingredient:bay-leaves}}, {{ingredient:olive-oil}}, and {{ingredient:dried-thyme}}.",
+    "Measure and stage {{ingredient:black-pepper}}, {{ingredient:dijon-mustard}}, {{ingredient:apple-cider-vinegar}}, and {{ingredient:fine-sea-salt}}."
+  ],
   "stepGroups": [
     {
       "title": "Rinse the Peas",

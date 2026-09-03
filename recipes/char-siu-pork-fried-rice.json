@@ -165,6 +165,18 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Dice {{ingredient:yellow-onion}}.",
+    "Prepare {{ingredient:carrot}} as specified: diced small.",
+    "Prepare {{ingredient:scallions}} as specified: whites and greens separated, thinly sliced.",
+    "Mince {{ingredient:garlic}}.",
+    "Mince {{ingredient:ginger}}.",
+    "Prepare {{ingredient:char-siu-pork}} as specified: diced slightly larger than 1/4 inch.",
+    "Thaw {{ingredient:frozen-peas}}.",
+    "Measure and stage {{ingredient:soy-sauce}}, {{ingredient:oyster-sauce}}, {{ingredient:shaoxing-wine}}, {{ingredient:toasted-sesame-oil}}, and {{ingredient:rice-vinegar}}.",
+    "Measure and stage {{ingredient:white-pepper}}, {{ingredient:msg}}, {{ingredient:chicken-stock}}, {{ingredient:jasmine-rice}}, and {{ingredient:neutral-oil-eggs}}.",
+    "Measure and stage {{ingredient:eggs}}, {{ingredient:neutral-oil-vegetables}}, and {{ingredient:neutral-oil-rice}}."
+  ],
   "stepGroups": [
     {
       "title": "Prepare the rice and sauce",

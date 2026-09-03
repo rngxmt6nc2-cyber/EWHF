@@ -161,6 +161,18 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Pick over and rinse {{ingredient:dried-black-beans}}.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Finely dice {{ingredient:green-bell-pepper}}.",
+    "Finely dice {{ingredient:carrot}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Chop {{ingredient:fresh-cilantro}}.",
+    "Thinly slice {{ingredient:scallion}}.",
+    "Measure and stage {{ingredient:water-beans}}, {{ingredient:bay-leaf-beans}}, {{ingredient:olive-oil}}, {{ingredient:ground-cumin}}, and {{ingredient:dried-oregano}}.",
+    "Measure and stage {{ingredient:smoked-paprika}}, {{ingredient:black-pepper}}, {{ingredient:vegetable-stock}}, {{ingredient:fine-sea-salt}}, and {{ingredient:lime-juice}}.",
+    "Measure and stage {{ingredient:apple-cider-vinegar}}."
+  ],
   "stepGroups": [
     {
       "title": "Soak the Beans",

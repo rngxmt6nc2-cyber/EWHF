@@ -21,88 +21,110 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "dried chickpeas",
-          "prep": "soaked 6–12 hours and drained"
+          "prep": "soaked 6–12 hours and drained",
+          "id": "dried-chickpeas"
         },
         {
           "amount": 0.5,
           "unit": "medium",
           "item": "yellow onion",
-          "prep": "roughly chopped"
+          "prep": "roughly chopped",
+          "id": "yellow-onion"
         },
         {
           "amount": 2,
           "unit": "cloves",
           "item": "garlic",
-          "prep": ""
+          "prep": "",
+          "id": "garlic"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "fresh parsley leaves",
-          "prep": "packed"
+          "prep": "packed",
+          "id": "fresh-parsley-leaves"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "fresh cilantro leaves",
-          "prep": "packed"
+          "prep": "packed",
+          "id": "fresh-cilantro-leaves"
         },
         {
           "amount": 2,
           "unit": "",
           "item": "scallions including greens",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "scallions-including-greens"
         },
         {
           "amount": 0.75,
           "unit": "teaspoon",
           "item": "ground cumin",
-          "prep": ""
+          "prep": "",
+          "id": "ground-cumin"
         },
         {
           "amount": 0.75,
           "unit": "teaspoon",
           "item": "ground coriander",
-          "prep": ""
+          "prep": "",
+          "id": "ground-coriander"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "baking soda",
-          "prep": ""
+          "prep": "",
+          "id": "baking-soda"
         },
         {
           "amount": 1.5,
           "unit": "tablespoons",
           "item": "plain breadcrumbs",
-          "prep": ""
+          "prep": "",
+          "id": "plain-breadcrumbs"
         },
         {
           "amount": 1,
           "unit": "tablespoons",
           "item": "ice water",
-          "prep": ""
+          "prep": "",
+          "id": "ice-water"
         },
         {
           "amount": 2,
           "unit": "cups",
           "item": "avocado oil for frying",
-          "prep": ""
+          "prep": "",
+          "id": "avocado-oil-for-frying"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:dried-chickpeas}} as specified: soaked 6–12 hours and drained.",
+    "Roughly chop {{ingredient:yellow-onion}}.",
+    "Chop {{ingredient:scallions-including-greens}}.",
+    "Measure and stage {{ingredient:garlic}}, {{ingredient:fresh-parsley-leaves}}, {{ingredient:fresh-cilantro-leaves}}, {{ingredient:ground-cumin}}, and {{ingredient:ground-coriander}}.",
+    "Measure and stage {{ingredient:kosher-salt}}, {{ingredient:black-pepper}}, {{ingredient:baking-soda}}, {{ingredient:plain-breadcrumbs}}, and {{ingredient:ice-water}}.",
+    "Measure and stage {{ingredient:avocado-oil-for-frying}}."
   ],
   "stepGroups": [
     {

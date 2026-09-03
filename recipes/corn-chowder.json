@@ -175,6 +175,20 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:fresh-corn}} as specified: kernels cut from the cobs, cobs reserved.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Finely dice {{ingredient:celery}}.",
+    "Finely dice {{ingredient:carrot}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Prepare {{ingredient:yukon-gold-potatoes}} as specified: peeled and diced 1/2 inch.",
+    "Drain {{ingredient:cooked-white-beans}}.",
+    "Mince {{ingredient:fresh-parsley}}.",
+    "Thinly slice {{ingredient:scallion}}.",
+    "Measure and stage {{ingredient:water-stock}}, {{ingredient:bay-leaf}}, {{ingredient:fine-sea-salt-stock}}, {{ingredient:olive-oil}}, and {{ingredient:fresh-thyme}}.",
+    "Measure and stage {{ingredient:smoked-paprika}}, {{ingredient:black-pepper}}, {{ingredient:fine-sea-salt-soup}}, {{ingredient:nutritional-yeast}}, and {{ingredient:dijon-mustard}}.",
+    "Measure and stage {{ingredient:lemon-juice}}."
+  ],
   "stepGroups": [
     {
       "title": "Make the Corn Cob Stock",

@@ -21,13 +21,15 @@
           "amount": 0.5,
           "unit": "medium",
           "item": "green cabbage",
-          "prep": "about 500 g, very thinly shredded"
+          "prep": "about 500 g, very thinly shredded",
+          "id": "green-cabbage"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         }
       ]
     },
@@ -38,13 +40,15 @@
           "amount": 1,
           "unit": "medium",
           "item": "carrot",
-          "prep": "grated"
+          "prep": "grated",
+          "id": "carrot"
         },
         {
           "amount": 0.25,
           "unit": "small",
           "item": "yellow onion",
-          "prep": "very finely minced"
+          "prep": "very finely minced",
+          "id": "yellow-onion"
         }
       ]
     },
@@ -55,52 +59,68 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "plain Greek yogurt",
-          "prep": ""
+          "prep": "",
+          "id": "plain-greek-yogurt"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 2,
           "unit": "tbsp",
           "item": "dill pickle juice",
-          "prep": ""
+          "prep": "",
+          "id": "dill-pickle-juice"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "Dijon mustard",
-          "prep": ""
+          "prep": "",
+          "id": "dijon-mustard"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "celery seed",
-          "prep": ""
+          "prep": "",
+          "id": "celery-seed"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "freshly ground black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "freshly-ground-black-pepper"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "fresh dill",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "fresh-dill"
         },
         {
           "amount": 0.25,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-2"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:green-cabbage}} as specified: about 500 g, very thinly shredded.",
+    "Grate {{ingredient:carrot}}.",
+    "Very finely mince {{ingredient:yellow-onion}}.",
+    "Finely chop {{ingredient:fresh-dill}}.",
+    "Measure and stage {{ingredient:kosher-salt}}, {{ingredient:plain-greek-yogurt}}, {{ingredient:olive-oil}}, {{ingredient:dill-pickle-juice}}, and {{ingredient:dijon-mustard}}.",
+    "Measure and stage {{ingredient:celery-seed}}, {{ingredient:freshly-ground-black-pepper}}, and {{ingredient:kosher-salt-2}}."
   ],
   "stepGroups": [
     {

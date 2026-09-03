@@ -21,7 +21,8 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "dried navy beans",
-          "prep": ""
+          "prep": "",
+          "id": "dried-navy-beans"
         }
       ]
     },
@@ -32,19 +33,22 @@
           "amount": 0.25,
           "unit": "cup",
           "item": "dry brown jasmine rice",
-          "prep": ""
+          "prep": "",
+          "id": "dry-brown-jasmine-rice"
         },
         {
           "amount": 0.6666666667,
           "unit": "cup",
           "item": "water",
-          "prep": ""
+          "prep": "",
+          "id": "water"
         },
         {
           "amount": 1,
           "unit": "pinch",
           "item": "salt",
-          "prep": ""
+          "prep": "",
+          "id": "salt"
         }
       ]
     },
@@ -55,82 +59,105 @@
           "amount": 1,
           "unit": "small",
           "item": "onion",
-          "prep": "finely diced"
+          "prep": "finely diced",
+          "id": "onion"
         },
         {
           "amount": 1,
           "unit": "medium",
           "item": "carrot",
-          "prep": "finely diced"
+          "prep": "finely diced",
+          "id": "carrot"
         },
         {
           "amount": 1,
           "unit": "",
           "item": "celery stalk",
-          "prep": "finely diced"
+          "prep": "finely diced",
+          "id": "celery-stalk"
         },
         {
           "amount": 3,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "minced"
+          "prep": "minced",
+          "id": "garlic"
         },
         {
           "amount": 2,
           "unit": "packed cups",
           "item": "escarole",
-          "prep": "washed and chopped into 1- to 2-inch strips"
+          "prep": "washed and chopped into 1- to 2-inch strips",
+          "id": "escarole"
         },
         {
           "amount": 3,
           "unit": "cups",
           "item": "chicken stock",
-          "prep": ""
+          "prep": "",
+          "id": "chicken-stock"
         },
         {
           "amount": 1,
           "unit": "",
           "item": "bay leaf",
-          "prep": ""
+          "prep": "",
+          "id": "bay-leaf"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "dried thyme",
-          "prep": ""
+          "prep": "",
+          "id": "dried-thyme"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "juice of 1/2 lemon",
-          "prep": ""
+          "prep": "",
+          "id": "juice-of-1-2-lemon"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 3,
           "unit": "tablespoons",
           "item": "pesto",
-          "prep": ""
+          "prep": "",
+          "id": "pesto"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "salt",
-          "prep": "to taste"
+          "prep": "to taste",
+          "id": "salt-2"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "pepper",
-          "prep": "to taste"
+          "prep": "to taste",
+          "id": "pepper"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Finely dice {{ingredient:onion}}.",
+    "Finely dice {{ingredient:carrot}}.",
+    "Finely dice {{ingredient:celery-stalk}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Prepare {{ingredient:escarole}} as specified: washed and chopped into 1- to 2-inch strips.",
+    "Measure and stage {{ingredient:dried-navy-beans}}, {{ingredient:dry-brown-jasmine-rice}}, {{ingredient:water}}, {{ingredient:salt}}, and {{ingredient:chicken-stock}}.",
+    "Measure and stage {{ingredient:bay-leaf}}, {{ingredient:dried-thyme}}, {{ingredient:juice-of-1-2-lemon}}, {{ingredient:olive-oil}}, and {{ingredient:pesto}}.",
+    "Measure and stage {{ingredient:salt-2}} and {{ingredient:pepper}}."
   ],
   "stepGroups": [
     {

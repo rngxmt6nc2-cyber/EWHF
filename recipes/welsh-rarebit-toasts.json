@@ -21,97 +21,113 @@
           "amount": 0.333,
           "unit": "cup",
           "item": "raw cashews",
-          "prep": ""
+          "prep": "",
+          "id": "raw-cashews"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "peeled Yukon gold potato",
-          "prep": "diced"
+          "prep": "diced",
+          "id": "peeled-yukon-gold-potato"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "carrot",
-          "prep": "diced"
+          "prep": "diced",
+          "id": "carrot"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "brown ale, mild ale, amber lager, or non-hoppy lager",
-          "prep": ""
+          "prep": "",
+          "id": "brown-ale-mild-ale-amber-lager-or-non-hoppy-lager"
         },
         {
           "amount": 3,
           "unit": "tablespoons",
           "item": "nutritional yeast",
-          "prep": ""
+          "prep": "",
+          "id": "nutritional-yeast"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "white miso",
-          "prep": ""
+          "prep": "",
+          "id": "white-miso"
         },
         {
           "amount": 2,
           "unit": "teaspoons",
           "item": "Dijon mustard",
-          "prep": ""
+          "prep": "",
+          "id": "dijon-mustard"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "dry mustard",
-          "prep": ""
+          "prep": "",
+          "id": "dry-mustard"
         },
         {
           "amount": 2,
           "unit": "teaspoons",
           "item": "apple cider vinegar",
-          "prep": ""
+          "prep": "",
+          "id": "apple-cider-vinegar"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "Worcestershire sauce",
-          "prep": ""
+          "prep": "",
+          "id": "worcestershire-sauce"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "garlic powder",
-          "prep": ""
+          "prep": "",
+          "id": "garlic-powder"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "onion powder",
-          "prep": ""
+          "prep": "",
+          "id": "onion-powder"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "smoked paprika",
-          "prep": ""
+          "prep": "",
+          "id": "smoked-paprika"
         },
         {
           "amount": 0.125,
           "unit": "teaspoon",
           "item": "cayenne pepper",
-          "prep": ""
+          "prep": "",
+          "id": "cayenne-pepper"
         },
         {
           "amount": 0.75,
           "unit": "teaspoon",
           "item": "Diamond Crystal kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "diamond-crystal-kosher-salt"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "tapioca starch",
-          "prep": ""
+          "prep": "",
+          "id": "tapioca-starch"
         }
       ]
     },
@@ -122,13 +138,15 @@
           "amount": 4,
           "unit": "thick slices",
           "item": "whole-grain sourdough or sturdy whole wheat bread",
-          "prep": ""
+          "prep": "",
+          "id": "whole-grain-sourdough-or-sturdy-whole-wheat-bread"
         },
         {
           "amount": 2,
           "unit": "teaspoons",
           "item": "extra-virgin olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "extra-virgin-olive-oil"
         }
       ]
     },
@@ -139,13 +157,15 @@
           "amount": 1,
           "unit": "teaspoon",
           "item": "nutritional yeast",
-          "prep": ""
+          "prep": "",
+          "id": "nutritional-yeast-2"
         },
         {
           "amount": 0.125,
           "unit": "teaspoon",
           "item": "smoked paprika",
-          "prep": ""
+          "prep": "",
+          "id": "smoked-paprika-2"
         }
       ]
     },
@@ -156,10 +176,19 @@
           "amount": 1,
           "unit": "tablespoon",
           "item": "finely sliced chives",
-          "prep": ""
+          "prep": "",
+          "id": "finely-sliced-chives"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Dice {{ingredient:peeled-yukon-gold-potato}}.",
+    "Dice {{ingredient:carrot}}.",
+    "Measure and stage {{ingredient:raw-cashews}}, {{ingredient:brown-ale-mild-ale-amber-lager-or-non-hoppy-lager}}, {{ingredient:nutritional-yeast}}, {{ingredient:white-miso}}, and {{ingredient:dijon-mustard}}.",
+    "Measure and stage {{ingredient:dry-mustard}}, {{ingredient:apple-cider-vinegar}}, {{ingredient:worcestershire-sauce}}, {{ingredient:garlic-powder}}, and {{ingredient:onion-powder}}.",
+    "Measure and stage {{ingredient:smoked-paprika}}, {{ingredient:cayenne-pepper}}, {{ingredient:diamond-crystal-kosher-salt}}, {{ingredient:tapioca-starch}}, and {{ingredient:whole-grain-sourdough-or-sturdy-whole-wheat-bread}}.",
+    "Measure and stage {{ingredient:extra-virgin-olive-oil}}, {{ingredient:nutritional-yeast-2}}, {{ingredient:smoked-paprika-2}}, and {{ingredient:finely-sliced-chives}}."
   ],
   "stepGroups": [
     {

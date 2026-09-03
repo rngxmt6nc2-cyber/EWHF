@@ -229,6 +229,22 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Pick over and rinse {{ingredient:brown-lentils}}.",
+    "Prepare {{ingredient:yukon-gold-potatoes}} as specified: peeled and cut into 1 1/2-inch chunks.",
+    "Prepare {{ingredient:fine-sea-salt-potato-water}} as specified: for the cooking water.",
+    "Finely chop {{ingredient:cremini-mushrooms}}.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Finely dice {{ingredient:carrots}}.",
+    "Finely dice {{ingredient:celery}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Crush {{ingredient:dried-rosemary}}.",
+    "Mince {{ingredient:fresh-parsley}}.",
+    "Measure and stage {{ingredient:vegetable-stock-lentils}}, {{ingredient:bay-leaf}}, {{ingredient:unsweetened-soy-milk}}, {{ingredient:olive-oil-potatoes}}, and {{ingredient:dijon-mustard-potatoes}}.",
+    "Measure and stage {{ingredient:fine-sea-salt-potatoes}}, {{ingredient:black-pepper-potatoes}}, {{ingredient:olive-oil-filling}}, {{ingredient:fresh-thyme}}, and {{ingredient:black-pepper-filling}}.",
+    "Measure and stage {{ingredient:fine-sea-salt-filling}}, {{ingredient:tomato-paste}}, {{ingredient:all-purpose-flour}}, {{ingredient:vegetable-stock-gravy}}, and {{ingredient:low-sodium-soy-sauce}}.",
+    "Measure and stage {{ingredient:dijon-mustard-gravy}} and {{ingredient:apple-cider-vinegar}}."
+  ],
   "stepGroups": [
     {
       "title": "Cook the Lentils",

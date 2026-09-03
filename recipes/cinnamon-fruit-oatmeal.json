@@ -21,31 +21,36 @@
           "amount": 1,
           "unit": "packet",
           "item": "instant oatmeal",
-          "prep": ""
+          "prep": "",
+          "id": "instant-oatmeal"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "chia seeds",
-          "prep": ""
+          "prep": "",
+          "id": "chia-seeds"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "ground flax seeds",
-          "prep": ""
+          "prep": "",
+          "id": "ground-flax-seeds"
         },
         {
           "amount": 0.6666666667,
           "unit": "cup",
           "item": "unsweetened almond milk",
-          "prep": ""
+          "prep": "",
+          "id": "unsweetened-almond-milk"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "cinnamon",
-          "prep": ""
+          "prep": "",
+          "id": "cinnamon"
         }
       ]
     },
@@ -56,16 +61,22 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "frozen fruit",
-          "prep": ""
+          "prep": "",
+          "id": "frozen-fruit"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "honey",
-          "prep": ""
+          "prep": "",
+          "id": "honey"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Measure and stage {{ingredient:instant-oatmeal}}, {{ingredient:chia-seeds}}, {{ingredient:ground-flax-seeds}}, {{ingredient:unsweetened-almond-milk}}, and {{ingredient:cinnamon}}.",
+    "Measure and stage {{ingredient:frozen-fruit}} and {{ingredient:honey}}."
   ],
   "stepGroups": [
     {

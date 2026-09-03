@@ -1,4 +1,3 @@
-
 {
   "id": "cacio-e-pepe",
   "title": "Cacio e Pepe",
@@ -131,6 +130,13 @@
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Thinly slice {{ingredient:yellow-onion}}.",
+    "Prepare {{ingredient:black-peppercorns}} as specified: coarsely crushed.",
+    "Measure and stage {{ingredient:olive-oil-onion-base}}, {{ingredient:kosher-salt-onion-base}}, {{ingredient:cooked-white-beans}}, {{ingredient:white-miso}}, and {{ingredient:hot-pasta-cooking-water}}.",
+    "Measure and stage {{ingredient:dry-spaghetti-or-tonnarelli}}, {{ingredient:water}}, {{ingredient:kosher-salt-pasta}}, {{ingredient:olive-oil-pepper-oil}}, and {{ingredient:lemon-juice}}.",
+    "Measure and stage {{ingredient:parmesan-style-shaky-cheese}}."
   ],
   "stepGroups": [
     {

@@ -21,43 +21,50 @@
           "amount": 1,
           "unit": "large",
           "item": "russet potato",
-          "prep": "sliced ¼ inch thick"
+          "prep": "sliced ¼ inch thick",
+          "id": "russet-potato"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "garlic powder",
-          "prep": ""
+          "prep": "",
+          "id": "garlic-powder"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "fresh oregano",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "fresh-oregano"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "tomato paste",
-          "prep": ""
+          "prep": "",
+          "id": "tomato-paste"
         }
       ]
     },
@@ -68,19 +75,22 @@
           "amount": 1,
           "unit": "large",
           "item": "eggplant",
-          "prep": ""
+          "prep": "",
+          "id": "eggplant"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-2"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil-2"
         }
       ]
     },
@@ -91,43 +101,50 @@
           "amount": 1,
           "unit": "cup",
           "item": "plain Greek yogurt",
-          "prep": ""
+          "prep": "",
+          "id": "plain-greek-yogurt"
         },
         {
           "amount": 3,
           "unit": "",
           "item": "egg whites",
-          "prep": ""
+          "prep": "",
+          "id": "egg-whites"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "flour",
-          "prep": ""
+          "prep": "",
+          "id": "flour"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "ground nutmeg",
-          "prep": ""
+          "prep": "",
+          "id": "ground-nutmeg"
         },
         {
           "amount": 1,
           "unit": "clove",
           "item": "garlic",
-          "prep": "finely grated"
+          "prep": "finely grated",
+          "id": "garlic"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-3"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "chicken stock",
-          "prep": ""
+          "prep": "",
+          "id": "chicken-stock"
         }
       ]
     },
@@ -138,94 +155,123 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "dried brown lentils",
-          "prep": ""
+          "prep": "",
+          "id": "dried-brown-lentils"
         },
         {
           "amount": 4,
           "unit": "cups",
           "item": "water",
-          "prep": ""
+          "prep": "",
+          "id": "water"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-4"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil-3"
         },
         {
           "amount": 1,
           "unit": "small",
           "item": "onion",
-          "prep": "finely diced"
+          "prep": "finely diced",
+          "id": "onion"
         },
         {
           "amount": 6,
           "unit": "ounces",
           "item": "mushrooms",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "mushrooms"
         },
         {
           "amount": 3,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "minced"
+          "prep": "minced",
+          "id": "garlic-2"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "tomato paste",
-          "prep": ""
+          "prep": "",
+          "id": "tomato-paste-2"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "red wine vinegar",
-          "prep": ""
+          "prep": "",
+          "id": "red-wine-vinegar"
         },
         {
           "amount": 1,
           "unit": "cup",
           "item": "crushed tomatoes",
-          "prep": ""
+          "prep": "",
+          "id": "crushed-tomatoes"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "chicken stock",
-          "prep": ""
+          "prep": "",
+          "id": "chicken-stock-2"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "fresh oregano",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "fresh-oregano-2"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "ground cinnamon",
-          "prep": ""
+          "prep": "",
+          "id": "ground-cinnamon"
         },
         {
           "amount": 0.25,
           "unit": "teaspoon",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper-2"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-5"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:russet-potato}} as specified: sliced ¼ inch thick.",
+    "Chop {{ingredient:fresh-oregano}}.",
+    "Finely grate {{ingredient:garlic}}.",
+    "Finely dice {{ingredient:onion}}.",
+    "Finely chop {{ingredient:mushrooms}}.",
+    "Mince {{ingredient:garlic-2}}.",
+    "Chop {{ingredient:fresh-oregano-2}}.",
+    "Measure and stage {{ingredient:olive-oil}}, {{ingredient:kosher-salt}}, {{ingredient:black-pepper}}, {{ingredient:garlic-powder}}, and {{ingredient:tomato-paste}}.",
+    "Measure and stage {{ingredient:eggplant}}, {{ingredient:kosher-salt-2}}, {{ingredient:olive-oil-2}}, {{ingredient:plain-greek-yogurt}}, and {{ingredient:egg-whites}}.",
+    "Measure and stage {{ingredient:flour}}, {{ingredient:ground-nutmeg}}, {{ingredient:kosher-salt-3}}, {{ingredient:chicken-stock}}, and {{ingredient:dried-brown-lentils}}.",
+    "Measure and stage {{ingredient:water}}, {{ingredient:kosher-salt-4}}, {{ingredient:olive-oil-3}}, {{ingredient:tomato-paste-2}}, and {{ingredient:red-wine-vinegar}}.",
+    "Measure and stage {{ingredient:crushed-tomatoes}}, {{ingredient:chicken-stock-2}}, {{ingredient:ground-cinnamon}}, {{ingredient:black-pepper-2}}, and {{ingredient:kosher-salt-5}}."
   ],
   "stepGroups": [
     {

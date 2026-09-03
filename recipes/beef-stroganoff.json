@@ -204,6 +204,18 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:impossible-bef-tips}} as specified: cut into bite-sized pieces.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Prepare {{ingredient:cremini-mushrooms}} as specified: half finely chopped, half sliced.",
+    "Mince {{ingredient:garlic}}.",
+    "Chop {{ingredient:fresh-parsley}}.",
+    "Chop {{ingredient:fresh-thyme}}.",
+    "Measure and stage {{ingredient:kosher-salt-protein}}, {{ingredient:black-pepper-protein}}, {{ingredient:soy-sauce-protein}}, {{ingredient:olive-oil-protein}}, and {{ingredient:olive-oil-aromatics}}.",
+    "Measure and stage {{ingredient:kosher-salt-aromatics}}, {{ingredient:dijon-mustard}}, {{ingredient:soy-sauce-flavor-build}}, {{ingredient:sweet-paprika}}, and {{ingredient:black-pepper-flavor-build}}.",
+    "Measure and stage {{ingredient:dry-white-wine}}, {{ingredient:stock}}, {{ingredient:cornstarch}}, {{ingredient:cold-water}}, and {{ingredient:sour-cream}}.",
+    "Measure and stage {{ingredient:red-wine-vinegar}}."
+  ],
   "stepGroups": [
     {
       "title": "Sear the Impossible",

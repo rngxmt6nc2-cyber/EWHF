@@ -21,37 +21,43 @@
           "amount": 2,
           "unit": "tbsp",
           "item": "doubanjiang",
-          "prep": ""
+          "prep": "",
+          "id": "doubanjiang"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "fermented black beans",
-          "prep": "rinsed and roughly chopped"
+          "prep": "rinsed and roughly chopped",
+          "id": "fermented-black-beans"
         },
         {
           "amount": 2,
           "unit": "tsp",
           "item": "light soy sauce",
-          "prep": ""
+          "prep": "",
+          "id": "light-soy-sauce"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "dark soy sauce",
-          "prep": ""
+          "prep": "",
+          "id": "dark-soy-sauce"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "white miso",
-          "prep": ""
+          "prep": "",
+          "id": "white-miso"
         },
         {
           "amount": 1,
           "unit": "cup",
           "item": "vegetable stock",
-          "prep": ""
+          "prep": "",
+          "id": "vegetable-stock"
         }
       ]
     },
@@ -62,19 +68,22 @@
           "amount": 1,
           "unit": "block",
           "item": "soft tofu",
-          "prep": "14 oz"
+          "prep": "14 oz",
+          "id": "soft-tofu"
         },
         {
           "amount": 2,
           "unit": "qt",
           "item": "water",
-          "prep": ""
+          "prep": "",
+          "id": "water"
         },
         {
           "amount": 2,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         }
       ]
     },
@@ -85,19 +94,22 @@
           "amount": 1,
           "unit": "tbsp",
           "item": "avocado oil",
-          "prep": ""
+          "prep": "",
+          "id": "avocado-oil"
         },
         {
           "amount": 4,
           "unit": "oz",
           "item": "shiitake mushrooms",
-          "prep": "very finely chopped"
+          "prep": "very finely chopped",
+          "id": "shiitake-mushrooms"
         },
         {
           "amount": 0.25,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-2"
         }
       ]
     },
@@ -108,31 +120,36 @@
           "amount": 4,
           "unit": "",
           "item": "scallions",
-          "prep": "thinly sliced, whites and greens separated"
+          "prep": "thinly sliced, whites and greens separated",
+          "id": "scallions"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "fresh ginger",
-          "prep": "finely minced"
+          "prep": "finely minced",
+          "id": "fresh-ginger"
         },
         {
           "amount": 4,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "finely minced"
+          "prep": "finely minced",
+          "id": "garlic"
         },
         {
           "amount": 2,
           "unit": "tsp",
           "item": "Sichuan peppercorns",
-          "prep": "lightly toasted and ground"
+          "prep": "lightly toasted and ground",
+          "id": "sichuan-peppercorns"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "chile flakes",
-          "prep": ""
+          "prep": "",
+          "id": "chile-flakes"
         }
       ]
     },
@@ -143,22 +160,36 @@
           "amount": 0.5,
           "unit": "tsp",
           "item": "cornstarch",
-          "prep": ""
+          "prep": "",
+          "id": "cornstarch"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "cool water",
-          "prep": ""
+          "prep": "",
+          "id": "cool-water"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "toasted sesame oil",
-          "prep": ""
+          "prep": "",
+          "id": "toasted-sesame-oil"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:fermented-black-beans}} as specified: rinsed and roughly chopped.",
+    "Very finely chop {{ingredient:shiitake-mushrooms}}.",
+    "Prepare {{ingredient:scallions}} as specified: thinly sliced, whites and greens separated.",
+    "Finely mince {{ingredient:fresh-ginger}}.",
+    "Finely mince {{ingredient:garlic}}.",
+    "Prepare {{ingredient:sichuan-peppercorns}} as specified: lightly toasted and ground.",
+    "Measure and stage {{ingredient:doubanjiang}}, {{ingredient:light-soy-sauce}}, {{ingredient:dark-soy-sauce}}, {{ingredient:white-miso}}, and {{ingredient:vegetable-stock}}.",
+    "Measure and stage {{ingredient:soft-tofu}}, {{ingredient:water}}, {{ingredient:kosher-salt}}, {{ingredient:avocado-oil}}, and {{ingredient:kosher-salt-2}}.",
+    "Measure and stage {{ingredient:chile-flakes}}, {{ingredient:cornstarch}}, {{ingredient:cool-water}}, and {{ingredient:toasted-sesame-oil}}."
   ],
   "stepGroups": [
     {

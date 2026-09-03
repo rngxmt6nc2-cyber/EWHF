@@ -21,55 +21,64 @@
           "amount": 1,
           "unit": "medium",
           "item": "eggplant",
-          "prep": "sliced into 1/2-inch rounds"
+          "prep": "sliced into 1/2-inch rounds",
+          "id": "eggplant"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "salt, for drawing out moisture",
-          "prep": ""
+          "prep": "",
+          "id": "salt-for-drawing-out-moisture"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "all-purpose flour",
-          "prep": ""
+          "prep": "",
+          "id": "all-purpose-flour"
         },
         {
           "amount": 1,
           "unit": "cup",
           "item": "Egg Beaters",
-          "prep": ""
+          "prep": "",
+          "id": "egg-beaters"
         },
         {
           "amount": 1,
           "unit": "cup",
           "item": "whole wheat panko breadcrumbs",
-          "prep": ""
+          "prep": "",
+          "id": "whole-wheat-panko-breadcrumbs"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "dried oregano",
-          "prep": ""
+          "prep": "",
+          "id": "dried-oregano"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "dried basil",
-          "prep": ""
+          "prep": "",
+          "id": "dried-basil"
         },
         {
           "amount": 1,
           "unit": "pinch",
           "item": "red pepper flakes",
-          "prep": ""
+          "prep": "",
+          "id": "red-pepper-flakes"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "avocado oil spray, for crisping",
-          "prep": ""
+          "prep": "",
+          "id": "avocado-oil-spray-for-crisping"
         }
       ]
     },
@@ -80,22 +89,31 @@
           "amount": 2,
           "unit": "cups",
           "item": "tomato sauce",
-          "prep": ""
+          "prep": "",
+          "id": "tomato-sauce"
         },
         {
           "amount": 1,
           "unit": "cup",
           "item": "low-fat mozzarella shreds",
-          "prep": ""
+          "prep": "",
+          "id": "low-fat-mozzarella-shreds"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "fresh basil leaves, for garnish",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-basil-leaves-for-garnish"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:eggplant}} as specified: sliced into 1/2-inch rounds.",
+    "Measure and stage {{ingredient:salt-for-drawing-out-moisture}}, {{ingredient:all-purpose-flour}}, {{ingredient:egg-beaters}}, {{ingredient:whole-wheat-panko-breadcrumbs}}, and {{ingredient:dried-oregano}}.",
+    "Measure and stage {{ingredient:dried-basil}}, {{ingredient:red-pepper-flakes}}, {{ingredient:avocado-oil-spray-for-crisping}}, {{ingredient:tomato-sauce}}, and {{ingredient:low-fat-mozzarella-shreds}}.",
+    "Measure and stage {{ingredient:fresh-basil-leaves-for-garnish}}."
   ],
   "stepGroups": [
     {

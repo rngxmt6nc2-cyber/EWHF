@@ -21,19 +21,22 @@
           "amount": 4,
           "unit": "large",
           "item": "bell peppers",
-          "prep": "tops cut off and seeds removed"
+          "prep": "tops cut off and seeds removed",
+          "id": "bell-peppers"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         }
       ]
     },
@@ -44,7 +47,8 @@
           "amount": 0.75,
           "unit": "cup",
           "item": "Carolina Gold rice",
-          "prep": ""
+          "prep": "",
+          "id": "carolina-gold-rice"
         }
       ]
     },
@@ -55,55 +59,64 @@
           "amount": 1,
           "unit": "tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil-2"
         },
         {
           "amount": 1,
           "unit": "medium",
           "item": "onion",
-          "prep": "finely diced"
+          "prep": "finely diced",
+          "id": "onion"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "tomato paste",
-          "prep": ""
+          "prep": "",
+          "id": "tomato-paste"
         },
         {
           "amount": 3,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "minced"
+          "prep": "minced",
+          "id": "garlic"
         },
         {
           "amount": 1.5,
           "unit": "cups",
           "item": "MorningStar Farms Be’f Crumbles",
-          "prep": ""
+          "prep": "",
+          "id": "morningstar-farms-be-f-crumbles"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "stock",
-          "prep": ""
+          "prep": "",
+          "id": "stock"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "soy sauce",
-          "prep": ""
+          "prep": "",
+          "id": "soy-sauce"
         },
         {
           "amount": 2,
           "unit": "tsp",
           "item": "red wine vinegar",
-          "prep": ""
+          "prep": "",
+          "id": "red-wine-vinegar"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "Worcestershire sauce",
-          "prep": ""
+          "prep": "",
+          "id": "worcestershire-sauce"
         }
       ]
     },
@@ -114,43 +127,50 @@
           "amount": 3,
           "unit": "tbsp",
           "item": "fresh parsley",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "fresh-parsley"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "fresh oregano",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "fresh-oregano"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "sweet paprika",
-          "prep": ""
+          "prep": "",
+          "id": "sweet-paprika"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "smoked paprika",
-          "prep": ""
+          "prep": "",
+          "id": "smoked-paprika"
         },
         {
           "amount": 0.125,
           "unit": "tsp",
           "item": "cayenne pepper",
-          "prep": ""
+          "prep": "",
+          "id": "cayenne-pepper"
         },
         {
           "amount": 0.75,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-2"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         }
       ]
     },
@@ -161,31 +181,36 @@
           "amount": 2,
           "unit": "cups",
           "item": "Low Sodium V8 vegetable juice",
-          "prep": ""
+          "prep": "",
+          "id": "low-sodium-v8-vegetable-juice"
         },
         {
           "amount": 1,
           "unit": "cup",
           "item": "stock",
-          "prep": ""
+          "prep": "",
+          "id": "stock-2"
         },
         {
           "amount": 1,
           "unit": "",
           "item": "jalapeño",
-          "prep": "sliced"
+          "prep": "sliced",
+          "id": "jalapeno"
         },
         {
           "amount": 0.125,
           "unit": "tsp",
           "item": "cayenne pepper",
-          "prep": ""
+          "prep": "",
+          "id": "cayenne-pepper-2"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "soy sauce",
-          "prep": ""
+          "prep": "",
+          "id": "soy-sauce-2"
         }
       ]
     },
@@ -196,13 +221,15 @@
           "amount": 8,
           "unit": "",
           "item": "jalapeño slices",
-          "prep": "2 per pepper"
+          "prep": "2 per pepper",
+          "id": "jalapeno-slices"
         },
         {
           "amount": 2,
           "unit": "tbsp",
           "item": "fresh parsley",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "fresh-parsley-2"
         }
       ]
     },
@@ -213,76 +240,106 @@
           "amount": 1,
           "unit": "tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil-3"
         },
         {
           "amount": 0.5,
           "unit": "small",
           "item": "onion",
-          "prep": "very finely minced"
+          "prep": "very finely minced",
+          "id": "onion-2"
         },
         {
           "amount": 2,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "minced to a paste"
+          "prep": "minced to a paste",
+          "id": "garlic-2"
         },
         {
           "amount": 1,
           "unit": "",
           "item": "roasted red bell pepper",
-          "prep": "peeled"
+          "prep": "peeled",
+          "id": "roasted-red-bell-pepper"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "tomato paste",
-          "prep": ""
+          "prep": "",
+          "id": "tomato-paste-2"
         },
         {
           "amount": 1,
           "unit": "cup",
           "item": "stock",
-          "prep": ""
+          "prep": "",
+          "id": "stock-3"
         },
         {
           "amount": 0.5,
           "unit": "cup",
           "item": "reserved braising liquid",
-          "prep": ""
+          "prep": "",
+          "id": "reserved-braising-liquid"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "sweet paprika",
-          "prep": ""
+          "prep": "",
+          "id": "sweet-paprika-2"
         },
         {
           "amount": 0.25,
           "unit": "tsp",
           "item": "smoked paprika",
-          "prep": ""
+          "prep": "",
+          "id": "smoked-paprika-2"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "red wine vinegar",
-          "prep": ""
+          "prep": "",
+          "id": "red-wine-vinegar-2"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "lemon juice",
-          "prep": ""
+          "prep": "",
+          "id": "lemon-juice"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Salt",
-          "prep": "to taste"
+          "prep": "to taste",
+          "id": "salt"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:bell-peppers}} as specified: tops cut off and seeds removed.",
+    "Finely dice {{ingredient:onion}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Chop {{ingredient:fresh-parsley}}.",
+    "Chop {{ingredient:fresh-oregano}}.",
+    "Slice {{ingredient:jalapeno}}.",
+    "Chop {{ingredient:fresh-parsley-2}}.",
+    "Very finely mince {{ingredient:onion-2}}.",
+    "Prepare {{ingredient:garlic-2}} as specified: minced to a paste.",
+    "Peel {{ingredient:roasted-red-bell-pepper}}.",
+    "Measure and stage {{ingredient:olive-oil}}, {{ingredient:kosher-salt}}, {{ingredient:carolina-gold-rice}}, {{ingredient:olive-oil-2}}, and {{ingredient:tomato-paste}}.",
+    "Measure and stage {{ingredient:morningstar-farms-be-f-crumbles}}, {{ingredient:stock}}, {{ingredient:soy-sauce}}, {{ingredient:red-wine-vinegar}}, and {{ingredient:worcestershire-sauce}}.",
+    "Measure and stage {{ingredient:sweet-paprika}}, {{ingredient:smoked-paprika}}, {{ingredient:cayenne-pepper}}, {{ingredient:kosher-salt-2}}, and {{ingredient:black-pepper}}.",
+    "Measure and stage {{ingredient:low-sodium-v8-vegetable-juice}}, {{ingredient:stock-2}}, {{ingredient:cayenne-pepper-2}}, {{ingredient:soy-sauce-2}}, and {{ingredient:jalapeno-slices}}.",
+    "Measure and stage {{ingredient:olive-oil-3}}, {{ingredient:tomato-paste-2}}, {{ingredient:stock-3}}, {{ingredient:reserved-braising-liquid}}, and {{ingredient:sweet-paprika-2}}.",
+    "Measure and stage {{ingredient:smoked-paprika-2}}, {{ingredient:red-wine-vinegar-2}}, {{ingredient:lemon-juice}}, and {{ingredient:salt}}."
   ],
   "stepGroups": [
     {

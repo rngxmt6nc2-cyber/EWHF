@@ -17,19 +17,67 @@
     {
       "title": "Greens",
       "items": [
-        { "id": "purslane", "amount": 3, "unit": "packed cups", "item": "tender purslane sprigs and leaves", "prep": "washed and thoroughly dried" },
-        { "id": "flat-leaf-parsley", "amount": 1, "unit": "packed cup", "item": "flat-leaf parsley leaves", "prep": "washed and thoroughly dried" },
-        { "id": "scallions", "amount": 2, "unit": "", "item": "scallions", "prep": "thinly sliced" }
+        {
+          "id": "purslane",
+          "amount": 3,
+          "unit": "packed cups",
+          "item": "tender purslane sprigs and leaves",
+          "prep": "washed and thoroughly dried"
+        },
+        {
+          "id": "flat-leaf-parsley",
+          "amount": 1,
+          "unit": "packed cup",
+          "item": "flat-leaf parsley leaves",
+          "prep": "washed and thoroughly dried"
+        },
+        {
+          "id": "scallions",
+          "amount": 2,
+          "unit": "",
+          "item": "scallions",
+          "prep": "thinly sliced"
+        }
       ]
     },
     {
       "title": "Dijon Vinaigrette",
       "items": [
-        { "id": "red-wine-vinegar", "amount": 1, "unit": "tablespoon", "item": "red wine vinegar", "prep": "" },
-        { "id": "dijon-mustard", "amount": 1, "unit": "teaspoon", "item": "Dijon mustard", "prep": "" },
-        { "id": "extra-virgin-olive-oil", "amount": 2, "unit": "tablespoons", "item": "extra-virgin olive oil", "prep": "" },
-        { "id": "kosher-salt", "amount": 0.25, "unit": "teaspoon", "item": "kosher salt", "prep": "" },
-        { "id": "black-pepper", "amount": 0.25, "unit": "teaspoon", "item": "freshly ground black pepper", "prep": "" }
+        {
+          "id": "red-wine-vinegar",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "red wine vinegar",
+          "prep": ""
+        },
+        {
+          "id": "dijon-mustard",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "id": "extra-virgin-olive-oil",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "freshly ground black pepper",
+          "prep": ""
+        }
       ]
     }
   ],

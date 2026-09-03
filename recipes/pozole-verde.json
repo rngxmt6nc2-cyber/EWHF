@@ -21,61 +21,71 @@
           "amount": 2,
           "unit": "cloves",
           "item": "garlic",
-          "prep": ""
+          "prep": "",
+          "id": "garlic"
         },
         {
           "amount": 0.5,
           "unit": "",
           "item": "yellow onion",
-          "prep": "chopped"
+          "prep": "chopped",
+          "id": "yellow-onion"
         },
         {
           "amount": 1,
           "unit": "small",
           "item": "jalapeño",
-          "prep": "seeded"
+          "prep": "seeded",
+          "id": "jalapeno"
         },
         {
           "amount": 0.5,
           "unit": "",
           "item": "poblano pepper",
-          "prep": "seeded"
+          "prep": "seeded",
+          "id": "poblano-pepper"
         },
         {
           "amount": 1.5,
           "unit": "cups",
           "item": "chopped greens",
-          "prep": ""
+          "prep": "",
+          "id": "chopped-greens"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "chopped fresh cilantro",
-          "prep": ""
+          "prep": "",
+          "id": "chopped-fresh-cilantro"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "ground cumin",
-          "prep": ""
+          "prep": "",
+          "id": "ground-cumin"
         },
         {
           "amount": 1,
           "unit": "tablespoon",
           "item": "toasted pumpkin seeds",
-          "prep": ""
+          "prep": "",
+          "id": "toasted-pumpkin-seeds"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "salt",
-          "prep": "to taste"
+          "prep": "to taste",
+          "id": "salt"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "juice of 1/2 lime",
-          "prep": ""
+          "prep": "",
+          "id": "juice-of-1-2-lime"
         }
       ]
     },
@@ -86,13 +96,15 @@
           "amount": 1.5,
           "unit": "cups",
           "item": "canned hominy",
-          "prep": "drained and rinsed"
+          "prep": "drained and rinsed",
+          "id": "canned-hominy"
         },
         {
           "amount": 1.5,
           "unit": "cups",
           "item": "vegetable broth",
-          "prep": ""
+          "prep": "",
+          "id": "vegetable-broth"
         }
       ]
     },
@@ -103,13 +115,15 @@
           "amount": 0.5,
           "unit": "block",
           "item": "extra-firm tofu",
-          "prep": "pressed and cubed"
+          "prep": "pressed and cubed",
+          "id": "extra-firm-tofu"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "extra virgin olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "extra-virgin-olive-oil"
         }
       ]
     },
@@ -120,40 +134,56 @@
           "amount": 0,
           "unit": "",
           "item": "sliced avocado",
-          "prep": ""
+          "prep": "",
+          "id": "sliced-avocado"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "finely chopped red onion",
-          "prep": ""
+          "prep": "",
+          "id": "finely-chopped-red-onion"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "shredded lettuce or cabbage",
-          "prep": ""
+          "prep": "",
+          "id": "shredded-lettuce-or-cabbage"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "baked corn tortilla strips",
-          "prep": ""
+          "prep": "",
+          "id": "baked-corn-tortilla-strips"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "lime wedges",
-          "prep": ""
+          "prep": "",
+          "id": "lime-wedges"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "hot sauce",
-          "prep": ""
+          "prep": "",
+          "id": "hot-sauce"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Chop {{ingredient:yellow-onion}}.",
+    "Seed {{ingredient:jalapeno}}.",
+    "Seed {{ingredient:poblano-pepper}}.",
+    "Drain and rinse {{ingredient:canned-hominy}}.",
+    "Measure and stage {{ingredient:garlic}}, {{ingredient:chopped-greens}}, {{ingredient:chopped-fresh-cilantro}}, {{ingredient:ground-cumin}}, and {{ingredient:toasted-pumpkin-seeds}}.",
+    "Measure and stage {{ingredient:salt}}, {{ingredient:juice-of-1-2-lime}}, {{ingredient:vegetable-broth}}, {{ingredient:extra-firm-tofu}}, and {{ingredient:extra-virgin-olive-oil}}.",
+    "Measure and stage {{ingredient:sliced-avocado}}, {{ingredient:finely-chopped-red-onion}}, {{ingredient:shredded-lettuce-or-cabbage}}, {{ingredient:baked-corn-tortilla-strips}}, and {{ingredient:lime-wedges}}.",
+    "Measure and stage {{ingredient:hot-sauce}}."
   ],
   "stepGroups": [
     {

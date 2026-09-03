@@ -189,6 +189,19 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Mince {{ingredient:garlic}}.",
+    "Prepare {{ingredient:italian-sausage}} as specified: casing removed.",
+    "Thinly slice {{ingredient:pepperoni}}.",
+    "Shred {{ingredient:mozzarella}}.",
+    "Thinly slice {{ingredient:mushrooms}}.",
+    "Thinly slice {{ingredient:red-onion}}.",
+    "Thinly slice {{ingredient:jalapeno}}.",
+    "Tear {{ingredient:fresh-basil}}.",
+    "Measure and stage {{ingredient:bread-flour}}, {{ingredient:water}}, {{ingredient:olive-oil-dough}}, {{ingredient:salt}}, and {{ingredient:instant-yeast}}.",
+    "Measure and stage {{ingredient:olive-oil-pan}}, {{ingredient:olive-oil-sauce}}, {{ingredient:crushed-tomatoes}}, {{ingredient:oregano}}, and {{ingredient:salt-sauce}}.",
+    "Measure and stage {{ingredient:pepper-sauce}}, {{ingredient:olive-oil-toppings}}, {{ingredient:salt-toppings}}, and {{ingredient:pepper-toppings}}."
+  ],
   "stepGroups": [
     {
       "title": "Make the Dough",

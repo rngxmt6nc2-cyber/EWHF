@@ -125,6 +125,11 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Measure and stage {{ingredient:fine-sea-salt}}, {{ingredient:celery-seed}}, {{ingredient:sweet-paprika}}, {{ingredient:smoked-paprika}}, and {{ingredient:ground-bay-leaf}}.",
+    "Measure and stage {{ingredient:dried-thyme}}, {{ingredient:dried-dill}}, {{ingredient:dry-mustard}}, {{ingredient:ground-black-pepper}}, and {{ingredient:ground-white-pepper}}.",
+    "Measure and stage {{ingredient:ground-mace}}, {{ingredient:ground-nutmeg}}, {{ingredient:ground-ginger}}, {{ingredient:crushed-red-pepper-flakes}}, and {{ingredient:cayenne}}."
+  ],
   "stepGroups": [
     {
       "title": "Instructions",

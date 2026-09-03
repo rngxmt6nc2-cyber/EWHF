@@ -114,6 +114,11 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Measure and stage {{ingredient:silken-tofu}}, {{ingredient:white-miso}}, {{ingredient:ground-turmeric}}, {{ingredient:black-pepper-sauce}}, and {{ingredient:lemon-juice}}.",
+    "Measure and stage {{ingredient:hot-pasta-cooking-water-sauce}}, {{ingredient:spaghetti}}, {{ingredient:water}}, {{ingredient:kosher-salt-pasta}}, and {{ingredient:olive-oil}}.",
+    "Measure and stage {{ingredient:coarsely-ground-black-pepper}} and {{ingredient:portobello-bacon}}."
+  ],
   "stepGroups": [
     {
       "title": "Blend the sauce",

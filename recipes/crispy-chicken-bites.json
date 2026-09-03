@@ -21,19 +21,22 @@
           "amount": 1,
           "unit": "lb",
           "item": "boneless, skinless chicken thighs",
-          "prep": ""
+          "prep": "",
+          "id": "boneless-skinless-chicken-thighs"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt"
         },
         {
           "amount": 0.25,
           "unit": "tsp",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         }
       ]
     },
@@ -44,37 +47,43 @@
           "amount": 0.5,
           "unit": "cup",
           "item": "cornmeal",
-          "prep": "divided (pulse 80% to a finer texture, leave 20% coarse)"
+          "prep": "divided (pulse 80% to a finer texture, leave 20% coarse)",
+          "id": "cornmeal"
         },
         {
           "amount": 0.25,
           "unit": "cup",
           "item": "grated parmesan cheese",
-          "prep": ""
+          "prep": "",
+          "id": "grated-parmesan-cheese"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "cornstarch",
-          "prep": ""
+          "prep": "",
+          "id": "cornstarch"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "garlic powder",
-          "prep": ""
+          "prep": "",
+          "id": "garlic-powder"
         },
         {
           "amount": 0.5,
           "unit": "tsp",
           "item": "onion powder",
-          "prep": ""
+          "prep": "",
+          "id": "onion-powder"
         },
         {
           "amount": 0.25,
           "unit": "tsp",
           "item": "paprika",
-          "prep": ""
+          "prep": "",
+          "id": "paprika"
         }
       ]
     },
@@ -85,13 +94,15 @@
           "amount": 2,
           "unit": "large",
           "item": "eggs",
-          "prep": ""
+          "prep": "",
+          "id": "eggs"
         },
         {
           "amount": 2,
           "unit": "tbsp",
           "item": "water",
-          "prep": ""
+          "prep": "",
+          "id": "water"
         }
       ]
     },
@@ -102,25 +113,29 @@
           "amount": 2,
           "unit": "tbsp",
           "item": "fine cornmeal",
-          "prep": "use the pulsed portion"
+          "prep": "use the pulsed portion",
+          "id": "fine-cornmeal"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "cornstarch",
-          "prep": ""
+          "prep": "",
+          "id": "cornstarch-2"
         },
         {
           "amount": 0.25,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-2"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Pinch paprika",
-          "prep": ""
+          "prep": "",
+          "id": "pinch-paprika"
         }
       ]
     },
@@ -131,10 +146,17 @@
           "amount": 0,
           "unit": "",
           "item": "Neutral oil (avocado or similar), enough for shallow frying",
-          "prep": ""
+          "prep": "",
+          "id": "neutral-oil-avocado-or-similar-enough-for-shallow-frying"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:fine-cornmeal}} as specified: use the pulsed portion.",
+    "Measure and stage {{ingredient:boneless-skinless-chicken-thighs}}, {{ingredient:kosher-salt}}, {{ingredient:black-pepper}}, {{ingredient:cornmeal}}, and {{ingredient:grated-parmesan-cheese}}.",
+    "Measure and stage {{ingredient:cornstarch}}, {{ingredient:garlic-powder}}, {{ingredient:onion-powder}}, {{ingredient:paprika}}, and {{ingredient:eggs}}.",
+    "Measure and stage {{ingredient:water}}, {{ingredient:cornstarch-2}}, {{ingredient:kosher-salt-2}}, {{ingredient:pinch-paprika}}, and {{ingredient:neutral-oil-avocado-or-similar-enough-for-shallow-frying}}."
   ],
   "stepGroups": [
     {

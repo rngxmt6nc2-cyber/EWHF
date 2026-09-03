@@ -257,6 +257,20 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Pick over and rinse {{ingredient:brown-lentils}}.",
+    "Prepare {{ingredient:long-grain-rice}} as specified: rinsed until the water runs mostly clear.",
+    "Drain {{ingredient:cooked-chickpeas}}.",
+    "Thinly slice {{ingredient:yellow-onions-topping}}.",
+    "Finely dice {{ingredient:yellow-onion-sauce}}.",
+    "Mince {{ingredient:garlic-sauce}}.",
+    "Finely grate {{ingredient:garlic-vinegar-sauce}}.",
+    "Measure and stage {{ingredient:water-lentils}}, {{ingredient:bay-leaf}}, {{ingredient:olive-oil-rice}}, {{ingredient:fine-sea-salt-rice}}, and {{ingredient:water-rice}}.",
+    "Measure and stage {{ingredient:elbow-macaroni}}, {{ingredient:fine-sea-salt-pasta-water}}, {{ingredient:olive-oil-onions}}, {{ingredient:fine-sea-salt-onions}}, and {{ingredient:olive-oil-sauce}}.",
+    "Measure and stage {{ingredient:ground-cumin-sauce}}, {{ingredient:ground-coriander-sauce}}, {{ingredient:smoked-paprika-sauce}}, {{ingredient:cayenne-sauce}}, and {{ingredient:tomato-paste}}.",
+    "Measure and stage {{ingredient:crushed-tomatoes}}, {{ingredient:fine-sea-salt-sauce}}, {{ingredient:black-pepper-sauce}}, {{ingredient:red-wine-vinegar-sauce}}, and {{ingredient:red-wine-vinegar-garlic-sauce}}.",
+    "Measure and stage {{ingredient:water-garlic-sauce}}, {{ingredient:ground-cumin-vinegar-sauce}}, {{ingredient:fine-sea-salt-vinegar-sauce}}, and {{ingredient:cayenne-vinegar-sauce}}."
+  ],
   "stepGroups": [
     {
       "title": "Cook the Lentils",

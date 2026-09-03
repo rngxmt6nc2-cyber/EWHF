@@ -21,13 +21,15 @@
           "amount": 3,
           "unit": "tablespoons",
           "item": "Chinese-style dry mustard powder",
-          "prep": ""
+          "prep": "",
+          "id": "chinese-style-dry-mustard-powder"
         },
         {
           "amount": 3,
           "unit": "tablespoons",
           "item": "cold water",
-          "prep": ""
+          "prep": "",
+          "id": "cold-water"
         }
       ]
     },
@@ -38,28 +40,36 @@
           "amount": 1,
           "unit": "teaspoon",
           "item": "red miso paste",
-          "prep": ""
+          "prep": "",
+          "id": "red-miso-paste"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "coconut aminos",
-          "prep": ""
+          "prep": "",
+          "id": "coconut-aminos"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "rice vinegar",
-          "prep": ""
+          "prep": "",
+          "id": "rice-vinegar"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Pinch sea salt",
-          "prep": ""
+          "prep": "",
+          "id": "pinch-sea-salt"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Measure and stage {{ingredient:chinese-style-dry-mustard-powder}}, {{ingredient:cold-water}}, {{ingredient:red-miso-paste}}, {{ingredient:coconut-aminos}}, and {{ingredient:rice-vinegar}}.",
+    "Measure and stage {{ingredient:pinch-sea-salt}}."
   ],
   "stepGroups": [
     {

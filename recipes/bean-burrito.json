@@ -255,6 +255,17 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Finely dice {{ingredient:yellow-onion-bean-base}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Prepare {{ingredient:yellow-onion-onion-filling}} as specified: halved and thinly sliced.",
+    "Measure and stage {{ingredient:dried-pinto-beans}}, {{ingredient:water}}, {{ingredient:bay-leaf}}, {{ingredient:kosher-salt}}, and {{ingredient:long-grain-white-rice}}.",
+    "Measure and stage {{ingredient:water-rice}}, {{ingredient:kosher-salt-rice}}, {{ingredient:olive-oil-rice}}, {{ingredient:ground-cumin-rice}}, and {{ingredient:lime-juice-rice}}.",
+    "Measure and stage {{ingredient:fresh-cilantro}}, {{ingredient:olive-oil-bean-base}}, {{ingredient:ground-cumin-bean-base}}, {{ingredient:chili-powder}}, and {{ingredient:dried-oregano}}.",
+    "Measure and stage {{ingredient:tomato-paste}}, {{ingredient:soy-sauce}}, {{ingredient:cooked-pinto-beans}}, {{ingredient:reserved-bean-cooking-liquid}}, and {{ingredient:lime-juice-bean-base}}.",
+    "Measure and stage {{ingredient:olive-oil-onion-filling}}, {{ingredient:kosher-salt-onion-filling}}, {{ingredient:iceberg-lettuce}}, {{ingredient:raw-white-onion}}, and {{ingredient:flour-tortillas}}.",
+    "Measure and stage {{ingredient:salsa-roja}} and {{ingredient:monterey-jack-cheese}}."
+  ],
   "stepGroups": [
     {
       "title": "Cook the Beans",

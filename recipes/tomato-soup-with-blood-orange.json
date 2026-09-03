@@ -21,61 +21,71 @@
           "amount": 2,
           "unit": "tbsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 1,
           "unit": "medium",
           "item": "yellow onion",
-          "prep": "diced"
+          "prep": "diced",
+          "id": "yellow-onion"
         },
         {
           "amount": 4,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "sliced"
+          "prep": "sliced",
+          "id": "garlic"
         },
         {
           "amount": 1.5,
           "unit": "tbsp",
           "item": "tomato paste",
-          "prep": ""
+          "prep": "",
+          "id": "tomato-paste"
         },
         {
           "amount": 0.25,
           "unit": "tsp",
           "item": "crushed red pepper flakes",
-          "prep": ""
+          "prep": "",
+          "id": "crushed-red-pepper-flakes"
         },
         {
           "amount": 1,
           "unit": "",
           "item": "bay leaf",
-          "prep": ""
+          "prep": "",
+          "id": "bay-leaf"
         },
         {
           "amount": 24,
           "unit": "oz",
           "item": "passata",
-          "prep": ""
+          "prep": "",
+          "id": "passata"
         },
         {
           "amount": 1.5,
           "unit": "cups",
           "item": "vegetable stock",
-          "prep": ""
+          "prep": "",
+          "id": "vegetable-stock"
         },
         {
           "amount": 0.75,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": "plus more to taste"
+          "prep": "plus more to taste",
+          "id": "kosher-salt"
         },
         {
           "amount": 0.25,
           "unit": "tsp",
           "item": "black pepper",
-          "prep": "plus more to taste"
+          "prep": "plus more to taste",
+          "id": "black-pepper"
         }
       ]
     },
@@ -86,13 +96,15 @@
           "amount": 1,
           "unit": "",
           "item": "blood orange",
-          "prep": ""
+          "prep": "",
+          "id": "blood-orange"
         },
         {
           "amount": 1,
           "unit": "tbsp",
           "item": "blood orange juice",
-          "prep": "1 to 1 1/2"
+          "prep": "1 to 1 1/2",
+          "id": "blood-orange-juice"
         }
       ]
     },
@@ -103,34 +115,46 @@
           "amount": 6,
           "unit": "oz",
           "item": "silken tofu",
-          "prep": ""
+          "prep": "",
+          "id": "silken-tofu"
         },
         {
           "amount": 3,
           "unit": "tbsp",
           "item": "unsweetened almond milk",
-          "prep": "plus 1 to 2 tsp more if needed"
+          "prep": "plus 1 to 2 tsp more if needed",
+          "id": "unsweetened-almond-milk"
         },
         {
           "amount": 1,
           "unit": "tsp",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil-2"
         },
         {
           "amount": 0.125,
           "unit": "tsp",
           "item": "kosher salt",
-          "prep": ""
+          "prep": "",
+          "id": "kosher-salt-2"
         },
         {
           "amount": 1,
           "unit": "small",
           "item": "fresh lavender sprig",
-          "prep": ""
+          "prep": "",
+          "id": "fresh-lavender-sprig"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Dice {{ingredient:yellow-onion}}.",
+    "Slice {{ingredient:garlic}}.",
+    "Measure and stage {{ingredient:olive-oil}}, {{ingredient:tomato-paste}}, {{ingredient:crushed-red-pepper-flakes}}, {{ingredient:bay-leaf}}, and {{ingredient:passata}}.",
+    "Measure and stage {{ingredient:vegetable-stock}}, {{ingredient:kosher-salt}}, {{ingredient:black-pepper}}, {{ingredient:blood-orange}}, and {{ingredient:blood-orange-juice}}.",
+    "Measure and stage {{ingredient:silken-tofu}}, {{ingredient:unsweetened-almond-milk}}, {{ingredient:olive-oil-2}}, {{ingredient:kosher-salt-2}}, and {{ingredient:fresh-lavender-sprig}}."
   ],
   "stepGroups": [
     {

@@ -128,6 +128,16 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:lemon-zest}} as specified: zest only.",
+    "Prepare {{ingredient:garlic}} as specified: minced into a paste with kosher salt.",
+    "Finely chop {{ingredient:fresh-oregano}}.",
+    "Prepare {{ingredient:chicken-thighs}} as specified: cut into 1½ to 2 inch pieces.",
+    "Prepare {{ingredient:red-onion}} as specified: sliced very thin.",
+    "Prepare {{ingredient:tomatoes}} as specified: cut into wedges.",
+    "Measure and stage {{ingredient:kosher-salt-marinade}}, {{ingredient:black-pepper}}, {{ingredient:olive-oil-marinade}}, {{ingredient:lemon-juice-marinade}}, and {{ingredient:kosher-salt-onion-salad}}.",
+    "Measure and stage {{ingredient:lemon-juice-onion-salad}}, {{ingredient:pita-breads}}, and {{ingredient:prepared-tzatziki}}."
+  ],
   "stepGroups": [
     {
       "title": "Marinate the Chicken",

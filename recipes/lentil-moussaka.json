@@ -285,6 +285,23 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Rinse and pick over {{ingredient:brown-lentils}}.",
+    "Prepare {{ingredient:eggplant}} as specified: trimmed and sliced 1/2 inch thick.",
+    "Prepare {{ingredient:potatoes}} as specified: sliced 1/4 inch thick.",
+    "Finely dice {{ingredient:onion}}.",
+    "Finely dice {{ingredient:carrot}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Chop {{ingredient:oregano}}.",
+    "Drain {{ingredient:cooked-lentils}}.",
+    "Drain {{ingredient:silken-tofu}}.",
+    "Chop {{ingredient:parsley}}.",
+    "Measure and stage {{ingredient:water-lentils}}, {{ingredient:bay-leaf}}, {{ingredient:salt-lentils}}, {{ingredient:olive-oil-vegetables}}, and {{ingredient:salt-vegetables}}.",
+    "Measure and stage {{ingredient:black-pepper-vegetables}}, {{ingredient:olive-oil-filling}}, {{ingredient:tomato-paste}}, {{ingredient:crushed-tomatoes}}, and {{ingredient:vegetable-stock}}.",
+    "Measure and stage {{ingredient:red-wine-vinegar}}, {{ingredient:cinnamon}}, {{ingredient:allspice}}, {{ingredient:smoked-paprika}}, and {{ingredient:salt-filling}}.",
+    "Measure and stage {{ingredient:black-pepper-filling}}, {{ingredient:olive-oil-bechamel}}, {{ingredient:flour}}, {{ingredient:unsweetened-soy-milk}}, and {{ingredient:nutritional-yeast}}.",
+    "Measure and stage {{ingredient:lemon-juice}}, {{ingredient:dijon-mustard}}, {{ingredient:nutmeg}}, {{ingredient:salt-bechamel}}, and {{ingredient:white-pepper}}."
+  ],
   "stepGroups": [
     {
       "title": "Cook the Lentils",

@@ -189,6 +189,20 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Rinse {{ingredient:red-lentils}}.",
+    "Rinse {{ingredient:green-or-brown-lentils}}.",
+    "Finely chop {{ingredient:cremini-mushrooms}}.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Prepare {{ingredient:old-fashioned-oats}} as specified: pulsed into coarse oat flour.",
+    "Prepare {{ingredient:water-chestnuts}} as specified: drained, patted dry, and finely diced.",
+    "Thinly slice {{ingredient:scallions}}.",
+    "Chop {{ingredient:fresh-parsley}}.",
+    "Measure and stage {{ingredient:water}}, {{ingredient:kosher-salt-lentils}}, {{ingredient:olive-oil-mushrooms}}, {{ingredient:low-sodium-soy-sauce}}, and {{ingredient:ground-cumin}}.",
+    "Measure and stage {{ingredient:smoked-paprika}}, {{ingredient:ground-coriander}}, {{ingredient:black-pepper}}, {{ingredient:ground-flaxseed}}, and {{ingredient:water-flaxseed}}.",
+    "Measure and stage {{ingredient:lemon-zest}}, {{ingredient:lemon-juice}}, and {{ingredient:olive-oil-searing}}."
+  ],
   "stepGroups": [
     {
       "title": "Cook the Lentils",

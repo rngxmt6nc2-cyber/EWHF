@@ -21,19 +21,22 @@
           "amount": 1.5,
           "unit": "cups",
           "item": "Nutrela soya chunks",
-          "prep": ""
+          "prep": "",
+          "id": "nutrela-soya-chunks"
         },
         {
           "amount": 1,
           "unit": "quart",
           "item": "water",
-          "prep": ""
+          "prep": "",
+          "id": "water"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "salt",
-          "prep": ""
+          "prep": "",
+          "id": "salt"
         }
       ]
     },
@@ -44,25 +47,29 @@
           "amount": 1,
           "unit": "tablespoon",
           "item": "olive oil",
-          "prep": ""
+          "prep": "",
+          "id": "olive-oil"
         },
         {
           "amount": 1,
           "unit": "medium",
           "item": "onion",
-          "prep": "finely diced"
+          "prep": "finely diced",
+          "id": "onion"
         },
         {
           "amount": 1,
           "unit": "medium",
           "item": "green bell pepper",
-          "prep": "finely diced"
+          "prep": "finely diced",
+          "id": "green-bell-pepper"
         },
         {
           "amount": 3,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "minced"
+          "prep": "minced",
+          "id": "garlic"
         }
       ]
     },
@@ -73,55 +80,64 @@
           "amount": 0.75,
           "unit": "cup",
           "item": "tomato sauce",
-          "prep": ""
+          "prep": "",
+          "id": "tomato-sauce"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "tomato paste",
-          "prep": ""
+          "prep": "",
+          "id": "tomato-paste"
         },
         {
           "amount": 2,
           "unit": "tablespoons",
           "item": "ketchup",
-          "prep": ""
+          "prep": "",
+          "id": "ketchup"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "smoked paprika",
-          "prep": ""
+          "prep": "",
+          "id": "smoked-paprika"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "chili powder",
-          "prep": ""
+          "prep": "",
+          "id": "chili-powder"
         },
         {
           "amount": 1,
           "unit": "teaspoon",
           "item": "Dijon mustard",
-          "prep": ""
+          "prep": "",
+          "id": "dijon-mustard"
         },
         {
           "amount": 0.5,
           "unit": "teaspoon",
           "item": "black pepper",
-          "prep": ""
+          "prep": "",
+          "id": "black-pepper"
         },
         {
           "amount": 0.75,
           "unit": "cup",
           "item": "stock",
-          "prep": ""
+          "prep": "",
+          "id": "stock"
         },
         {
           "amount": 0,
           "unit": "",
           "item": "Salt",
-          "prep": "to taste"
+          "prep": "to taste",
+          "id": "salt-2"
         }
       ]
     },
@@ -132,22 +148,34 @@
           "amount": 1,
           "unit": "tablespoon",
           "item": "fresh dill",
-          "prep": "finely chopped"
+          "prep": "finely chopped",
+          "id": "fresh-dill"
         },
         {
           "amount": 2,
           "unit": "",
           "item": "whole grain buns",
-          "prep": ""
+          "prep": "",
+          "id": "whole-grain-buns"
         },
         {
           "amount": 4,
           "unit": "slices",
           "item": "American cheese",
-          "prep": ""
+          "prep": "",
+          "id": "american-cheese"
         }
       ]
     }
+  ],
+  "miseEnPlace": [
+    "Finely dice {{ingredient:onion}}.",
+    "Finely dice {{ingredient:green-bell-pepper}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Finely chop {{ingredient:fresh-dill}}.",
+    "Measure and stage {{ingredient:nutrela-soya-chunks}}, {{ingredient:water}}, {{ingredient:salt}}, {{ingredient:olive-oil}}, and {{ingredient:tomato-sauce}}.",
+    "Measure and stage {{ingredient:tomato-paste}}, {{ingredient:ketchup}}, {{ingredient:smoked-paprika}}, {{ingredient:chili-powder}}, and {{ingredient:dijon-mustard}}.",
+    "Measure and stage {{ingredient:black-pepper}}, {{ingredient:stock}}, {{ingredient:salt-2}}, {{ingredient:whole-grain-buns}}, and {{ingredient:american-cheese}}."
   ],
   "stepGroups": [
     {

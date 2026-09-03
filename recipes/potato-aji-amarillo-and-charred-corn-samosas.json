@@ -184,6 +184,18 @@
       ]
     }
   ],
+  "miseEnPlace": [
+    "Prepare {{ingredient:yukon-gold-potatoes}} as specified: peeled and cut into 1-inch chunks.",
+    "Prepare {{ingredient:corn-kernels}} as specified: fresh or frozen and fully thawed.",
+    "Finely dice {{ingredient:yellow-onion}}.",
+    "Mince {{ingredient:fresh-ginger}}.",
+    "Mince {{ingredient:garlic}}.",
+    "Chop {{ingredient:fresh-cilantro}}.",
+    "Measure and stage {{ingredient:all-purpose-flour}}, {{ingredient:whole-wheat-pastry-flour}}, {{ingredient:fine-sea-salt-dough}}, {{ingredient:olive-oil-dough}}, and {{ingredient:hot-water-dough}}.",
+    "Measure and stage {{ingredient:fine-sea-salt-filling}}, {{ingredient:olive-oil-filling}}, {{ingredient:cumin-seeds}}, {{ingredient:ground-coriander}}, and {{ingredient:ground-turmeric}}.",
+    "Measure and stage {{ingredient:garam-masala}}, {{ingredient:aji-amarillo-paste}}, {{ingredient:water-filling}}, {{ingredient:fresh-lime-juice}}, and {{ingredient:olive-oil-brushing}}.",
+    "Measure and stage {{ingredient:water-sealing}}."
+  ],
   "stepGroups": [
     {
       "title": "Make the Dough",
