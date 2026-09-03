@@ -1,0 +1,144 @@
+{
+  "id": "congee",
+  "title": "Soft Chicken & Ginger Congee",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 3,
+  "ldlActive": false,
+  "cScaleSummary": "C3 because one pound of chicken thighs divided among four servings contributes a moderate amount of dietary cholesterol, with a smaller contribution from the chicken stock. The rice, ginger, scallions, soy sauce, sesame oil, and seasonings do not contribute cholesterol.",
+  "ldlActiveSummary": "Not LDL-Active because the recipe is centered on chicken thighs and white rice rather than soluble-fiber-rich legumes, whole grains, or vegetables. It remains relatively restrained in saturated fat when made with trimmed skinless thighs and low-sodium stock.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Congee is a long-simmered rice porridge found in many forms across East and Southeast Asia. As the rice releases its starch and loses its distinct grain structure, the broth becomes silky, soothing, and deeply comforting. This chicken-and-ginger version is deliberately soft and gently seasoned. Finely mincing the cooked chicken in a Robot Coupe before returning it to the pot distributes it throughout the porridge while preserving the naturally broken-down texture of the rice.",
+  "ingredientGroups": [
+    {
+      "title": "Congee",
+      "items": [
+        {
+          "id": "jasmine-rice",
+          "amount": 1,
+          "unit": "cup",
+          "item": "jasmine rice",
+          "prep": ""
+        },
+        {
+          "id": "chicken-stock",
+          "amount": 8,
+          "unit": "cups",
+          "item": "low-sodium chicken stock",
+          "prep": ""
+        },
+        {
+          "id": "water",
+          "amount": 1,
+          "unit": "cup",
+          "item": "water",
+          "prep": "plus more as needed"
+        },
+        {
+          "id": "chicken-thighs",
+          "amount": 1,
+          "unit": "pound",
+          "item": "boneless, skinless chicken thighs",
+          "prep": "trimmed of excess fat"
+        },
+        {
+          "id": "fresh-ginger",
+          "amount": 1,
+          "unit": "inch",
+          "item": "fresh ginger",
+          "prep": ""
+        },
+        {
+          "id": "scallions",
+          "amount": 2,
+          "unit": "",
+          "item": "scallions",
+          "prep": ""
+        },
+        {
+          "id": "soy-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "sesame-oil",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "toasted sesame oil",
+          "prep": ""
+        },
+        {
+          "id": "kosher-salt",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": "plus more to taste"
+        },
+        {
+          "id": "white-pepper",
+          "amount": 0,
+          "unit": "",
+          "item": "white pepper",
+          "prep": "optional"
+        }
+      ]
+    },
+    {
+      "title": "Optional Finish",
+      "items": [
+        {
+          "id": "finishing-sesame-oil",
+          "amount": 0,
+          "unit": "",
+          "item": "toasted sesame oil",
+          "prep": "a few drops"
+        },
+        {
+          "id": "finishing-soy-sauce",
+          "amount": 0,
+          "unit": "",
+          "item": "low-sodium soy sauce",
+          "prep": "to taste"
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Briefly rinse {{ingredient:jasmine-rice}} and drain well.",
+    "Peel {{ingredient:fresh-ginger}} and slice it into 3 or 4 large pieces.",
+    "Separate the whites and greens of {{ingredient:scallions}} and slice both very finely, keeping them separate.",
+    "Trim any excess fat from {{ingredient:chicken-thighs}}.",
+    "Measure {{ingredient:chicken-stock}}, {{ingredient:water}}, {{ingredient:soy-sauce}}, {{ingredient:sesame-oil}}, and {{ingredient:kosher-salt}}."
+  ],
+  "stepGroups": [
+    {
+      "title": "Start the Congee",
+      "items": [
+        "Combine {{ingredient:jasmine-rice}}, {{ingredient:chicken-stock}}, {{ingredient:water}}, {{ingredient:fresh-ginger}}, the scallion whites, and {{ingredient:chicken-thighs}} in a large saucepan.",
+        "Bring just to a boil, then immediately reduce to a very gentle simmer. Partially cover and cook for 60 to 75 minutes, stirring every 10 to 15 minutes at first and more frequently as the rice breaks down so it does not catch on the bottom."
+      ]
+    },
+    {
+      "title": "Mince the Chicken",
+      "items": [
+        "After 25 to 30 minutes, when the chicken is completely cooked and tender, remove the thighs and let them cool just enough to handle.",
+        "Cut the cooked chicken into chunks and pulse it dry in a Robot Coupe to a very fine, moist mince just short of pâté; do not add liquid and do not process it into a smooth paste.",
+        "Return the minced chicken to the pot and continue simmering for the final 20 to 30 minutes. Do not purée the rice; let the long simmer break it down naturally."
+      ]
+    },
+    {
+      "title": "Season and Serve",
+      "items": [
+        "When the rice has nearly lost its grain structure and the congee resembles loose oatmeal, remove and discard the ginger pieces.",
+        "Stir in {{ingredient:soy-sauce}}, {{ingredient:sesame-oil}}, {{ingredient:kosher-salt}}, and the sliced scallion greens. Add more water as needed to keep the congee loose; it will thicken considerably as it stands.",
+        "Taste and adjust with salt or {{ingredient:white-pepper}} if desired. Serve comfortably warm, with {{ingredient:finishing-sesame-oil}} and {{ingredient:finishing-soy-sauce}} at the table."
+      ]
+    }
+  ]
+}
