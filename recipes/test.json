@@ -1,0 +1,52 @@
+{
+  "id": "test",
+  "title": "Test",
+  "section": "",
+  "sortOrder": 999,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 0,
+  "ldlActive": false,
+  "cScaleSummary": "C0 because this temporary test recipe contains only imaginary ingredients with no dietary cholesterol.",
+  "ldlActiveSummary": "Not LDL-Active because this is temporary gibberish created solely to test remote recipe refresh.",
+  "yield": 1,
+  "yieldUnit": "serving",
+  "tags": [
+    "test"
+  ],
+  "intro": "Flibbertigibbet wobble stew is a temporary nonsense recipe used to verify that newly merged recipes appear through pull-to-refresh.",
+  "ingredientGroups": [
+    {
+      "title": "Nonsense",
+      "items": [
+        {
+          "id": "flibbertigibbet",
+          "amount": 1,
+          "unit": "cup",
+          "item": "flibbertigibbet",
+          "prep": "wobbled"
+        },
+        {
+          "id": "snorkle-dust",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "snorkle dust",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Wobble {{ingredient:flibbertigibbet}} until thoroughly nonsensical.",
+    "Measure {{ingredient:snorkle-dust}}."
+  ],
+  "stepGroups": [
+    {
+      "title": "Test the Refresh",
+      "items": [
+        "Fold {{ingredient:flibbertigibbet}} together with {{ingredient:snorkle-dust}} while humming quietly.",
+        "Declare the test complete and serve immediately."
+      ]
+    }
+  ]
+}
