@@ -1,0 +1,57 @@
+{
+  "id": "purslane-and-parsley-salad",
+  "title": "Purslane and Parsley Salad",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Vegetables & Sides",
+  "displayCategory": "Vegetables & Sides",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The purslane, parsley, scallions, vinegar, mustard, olive oil, salt, and pepper all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the salad is entirely plant-based and centered on leafy herbs and purslane, with an unsaturated olive oil vinaigrette and no saturated animal fat. Purslane also contributes fiber and plant-based omega-3 fatty acids.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Purslane is prized throughout the Mediterranean and Middle East for its succulent leaves, faint citrus character, and naturally crisp bite. Paired with flat-leaf parsley and scallions, it becomes a vivid green salad with far more personality than ordinary lettuce. A restrained red wine vinaigrette preserves that freshness while Dijon mustard gives the dressing enough body to cling to the leaves. This salad is especially effective beside earthy lentils, beans, mushrooms, or whole grains, where its acidity and juicy crunch provide contrast without competing with the main dish.",
+  "ingredientGroups": [
+    {
+      "title": "Greens",
+      "items": [
+        { "id": "purslane", "amount": 3, "unit": "packed cups", "item": "tender purslane sprigs and leaves", "prep": "washed and thoroughly dried" },
+        { "id": "flat-leaf-parsley", "amount": 1, "unit": "packed cup", "item": "flat-leaf parsley leaves", "prep": "washed and thoroughly dried" },
+        { "id": "scallions", "amount": 2, "unit": "", "item": "scallions", "prep": "thinly sliced" }
+      ]
+    },
+    {
+      "title": "Dijon Vinaigrette",
+      "items": [
+        { "id": "red-wine-vinegar", "amount": 1, "unit": "tablespoon", "item": "red wine vinegar", "prep": "" },
+        { "id": "dijon-mustard", "amount": 1, "unit": "teaspoon", "item": "Dijon mustard", "prep": "" },
+        { "id": "extra-virgin-olive-oil", "amount": 2, "unit": "tablespoons", "item": "extra-virgin olive oil", "prep": "" },
+        { "id": "kosher-salt", "amount": 0.25, "unit": "teaspoon", "item": "kosher salt", "prep": "" },
+        { "id": "black-pepper", "amount": 0.25, "unit": "teaspoon", "item": "freshly ground black pepper", "prep": "" }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Pick over {{ingredient:purslane}}, removing any tough stems. Wash the purslane and {{ingredient:flat-leaf-parsley}}, then dry both thoroughly so the vinaigrette will cling.",
+    "Thinly slice {{ingredient:scallions}}.",
+    "Measure {{ingredient:red-wine-vinegar}}, {{ingredient:dijon-mustard}}, {{ingredient:extra-virgin-olive-oil}}, {{ingredient:kosher-salt}}, and {{ingredient:black-pepper}}."
+  ],
+  "stepGroups": [
+    {
+      "title": "Make the Vinaigrette",
+      "items": [
+        "Whisk {{ingredient:red-wine-vinegar}}, {{ingredient:dijon-mustard}}, {{ingredient:kosher-salt}}, and {{ingredient:black-pepper}} in a large bowl until the salt dissolves.",
+        "Slowly whisk in {{ingredient:extra-virgin-olive-oil}} until the vinaigrette is lightly emulsified."
+      ]
+    },
+    {
+      "title": "Dress and Serve",
+      "items": [
+        "Add {{ingredient:purslane}}, {{ingredient:flat-leaf-parsley}}, and {{ingredient:scallions}} to the bowl immediately before serving.",
+        "Toss gently but thoroughly until the leaves are evenly coated. Serve immediately while the purslane remains crisp."
+      ]
+    }
+  ]
+}
