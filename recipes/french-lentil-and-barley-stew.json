@@ -1,0 +1,87 @@
+{
+  "id": "french-lentil-and-barley-stew",
+  "title": "French Lentil and Barley Stew",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Soups & Stews",
+  "displayCategory": "Soups & Stews",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no cholesterol-contributing animal-derived ingredients. The lentils, barley, mushrooms, vegetables, olive oil, vegetable stock, wine, mustards, herbs, and vinegar all contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because the stew is built around lentils and barley, which provide substantial soluble fiber, and uses mushrooms, vegetables, herbs, acid, and unsaturated olive oil to build richness without saturated animal fat.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "French green lentils and pearl barley make a particularly good partnership: the lentils remain distinct while the barley releases just enough starch to give the broth body. This stew borrows the restrained flavors of the French countryside, with mushrooms, wine, Dijon mustard, and tarragon, but uses no butter or cream. Thoroughly browning the mushrooms provides the richness instead. A small portion of the finished lentils and barley is crushed against the pot to produce a glossy, almost risotto-like consistency without sacrificing the stew’s pleasantly chewy texture.",
+  "ingredientGroups": [
+    {
+      "title": "Lentils and Barley",
+      "items": [
+        { "id": "french-green-lentils", "amount": 1, "unit": "cup", "item": "French green lentils", "prep": "picked over, rinsed, and drained" },
+        { "id": "pearl-barley", "amount": 0.75, "unit": "cup", "item": "pearl barley", "prep": "rinsed and drained" }
+      ]
+    },
+    {
+      "title": "Mushrooms and Aromatics",
+      "items": [
+        { "id": "cremini-mushrooms", "amount": 1, "unit": "pound", "item": "cremini mushrooms", "prep": "quartered; very large mushrooms cut into sixths" },
+        { "id": "olive-oil", "amount": 3, "unit": "tablespoons", "item": "extra-virgin olive oil", "prep": "divided" },
+        { "id": "kosher-salt", "amount": 1, "unit": "teaspoon", "item": "kosher salt", "prep": "divided, plus more to taste" },
+        { "id": "yellow-onion", "amount": 1, "unit": "large", "item": "yellow onion", "prep": "finely diced" },
+        { "id": "carrots", "amount": 2, "unit": "medium", "item": "carrots", "prep": "finely diced" },
+        { "id": "celery", "amount": 2, "unit": "ribs", "item": "celery", "prep": "finely diced" },
+        { "id": "garlic", "amount": 5, "unit": "cloves", "item": "garlic", "prep": "minced" },
+        { "id": "fresh-thyme", "amount": 2, "unit": "teaspoons", "item": "fresh thyme leaves", "prep": "chopped" },
+        { "id": "black-pepper", "amount": 0.5, "unit": "teaspoon", "item": "freshly ground black pepper", "prep": "" }
+      ]
+    },
+    {
+      "title": "Broth and Finish",
+      "items": [
+        { "id": "dry-white-wine", "amount": 0.5, "unit": "cup", "item": "dry white wine", "prep": "" },
+        { "id": "vegetable-stock", "amount": 6, "unit": "cups", "item": "low-sodium vegetable stock", "prep": "plus more as needed" },
+        { "id": "bay-leaves", "amount": 2, "unit": "", "item": "bay leaves", "prep": "" },
+        { "id": "dijon-mustard", "amount": 2, "unit": "tablespoons", "item": "Dijon mustard", "prep": "" },
+        { "id": "whole-grain-mustard", "amount": 1, "unit": "tablespoon", "item": "whole-grain mustard", "prep": "" },
+        { "id": "fresh-tarragon", "amount": 2, "unit": "tablespoons", "item": "fresh tarragon leaves", "prep": "chopped" },
+        { "id": "red-wine-vinegar", "amount": 1, "unit": "tablespoon", "item": "red wine vinegar", "prep": "" }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Pick over, rinse, and drain {{ingredient:french-green-lentils}}. Rinse and drain {{ingredient:pearl-barley}}.",
+    "Quarter {{ingredient:cremini-mushrooms}}, cutting very large mushrooms into sixths.",
+    "Finely dice {{ingredient:yellow-onion}}, {{ingredient:carrots}}, and {{ingredient:celery}}.",
+    "Mince {{ingredient:garlic}}. Chop {{ingredient:fresh-thyme}} and {{ingredient:fresh-tarragon}}.",
+    "Measure {{ingredient:dry-white-wine}}, {{ingredient:vegetable-stock}}, {{ingredient:dijon-mustard}}, {{ingredient:whole-grain-mustard}}, and {{ingredient:red-wine-vinegar}} before beginning."
+  ],
+  "stepGroups": [
+    {
+      "title": "Brown the Mushrooms",
+      "items": [
+        "Heat a wide Dutch oven over medium-high heat. Add 1 tablespoon of {{ingredient:olive-oil}} and half of {{ingredient:cremini-mushrooms}}. Spread the mushrooms into a single layer and cook undisturbed for 3 minutes.",
+        "Toss and continue cooking for 3 to 4 minutes, until deeply browned. Season with 1/4 teaspoon of {{ingredient:kosher-salt}} and transfer to a bowl.",
+        "Add another 1 tablespoon of {{ingredient:olive-oil}} and repeat with the remaining mushrooms and another 1/4 teaspoon of {{ingredient:kosher-salt}}. Transfer to the bowl."
+      ]
+    },
+    {
+      "title": "Build the Stew",
+      "items": [
+        "Reduce the heat to medium. Add the remaining 1 tablespoon of {{ingredient:olive-oil}}, {{ingredient:yellow-onion}}, {{ingredient:carrots}}, {{ingredient:celery}}, and another 1/4 teaspoon of {{ingredient:kosher-salt}}. Cook for 8 to 10 minutes, stirring occasionally, until tender and beginning to brown.",
+        "Add {{ingredient:garlic}}, {{ingredient:fresh-thyme}}, and {{ingredient:black-pepper}}. Cook for 1 minute.",
+        "Add {{ingredient:dry-white-wine}}. Scrape the bottom of the pot thoroughly and simmer until the wine has reduced by approximately half, 2 to 3 minutes.",
+        "Add {{ingredient:pearl-barley}}, {{ingredient:vegetable-stock}}, and {{ingredient:bay-leaves}}. Bring to a boil, then reduce to a steady simmer. Partially cover and cook for 10 minutes.",
+        "Add {{ingredient:french-green-lentils}}. Continue simmering partially covered for 25 to 30 minutes, stirring every several minutes, until the barley is tender and the lentils are cooked but still hold their shape. Add more stock if the stew becomes dry before the barley is tender."
+      ]
+    },
+    {
+      "title": "Finish the Stew",
+      "items": [
+        "Return the browned mushrooms and their accumulated juices to the pot. Simmer uncovered for 5 minutes.",
+        "Press approximately 1 cup of the lentils and barley against the side of the pot with the back of a spoon. Stir the crushed mixture back into the stew to thicken it.",
+        "Remove the pot from the heat and discard the bay leaves. Stir in {{ingredient:dijon-mustard}}, {{ingredient:whole-grain-mustard}}, {{ingredient:fresh-tarragon}}, and {{ingredient:red-wine-vinegar}}.",
+        "Taste and add the remaining 1/4 teaspoon of {{ingredient:kosher-salt}} if needed. Let stand for 5 minutes. The stew should be thick and spoonable but not stiff; loosen with additional vegetable stock if necessary."
+      ]
+    }
+  ]
+}
