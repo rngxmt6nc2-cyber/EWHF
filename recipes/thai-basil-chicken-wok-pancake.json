@@ -1,0 +1,86 @@
+{
+  "id": "thai-basil-chicken-wok-pancake",
+  "title": "Thai Basil Chicken Wok Pancake",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Poultry",
+  "displayCategory": "Poultry",
+  "cScale": 3,
+  "ldlActive": false,
+  "cScaleSummary": "C3 because ground chicken and one whole egg contribute a moderate amount of dietary cholesterol across four servings. The herbs, aromatics, seasonings, panko, and cooking oil contribute little or no cholesterol.",
+  "ldlActiveSummary": "Not LDL-Active because the recipe is centered on ground chicken rather than soluble-fiber-rich legumes, whole grains, or vegetables. Avocado oil and abundant fresh herbs keep the preparation relatively restrained in saturated fat, but that alone does not make it LDL-Active.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": ["Thai-inspired", "wok", "ground chicken"],
+  "intro": "Cultural Note and Regional Roots: This is not a traditional Thai dish, but its flavor structure borrows from Thai stir-fries built around fish sauce, chiles, garlic, and fragrant Thai basil. Instead of rolling seasoned ground chicken into meatballs, the mixture is pressed directly into a hot wok as one broad pancake. The technique creates a deeply browned crust before the chicken is divided, flipped, and broken into irregular pieces. A sharp lime-and-fish-sauce glaze and fresh basil finish the dish without softening that hard-earned sear.",
+  "ingredientGroups": [
+    {
+      "title": "Chicken Mixture",
+      "items": [
+        {"id":"ground-chicken","amount":1.5,"unit":"pounds","item":"ground chicken","prep":""},
+        {"id":"scallions","amount":3,"unit":"","item":"scallions","prep":"white and light-green parts finely sliced; dark-green parts reserved for finishing"},
+        {"id":"garlic","amount":3,"unit":"cloves","item":"garlic","prep":"finely grated"},
+        {"id":"fresh-ginger","amount":1,"unit":"tablespoon","item":"fresh ginger","prep":"finely grated"},
+        {"id":"fish-sauce-mixture","amount":1,"unit":"tablespoon","item":"fish sauce","prep":""},
+        {"id":"soy-sauce-mixture","amount":1,"unit":"tablespoon","item":"soy sauce","prep":""},
+        {"id":"sesame-oil-mixture","amount":1,"unit":"teaspoon","item":"toasted sesame oil","prep":""},
+        {"id":"white-pepper","amount":0.5,"unit":"teaspoon","item":"white pepper","prep":""},
+        {"id":"egg","amount":1,"unit":"large","item":"egg","prep":"lightly beaten"},
+        {"id":"panko","amount":0.25,"unit":"cup","item":"panko breadcrumbs","prep":""},
+        {"id":"thai-basil-mixture","amount":0.5,"unit":"cup","item":"packed Thai basil leaves","prep":"roughly chopped"}
+      ]
+    },
+    {
+      "title": "Wok",
+      "items": [
+        {"id":"avocado-oil","amount":1.5,"unit":"tablespoons","item":"avocado oil","prep":""}
+      ]
+    },
+    {
+      "title": "Finishing Sauce",
+      "items": [
+        {"id":"soy-sauce-finish","amount":2,"unit":"tablespoons","item":"soy sauce","prep":""},
+        {"id":"fish-sauce-finish","amount":1,"unit":"tablespoon","item":"fish sauce","prep":""},
+        {"id":"rice-vinegar","amount":1,"unit":"tablespoon","item":"unseasoned rice vinegar","prep":""},
+        {"id":"lime-juice","amount":1,"unit":"tablespoon","item":"fresh lime juice","prep":""},
+        {"id":"sesame-oil-finish","amount":1,"unit":"teaspoon","item":"toasted sesame oil","prep":""},
+        {"id":"jalapeno","amount":1,"unit":"","item":"jalapeño","prep":"thinly sliced"},
+        {"id":"thai-basil-finish","amount":0.5,"unit":"cup","item":"Thai basil leaves","prep":"left whole"}
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Finely slice {{ingredient:scallions}}, keeping the dark-green parts separate for finishing.",
+    "Finely grate {{ingredient:garlic}} and {{ingredient:fresh-ginger}}.",
+    "Roughly chop {{ingredient:thai-basil-mixture}} and leave {{ingredient:thai-basil-finish}} whole.",
+    "Thinly slice {{ingredient:jalapeno}}.",
+    "Lightly beat {{ingredient:egg}}.",
+    "Measure the remaining chicken-mixture ingredients and the {{ingredient:avocado-oil}}.",
+    "Combine {{ingredient:soy-sauce-finish}}, {{ingredient:fish-sauce-finish}}, {{ingredient:rice-vinegar}}, {{ingredient:lime-juice}}, and {{ingredient:sesame-oil-finish}} in a small bowl."
+  ],
+  "stepGroups": [
+    {
+      "title": "Mix the Chicken",
+      "items": [
+        "Combine the {{ingredient:ground-chicken}}, the white and light-green parts of the {{ingredient:scallions}}, {{ingredient:garlic}}, {{ingredient:fresh-ginger}}, {{ingredient:fish-sauce-mixture}}, {{ingredient:soy-sauce-mixture}}, {{ingredient:sesame-oil-mixture}}, {{ingredient:white-pepper}}, {{ingredient:egg}}, and {{ingredient:panko}}. Mix just until evenly incorporated.",
+        "Fold in the {{ingredient:thai-basil-mixture}}. Let the mixture stand for 10 minutes while the panko hydrates."
+      ]
+    },
+    {
+      "title": "Sear the Wok Pancake",
+      "items": [
+        "Heat a large wok or 12-inch heavy skillet over medium-high to high heat until very hot. Add the {{ingredient:avocado-oil}} and swirl to coat the cooking surface.",
+        "Add the chicken mixture and immediately press it into one broad pancake about 3/4 inch thick. Cook undisturbed for 4 to 5 minutes, until the underside develops a deep golden-brown crust.",
+        "Cut the pancake into 4 wedges with a wok spatula and flip each wedge individually. Cook for 3 to 4 minutes, until the second side is browned and the thickest part of the chicken reaches 165°F.",
+        "Break the wedges into large irregular pieces. Let the newly exposed surfaces contact the hot wok for 1 to 2 minutes to pick up additional browning."
+      ]
+    },
+    {
+      "title": "Glaze and Finish",
+      "items": [
+        "Reduce the heat to low. Add the prepared finishing sauce a little at a time, tossing just until the chicken is lightly glazed; do not add so much that the browned crust becomes wet or soft.",
+        "Remove from the heat and finish with {{ingredient:jalapeno}}, the reserved dark-green parts of the {{ingredient:scallions}}, and {{ingredient:thai-basil-finish}}. Serve immediately."
+      ]
+    }
+  ]
+}
