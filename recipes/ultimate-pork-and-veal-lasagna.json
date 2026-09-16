@@ -7,7 +7,7 @@
   "displayCategory": "Pasta & Noodles",
   "cScale": 5,
   "ldlActive": false,
-  "cScaleSummary": "A rich, special-occasion lasagna built with pork, veal, pancetta, sausage, whole-milk cheeses, and Parmesan béchamel.",
+  "cScaleSummary": "A rich, special-occasion lasagna built with pork, veal, sausage, whole-milk cheeses, and Parmesan béchamel.",
   "ldlActiveSummary": "This recipe is an indulgence and is not designed as an LDL-active dish.",
   "yield": 12,
   "yieldUnit": "servings",
@@ -18,24 +18,17 @@
       "title": "Ragù",
       "items": [
         {
-          "id": "pancetta",
-          "amount": 4,
-          "unit": "ounces",
-          "item": "pancetta",
-          "prep": "finely diced"
+          "id": "ground-pork",
+          "amount": 1,
+          "unit": "pound",
+          "item": "ground pork",
+          "prep": ""
         },
         {
           "id": "ground-veal",
           "amount": 1,
           "unit": "pound",
           "item": "ground veal",
-          "prep": ""
-        },
-        {
-          "id": "ground-pork",
-          "amount": 1,
-          "unit": "pound",
-          "item": "ground pork",
           "prep": ""
         },
         {
@@ -340,15 +333,15 @@
     {
       "title": "Brown the Meat",
       "items": [
-        "Heat a large Dutch oven over medium heat. Add {{ingredient:pancetta}} and cook until lightly crisp and most of the fat has rendered, about 6 to 8 minutes. Remove the pancetta with a slotted spoon, leaving the rendered fat in the pot.",
-        "Increase the heat to medium-high. Brown {{ingredient:ground-veal}} in batches, spreading the meat into a loose layer and allowing a deep crust to develop before stirring. Transfer the browned veal to a bowl.",
-        "Repeat with {{ingredient:ground-pork}}, then {{ingredient:sweet-italian-sausage}} and {{ingredient:hot-italian-sausage}}. Do not overcrowd the pot. The meat is ready when it is richly caramelized and browned bits remain on the bottom of the pot."
+        "Place {{ingredient:ground-pork}} in a large Dutch oven over medium heat. Cook gently at first to release some fat, then increase the heat to medium-high and brown in batches, allowing a deep crust to develop before stirring. Transfer the browned pork to a bowl, leaving the fat in the pot.",
+        "Brown {{ingredient:ground-veal}} in batches in the fat left in the pot, spreading the meat into a loose layer and allowing a deep crust to develop before stirring. Transfer the browned veal to the bowl.",
+        "Repeat with {{ingredient:sweet-italian-sausage}} and {{ingredient:hot-italian-sausage}}. Transfer the browned sausage to the bowl, leaving the fat in the pot. Do not overcrowd the pot. The meat is ready when it is richly caramelized and browned bits remain on the bottom of the pot."
       ]
     },
     {
       "title": "Cook the Soffritto",
       "items": [
-        "Reduce the heat to medium-low. Add {{ingredient:yellow-onions}}, {{ingredient:carrots}}, and {{ingredient:celery-ribs}} to the rendered fat. Cook for about 20 minutes, stirring occasionally, until the vegetables are soft, translucent, and sweet without developing significant color.",
+        "Reduce the heat to medium-low. Add {{ingredient:yellow-onions}}, {{ingredient:carrots}}, and {{ingredient:celery-ribs}} to the fat left from browning the pork, veal, and sausage. Cook for about 20 minutes, stirring occasionally, until the vegetables are soft, translucent, and sweet without developing significant color.",
         "Add {{ingredient:garlic}} and cook for 1 minute until fragrant.",
         "Stir in {{ingredient:tomato-paste}} and cook for 2 to 3 minutes until it darkens from bright red to a deep brick-red color."
       ]
@@ -357,7 +350,7 @@
       "title": "Simmer the Ragù",
       "items": [
         "Pour {{ingredient:white-wine}} into the pot, scraping the bottom thoroughly to dissolve every browned bit. Continue simmering until the wine has almost completely evaporated and the aroma of alcohol has disappeared.",
-        "Return the browned pancetta, veal, pork, and sausage to the pot.",
+        "Return the browned veal, pork, and sausage to the pot.",
         "Pour in {{ingredient:ragout-whole-milk}} and simmer gently until reduced by approximately one-half.",
         "Add {{ingredient:san-marzano-tomatoes}}, {{ingredient:ragout-bay-leaves}}, {{ingredient:fresh-thyme}}, {{ingredient:fresh-rosemary}}, {{ingredient:ragout-nutmeg}}, {{ingredient:fish-sauce}}, and {{ingredient:parmesan-rind}}.",
         "Bring to a very gentle simmer and cook uncovered for 3 to 4 hours. Stir every 20 to 30 minutes, scraping the bottom of the pot to prevent scorching as the sauce slowly reduces.",
