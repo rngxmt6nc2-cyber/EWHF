@@ -1,0 +1,103 @@
+{
+  "id": "spanish-white-beans-blistered-tomatoes-smoked-paprika",
+  "title": "Spanish White Beans with Blistered Tomatoes & Smoked Paprika",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 0,
+  "ldlActive": true,
+  "cScaleSummary": "C0 because the recipe contains no animal-derived ingredients. The cannellini beans, vegetables, olive oil, wine, herbs, spices, and seasonings contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active because cannellini beans are the foundation of the dish and provide soluble fiber. Olive oil supplies unsaturated fat, while the sauce gets its body from pureed beans and tomatoes rather than butter, cream, or animal fat.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": ["Spanish", "beans", "legumes", "vegetarian", "vegan"],
+  "intro": "Across Spain, humble beans become deeply satisfying meals through good olive oil, garlic, tomatoes and careful seasoning rather than heavy enrichment. This version takes inspiration from those everyday legume dishes rather than reproducing one specific regional recipe. Blistered tomatoes, Spanish pimentón, white wine and sherry vinegar create a smoky, bright sauce, while a small portion of the cannellini beans is blended directly into the tomato base. The technique produces a silky, abundant sauce without cream or butter, leaving plenty behind for a piece of grilled bread to find at the bottom of the bowl.",
+  "ingredientGroups": [
+    {
+      "title": "Beans",
+      "items": [
+        {"amount": 1.5, "unit": "cups", "item": "dried cannellini beans", "prep": "soaked overnight and drained", "id": "dried-cannellini-beans"},
+        {"amount": 6, "unit": "cups", "item": "water", "prep": "plus more as needed to keep the beans submerged", "id": "water"},
+        {"amount": 1, "unit": "", "item": "bay leaf", "prep": "", "id": "bay-leaf"},
+        {"amount": 0.5, "unit": "medium", "item": "yellow onion", "prep": "peeled and left intact", "id": "bean-onion"},
+        {"amount": 3, "unit": "cloves", "item": "garlic", "prep": "lightly crushed", "id": "bean-garlic"},
+        {"amount": 1, "unit": "teaspoon", "item": "kosher salt", "prep": "", "id": "bean-kosher-salt"}
+      ]
+    },
+    {
+      "title": "Tomato-Paprika Sauce",
+      "items": [
+        {"amount": 1, "unit": "tablespoon", "item": "extra-virgin olive oil", "prep": "", "id": "sauce-olive-oil"},
+        {"amount": 1, "unit": "medium", "item": "yellow onion", "prep": "finely diced", "id": "sauce-onion"},
+        {"amount": 1, "unit": "pint", "item": "cherry or grape tomatoes", "prep": "washed and dried", "id": "tomatoes"},
+        {"amount": 4, "unit": "cloves", "item": "garlic", "prep": "thinly sliced", "id": "sauce-garlic"},
+        {"amount": 1, "unit": "tablespoon", "item": "tomato paste", "prep": "", "id": "tomato-paste"},
+        {"amount": 1.5, "unit": "teaspoons", "item": "Spanish smoked paprika", "prep": "preferably pimentón de la Vera dulce", "id": "smoked-paprika"},
+        {"amount": 0.25, "unit": "teaspoon", "item": "crushed red pepper", "prep": "", "id": "crushed-red-pepper"},
+        {"amount": 0.5, "unit": "cup", "item": "dry white wine", "prep": "", "id": "dry-white-wine"},
+        {"amount": 1.75, "unit": "cups", "item": "reserved bean cooking liquid", "prep": "", "id": "bean-cooking-liquid"},
+        {"amount": 0.25, "unit": "teaspoon", "item": "kosher salt", "prep": "", "id": "sauce-kosher-salt"},
+        {"amount": 0, "unit": "", "item": "freshly ground black pepper", "prep": "to taste", "id": "black-pepper"}
+      ]
+    },
+    {
+      "title": "To Finish",
+      "items": [
+        {"amount": 0.25, "unit": "cup", "item": "reserved bean cooking liquid", "prep": "for adjusting sauce consistency", "id": "finishing-bean-liquid"},
+        {"amount": 1, "unit": "tablespoon", "item": "sherry vinegar", "prep": "", "id": "sherry-vinegar"},
+        {"amount": 0.5, "unit": "cup", "item": "flat-leaf parsley", "prep": "loosely packed and roughly chopped", "id": "parsley"},
+        {"amount": 1, "unit": "teaspoon", "item": "extra-virgin olive oil", "prep": "", "id": "finishing-olive-oil"}
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Soak {{ingredient:dried-cannellini-beans}} overnight and drain.",
+    "Measure {{ingredient:water}} and prepare {{ingredient:bean-onion}} and {{ingredient:bean-garlic}}.",
+    "Finely dice {{ingredient:sauce-onion}} and wash and dry {{ingredient:tomatoes}}.",
+    "Thinly slice {{ingredient:sauce-garlic}}.",
+    "Measure {{ingredient:tomato-paste}}, {{ingredient:smoked-paprika}}, and {{ingredient:crushed-red-pepper}}.",
+    "Measure {{ingredient:dry-white-wine}}.",
+    "Roughly chop {{ingredient:parsley}} and measure {{ingredient:sherry-vinegar}} and {{ingredient:finishing-olive-oil}}.",
+    "Have an immersion blender ready."
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the Beans",
+      "items": [
+        "Add the soaked and drained 1 1/2 cups cannellini beans, 6 cups water, 1 bay leaf, 1/2 medium onion, and 3 crushed garlic cloves to a saucepan. Bring just to a boil, then reduce to a very gentle simmer.",
+        "Cook for 60 to 90 minutes, adding hot water as necessary to keep the beans submerged. During the final 20 minutes, add the 1 teaspoon kosher salt. Continue cooking until the beans are tender and creamy throughout but still hold their shape.",
+        "Drain the beans, reserving at least 2 cups of the bean cooking liquid. Discard the bay leaf and onion. Keep the softened garlic cloves with the beans."
+      ]
+    },
+    {
+      "title": "Build the Tomato-Paprika Sauce",
+      "items": [
+        "Heat the 1 tablespoon extra-virgin olive oil in a wide Dutch oven or deep sauté pan over medium heat. Add the 1 diced onion and cook for 6 to 8 minutes, stirring occasionally, until soft and beginning to turn golden.",
+        "Increase the heat to medium-high. Add the 1 pint tomatoes and cook for 6 to 8 minutes, allowing them to blister against the pan before turning. Continue until the skins are blistered and several tomatoes have burst.",
+        "Transfer about one-third of the blistered tomatoes to a bowl and reserve.",
+        "Reduce the heat to medium. Add the 4 sliced garlic cloves and cook for 1 minute.",
+        "Add the 1 tablespoon tomato paste and cook for about 2 minutes, stirring it against the bottom of the pan until it darkens to brick red.",
+        "Add the 1 1/2 teaspoons smoked paprika and 1/4 teaspoon crushed red pepper. Stir for about 20 seconds, just until fragrant.",
+        "Immediately add the 1/2 cup white wine. Scrape the bottom of the pan thoroughly and simmer until the wine has reduced by roughly half."
+      ]
+    },
+    {
+      "title": "Make It Saucy",
+      "items": [
+        "Add 1/2 cup of the cooked beans, the softened garlic cloves from the bean pot, and 1 cup of the reserved bean cooking liquid. Simmer for 5 minutes.",
+        "Using an immersion blender, blend the tomato-bean mixture until smooth and saucy. The sauce should pour readily from a spoon rather than hold its shape like a purée.",
+        "Add the remaining cooked beans, 3/4 cup reserved bean cooking liquid, 1/4 teaspoon kosher salt, and freshly ground black pepper to taste. Bring to a gentle simmer.",
+        "Simmer uncovered for 8 to 10 minutes, stirring occasionally. The whole beans should remain surrounded by a loose, silky tomato-paprika sauce. If the sauce becomes too thick, stir in up to the remaining 1/4 cup reserved bean cooking liquid."
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        "Fold in the reserved blistered tomatoes and simmer for 2 minutes, leaving the tomatoes partly intact.",
+        "Remove from the heat. Stir in the 1 tablespoon sherry vinegar and most of the 1/2 cup chopped parsley. Taste and adjust the kosher salt and black pepper.",
+        "Spoon the beans and plenty of sauce into shallow bowls. Finish with the remaining parsley and the 1 teaspoon extra-virgin olive oil divided among the four servings."
+      ]
+    }
+  ]
+}
