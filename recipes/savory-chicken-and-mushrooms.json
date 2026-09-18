@@ -1,0 +1,239 @@
+{
+  "id": "savory-chicken-and-mushrooms",
+  "title": "Savory Chicken and Mushrooms",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Poultry",
+  "displayCategory": "Poultry",
+  "cScale": 4,
+  "ldlActive": false,
+  "cScaleSummary": "C4 because 1 1/2 pounds of boneless skinless chicken thighs provide most of the recipe's dietary cholesterol, with a small additional contribution from 2 tablespoons of crème fraîche. Divided among 4 servings, the estimated cholesterol falls just above the C3 range. The mushrooms, bread, olive oil, aromatics, wine, stock, mustard, seasonings, herbs, and vinegar contribute little or no cholesterol.",
+  "ldlActiveSummary": "Not LDL-Active because the dish is centered on chicken thighs and includes crème fraîche. Mushrooms, olive oil, and a restrained dairy finish keep it lighter than a butter-and-cream preparation, but the recipe does not contain enough soluble-fiber-rich legumes, whole grains, or other LDL-active foods to qualify under the EWHF standard.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [
+    "French-inspired",
+    "skillet",
+    "fresh savory"
+  ],
+  "intro": "Cultural Note and Regional Roots: Savory has seasoned meat, beans, and mushrooms across European kitchens for centuries, although it rarely gets the attention given to thyme or rosemary. This French-inspired skillet uses its peppery, thyme-like character in three stages: cooked into the mushroom pan sauce, stirred in fresh at the finish, and bloomed with garlic on crisp croutons. Dijon, white wine, and a restrained spoonful of crème fraîche give the sauce depth without burying the herb, while the croutons provide the substantial crunch that soft chicken and mushrooms need.",
+  "ingredientGroups": [
+    {
+      "title": "Chicken",
+      "items": [
+        {
+          "id": "chicken-thighs",
+          "amount": 1.5,
+          "unit": "pounds",
+          "item": "boneless skinless chicken thighs",
+          "prep": "trimmed and patted dry"
+        },
+        {
+          "id": "kosher-salt",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-chicken",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "freshly ground black pepper",
+          "prep": ""
+        },
+        {
+          "id": "olive-oil-chicken",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Mushroom Pan Sauce",
+      "items": [
+        {
+          "id": "cremini-mushrooms",
+          "amount": 12,
+          "unit": "ounces",
+          "item": "cremini mushrooms",
+          "prep": "sliced 1/4 inch thick"
+        },
+        {
+          "id": "shallot",
+          "amount": 1,
+          "unit": "large",
+          "item": "shallot",
+          "prep": "finely chopped"
+        },
+        {
+          "id": "garlic-sauce",
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "fresh-savory-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh savory leaves",
+          "prep": "finely chopped"
+        },
+        {
+          "id": "dijon-mustard",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "Dijon mustard",
+          "prep": ""
+        },
+        {
+          "id": "dry-white-wine",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "dry white wine",
+          "prep": ""
+        },
+        {
+          "id": "chicken-stock",
+          "amount": 0.75,
+          "unit": "cup",
+          "item": "defatted low-sodium chicken stock",
+          "prep": ""
+        },
+        {
+          "id": "worcestershire-sauce",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "Worcestershire sauce",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-sauce",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "freshly ground black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Garlicky Savory Croutons",
+      "items": [
+        {
+          "id": "crusty-bread",
+          "amount": 2,
+          "unit": "cups",
+          "item": "crusty bread",
+          "prep": "cut into irregular 1/2-inch cubes"
+        },
+        {
+          "id": "olive-oil-croutons",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper-croutons",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "freshly ground black pepper",
+          "prep": ""
+        },
+        {
+          "id": "garlic-croutons",
+          "amount": 1,
+          "unit": "clove",
+          "item": "garlic",
+          "prep": "finely grated"
+        },
+        {
+          "id": "fresh-savory-croutons",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fresh savory leaves",
+          "prep": "finely chopped"
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "creme-fraiche",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "crème fraîche",
+          "prep": ""
+        },
+        {
+          "id": "fresh-savory-finish",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "fresh savory leaves",
+          "prep": "finely chopped"
+        },
+        {
+          "id": "red-wine-vinegar",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "red wine vinegar",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Trim and pat dry {{ingredient:chicken-thighs}}. Season with {{ingredient:kosher-salt}} and {{ingredient:black-pepper-chicken}}.",
+    "Slice {{ingredient:cremini-mushrooms}} 1/4 inch thick and finely chop {{ingredient:shallot}}.",
+    "Mince {{ingredient:garlic-sauce}}. Finely grate {{ingredient:garlic-croutons}} and keep it separate.",
+    "Finely chop {{ingredient:fresh-savory-sauce}}, {{ingredient:fresh-savory-croutons}}, and {{ingredient:fresh-savory-finish}}, keeping each portion separate.",
+    "Cut {{ingredient:crusty-bread}} into irregular 1/2-inch cubes.",
+    "Measure and stage {{ingredient:olive-oil-chicken}}, {{ingredient:dijon-mustard}}, {{ingredient:dry-white-wine}}, {{ingredient:chicken-stock}}, {{ingredient:worcestershire-sauce}}, and {{ingredient:black-pepper-sauce}}.",
+    "Measure and stage {{ingredient:olive-oil-croutons}}, {{ingredient:black-pepper-croutons}}, {{ingredient:creme-fraiche}}, and {{ingredient:red-wine-vinegar}}."
+  ],
+  "stepGroups": [
+    {
+      "title": "Brown the Chicken",
+      "items": [
+        "Heat {{quantity:olive-oil-chicken}} extra-virgin olive oil in a wide skillet over medium-high heat.",
+        "Add the seasoned {{quantity:chicken-thighs}} boneless skinless chicken thighs in a single layer. Brown for about 4 minutes on the first side and 2 minutes on the second; the chicken will not yet be cooked through.",
+        "Transfer the chicken to a plate and leave the browned bits in the skillet."
+      ]
+    },
+    {
+      "title": "Brown the Mushrooms",
+      "items": [
+        "Add {{quantity:cremini-mushrooms}} cremini mushrooms to the same skillet and spread them into an even layer. Leave them undisturbed for 2 minutes, then cook for another 4 to 6 minutes, stirring occasionally, until their liquid has evaporated and the edges are deeply browned.",
+        "Reduce the heat to medium. Add {{quantity:shallot}} shallot and cook for 2 minutes, until softened.",
+        "Add {{quantity:garlic-sauce}} minced garlic and {{quantity:fresh-savory-sauce}} fresh savory. Cook for 30 seconds, stirring constantly."
+      ]
+    },
+    {
+      "title": "Build the Pan Sauce",
+      "items": [
+        "Stir in {{quantity:dijon-mustard}} Dijon mustard, then add {{quantity:dry-white-wine}} dry white wine. Scrape up the browned bits and simmer until the wine has reduced by approximately half, 2 to 3 minutes.",
+        "Add {{quantity:chicken-stock}} defatted low-sodium chicken stock, {{quantity:worcestershire-sauce}} Worcestershire sauce, and {{quantity:black-pepper-sauce}} black pepper.",
+        "Return the chicken and any accumulated juices to the skillet. Simmer gently, uncovered, for 8 to 10 minutes, turning the thighs once, until the thickest part reaches 165°F and the sauce lightly coats a spoon."
+      ]
+    },
+    {
+      "title": "Make the Garlicky Savory Croutons",
+      "items": [
+        "While the chicken simmers, heat {{quantity:olive-oil-croutons}} extra-virgin olive oil in a separate skillet over medium heat.",
+        "Add {{quantity:crusty-bread}} crusty bread and {{quantity:black-pepper-croutons}} black pepper. Cook for 5 to 7 minutes, tossing frequently, until crisp and deeply golden on several sides.",
+        "Reduce the heat to low. Add {{quantity:garlic-croutons}} finely grated garlic and {{quantity:fresh-savory-croutons}} fresh savory. Toss for 30 to 45 seconds, just until fragrant, then immediately transfer the croutons to a plate so the garlic does not burn."
+      ]
+    },
+    {
+      "title": "Finish and Serve",
+      "items": [
+        "Remove the chicken skillet from the heat. Stir {{quantity:creme-fraiche}} crème fraîche, {{quantity:fresh-savory-finish}} fresh savory, and {{quantity:red-wine-vinegar}} red wine vinegar into the mushroom sauce. Taste before adding any additional salt.",
+        "Divide the chicken, mushrooms, and sauce among shallow bowls. Scatter the garlicky savory croutons over each serving immediately before eating so their centers stay crisp while their edges catch the sauce."
+      ]
+    }
+  ]
+}
