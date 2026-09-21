@@ -1,0 +1,140 @@
+{
+  "id": "tangy-burger-sauce",
+  "title": "Tangy Burger Sauce",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Condiments & Toppings",
+  "displayCategory": "Condiments & Toppings",
+  "cScale": 1,
+  "ldlActive": false,
+  "cScaleSummary": "C1 because the 1/2 cup of regular egg-based mayonnaise is the cholesterol contributor. Using approximately 5 mg cholesterol per tablespoon of mayonnaise, the 8 tablespoons contribute about 40 mg to the batch, or about 7 mg per serving when divided into 6 condiment servings. The remaining ingredients contribute no cholesterol. The estimate varies with the mayonnaise brand but falls within EWHF's C1 range of 1 to 25 mg per serving.",
+  "ldlActiveSummary": "LDL-Active is false because this is a mayonnaise-based condiment with little fiber and no meaningful serving of legumes, whole grains, nuts, or seeds. Its small serving keeps dietary cholesterol low, but the sauce is not built around core LDL-supportive ingredients.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "A creamy burger sauce with the sharp dill-pickle tang of classic special sauce. Yellow mustard, pickle brine, and white vinegar bring the tang, while finely minced onion, paprika, and garlic round out the flavor. Chilling lets the dried spices hydrate and the onion mellow into the sauce. Makes 6 condiment servings of about 2 tablespoons each. No refined sugar is added beyond what is already present in the commercial condiments.",
+  "ingredientGroups": [
+    {
+      "title": "Sauce Base",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "mayonnaise",
+          "prep": "",
+          "id": "mayonnaise"
+        },
+        {
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "dill pickle",
+          "prep": "finely chopped",
+          "id": "dill-pickle"
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "yellow mustard",
+          "prep": "",
+          "id": "yellow-mustard"
+        },
+        {
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "ketchup",
+          "prep": "",
+          "id": "ketchup"
+        },
+        {
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "dill pickle brine",
+          "prep": "",
+          "id": "dill-pickle-brine"
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "white vinegar",
+          "prep": "",
+          "id": "white-vinegar"
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "onion",
+          "prep": "very finely minced",
+          "id": "onion"
+        }
+      ]
+    },
+    {
+      "title": "Seasoning",
+      "items": [
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "sweet paprika",
+          "prep": "",
+          "id": "sweet-paprika"
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "garlic powder",
+          "prep": "",
+          "id": "garlic-powder"
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "onion powder",
+          "prep": "",
+          "id": "onion-powder"
+        },
+        {
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": "",
+          "id": "kosher-salt"
+        },
+        {
+          "amount": 0,
+          "unit": "",
+          "item": "black pepper",
+          "prep": "several grinds",
+          "id": "black-pepper"
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Finely chop {{ingredient:dill-pickle}} and measure after chopping.",
+    "Very finely mince {{ingredient:onion}} and measure after mincing.",
+    "Measure and stage {{ingredient:mayonnaise}}, {{ingredient:yellow-mustard}}, {{ingredient:ketchup}}, {{ingredient:dill-pickle-brine}}, and {{ingredient:white-vinegar}}.",
+    "Measure and stage {{ingredient:sweet-paprika}}, {{ingredient:garlic-powder}}, {{ingredient:onion-powder}}, and {{ingredient:kosher-salt}}.",
+    "Have {{ingredient:black-pepper}} and a pepper mill ready."
+  ],
+  "stepGroups": [
+    {
+      "title": "Mix the Sauce",
+      "items": [
+        "In a small mixing bowl, combine the mayonnaise ({{quantity:mayonnaise}}), finely chopped dill pickle ({{quantity:dill-pickle}}), yellow mustard ({{quantity:yellow-mustard}}), ketchup ({{quantity:ketchup}}), dill pickle brine ({{quantity:dill-pickle-brine}}), white vinegar ({{quantity:white-vinegar}}), and very finely minced onion ({{quantity:onion}}). Stir thoroughly.",
+        "Add the sweet paprika ({{quantity:sweet-paprika}}), garlic powder ({{quantity:garlic-powder}}), onion powder ({{quantity:onion-powder}}), kosher salt ({{quantity:kosher-salt}}), and several grinds of black pepper. Mix thoroughly until the seasonings are evenly distributed and no streaks remain."
+      ]
+    },
+    {
+      "title": "Chill the Sauce",
+      "items": [
+        "Cover and refrigerate for at least 30 minutes, preferably 1 hour. This gives the dried spices time to hydrate and the onion time to mellow into the sauce."
+      ]
+    },
+    {
+      "title": "Taste and Serve",
+      "items": [
+        "Stir and taste the sauce cold. If it needs more tang, mix in up to an additional 1/2 teaspoon white vinegar or dill pickle brine, using no more than 1/2 teaspoon extra liquid total per six-serving batch. Serve cold."
+      ]
+    }
+  ]
+}
