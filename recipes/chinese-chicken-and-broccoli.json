@@ -1,0 +1,224 @@
+{
+  "id": "chinese-chicken-and-broccoli",
+  "title": "Chinese Chicken and Broccoli",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 3,
+  "ldlActive": true,
+  "cScaleSummary": "Estimated at about 85 mg cholesterol per serving, primarily from the chicken breast, with a small contribution from chicken stock and oyster sauce. Four servings place the recipe in C3, the 76-150 mg range. This estimate excludes the rice served alongside.",
+  "ldlActiveSummary": "Meets the EWHF LDL-Active criteria through a vegetable-forward mix of broccoli, onion, mushrooms, and water chestnuts, lean chicken, and a modest amount of unsaturated oil. Flavor comes from browning and aromatics. This label describes the recipe under the EWHF rubric; it is not a measured health outcome.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Tender chicken, crisp broccoli, and a glossy brown sauce make this a familiar Chinese American takeout dinner. The cooking follows the rhythm of a quick stir-fry: prepare everything first, sear the chicken, cook the vegetables, and bring them together only at the end. Water chestnuts keep their crunch, while straw mushrooms add a soft contrast. This version gives the broccoli more room on the plate and keeps the sauce savory rather than sweet. Serve it with fried rice so the sauce can run into the grains.",
+  "ingredientGroups": [
+    {
+      "title": "Chicken",
+      "items": [
+        {
+          "id": "chicken-breast",
+          "amount": 1,
+          "unit": "pound",
+          "item": "boneless skinless chicken breast",
+          "prep": "thinly sliced across the grain"
+        },
+        {
+          "id": "marinade-soy-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "marinade-shaoxing-wine",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "Shaoxing wine",
+          "prep": ""
+        },
+        {
+          "id": "marinade-water",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "marinade-cornstarch",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "cornstarch",
+          "prep": ""
+        },
+        {
+          "id": "marinade-oil",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "neutral oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Brown Sauce",
+      "items": [
+        {
+          "id": "chicken-stock",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "low-sodium house chicken stock",
+          "prep": ""
+        },
+        {
+          "id": "oyster-sauce",
+          "amount": 1.5,
+          "unit": "tablespoons",
+          "item": "oyster sauce",
+          "prep": ""
+        },
+        {
+          "id": "sauce-soy-sauce",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "sauce-shaoxing-wine",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "Shaoxing wine",
+          "prep": ""
+        },
+        {
+          "id": "sesame-oil",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "toasted sesame oil",
+          "prep": ""
+        },
+        {
+          "id": "white-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "ground white pepper",
+          "prep": ""
+        },
+        {
+          "id": "sauce-cornstarch",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "cornstarch",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Vegetables and Aromatics",
+      "items": [
+        {
+          "id": "searing-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "neutral oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 0.5,
+          "unit": "medium",
+          "item": "yellow onion",
+          "prep": "cut into 3/4-inch wedges"
+        },
+        {
+          "id": "broccoli",
+          "amount": 6,
+          "unit": "cups",
+          "item": "broccoli florets",
+          "prep": "bite-size"
+        },
+        {
+          "id": "steaming-water",
+          "amount": 0.3333333333333333,
+          "unit": "cup",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "water-chestnuts",
+          "amount": 1,
+          "unit": "8-ounce can",
+          "item": "sliced water chestnuts",
+          "prep": "drained"
+        },
+        {
+          "id": "straw-mushrooms",
+          "amount": 1,
+          "unit": "15-ounce can",
+          "item": "straw mushrooms",
+          "prep": "drained and rinsed"
+        },
+        {
+          "id": "aromatic-oil",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "neutral oil",
+          "prep": ""
+        },
+        {
+          "id": "garlic",
+          "amount": 4,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "finely chopped"
+        },
+        {
+          "id": "ginger",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh ginger",
+          "prep": "finely chopped"
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Mix {{ingredient:chicken-breast}} with {{ingredient:marinade-soy-sauce}}, {{ingredient:marinade-shaoxing-wine}}, {{ingredient:marinade-water}}, {{ingredient:marinade-cornstarch}}, and {{ingredient:marinade-oil}}. Refrigerate for 15-20 minutes while preparing the remaining ingredients.",
+    "Whisk {{ingredient:chicken-stock}}, {{ingredient:oyster-sauce}}, {{ingredient:sauce-soy-sauce}}, {{ingredient:sauce-shaoxing-wine}}, {{ingredient:sesame-oil}}, {{ingredient:white-pepper}}, and {{ingredient:sauce-cornstarch}} together in a bowl.",
+    "Have {{ingredient:yellow-onion}}, {{ingredient:broccoli}}, {{ingredient:water-chestnuts}}, {{ingredient:straw-mushrooms}}, {{ingredient:garlic}}, and {{ingredient:ginger}} ready. Drain the canned vegetables thoroughly so they do not dilute the sauce."
+  ],
+  "stepGroups": [
+    {
+      "title": "Sear the Chicken",
+      "items": [
+        "Heat a large wok or wide, deep skillet over high heat until very hot. Add {{ingredient:searing-oil}}. Add the marinated chicken in a single layer, working in batches if necessary. Leave undisturbed for about 45 seconds, then stir-fry for 1-2 minutes, until the surface is opaque and lightly browned. Transfer to a plate; the chicken will finish cooking in the sauce."
+      ]
+    },
+    {
+      "title": "Cook the Vegetables",
+      "items": [
+        "Add the prepared {{ingredient:yellow-onion}} to the pan and stir-fry for about 45 seconds. Add the prepared {{ingredient:broccoli}} and {{ingredient:steaming-water}}. Cover and steam for 2-3 minutes, until the florets are bright green and beginning to soften but still crisp. Uncover and let excess water evaporate. Add the prepared {{ingredient:water-chestnuts}} and {{ingredient:straw-mushrooms}}. Stir-fry for about 1 minute, until hot."
+      ]
+    },
+    {
+      "title": "Add the Aromatics",
+      "items": [
+        "Push the vegetables aside and add {{ingredient:aromatic-oil}} to the exposed pan. Add the prepared {{ingredient:garlic}} and {{ingredient:ginger}}. Stir-fry for 20-30 seconds, just until fragrant, then mix them into the vegetables."
+      ]
+    },
+    {
+      "title": "Finish the Sauce",
+      "items": [
+        "Return the chicken and its juices to the pan. Whisk the prepared sauce again to redistribute the cornstarch, then pour it around the hot sides of the pan. Toss over high heat for 1-2 minutes, until the sauce bubbles, turns glossy, and lightly coats the food. The chicken must reach 165°F and the broccoli should remain crisp-tender. When increasing the yield, cook in batches and combine only as much as the pan can hold without crowding."
+      ]
+    },
+    {
+      "title": "Serve",
+      "items": [
+        "Serve immediately with Takeout Style Fried Rice. The yield and C-Scale above cover the chicken and vegetables only."
+      ]
+    }
+  ]
+}
