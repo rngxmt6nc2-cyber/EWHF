@@ -1,0 +1,141 @@
+{
+  "id": "takeout-style-fried-rice",
+  "title": "Takeout Style Fried Rice",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Rice, Beans & Legumes",
+  "displayCategory": "Rice, Beans & Legumes",
+  "cScale": 3,
+  "ldlActive": false,
+  "cScaleSummary": "Two large eggs contribute approximately 372 mg cholesterol to the batch, or 93 mg per serving at four servings. The other ingredients are plant-derived. This places the recipe in C3, the 76-150 mg range.",
+  "ldlActiveSummary": "Does not meet the EWHF LDL-Active criteria because white rice remains the dominant ingredient. Peas, onion, water chestnuts, and unsaturated oil add variety, but the dish is not centered on whole grains or legumes.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Fried rice turns cooked rice into a dish with a texture of its own: loose grains, lightly toasted edges, and small bites of vegetables and egg. This takeout-style version is meant to sit beside a saucy main course, so the seasoning stays restrained. White pepper gives it a familiar warmth, ginger adds a sharper note, and water chestnuts keep a clean crunch. Cook the eggs separately so they remain distinct, then fold them in at the end. Cold rice and a hot, uncrowded pan make the difference.",
+  "ingredientGroups": [
+    {
+      "title": "Eggs",
+      "items": [
+        {
+          "id": "egg-oil",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "neutral oil",
+          "prep": ""
+        },
+        {
+          "id": "eggs",
+          "amount": 2,
+          "unit": "large",
+          "item": "eggs",
+          "prep": "beaten"
+        }
+      ]
+    },
+    {
+      "title": "Rice and Vegetables",
+      "items": [
+        {
+          "id": "rice-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "neutral oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 0.5,
+          "unit": "small",
+          "item": "yellow onion",
+          "prep": "finely diced"
+        },
+        {
+          "id": "ginger",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "fresh ginger",
+          "prep": "finely minced"
+        },
+        {
+          "id": "water-chestnuts",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "sliced water chestnuts",
+          "prep": "drained and chopped"
+        },
+        {
+          "id": "cooked-rice",
+          "amount": 3,
+          "unit": "cups",
+          "item": "cold cooked white rice",
+          "prep": "preferably day-old"
+        },
+        {
+          "id": "peas",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "frozen peas",
+          "prep": "thawed"
+        }
+      ]
+    },
+    {
+      "title": "Seasoning",
+      "items": [
+        {
+          "id": "soy-sauce",
+          "amount": 1.5,
+          "unit": "tablespoons",
+          "item": "low-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "white-pepper",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "ground white pepper",
+          "prep": ""
+        },
+        {
+          "id": "sesame-oil",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "toasted sesame oil",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Break apart {{ingredient:cooked-rice}} with your fingers or a fork.",
+    "Have {{ingredient:eggs}}, {{ingredient:yellow-onion}}, {{ingredient:ginger}}, {{ingredient:water-chestnuts}}, {{ingredient:peas}} ready.",
+    "Measure {{ingredient:egg-oil}}, {{ingredient:rice-oil}}, {{ingredient:soy-sauce}}, {{ingredient:white-pepper}}, and {{ingredient:sesame-oil}} before heating the pan."
+  ],
+  "stepGroups": [
+    {
+      "title": "Scramble the Eggs",
+      "items": [
+        "Heat a wok or large skillet over medium heat. Add {{ingredient:egg-oil}}, then {{ingredient:eggs}}. Stir gently until the eggs form small curds and are fully set. Transfer to a clean plate."
+      ]
+    },
+    {
+      "title": "Cook the Aromatics",
+      "items": [
+        "Raise the heat to high and add {{ingredient:rice-oil}}. Add the prepared {{ingredient:yellow-onion}} and stir-fry for 1-2 minutes, until the edges begin to soften and color. Add the prepared {{ingredient:ginger}} and {{ingredient:water-chestnuts}}. Stir-fry for about 30 seconds."
+      ]
+    },
+    {
+      "title": "Fry the Rice",
+      "items": [
+        "Add the prepared {{ingredient:cooked-rice}}. Spread it across the hot pan and leave undisturbed for about 30 seconds. Toss and stir-fry for 2-3 minutes, breaking up clumps and letting some grains toast. Add the prepared {{ingredient:peas}} and stir-fry for about 30 seconds. Cook larger yields in batches so the rice fries rather than steams."
+      ]
+    },
+    {
+      "title": "Season and Finish",
+      "items": [
+        "Pour {{ingredient:soy-sauce}} around the hot sides of the pan. Add {{ingredient:white-pepper}} and stir until the rice is evenly seasoned and piping hot. Fold in the cooked scrambled eggs. Turn off the heat, add {{ingredient:sesame-oil}}, and toss once more. Serve immediately alongside Chinese Chicken and Broccoli. Keep the rice fairly dry so it can take up the sauce at the table."
+      ]
+    }
+  ]
+}
