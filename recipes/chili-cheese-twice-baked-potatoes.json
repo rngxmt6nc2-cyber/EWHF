@@ -1,0 +1,219 @@
+{
+  "id": "chili-cheese-twice-baked-potatoes",
+  "title": "Chili-Cheese Twice-Baked Potatoes",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 1,
+  "ldlActive": false,
+  "cScaleSummary": "Estimated at about 22 mg cholesterol per serving when served as one whole potato (two filled halves). The base two-serving batch uses 1/2 cup reduced-fat sharp cheddar (about 56 g), contributing about 40 mg at 20 mg per 28 g; 5 tablespoons nonfat Greek yogurt contribute about 4 mg at 10 mg per 3/4 cup; and up to 2 tablespoons skim milk contribute less than 1 mg at 5 mg per cup. The plant-based crumbles and other plant ingredients contribute no cholesterol. This places the recipe in EWHF's C1 range of 1 to 25 mg per serving. Brands and portions affect the estimate; a higher-cholesterol cheese can move it into C2.",
+  "ldlActiveSummary": "LDL-Active is false under a conservative reading of the EWHF rubric. The skin-on potatoes, onion, tomato, modest olive oil, and plant-based crumbles fit the low-cholesterol approach, but the crumble portion is small and the dish is chiefly potato with cheese. It is not built around a substantial serving of legumes, whole grains, nuts, seeds, or another concentrated soluble-fiber ingredient. Low dietary cholesterol alone does not establish an LDL-Active rating.",
+  "yield": 2,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "A chili-cheese baked potato with the creamy center and crisp shell of a twice-baked potato. Nonfat Greek yogurt, a little skim milk, and reduced-fat sharp cheddar enrich the fluffy potato without butter. A thick layer of smoky plant-crumble chili sits in a shallow well on top, keeping the tomato and spice distinct from the creamy filling. A cool yogurt finish and a little raw onion sharpen each bite. Makes two main-dish servings: one large potato, or two filled halves, per person. Contains dairy; check the crumbles for soy or wheat.",
+  "ingredientGroups": [
+    {
+      "title": "Potatoes and Filling",
+      "items": [
+        {
+          "id": "russet-potatoes",
+          "amount": 2,
+          "unit": "large",
+          "item": "russet potatoes",
+          "prep": "10 to 12 ounces each; scrubbed and dried"
+        },
+        {
+          "id": "skin-olive-oil",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "olive oil",
+          "prep": "for the skins"
+        },
+        {
+          "id": "filling-greek-yogurt",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "plain nonfat Greek yogurt",
+          "prep": ""
+        },
+        {
+          "id": "skim-milk",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "skim milk",
+          "prep": "warmed; use only as needed"
+        },
+        {
+          "id": "reduced-fat-sharp-cheddar",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "reduced-fat sharp cheddar",
+          "prep": "finely shredded, loosely measured, and divided equally between filling and topping"
+        },
+        {
+          "id": "potato-salt",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": "or to taste"
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "freshly ground black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Plant-Crumble Chili",
+      "items": [
+        {
+          "id": "chili-olive-oil",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "olive oil",
+          "prep": ""
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 0.5,
+          "unit": "small",
+          "item": "yellow onion",
+          "prep": "finely diced; reserve one quarter of the prepared onion for the finish"
+        },
+        {
+          "id": "plant-based-crumbles",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "plant-based crumbles",
+          "prep": "moist packaged soy- or pea-based crumbles, not dry TVP; choose a product low in saturated fat"
+        },
+        {
+          "id": "garlic",
+          "amount": 1,
+          "unit": "clove",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "chili-powder",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "chili powder",
+          "prep": "American-style seasoning blend, not pure hot chile powder"
+        },
+        {
+          "id": "ground-cumin",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "ground cumin",
+          "prep": ""
+        },
+        {
+          "id": "smoked-paprika",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "smoked paprika",
+          "prep": ""
+        },
+        {
+          "id": "dried-oregano",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "dried oregano",
+          "prep": ""
+        },
+        {
+          "id": "cayenne-pepper",
+          "amount": 0.0625,
+          "unit": "teaspoon",
+          "item": "cayenne pepper",
+          "prep": "a small pinch; adjust to taste"
+        },
+        {
+          "id": "crushed-tomatoes",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "no-salt-added crushed tomatoes",
+          "prep": ""
+        },
+        {
+          "id": "chili-salt",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "fine sea salt",
+          "prep": "or to taste, depending on the crumbles"
+        },
+        {
+          "id": "water",
+          "amount": 0,
+          "unit": "",
+          "item": "water",
+          "prep": "small splashes only if needed"
+        }
+      ]
+    },
+    {
+      "title": "Finish",
+      "items": [
+        {
+          "id": "finishing-greek-yogurt",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "plain nonfat Greek yogurt",
+          "prep": "keep refrigerated until serving"
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Scrub and thoroughly dry {{ingredient:russet-potatoes}}. Pierce each potato several times with a fork. Measure {{ingredient:skin-olive-oil}}.",
+    "Finely dice {{ingredient:yellow-onion}}. Set aside one quarter of the prepared onion for the finish and use the remaining three quarters in the chili. Mince {{ingredient:garlic}}.",
+    "Measure {{ingredient:plant-based-crumbles}} and check the package cooking directions. Keep frozen crumbles frozen until needed; this recipe does not use dry textured vegetable protein.",
+    "Measure {{ingredient:chili-olive-oil}}, {{ingredient:crushed-tomatoes}}, {{ingredient:chili-powder}}, {{ingredient:ground-cumin}}, {{ingredient:smoked-paprika}}, {{ingredient:dried-oregano}}, {{ingredient:cayenne-pepper}}, and {{ingredient:chili-salt}}. Have {{ingredient:water}} available.",
+    "Measure {{ingredient:reduced-fat-sharp-cheddar}} and divide into two equal portions. Measure {{ingredient:filling-greek-yogurt}}, {{ingredient:skim-milk}}, {{ingredient:potato-salt}}, and {{ingredient:black-pepper}}; warm the milk just before mashing. Keep {{ingredient:finishing-greek-yogurt}} refrigerated until serving."
+  ],
+  "stepGroups": [
+    {
+      "title": "Bake the Potatoes",
+      "items": [
+        "Preheat the oven to 400°F on Convection Bake, or 425°F in a conventional oven. Rub the prepared russet potatoes ({{quantity:russet-potatoes}}) with the skin olive oil ({{quantity:skin-olive-oil}}). Place on a rimmed baking sheet with space between them; do not wrap in foil.",
+        "Bake for 55 to 75 minutes, turning once, until the skins are crisp and a thin skewer slides through the center without resistance. Large potatoes may take longer; fully tender centers matter more than the clock. Begin the chili during the last 20 minutes of baking."
+      ]
+    },
+    {
+      "title": "Make a Thick Chili",
+      "items": [
+        "Heat the chili olive oil ({{quantity:chili-olive-oil}}) in a small skillet over medium heat. Add the three quarters of the prepared onion allocated to the chili and cook for 4 to 5 minutes, stirring, until softened and lightly golden. Keep the reserved raw onion aside.",
+        "Add the plant-based crumbles ({{quantity:plant-based-crumbles}}). Cook according to their package directions, breaking up clumps and allowing exposed edges to brown lightly without drying them out. For frozen crumbles, cover briefly if directed, then uncover to let excess moisture evaporate.",
+        "Reduce the heat to medium-low. Add the garlic ({{quantity:garlic}}), chili powder ({{quantity:chili-powder}}), cumin ({{quantity:ground-cumin}}), smoked paprika ({{quantity:smoked-paprika}}), oregano ({{quantity:dried-oregano}}), and cayenne ({{quantity:cayenne-pepper}}). Stir for about 30 seconds, just until fragrant.",
+        "Stir in the crushed tomatoes ({{quantity:crushed-tomatoes}}). Simmer uncovered for 6 to 10 minutes, stirring often, until the chili holds a soft mound on a spoon with no watery liquid pooling around it. The crumbles must reach their package's required temperature; for products such as MorningStar Farms Grillers Crumbles, that is 165°F. Add only a small splash of water if the pan starts to catch before the filling is cooked, then reduce again.",
+        "Taste before adding the chili salt ({{quantity:chili-salt}}), using only as much as needed. Adjust the cayenne to taste. Remove from the heat and cover while preparing the potato filling."
+      ]
+    },
+    {
+      "title": "Make the Creamy Potato Filling",
+      "items": [
+        "Let the baked potatoes cool for 5 to 10 minutes, just until safe to handle, and keep the oven on. Cut each potato in half lengthwise. Scoop the hot flesh into a bowl, leaving about a 1/4-inch layer attached to each skin so the shells hold their shape. Return the shells to the baking sheet.",
+        "Mash the hot potato flesh gently with a fork or hand masher until fluffy. Fold in the filling Greek yogurt ({{quantity:filling-greek-yogurt}}), half of the measured cheddar, the potato salt ({{quantity:potato-salt}}), and black pepper ({{quantity:black-pepper}}). Add the warm skim milk (up to {{quantity:skim-milk}}) a little at a time, stopping as soon as the filling is creamy and holds its shape. Do not beat or use a food processor; overworking makes potatoes gluey."
+      ]
+    },
+    {
+      "title": "Fill and Bake Again",
+      "items": [
+        "Divide the creamy potato filling evenly among the shells, mounding it slightly. Make a shallow well down the center of each mound. Spoon the thick chili evenly into the wells, keeping it separate from the potato filling. Scatter the remaining half of the cheddar over the chili.",
+        "Return to the oven at 400°F on Convection Bake, or 425°F conventional, for 10 to 15 minutes, until the centers are hot and the cheese has melted. Reduced-fat cheese may only brown lightly; do not keep baking solely to force a dark crust. When increasing the yield, leave space between the halves and use additional baking sheets as needed."
+      ]
+    },
+    {
+      "title": "Finish and Serve",
+      "items": [
+        "Rest for 3 to 5 minutes. Divide the finishing Greek yogurt ({{quantity:finishing-greek-yogurt}}) and reserved raw onion evenly over the potatoes. Serve two filled halves per person, including both the chili and the cool finish."
+      ]
+    }
+  ]
+}
