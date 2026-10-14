@@ -7,179 +7,152 @@
   "displayCategory": "Rice, Beans & Legumes",
   "cScale": 0,
   "ldlActive": true,
-  "cScaleSummary": "C0 because the dish is built almost entirely from cholesterol-free ingredients including red kidney beans, rice, light coconut milk, herbs, and aromatics. The small amount of chicken stock does not materially raise the per-serving cholesterol enough to move the dish out of C0.",
-  "ldlActiveSummary": "LDL-Active because the dish is built around beans and rice, making it fiber-forward and supportive of LDL lowering. Flavor is developed through herbs, aromatics, coconut milk, and bean cooking liquid rather than saturated animal fat.",
+  "cScaleSummary": "C0: all ingredients are plant-derived and contribute 0 mg dietary cholesterol per serving.",
+  "ldlActiveSummary": "LDL-Active because kidney beans provide a substantial legume component and dietary fiber. Light coconut milk limits, but does not eliminate, coconut saturated fat; cholesterol-free does not mean saturated-fat-free.",
   "yield": 4,
   "yieldUnit": "servings",
   "tags": [],
-  "intro": "Rice and peas is one of the defining dishes of Jamaican home cooking and appears on tables across the island, especially on Sundays and holidays. Despite the name, the “peas” are actually small red beans simmered until tender and then cooked together with rice in a fragrant coconut broth. Fresh thyme, scallion, garlic, and Scotch bonnet pepper infuse the pot while the rice absorbs the rich, aromatic liquid.\n\nThe finished dish is fluffy, lightly creamy from coconut milk, and deeply savory from the beans and herbs. Whole aromatics perfume the rice during cooking and are removed before serving, leaving clean grains and a warm background heat from the Scotch bonnet. It is most often served alongside jerk, stews, or grilled meats, but the dish is satisfying enough to stand on its own as a hearty bowl.",
+  "intro": "Jamaican rice and peas pairs fluffy rice with red kidney beans in a fragrant coconut broth. The peas in the name are beans, not green peas. Scallion, garlic, thyme, allspice, and a whole Scotch bonnet give the pot its characteristic flavor. Keeping the pepper intact provides aroma with gentler heat, though the heat varies and a split pepper makes the dish considerably hotter.\n\nThis version uses light coconut milk and a generous proportion of beans. Cook the beans fully before adding the rice, measure the cooking liquid, and give the covered pot a final rest. Serve as four substantial side portions alongside jerk chicken.",
   "ingredientGroups": [
     {
-      "title": "For the Beans",
+      "title": "Beans",
       "items": [
         {
-          "amount": 0.5,
+          "id": "kidney-beans",
+          "amount": 0.75,
           "unit": "cup",
-          "item": "dried small red kidney beans",
-          "prep": "",
-          "id": "dried-small-red-kidney-beans"
+          "item": "dried red kidney beans",
+          "prep": "sorted and rinsed"
         },
         {
-          "amount": 2,
+          "id": "bean-water",
+          "amount": 4,
           "unit": "cups",
           "item": "water",
-          "prep": "",
-          "id": "water"
+          "prep": "for cooking the beans; extra water for soaking and keeping the beans submerged"
         },
         {
+          "id": "bean-salt",
           "amount": 0.5,
-          "unit": "tsp",
+          "unit": "teaspoon",
           "item": "kosher salt",
-          "prep": "",
-          "id": "kosher-salt"
+          "prep": ""
         }
       ]
     },
     {
-      "title": "For the Coconut Rice Base",
+      "title": "Coconut Rice",
       "items": [
         {
-          "amount": 0.5,
+          "id": "rice",
+          "amount": 1,
           "unit": "cup",
-          "item": "long-grain rice",
-          "prep": "preferably jasmine",
-          "id": "long-grain-rice"
+          "item": "long-grain white rice",
+          "prep": "rinsed and drained well"
         },
         {
+          "id": "coconut-milk",
           "amount": 0.5,
           "unit": "cup",
-          "item": "light coconut milk",
-          "prep": "",
-          "id": "light-coconut-milk"
+          "item": "unsweetened light coconut milk",
+          "prep": "well stirred"
         },
         {
+          "id": "bean-liquid",
+          "amount": 1.25,
+          "unit": "cups",
+          "item": "reserved kidney bean cooking liquid",
+          "prep": "measured after cooking; top up with water if needed"
+        },
+        {
+          "id": "rice-salt",
           "amount": 0.5,
-          "unit": "cup",
-          "item": "water",
-          "prep": "",
-          "id": "water-2"
-        },
-        {
-          "amount": 0.25,
-          "unit": "cup",
-          "item": "chicken stock",
-          "prep": "",
-          "id": "chicken-stock"
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
         }
       ]
     },
     {
-      "title": "For the Aromatics",
+      "title": "Aromatics",
       "items": [
         {
+          "id": "scallions",
           "amount": 2,
           "unit": "",
           "item": "scallions",
-          "prep": "cut into 2-inch segments",
-          "id": "scallions"
+          "prep": "trimmed and cut into 2-inch pieces"
         },
         {
+          "id": "garlic",
           "amount": 2,
           "unit": "cloves",
           "item": "garlic",
-          "prep": "lightly crushed",
-          "id": "garlic"
+          "prep": "peeled and lightly crushed"
         },
         {
-          "amount": 3,
+          "id": "thyme",
+          "amount": 4,
           "unit": "sprigs",
           "item": "fresh thyme",
-          "prep": "",
-          "id": "fresh-thyme"
+          "prep": ""
         },
         {
-          "amount": 0.5,
+          "id": "scotch-bonnet",
+          "amount": 1,
           "unit": "small",
           "item": "Scotch bonnet pepper",
-          "prep": "left whole",
-          "id": "scotch-bonnet-pepper"
-        }
-      ]
-    },
-    {
-      "title": "For Finishing",
-      "items": [
-        {
-          "amount": 0.25,
-          "unit": "tsp",
-          "item": "kosher salt",
-          "prep": "",
-          "id": "kosher-salt-2"
+          "prep": "left whole and intact, including the stem"
         },
         {
-          "amount": 1,
-          "unit": "tsp",
-          "item": "fresh thyme leaves",
-          "prep": "finely chopped",
-          "id": "fresh-thyme-leaves"
+          "id": "allspice",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "ground allspice",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "ground black pepper",
+          "prep": ""
         }
       ]
     }
   ],
   "miseEnPlace": [
-    "Prepare {{ingredient:scallions}} as specified: cut into 2-inch segments.",
-    "Lightly crush {{ingredient:garlic}}.",
-    "Finely chop {{ingredient:fresh-thyme-leaves}}.",
-    "Measure and stage {{ingredient:dried-small-red-kidney-beans}}, {{ingredient:water}}, {{ingredient:kosher-salt}}, {{ingredient:long-grain-rice}}, and {{ingredient:light-coconut-milk}}.",
-    "Measure and stage {{ingredient:water-2}}, {{ingredient:chicken-stock}}, {{ingredient:fresh-thyme}}, {{ingredient:scotch-bonnet-pepper}}, and {{ingredient:kosher-salt-2}}."
+    "Sort and rinse {{ingredient:kidney-beans}}. Soak for 8-12 hours in plenty of water in the refrigerator, then drain and discard the soaking water.",
+    "Prepare {{ingredient:scallions}} and {{ingredient:garlic}} as specified. Wash {{ingredient:thyme}} and {{ingredient:scotch-bonnet}}; keep the pepper intact.",
+    "Rinse {{ingredient:rice}} until the water runs mostly clear and drain well.",
+    "Stir and measure {{ingredient:coconut-milk}}. Stage {{ingredient:bean-water}}, {{ingredient:bean-salt}}, {{ingredient:rice-salt}}, {{ingredient:allspice}}, and {{ingredient:black-pepper}}.",
+    "Have a liquid measuring jug ready for {{ingredient:bean-liquid}} and a heavy saucepan with a tight-fitting lid ready for the rice."
   ],
   "stepGroups": [
     {
-      "title": "Cook the beans",
+      "title": "Cook the Beans",
       "items": [
-        "Soak the dried kidney beans overnight in plenty of water. Drain, then place in a saucepan with 2 cups fresh water and ½ tsp kosher salt. Simmer gently for about 60 to 75 minutes until tender but still intact. Reserve ¼ cup of the cooking liquid and drain the beans."
+        "Put the soaked and drained {{ingredient:kidney-beans}} in a saucepan with {{ingredient:bean-water}} and {{ingredient:bean-salt}}. Bring to a full rolling boil and boil for at least 30 minutes, adding hot water as needed to keep the beans submerged. Reduce to a simmer and continue cooking until fully tender with no firm or chalky center, usually another 30-60 minutes; older beans may take longer. Do not cook dried kidney beans solely in a slow cooker.",
+        "Drain the fully cooked beans into a bowl, saving the cooking liquid. Measure {{ingredient:bean-liquid}}, topping up with water if needed. Set the beans aside. Only the measured liquid goes into the rice pot."
       ]
     },
     {
-      "title": "Rinse the rice",
+      "title": "Infuse the Coconut Broth",
       "items": [
-        "Place the rice in a bowl and rinse under cold water until the water runs mostly clear. Drain well."
+        "Combine {{ingredient:coconut-milk}}, the measured {{ingredient:bean-liquid}}, {{ingredient:rice-salt}}, {{ingredient:scallions}}, {{ingredient:garlic}}, {{ingredient:thyme}}, {{ingredient:allspice}}, and {{ingredient:black-pepper}} in a heavy saucepan. Gently add {{ingredient:scotch-bonnet}} without piercing it. Bring to a gentle simmer, cover, and cook for 5 minutes."
       ]
     },
     {
-      "title": "Build the cooking liquid",
+      "title": "Cook the Rice",
       "items": [
-        "In a small saucepan combine the coconut milk, water, chicken stock, and the reserved ¼ cup bean cooking liquid. Bring just to a gentle simmer."
+        "Add {{ingredient:rice}} and all the cooked beans. Stir gently once, keeping the pepper intact. Bring back to a gentle boil, cover tightly, and reduce the heat to its lowest setting. Cook for 18-20 minutes, until the rice is tender and the liquid has been absorbed. Keep the lid closed and do not stir during cooking. If the rice is still firm and the pot is dry, add a small splash of boiling water, cover, and cook for another 3-5 minutes."
       ]
     },
     {
-      "title": "Start the rice",
+      "title": "Rest and Serve",
       "items": [
-        "Add the rinsed rice and cooked beans to the saucepan. Stir once."
-      ]
-    },
-    {
-      "title": "Add aromatics",
-      "items": [
-        "Place the scallion segments, crushed garlic cloves, thyme sprigs, and the half Scotch bonnet pepper directly on top of the rice mixture."
-      ]
-    },
-    {
-      "title": "Cook the rice",
-      "items": [
-        "Bring the pot to a light boil, then reduce to very low heat and cover tightly. Cook for about 14 minutes until the liquid is absorbed."
-      ]
-    },
-    {
-      "title": "Rest the rice",
-      "items": [
-        "Turn off the heat and let the pot rest, covered, for 10 minutes. This finishing rest gives the rice its characteristic fluffy texture."
-      ]
-    },
-    {
-      "title": "Finish the dish",
-      "items": [
-        "Remove the thyme stems, garlic cloves, scallions, and Scotch bonnet. Fluff the rice gently with a fork. Sprinkle with the chopped fresh thyme and the remaining ¼ tsp salt."
+        "Remove from the heat and leave covered for 10 minutes. Carefully lift out the Scotch bonnet, thyme stems, scallion pieces, and garlic cloves. Fluff gently with a fork and serve with jerk chicken. For larger yields, use a wider heavy pot and judge doneness by the rice rather than multiplying the cooking time.",
+        "Refrigerate leftovers in shallow containers within 2 hours and use within 3-4 days. Reheat until steaming hot throughout with a splash of water."
       ]
     }
   ]
