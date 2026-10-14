@@ -1,0 +1,145 @@
+{
+  "id": "jamaican-green-pepper-sauce",
+  "title": "Jamaican Green Pepper Sauce",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Sauces & Bases",
+  "displayCategory": "Sauces & Bases",
+  "cScale": 0,
+  "ldlActive": false,
+  "cScaleSummary": "C0 on an estimated basis: herbs, vegetables, lime, vinegar, canola oil, cumin, agave, and salt contain no cholesterol. The small quantity of fish sauce generally contributes 0 mg declared cholesterol; check the brand label. This sauce contains fish and is not vegan.",
+  "ldlActiveSummary": "LDL-Active is false because a small condiment serving provides little fiber and no meaningful portion of legumes, whole grains, nuts, or seeds. Canola oil keeps saturated fat low, but this is a flavor accompaniment rather than an LDL-focused dish.",
+  "yield": 8,
+  "yieldUnit": "servings",
+  "tags": [
+    "Jamaican",
+    "Hot sauce",
+    "Contains fish"
+  ],
+  "intro": "A thick, bright green cilantro and Scotch bonnet sauce for jerk chicken, inspired by a remembered sauce at Scotchies in Jamaica. Lime and vinegar bring sharpness, ginger adds bite, and a small pinch of cumin, fish sauce, and agave round out the flavor. This is a home reconstruction, not the restaurant's verified recipe. Makes approximately 1 cup, or 8 servings of about 2 tablespoons. Cilantro weight, ginger weight, cumin, agave, and finished yield are best estimates from the first kitchen batch.",
+  "ingredientGroups": [
+    {
+      "title": "Herbs and aromatics",
+      "items": [
+        {
+          "amount": 60,
+          "unit": "g",
+          "item": "fresh cilantro",
+          "prep": "whole grocery-store bunch, including stems; washed, dried, and roughly chopped",
+          "id": "fresh-cilantro"
+        },
+        {
+          "amount": 2,
+          "unit": "",
+          "item": "scallions",
+          "prep": "trimmed and roughly chopped",
+          "id": "scallions"
+        },
+        {
+          "amount": 1,
+          "unit": "",
+          "item": "Scotch bonnet pepper",
+          "prep": "stem removed; seeds and ribs retained",
+          "id": "scotch-bonnet-pepper"
+        },
+        {
+          "amount": 2,
+          "unit": "",
+          "item": "garlic cloves",
+          "prep": "peeled",
+          "id": "garlic-cloves"
+        },
+        {
+          "amount": 5,
+          "unit": "g",
+          "item": "fresh ginger",
+          "prep": "peeled and chopped; approximately a 3/8-inch piece",
+          "id": "fresh-ginger"
+        }
+      ]
+    },
+    {
+      "title": "Acid and seasoning",
+      "items": [
+        {
+          "amount": 2,
+          "unit": "",
+          "item": "limes",
+          "prep": "juiced; approximately 4 tablespoons juice total",
+          "id": "limes"
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "white vinegar",
+          "prep": "",
+          "id": "white-vinegar"
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "canola oil",
+          "prep": "",
+          "id": "canola-oil"
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "fish sauce",
+          "prep": "",
+          "id": "fish-sauce"
+        },
+        {
+          "amount": 0.0625,
+          "unit": "teaspoon",
+          "item": "ground cumin",
+          "prep": "a small pinch",
+          "id": "ground-cumin"
+        },
+        {
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "agave nectar",
+          "prep": "",
+          "id": "agave-nectar"
+        },
+        {
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "Diamond Crystal kosher salt",
+          "prep": "",
+          "id": "kosher-salt"
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Wash and thoroughly dry {{ingredient:fresh-cilantro}}. Keep the stems, discard damaged portions, and roughly chop.",
+    "Trim and chop {{ingredient:scallions}}. Remove the stem from {{ingredient:scotch-bonnet-pepper}} and roughly chop; retain the seeds and ribs. Wash hands and utensils after handling the pepper.",
+    "Peel {{ingredient:garlic-cloves}} and peel and chop {{ingredient:fresh-ginger}}.",
+    "Juice {{ingredient:limes}} and reserve all the juice.",
+    "Measure {{ingredient:white-vinegar}}, {{ingredient:canola-oil}}, {{ingredient:fish-sauce}}, {{ingredient:ground-cumin}}, {{ingredient:agave-nectar}}, and {{ingredient:kosher-salt}}."
+  ],
+  "stepGroups": [
+    {
+      "title": "Blend the sauce",
+      "items": [
+        "Add the juice from the limes ({{quantity:limes}}), white vinegar ({{quantity:white-vinegar}}), canola oil ({{quantity:canola-oil}}), fish sauce ({{quantity:fish-sauce}}), and agave nectar ({{quantity:agave-nectar}}) to a small blender jar or food processor.",
+        "Add the cilantro with stems ({{quantity:fresh-cilantro}}), scallions ({{quantity:scallions}}), Scotch bonnet pepper ({{quantity:scotch-bonnet-pepper}}), garlic cloves ({{quantity:garlic-cloves}}), ginger ({{quantity:fresh-ginger}}), cumin ({{quantity:ground-cumin}}), and kosher salt ({{quantity:kosher-salt}}).",
+        "Blend, stopping and scraping down the sides as needed, until finely puréed and thick but spoonable. Avoid adding water. Use a small processor or narrow blender jar if the blades do not catch the mixture; a full-size blender may need a larger batch."
+      ]
+    },
+    {
+      "title": "Rest and serve",
+      "items": [
+        "Transfer to a covered container and refrigerate for 30 minutes so the flavors settle. Stir and serve with cooked jerk chicken, roasted vegetables, or beans. Assess the sauce with the food it will accompany before changing the seasoning."
+      ]
+    },
+    {
+      "title": "Store",
+      "items": [
+        "Keep covered and refrigerated and use within 3 days. Freeze excess in small portions. Stir after thawing."
+      ]
+    }
+  ]
+}
