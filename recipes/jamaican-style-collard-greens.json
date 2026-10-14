@@ -1,0 +1,114 @@
+{
+  "id": "jamaican-style-collard-greens",
+  "title": "Jamaican-Style Collard Greens",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Vegetables & Sides",
+  "displayCategory": "Vegetables & Sides",
+  "cScale": 1,
+  "ldlActive": false,
+  "cScaleSummary": "C1 conservatively estimated at less than 5 mg cholesterol per serving. The canned greens contain bacon fat, pork, and pork and ham broths, although the published label declares 0 mg cholesterol per half-cup serving. Label rounding means this is not proof of absolute zero. The added vegetables, herbs, and olive oil contribute no cholesterol. This is an estimate, not a laboratory measurement.",
+  "ldlActiveSummary": "LDL-Active is false as a conservative classification for this convenience side made with seasoned canned greens. Collards provide fiber and olive oil supplies unsaturated fat, but the canned product includes pork ingredients, substantial sodium, and added sugar. No additional salt or sugar is added.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [
+    "Jamaican-inspired",
+    "Canned greens",
+    "Contains pork",
+    "Contains soy"
+  ],
+  "intro": "Tender collard greens warmed with onion, garlic, tomato, scallions, thyme, and Scotch bonnet. This callaloo-inspired side uses one 27-ounce can of Glory Foods Seasoned Southern Style Collard Greens. The greens are already cooked, so the fresh aromatics cook first and the greens receive only a brief simmer. The canned Southern seasoning remains part of the flavor. This pantry adaptation contains added sugar and pork ingredients from the specified can and is not vegetarian or strictly free of refined sugar. Makes 4 side servings.",
+  "ingredientGroups": [
+    {
+      "title": "Ingredients",
+      "items": [
+        {
+          "amount": 1,
+          "unit": "can",
+          "item": "Glory Foods Seasoned Southern Style Collard Greens",
+          "prep": "27-ounce can; drain, reserving liquid",
+          "id": "collard-greens"
+        },
+        {
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "olive oil",
+          "prep": "",
+          "id": "olive-oil"
+        },
+        {
+          "amount": 1,
+          "unit": "medium",
+          "item": "onion",
+          "prep": "diced",
+          "id": "onion"
+        },
+        {
+          "amount": 4,
+          "unit": "",
+          "item": "garlic cloves",
+          "prep": "minced",
+          "id": "garlic-cloves"
+        },
+        {
+          "amount": 1,
+          "unit": "medium",
+          "item": "tomato",
+          "prep": "diced",
+          "id": "tomato"
+        },
+        {
+          "amount": 3,
+          "unit": "",
+          "item": "scallions",
+          "prep": "trimmed and sliced",
+          "id": "scallions"
+        },
+        {
+          "amount": 3,
+          "unit": "sprigs",
+          "item": "fresh thyme",
+          "prep": "",
+          "id": "fresh-thyme"
+        },
+        {
+          "amount": 0.5,
+          "unit": "",
+          "item": "Scotch bonnet pepper",
+          "prep": "kept in one piece for removal after cooking",
+          "id": "scotch-bonnet-pepper"
+        },
+        {
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": "",
+          "id": "black-pepper"
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Drain {{ingredient:collard-greens}} into a bowl without squeezing. Reserve 1/4 cup liquid per can and discard the remainder; if there is less, add water to reach that amount.",
+    "Dice {{ingredient:onion}} and {{ingredient:tomato}}. Mince {{ingredient:garlic-cloves}} and slice {{ingredient:scallions}}.",
+    "Set out {{ingredient:fresh-thyme}}. Prepare {{ingredient:scotch-bonnet-pepper}}, keeping the measured portion in one piece for easy removal. Wash hands and utensils after handling.",
+    "Measure {{ingredient:olive-oil}} and {{ingredient:black-pepper}}."
+  ],
+  "stepGroups": [
+    {
+      "title": "Cook the aromatics",
+      "items": [
+        "Heat olive oil ({{quantity:olive-oil}}) in a large skillet over medium heat. Add onion ({{quantity:onion}}) and cook for 5–7 minutes, stirring occasionally, until softened.",
+        "Add garlic ({{quantity:garlic-cloves}}) and cook for 30 seconds. Stir in tomato ({{quantity:tomato}}), scallions ({{quantity:scallions}}), thyme ({{quantity:fresh-thyme}}), Scotch bonnet ({{quantity:scotch-bonnet-pepper}}), and black pepper ({{quantity:black-pepper}}). Cook for 4–5 minutes, until the tomato softens. Do not mash the pepper; the cut surface will release heat."
+      ]
+    },
+    {
+      "title": "Warm the greens",
+      "items": [
+        "Stir in drained collard greens ({{quantity:collard-greens}}) and the reserved liquid, using 1/4 cup liquid per can. Cover and simmer gently for about 5 minutes, stirring once, until hot throughout.",
+        "Uncover and cook for 2–3 minutes, until moist with a little pot liquor but not soupy. For larger batches, use a wider pan or allow more time for heating and evaporation.",
+        "Remove the thyme stems and all pieces of Scotch bonnet. Serve hot. Do not add salt; the canned greens are already seasoned."
+      ]
+    }
+  ]
+}
