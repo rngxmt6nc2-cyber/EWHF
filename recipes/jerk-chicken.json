@@ -1,0 +1,182 @@
+{
+  "id": "jerk-chicken",
+  "title": "Jerk Chicken",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 4,
+  "ldlActive": false,
+  "cScaleSummary": "C4 because 3 pounds of boneless skinless chicken thighs divided among 6 servings provides 8 ounces of raw chicken per serving. A USDA raw thigh meat reference gives approximately 98 mg cholesterol per 4 ounces, yielding an estimate of about 196 mg per serving, within the C4 range of 151 to 300 mg. This is an estimate; chicken composition and losses during cooking vary. The vegetables, herbs, spices, soy sauce, lime juice, vinegar, and avocado oil contribute 0 mg cholesterol.",
+  "ldlActiveSummary": "LDL-Active is false because the dish is centered on chicken rather than soluble-fiber-rich legumes, whole grains, nuts, or seeds. Skinless thighs and avocado oil limit saturated fat relative to skin-on chicken, but do not make the dish actively LDL-lowering.",
+  "yield": 6,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Allspice, Scotch bonnet, scallion, and thyme lead this deeply savory jerk chicken, with garlic, ginger, lime, and vinegar giving the thick wet seasoning brightness. Cinnamon and nutmeg stay in the background. An overnight marinade and covered grilling build flavor before a brief finish over direct heat produces charred edges. Made without added sugar, this is a hot, aromatic chicken dish rather than a sweet barbecue glaze.",
+  "ingredientGroups": [
+    {
+      "title": "Chicken",
+      "items": [
+        {
+          "id": "chicken-thighs",
+          "amount": 3,
+          "unit": "pounds",
+          "item": "boneless skinless chicken thighs",
+          "prep": "trim excess fat; leave whole"
+        }
+      ]
+    },
+    {
+      "title": "Wet Jerk Seasoning",
+      "items": [
+        {
+          "id": "scallions",
+          "amount": 6,
+          "unit": "whole",
+          "item": "scallions",
+          "prep": "trimmed and roughly chopped, whites and greens"
+        },
+        {
+          "id": "yellow-onion",
+          "amount": 1,
+          "unit": "small",
+          "item": "yellow onion",
+          "prep": "peeled and roughly chopped"
+        },
+        {
+          "id": "garlic",
+          "amount": 8,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "peeled"
+        },
+        {
+          "id": "ginger",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh ginger",
+          "prep": "peeled and finely grated"
+        },
+        {
+          "id": "scotch-bonnets",
+          "amount": 2,
+          "unit": "whole",
+          "item": "Scotch bonnet peppers",
+          "prep": "stems removed; seeds and membranes retained"
+        },
+        {
+          "id": "thyme",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh thyme leaves",
+          "prep": "stripped from stems"
+        },
+        {
+          "id": "allspice",
+          "amount": 1.5,
+          "unit": "tablespoons",
+          "item": "ground allspice",
+          "prep": ""
+        },
+        {
+          "id": "black-pepper",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "freshly ground black pepper",
+          "prep": ""
+        },
+        {
+          "id": "cinnamon",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "ground cinnamon",
+          "prep": ""
+        },
+        {
+          "id": "nutmeg",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "ground nutmeg",
+          "prep": ""
+        },
+        {
+          "id": "salt",
+          "amount": 6,
+          "unit": "grams",
+          "item": "kosher salt",
+          "prep": "weighed to avoid differences between brands"
+        },
+        {
+          "id": "soy-sauce",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "reduced-sodium soy sauce",
+          "prep": ""
+        },
+        {
+          "id": "lime-juice",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh lime juice",
+          "prep": ""
+        },
+        {
+          "id": "cider-vinegar",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "apple cider vinegar",
+          "prep": ""
+        },
+        {
+          "id": "oil",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "avocado oil",
+          "prep": ""
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Trim excess fat from {{ingredient:chicken-thighs}} and unfold each thigh so it lies flat. Keep refrigerated while preparing the seasoning.",
+    "Trim and roughly chop {{ingredient:scallions}} and peel and roughly chop {{ingredient:yellow-onion}}. Peel {{ingredient:garlic}}.",
+    "Peel and finely grate {{ingredient:ginger}}. Strip and measure {{ingredient:thyme}}.",
+    "Wearing gloves, remove the stems from {{ingredient:scotch-bonnets}}. Keep the seeds and membranes. Avoid touching your eyes and wash the knife, board, and hands thoroughly afterward.",
+    "Measure {{ingredient:allspice}}, {{ingredient:black-pepper}}, {{ingredient:cinnamon}}, and {{ingredient:nutmeg}}. Weigh {{ingredient:salt}}.",
+    "Measure {{ingredient:soy-sauce}}, {{ingredient:lime-juice}}, {{ingredient:cider-vinegar}}, and {{ingredient:oil}}.",
+    "Stage a blender or food processor, a covered nonreactive container, grill tongs, a clean serving platter, and an instant-read thermometer."
+  ],
+  "stepGroups": [
+    {
+      "title": "Blend the Seasoning",
+      "items": [
+        "Place {{ingredient:scallions}}, {{ingredient:yellow-onion}}, {{ingredient:garlic}}, {{ingredient:ginger}}, {{ingredient:scotch-bonnets}}, and {{ingredient:thyme}} in a blender or food processor.",
+        "Add {{ingredient:allspice}}, {{ingredient:black-pepper}}, {{ingredient:cinnamon}}, {{ingredient:nutmeg}}, {{ingredient:salt}}, {{ingredient:soy-sauce}}, {{ingredient:lime-juice}}, {{ingredient:cider-vinegar}}, and {{ingredient:oil}}. Process into a thick, spreadable paste, stopping to scrape down the sides. Use a blender tamper according to the manufacturer's directions or pulse in a food processor; do not dilute into a thin sauce."
+      ]
+    },
+    {
+      "title": "Marinate Overnight",
+      "items": [
+        "Place {{ingredient:chicken-thighs}} in a covered nonreactive container. Rub all of the wet seasoning over every surface and into the folds of the thighs.",
+        "Cover and refrigerate at 40°F or below for 12 to 24 hours. Include this marinating time within the chicken's total refrigerated raw storage time of 1 to 2 days. This seasoning is not a shelf-stable sauce."
+      ]
+    },
+    {
+      "title": "Grill Gently",
+      "items": [
+        "Prepare a grill with a medium direct-heat zone and an unlit indirect-heat zone. Preheat with the lid closed to about 350 to 375°F. Clean the grates.",
+        "Lift the chicken from the container, leaving a thin coating of paste on each thigh. Scrape off thick clumps that would burn. Discard the remaining raw marinade; do not use it for basting or serving.",
+        "Arrange the thighs in one layer over indirect heat and close the lid. Cook for about 10 to 15 minutes, turning once, until the centers reach roughly 150 to 155°F. Keep cooking without interruption; this intermediate temperature is not the finished cooking temperature.",
+        "Move the thighs over direct heat and grill for about 2 to 3 minutes per side, turning as needed, until the edges are charred and the coating is browned. Move pieces back to indirect heat whenever the paste darkens too quickly or flames flare up.",
+        "Finish over indirect heat with the lid closed until the thickest part of each thigh reaches 175 to 180°F for tenderness. Every piece must reach at least 165°F. Start checking early; total cooking time is usually about 20 to 30 minutes, depending on thickness and grill heat. Cook in batches as needed to maintain one layer."
+      ]
+    },
+    {
+      "title": "Rest and Serve",
+      "items": [
+        "Transfer the chicken to a clean platter and rest for 5 minutes. Slice across the grain and divide into equal servings.",
+        "Refrigerate leftovers in shallow covered containers within 2 hours, or within 1 hour when the air temperature exceeds 90°F. Use refrigerated leftovers within 3 to 4 days and reheat to 165°F."
+      ]
+    }
+  ]
+}
