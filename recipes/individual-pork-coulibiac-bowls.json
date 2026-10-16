@@ -1,0 +1,260 @@
+{
+  "id": "individual-pork-coulibiac-bowls",
+  "title": "Individual Pork Coulibiac Bowls",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 4,
+  "ldlActive": false,
+  "cScaleSummary": "Conservative C4 estimate, approximately 220 mg cholesterol per serving, assuming butter-based puff pastry and counting all pastry and egg wash. The batch contains approximately 295 mg from pork, 60 mg from butter, 186 mg from the egg, and approximately 350 mg from butter-based pastry, plus a small amount from stock. Actual intake depends on pastry brand, trimming and unused egg wash; vegetable-fat pastry can lower the rating.",
+  "ldlActiveSummary": "Not LDL-Active. Butter and puff pastry add saturated fat, and the dish is not fiber-forward. This is a richer recipe rather than a low-cholesterol main.",
+  "yield": 4,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "Miso-gochujang soba, seasoned pork tenderloin, maitake, cremini, and leeks beneath a golden puff-pastry lid. Allow approximately 45 minutes of preparation plus cooling, and 25–35 minutes of baking. Use one ovenproof 14–16-ounce bowl per serving, preferably with a rim no wider than 5 inches. The broth lightly moistens the soba and leaves a little savory juice at the bottom; this is a layered dish, not soup. Gochujang often contains refined sugar; check its ingredients if avoiding added refined sugar.",
+  "ingredientGroups": [
+    {
+      "title": "Pork",
+      "items": [
+        {
+          "id": "pork",
+          "amount": 1,
+          "unit": "pound",
+          "item": "pork tenderloin",
+          "prep": "silverskin removed"
+        },
+        {
+          "id": "pork-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "neutral oil",
+          "prep": ""
+        },
+        {
+          "id": "pork-miso",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "white miso",
+          "prep": ""
+        },
+        {
+          "id": "pork-gochujang",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "gochujang",
+          "prep": ""
+        },
+        {
+          "id": "pork-garlic",
+          "amount": 1,
+          "unit": "small clove",
+          "item": "garlic",
+          "prep": "finely grated"
+        },
+        {
+          "id": "pepper",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Mushrooms and Leeks",
+      "items": [
+        {
+          "id": "maitake",
+          "amount": 1,
+          "unit": "ounce",
+          "item": "dried maitake mushrooms",
+          "prep": ""
+        },
+        {
+          "id": "cremini",
+          "amount": 6,
+          "unit": "ounces",
+          "item": "cremini mushrooms",
+          "prep": "chopped"
+        },
+        {
+          "id": "leek",
+          "amount": 1,
+          "unit": "large",
+          "item": "leek",
+          "prep": "white and light-green parts thinly sliced, washed and dried"
+        },
+        {
+          "id": "mushroom-oil",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "neutral oil",
+          "prep": ""
+        },
+        {
+          "id": "leek-butter",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "unsalted butter",
+          "prep": ""
+        },
+        {
+          "id": "leek-garlic",
+          "amount": 2,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        },
+        {
+          "id": "salt",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "item": "kosher salt",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Noodles",
+      "items": [
+        {
+          "id": "soba",
+          "amount": 3,
+          "unit": "ounces",
+          "item": "dry soba",
+          "prep": ""
+        },
+        {
+          "id": "noodle-butter",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "unsalted butter",
+          "prep": ""
+        },
+        {
+          "id": "noodle-miso",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "white miso",
+          "prep": ""
+        },
+        {
+          "id": "noodle-gochujang",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "gochujang",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Broth",
+      "items": [
+        {
+          "id": "stock",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "low-sodium chicken stock",
+          "prep": ""
+        },
+        {
+          "id": "soaking-liquid",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "maitake soaking liquid",
+          "prep": "reserved from rehydrating the mushrooms and finely strained"
+        }
+      ]
+    },
+    {
+      "title": "Pastry Lids",
+      "items": [
+        {
+          "id": "pastry",
+          "amount": 14,
+          "unit": "ounces",
+          "item": "puff pastry",
+          "prep": "thawed but cold; approximately one large sheet"
+        },
+        {
+          "id": "egg",
+          "amount": 1,
+          "unit": "large",
+          "item": "egg",
+          "prep": ""
+        },
+        {
+          "id": "wash-water",
+          "amount": 1,
+          "unit": "teaspoon",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "flour",
+          "amount": 1,
+          "unit": "tablespoon",
+          "item": "all-purpose flour",
+          "prep": "for lightly dusting the rolling surface"
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Have {{ingredient:cremini}}, {{ingredient:leek}}, {{ingredient:pork-garlic}} and {{ingredient:leek-garlic}} ready.",
+    "Cover {{ingredient:maitake}} generously with warm water. Soak until fully pliable, approximately 20–30 minutes or according to package directions. Lift out, rinse away grit and squeeze dry. Trim tough stems and chop. Pass the soaking liquid through a coffee filter or a paper-towel-lined fine sieve; measure and reserve {{ingredient:soaking-liquid}}.",
+    "Have {{ingredient:pork}} ready. Keep refrigerated until the searing step.",
+    "Keep {{ingredient:pastry}} refrigerated. Set out one ovenproof 14–16-ounce bowl per serving, a metal baking sheet, a pastry brush and an instant-read thermometer."
+  ],
+  "stepGroups": [
+    {
+      "title": "Reduce the Broth",
+      "items": [
+        "Combine {{ingredient:stock}} and {{ingredient:soaking-liquid}} in a small saucepan. Simmer until reduced by half. Set aside; divide the finished reduction evenly among the bowls during assembly."
+      ]
+    },
+    {
+      "title": "Cook the Mushrooms and Leeks",
+      "items": [
+        "Heat {{ingredient:mushroom-oil}} in a wide skillet over medium-high heat. Add {{ingredient:cremini}} and cook for 6–8 minutes, until their moisture evaporates and they begin to brown. Add the prepared maitake and cook another 3–4 minutes. Work in batches if necessary to avoid crowding. Transfer to a bowl.",
+        "Reduce the heat to medium. Add {{ingredient:leek-butter}} and {{ingredient:leek}}. Cook for 7–10 minutes until tender. Add {{ingredient:leek-garlic}} and {{ingredient:salt}}; cook for 1 minute. Return the mushrooms and stir together. Spread on a shallow plate to cool until no longer steaming."
+      ]
+    },
+    {
+      "title": "Prepare the Soba",
+      "items": [
+        "Cook {{ingredient:soba}} just shy of tender, using the package timing as a guide. Rinse briefly, drain thoroughly and blot away excess water.",
+        "Melt {{ingredient:noodle-butter}} and mix with {{ingredient:noodle-miso}} and {{ingredient:noodle-gochujang}}. Toss with the noodles and let cool until no longer steaming."
+      ]
+    },
+    {
+      "title": "Prepare the Pastry",
+      "items": [
+        "Heat the oven to 400°F on conventional bake. Lightly dust the work surface with {{ingredient:flour}}. Roll {{ingredient:pastry}} to approximately 1/8 inch thick and cut one square lid per serving, each approximately 1 inch wider than its bowl rim. Plan the cuts before cutting; square lids minimize waste. Do not stretch the pastry over the bowls. Keep the lids refrigerated.",
+        "Beat {{ingredient:egg}} with {{ingredient:wash-water}} for the egg wash."
+      ]
+    },
+    {
+      "title": "Sear and Season the Pork",
+      "items": [
+        "Cut the prepared pork into approximately 1-inch-thick medallions and pat dry. Heat {{ingredient:pork-oil}} in a skillet over high heat. Sear briefly, about 30–45 seconds per flat side, leaving the centers uncooked. Work in batches if needed. Remove from the heat.",
+        "Mix {{ingredient:pork-miso}}, {{ingredient:pork-gochujang}}, {{ingredient:pork-garlic}} and {{ingredient:pepper}}. Spread a thin coating over the medallions. Let the surface heat dissipate briefly while dividing the other fillings, then assemble and bake immediately. Do not refrigerate or hold partially cooked pork for later finishing."
+      ]
+    },
+    {
+      "title": "Fill and Cover the Bowls",
+      "items": [
+        "Divide the soba evenly among the bowls. Add about two-thirds of the mushroom-leek mixture. Nestle the pork on top in a single layer, then distribute the remaining mushrooms around it. Divide the reduced broth evenly among the bowls.",
+        "Leave approximately 1/2 inch of clear space below each rim so the pastry can span the bowl without resting directly on the pork. Wipe the rims clean and dry, then brush lightly with egg wash. Drape a cold pastry lid over each bowl and press gently around the outside rim to secure. Brush the tops with egg wash and cut a small steam vent in each. Discard unused egg wash."
+      ]
+    },
+    {
+      "title": "Bake and Serve",
+      "items": [
+        "Place the bowls on the metal baking sheet. Bake for approximately 25–35 minutes, until the pastry is puffed and deeply golden. Begin checking the pork at 20 minutes: insert an instant-read thermometer through the vent into the center of a medallion, checking each bowl. The pork must reach at least 145°F. Tent the pastry loosely with foil if it browns before the meat is ready.",
+        "Rest for 5 minutes before serving. Warn diners that the bowls are hot. Break through the pastry lid and scoop down through the pork, mushrooms and seasoned noodles."
+      ]
+    }
+  ]
+}
