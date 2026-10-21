@@ -1,0 +1,175 @@
+{
+  "id": "chicken-laab-rice-paper-cups",
+  "title": "Chicken Laab on Crispy Rice Paper",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Appetizers",
+  "displayCategory": "Appetizers",
+  "cScale": 2,
+  "ldlActive": false,
+  "cScaleSummary": "C2: one serving is one three-bite appetizer, not a full starter or meal. The batch uses 1 pound (approximately 454 grams) of raw ground chicken. Using the USDA generic raw ground-chicken reference of 86 mg cholesterol per 100 grams gives approximately 390 mg for the batch, or 33 mg per appetizer across 12 equal portions, within C2 (26 to 75 mg). This is an estimate; the purchased chicken's label and composition may differ. Fish sauce contributes at most a small additional amount at this quantity; the rice, rice paper, oil, vegetables, herbs, chilies, and lime contribute no cholesterol. Frying-oil supply is not treated as fully consumed. Larger portions require proportionately more cholesterol; three appetizers provide approximately 98 mg, in C3.",
+  "ldlActiveSummary": "LDL-Active is false because this small appetizer is built around chicken and refined rice rather than a fiber-forward base of legumes or whole grains. Lean chicken, herbs, lime, and an unsaturated frying oil fit EWHF's approach, but a low per-piece cholesterol number and a small portion do not make the recipe actively LDL-lowering.",
+  "yield": 12,
+  "yieldUnit": "three-bite appetizers",
+  "tags": [],
+  "intro": "Ground chicken, lime, fish sauce, Thai basil, and two fresh chilies make a bright, savory laab served on puffed rice-paper bases. Finely minced serrano distributes heat through the dressing; sliced Thai chilies add concentrated bursts and a lingering finish. Pepper strength and individual perception vary. Toasted sticky rice supplies a nutty aroma and fine sandy texture. This appetizer adapts the lime-and-toasted-rice style associated with Lao and northeastern Thai cooking, using Thai basil in place of mint. Each base holds approximately three bites; this is a passed appetizer rather than a full starter portion. Allow about 45 minutes.",
+  "ingredientGroups": [
+    {
+      "title": "Toasted Sticky Rice",
+      "items": [
+        {
+          "id": "sticky-rice",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "uncooked Thai white glutinous rice",
+          "prep": "also labeled sweet rice or sticky rice; not cooked rice or rice flour"
+        }
+      ]
+    },
+    {
+      "title": "Chicken",
+      "items": [
+        {
+          "id": "chicken",
+          "amount": 1,
+          "unit": "pound",
+          "item": "lean ground chicken",
+          "prep": ""
+        },
+        {
+          "id": "water",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "water",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Dressing and Herbs",
+      "items": [
+        {
+          "id": "lime-juice",
+          "amount": 3,
+          "unit": "tablespoons",
+          "item": "fresh lime juice",
+          "prep": ""
+        },
+        {
+          "id": "fish-sauce",
+          "amount": 1.5,
+          "unit": "tablespoons",
+          "item": "fish sauce",
+          "prep": "choose one without added sugar; contains fish"
+        },
+        {
+          "id": "serrano",
+          "amount": 10,
+          "unit": "grams",
+          "item": "fresh serrano chili",
+          "prep": "stem removed; finely mince flesh and membranes"
+        },
+        {
+          "id": "thai-chili",
+          "amount": 2,
+          "unit": "grams",
+          "item": "fresh Thai bird's-eye chilies",
+          "prep": "stems removed; slice very thinly, retaining membranes"
+        },
+        {
+          "id": "shallot",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "shallot",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "scallion",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "scallions",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "basil",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "loosely packed Thai basil leaves",
+          "prep": "thinly sliced just before mixing"
+        },
+        {
+          "id": "cilantro",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "cilantro leaves and tender stems",
+          "prep": "finely chopped"
+        }
+      ]
+    },
+    {
+      "title": "Crisp Bases",
+      "items": [
+        {
+          "id": "rice-paper",
+          "amount": 3,
+          "unit": "sheets",
+          "item": "22-centimeter round dried rice-paper wrappers",
+          "prep": "choose sturdy rice-rich wrappers for frying"
+        },
+        {
+          "id": "frying-oil",
+          "amount": 3,
+          "unit": "cups",
+          "item": "refined avocado oil",
+          "prep": "frying medium, not all consumed; pan depth governs the amount needed"
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Stage a dry skillet, mortar or spice grinder, wide nonstick skillet, 8-inch heavy saucepan, oil thermometer, instant-read thermometer, dry tongs, and a draining rack.",
+    "Measure {{ingredient:sticky-rice}}, {{ingredient:chicken}}, and {{ingredient:water}}; keep the chicken refrigerated until cooking.",
+    "Prepare {{ingredient:serrano}} and {{ingredient:thai-chili}} with gloves. Keep them separate.",
+    "Stage {{ingredient:lime-juice}}, {{ingredient:fish-sauce}}, {{ingredient:shallot}}, {{ingredient:scallion}}, {{ingredient:basil}}, and {{ingredient:cilantro}}. Dry washed herbs thoroughly.",
+    "Keep {{ingredient:rice-paper}} and all frying tools completely dry. Measure {{ingredient:frying-oil}}."
+  ],
+  "stepGroups": [
+    {
+      "title": "Toast and Grind the Rice",
+      "items": [
+        "Put {{ingredient:sticky-rice}} directly into a dry skillet; do not soak, boil, or wet it first. Toast over medium-low heat, stirring frequently, for about 10 to 15 minutes until evenly deep golden and nutty-smelling. Use the color and aroma as the endpoint; a heavy pan or larger batch may take longer. Lower the heat if grains darken unevenly; discard scorched rice.",
+        "Cool completely, then grind in a dry mortar or spice grinder to a fine sandy powder, slightly coarser than flour. Sift out hard fragments and grind them again; no sharp or crunchy raw-grain pieces should remain. Stop before the powder packs into a paste. Keep dry and covered until finishing the laab."
+      ]
+    },
+    {
+      "title": "Fry the Bases",
+      "items": [
+        "Using dry kitchen scissors, cut each of {{ingredient:rice-paper}} into four equal quarters. Each quarter is one three-bite base. When scaling, round the wrapper count up to whole sheets and reserve extra quarters. Do not soak or wet the wrappers.",
+        "Use {{ingredient:frying-oil}} as the frying medium in the heavy saucepan, maintaining a depth of about 3/4 inch and leaving ample headroom. The listed amount is a working supply, not an amount to absorb into the food; when scaling, pan size and oil depth govern the volume. Heat to 350 to 360°F. Test the first quarter, frying it alone and briefly guiding it beneath the oil with dry tongs so every area puffs. Lift out as soon as it becomes opaque, expanded, and crisp, usually 3 to 5 seconds; do not brown.",
+        "Drain on a rack over paper towels and cool uncovered. Test the first base: it should snap cleanly without translucent, chewy patches and be sturdy enough to lift by its broad edge. If it remains translucent, check oil temperature before continuing. If fully puffed but too fragile, use a thicker, rice-rich wrapper. Fry the remaining quarters one at a time, returning the oil to temperature between pieces. Keep the bases dry and separate from the filling."
+      ]
+    },
+    {
+      "title": "Cook the Chicken",
+      "items": [
+        "Combine {{ingredient:lime-juice}}, {{ingredient:fish-sauce}}, and {{ingredient:serrano}} in a small bowl. Let stand while the chicken cooks so the finely minced chili disperses through the dressing.",
+        "Put {{ingredient:chicken}} and {{ingredient:water}} in the wide nonstick skillet over medium heat. Stir and break into fine loose crumbles, cooking gently for about 6 to 8 minutes, until the chicken reaches 165°F throughout. Check several gathered mounds with an instant-read thermometer.",
+        "Once cooked, let excess liquid evaporate briefly over medium heat until the meat is moist but no liquid pools when the pan is tilted. Do not brown or dry out the crumbles. Transfer to a bowl and let cool until just warm, about 5 minutes."
+      ]
+    },
+    {
+      "title": "Dress and Finish",
+      "items": [
+        "Fold the prepared dressing into the warm chicken with {{ingredient:shallot}}, {{ingredient:scallion}}, and {{ingredient:thai-chili}}. Keep the sliced Thai chili distributed through the mixture rather than clustered on individual bases.",
+        "Immediately before assembly, fold in all of the toasted rice powder, {{ingredient:basil}}, and {{ingredient:cilantro}}. Rest for 2 minutes so the rice absorbs the dressing. The filling should cling loosely together without a puddle underneath. For staggered service, divide the chicken, dressing, powder, and herbs into matching batches and finish only the batch being served."
+      ]
+    },
+    {
+      "title": "Assemble and Serve",
+      "items": [
+        "Divide the filling evenly among the required quarter-sheet bases. Aim for a shallow layer of about 3 level tablespoons per base, never a tall mound; spread across the broad central area and keep the narrow tip clear for handling. Use a slotted spoon so free liquid stays behind. Serve immediately in small batches; filled rice paper softens rapidly.",
+        "For advance preparation, cool cooked chicken promptly in a shallow container and refrigerate at 40°F or below within 2 hours, or 1 hour above 90°F. Use within 3 to 4 days. Keep dressing and prepared herbs separately refrigerated; add them and the toasted rice powder only when ready to serve. The chilled cooked chicken may be dressed and served cold. Keep completely cooled unfilled bases airtight at room temperature and use the same day for best texture. Count all preparation and service time toward the 2-hour limit out of refrigeration, reduced to 1 hour above 90°F; discard filling that exceeds it."
+      ]
+    }
+  ]
+}
