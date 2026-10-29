@@ -1,0 +1,246 @@
+{
+  "id": "ravioles-du-dauphine",
+  "title": "Ravioles du Dauphiné",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Pasta & Noodles",
+  "displayCategory": "Pasta & Noodles",
+  "cScale": 3,
+  "ldlActive": false,
+  "cScaleSummary": "Estimated approximately 95–110 mg dietary cholesterol per appetizer serving (C3), conservatively counting the entire dough batch: one large egg contributes about 186 mg per batch, 60 g butter about 129 mg, 40 g Comté about 40–45 mg, and 80 g fromage blanc a variable amount depending on fat content. Divide the batch by four. Discarded dough lowers actual intake. This also contains substantial saturated fat.",
+  "ldlActiveSummary": "Not LDL Active. This special-occasion recipe retains butter and cheese to reproduce the dish's defining flavors and uses refined-flour egg pasta. The mushroom jus supplies flavor but does not make the dish fiber-forward.",
+  "yield": 4,
+  "yieldUnit": "appetizer servings",
+  "tags": [],
+  "intro": "Inspired by Chef Cassidy Visconti’s cheese course at the Bonita Bay Club chef dinner on October 27, 2026, Dave’s favorite dish of the evening. This is a home reconstruction, not the chef’s recipe, and has not yet been kitchen-tested. Paper-thin pasta encloses small pockets of fromage blanc and Comté in connected two-by-three sheets, finished with mushroom jus emulsified with brown butter and fresh chervil. Makes approximately 16 sheets, each about 4 by 2 inches; serve four sheets per appetizer portion. The defining texture is delicate pasta with low cheese cushions. Butter and cheese are retained deliberately for this special-occasion entry.",
+  "ingredientGroups": [
+    {
+      "title": "Pasta dough",
+      "items": [
+        {
+          "id": "flour",
+          "amount": 100,
+          "unit": "g",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "id": "egg",
+          "amount": 1,
+          "unit": "large",
+          "item": "egg",
+          "prep": "about 50 g without shell"
+        },
+        {
+          "id": "bench-flour",
+          "amount": 15,
+          "unit": "g",
+          "item": "all-purpose flour",
+          "prep": "for dusting; use sparingly"
+        },
+        {
+          "id": "assembly-water",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "water",
+          "prep": "for adjusting dough and moistening seals; use only as needed"
+        }
+      ]
+    },
+    {
+      "title": "Cheese filling",
+      "items": [
+        {
+          "id": "fromage-blanc",
+          "amount": 80,
+          "unit": "g",
+          "item": "fromage blanc",
+          "prep": "weight after draining in the refrigerator until thick"
+        },
+        {
+          "id": "comte",
+          "amount": 40,
+          "unit": "g",
+          "item": "Comté cheese",
+          "prep": "very finely grated"
+        },
+        {
+          "id": "pepper",
+          "amount": 0.125,
+          "unit": "tsp",
+          "item": "black pepper",
+          "prep": "finely ground"
+        }
+      ]
+    },
+    {
+      "title": "Mushroom jus",
+      "items": [
+        {
+          "id": "cremini",
+          "amount": 225,
+          "unit": "g",
+          "item": "cremini mushrooms",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "porcini",
+          "amount": 5,
+          "unit": "g",
+          "item": "dried porcini mushrooms",
+          "prep": ""
+        },
+        {
+          "id": "soaking-water",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "hot water",
+          "prep": ""
+        },
+        {
+          "id": "shallot",
+          "amount": 1,
+          "unit": "small",
+          "item": "shallot",
+          "prep": "thinly sliced"
+        },
+        {
+          "id": "oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "item": "neutral oil",
+          "prep": ""
+        },
+        {
+          "id": "wine",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "dry white wine",
+          "prep": ""
+        },
+        {
+          "id": "stock",
+          "amount": 1.5,
+          "unit": "cups",
+          "item": "unsalted vegetable stock",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Brown butter and finish",
+      "items": [
+        {
+          "id": "butter",
+          "amount": 60,
+          "unit": "g",
+          "item": "unsalted butter",
+          "prep": "cut into pieces"
+        },
+        {
+          "id": "lemon",
+          "amount": 0.25,
+          "unit": "tsp",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "chervil",
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "fresh chervil leaves",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Cooking and sauce adjustment",
+      "items": [
+        {
+          "id": "cooking-water",
+          "amount": 3,
+          "unit": "quarts",
+          "item": "water",
+          "prep": ""
+        },
+        {
+          "id": "salt",
+          "amount": 12,
+          "unit": "g",
+          "item": "kosher salt",
+          "prep": "for cooking water"
+        },
+        {
+          "id": "reserved-water",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "pasta cooking water",
+          "prep": "reserved from the cooking pan; add only as needed"
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Drain {{ingredient:fromage-blanc}} in a fine sieve in the refrigerator until thick and no longer weeping; weigh after draining.",
+    "Finely grate {{ingredient:comte}}, slice {{ingredient:cremini}} and {{ingredient:shallot}}, and pick {{ingredient:chervil}}.",
+    "Stage a pasta machine, piping bag, pastry wheel, ruler, fine sieve, light-colored saucepan, wide cooking pan, and wide slotted spatula. Measure the remaining ingredients."
+  ],
+  "stepGroups": [
+    {
+      "title": "Make the pasta dough",
+      "items": [
+        "Mix {{quantity:flour}} flour with {{quantity:egg}} egg. Knead for 8–10 minutes until smooth and firm. If dry crumbs will not incorporate, wet your fingertips with a little of {{ingredient:assembly-water}} and continue kneading; do not add the entire measured amount.",
+        "Wrap tightly and rest at room temperature for 45–60 minutes. Start the jus during the rest."
+      ]
+    },
+    {
+      "title": "Prepare the filling",
+      "items": [
+        "Blend {{quantity:fromage-blanc}} drained fromage blanc, {{quantity:comte}} Comté, and {{quantity:pepper}} pepper into a smooth, thick paste using a small processor or by pressing and mixing thoroughly. The paste should hold a small mound without leaking.",
+        "Transfer to a piping bag and refrigerate while preparing the jus. The cheese supplies the filling's salt."
+      ]
+    },
+    {
+      "title": "Build and strain the mushroom jus",
+      "items": [
+        "Soak {{quantity:porcini}} porcini in {{quantity:soaking-water}} hot water for 20 minutes. Lift out the mushrooms and strain the soaking liquid through a damp coffee filter or paper towel-lined sieve to remove grit.",
+        "Heat {{quantity:oil}} oil in a wide saucepan over medium-high heat. Add {{quantity:cremini}} cremini and cook, stirring occasionally, until their liquid evaporates and they brown, about 10–15 minutes. Add {{quantity:shallot}} shallot and cook 2–3 minutes.",
+        "Add {{quantity:wine}} wine and scrape up the browned bits. Reduce until almost dry. Add {{quantity:stock}} stock, the soaked porcini, and filtered soaking liquid. Simmer gently for 25–30 minutes.",
+        "Strain through a fine sieve, pressing lightly. Discard the solids from this sauce. Reduce the strained liquid to 120 ml per base batch, about 1/2 cup. It should taste distinctly mushroomy. Set aside."
+      ]
+    },
+    {
+      "title": "Brown the butter",
+      "items": [
+        "Melt {{quantity:butter}} butter in a small light-colored saucepan over medium-low heat. Stir and scrape the bottom as it foams. When the milk solids are golden brown and smell nutty, immediately transfer all the butter and browned bits to a heatproof bowl.",
+        "Let cool until warm. Brown butter must not be sizzling hot when it is added to the jus."
+      ]
+    },
+    {
+      "title": "Roll and assemble connected sheets",
+      "items": [
+        "Divide the rested dough in half and keep one half wrapped. Roll the other through progressively thinner machine settings, using {{ingredient:bench-flour}} sparingly. Aim for about 0.4–0.5 mm thick, translucent but strong enough to handle. Machine settings vary; do not force dough through a setting that tears it.",
+        "Work in short sections so the surface stays supple. On the bottom layer, mark rectangles about 4 by 2 inches. Pipe six small dots of filling into each rectangle in two rows of three, about a scant 1/4 teaspoon per pocket. Divide the filling across approximately 16 sheets, keeping the pockets low.",
+        "Brush excess flour from sealing areas. Moisten the sealing lines very lightly with {{ingredient:assembly-water}} only if the dough has become dry. Lay a second thin sheet over the filling. Press out air around each mound, then seal the perimeter and the grid between pockets with your fingertips or a blunt chopstick. Do not cut through the internal seams.",
+        "Trim only the outside edge of each rectangle, leaving six connected pockets. Gently reroll clean scraps once after resting them wrapped for 15 minutes. Expect some unused scraps; prioritize thinness over using every scrap.",
+        "Place sheets separately on a lightly floured parchment-lined tray without stacking. Cover with a clean towel while finishing the batch. Cook promptly."
+      ]
+    },
+    {
+      "title": "Cook the ravioles",
+      "items": [
+        "Bring {{quantity:cooking-water}} water and {{quantity:salt}} salt to a gentle simmer in a wide pan. Warm four shallow serving bowls. Set the mushroom jus over low heat.",
+        "Cook one test sheet first. Start checking after 60 seconds; approximately 1–2 minutes may suffice, but thickness determines the time. The sealed pasta edges should be tender and the center hot. Adjust the remaining cooking time to the test sheet.",
+        "Cook the remaining sheets in small batches without crowding or vigorous boiling. Reserve {{quantity:reserved-water}} cooking water for the sauce. Lift sheets with a wide slotted spatula, drain briefly, and arrange directly in warm bowls. Work quickly; do not hold cooked sheets piled together."
+      ]
+    },
+    {
+      "title": "Emulsify the sauce and serve",
+      "items": [
+        "Take the warm mushroom jus off the heat. Gradually whisk in the warm brown butter and its browned milk solids. For a more uniform emulsion, use an immersion blender in a narrow heatproof vessel, keeping the blade submerged.",
+        "Whisk in {{quantity:lemon}} lemon juice. Add reserved pasta water a teaspoon at a time only as needed for a glossy, lightly coating consistency. If the sauce separates, blend it again with a small splash of warm water. Keep warm gently and do not boil.",
+        "Spoon the sauce over and around the sheets, dividing it evenly between portions. Finish with {{quantity:chervil}} chervil and serve immediately."
+      ]
+    }
+  ]
+}
