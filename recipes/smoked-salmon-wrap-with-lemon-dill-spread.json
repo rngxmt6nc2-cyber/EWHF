@@ -1,0 +1,170 @@
+{
+  "id": "smoked-salmon-wrap-with-lemon-dill-spread",
+  "title": "Smoked Salmon Wrap with Lemon-Dill Spread",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 2,
+  "ldlActive": false,
+  "cScaleSummary": "C2: one serving is one whole wrap. The batch uses 4 ounces of cold-smoked salmon and 1/4 cup of nonfat Greek yogurt; using a salmon label with 30 mg cholesterol per 2 ounces and a yogurt label with 10 mg per 3/4 cup gives approximately 32 mg per wrap, within C2 (26 to 75 mg). Salmon and yogurt are the cholesterol contributors; the specified plant-based wraps, vegetables, herbs, capers, mustard, lemon, and olive oil add none. This is a label-based estimate; the purchased products can change the total and rating.",
+  "ldlActiveSummary": "LDL-Active is false because this wrap is built around smoked salmon and a refined-flour wrap rather than a substantial source of legumes or soluble fiber. Nonfat yogurt, vegetables, herbs, and a modest amount of olive oil fit EWHF's approach, but they do not establish an actively LDL-lowering recipe.",
+  "yield": 2,
+  "yieldUnit": "wraps",
+  "tags": [],
+  "intro": "Silky smoked salmon, crisp cucumber, ripe tomato, and a little red onion fill a soft tomato wrap with thick lemon-dill yogurt and a hand-chopped caper-parsley pesto. Lemon zest brings brightness without flooding the filling, and carefully dried vegetables help the wrap hold together. Allow about 20 minutes; one whole wrap is a serving.",
+  "ingredientGroups": [
+    {
+      "title": "Lemon-Dill Spread",
+      "items": [
+        {
+          "id": "greek-yogurt",
+          "amount": 0.25,
+          "unit": "cup",
+          "item": "thick plain nonfat Greek yogurt",
+          "prep": "pour off any surface whey before measuring"
+        },
+        {
+          "id": "dill",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "fresh dill",
+          "prep": "finely chopped"
+        },
+        {
+          "id": "lemon-zest",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "finely grated lemon zest",
+          "prep": "yellow peel only"
+        },
+        {
+          "id": "lemon-juice",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "fresh lemon juice",
+          "prep": ""
+        },
+        {
+          "id": "dijon",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "item": "Dijon mustard",
+          "prep": "choose one without added sugar"
+        },
+        {
+          "id": "black-pepper",
+          "amount": 0.125,
+          "unit": "teaspoon",
+          "item": "freshly ground black pepper",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Caper-Parsley Pesto",
+      "items": [
+        {
+          "id": "capers",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "brined capers",
+          "prep": "drained, briefly rinsed, and patted dry before measuring"
+        },
+        {
+          "id": "parsley",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "fresh flat-leaf parsley",
+          "prep": "finely chopped; dry thoroughly after washing"
+        },
+        {
+          "id": "olive-oil",
+          "amount": 2,
+          "unit": "teaspoons",
+          "item": "extra-virgin olive oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Wraps and Filling",
+      "items": [
+        {
+          "id": "tomato-wraps",
+          "amount": 2,
+          "unit": "",
+          "item": "10-inch tomato wraps",
+          "prep": "choose egg-free, dairy-free wraps made with unsaturated oil and no added sugar"
+        },
+        {
+          "id": "smoked-salmon",
+          "amount": 4,
+          "unit": "ounces",
+          "item": "thinly sliced cold-smoked salmon",
+          "prep": "choose one without added sugar; keep refrigerated"
+        },
+        {
+          "id": "cucumber",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "English cucumber",
+          "prep": "halved lengthwise, watery seed core removed, thinly sliced, and patted dry; measure after preparation"
+        },
+        {
+          "id": "tomato",
+          "amount": 0.5,
+          "unit": "cup",
+          "item": "plum tomato",
+          "prep": "seed gel removed, thinly sliced, and patted dry; measure after preparation"
+        },
+        {
+          "id": "red-onion",
+          "amount": 2,
+          "unit": "tablespoons",
+          "item": "red onion",
+          "prep": "very thinly sliced, briefly rinsed under cold water, and patted thoroughly dry"
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Set out a cutting board, sharp knife, fine grater, measuring spoons, two small bowls, and paper towels.",
+    "Prepare {{ingredient:cucumber}}, {{ingredient:tomato}}, and {{ingredient:red-onion}} as listed. Blot again until no visible surface moisture remains; do not salt the vegetables.",
+    "Wash and dry the herbs, then prepare {{ingredient:dill}} and {{ingredient:parsley}}. Rinse and dry {{ingredient:capers}}.",
+    "Measure {{ingredient:greek-yogurt}}, {{ingredient:lemon-zest}}, {{ingredient:lemon-juice}}, {{ingredient:dijon}}, {{ingredient:black-pepper}}, and {{ingredient:olive-oil}}.",
+    "Set out {{ingredient:tomato-wraps}}. Check {{ingredient:smoked-salmon}} for bones and keep it refrigerated until assembly."
+  ],
+  "stepGroups": [
+    {
+      "title": "Make the Lemon-Dill Spread",
+      "items": [
+        "Stir together {{ingredient:greek-yogurt}}, {{ingredient:dill}}, {{ingredient:lemon-zest}}, {{ingredient:lemon-juice}}, {{ingredient:dijon}}, and {{ingredient:black-pepper}} in a small bowl.",
+        "The spread should mound softly on a spoon rather than run. Do not thin it with water or extra lemon juice. Refrigerate while preparing the remaining components."
+      ]
+    },
+    {
+      "title": "Make the Caper-Parsley Pesto",
+      "items": [
+        "Chop {{ingredient:capers}} together with {{ingredient:parsley}} until finely minced and cohesive. Use the side of the knife to press some of the capers into a coarse paste.",
+        "Transfer to the second small bowl and stir in {{ingredient:olive-oil}}. Leave the mixture slightly textured. Do not add salt; the capers and salmon provide the seasoning."
+      ]
+    },
+    {
+      "title": "Soften the Wraps",
+      "items": [
+        "Warm {{ingredient:tomato-wraps}} one at a time in a dry skillet over medium-low heat for about 10 to 15 seconds per side, just until flexible. Do not brown or crisp them.",
+        "Keep loosely covered with a clean towel, then let cool until no longer warm before adding the chilled filling."
+      ]
+    },
+    {
+      "title": "Fill and Roll",
+      "items": [
+        "Lay out the wraps. Divide the lemon-dill spread and caper-parsley pesto evenly among them, spreading each in a broad band just below the center. Leave about 2 inches clear at the sides and keep the top edge free of filling.",
+        "Divide {{ingredient:smoked-salmon}} evenly among the wraps, separating the slices and laying them in loose folds over the spreads. Distribute {{ingredient:cucumber}}, {{ingredient:tomato}}, and {{ingredient:red-onion}} evenly over the salmon, keeping the filling in a low, compact band.",
+        "Fold both sides inward, bring the bottom edge up over the filling, and tuck it snugly underneath before rolling toward the top. Use gentle tension without squeezing moisture from the vegetables. Set seam-side down and cut across the middle with a sharp knife.",
+        "Serve promptly. For preparation ahead, keep the spreads and dried vegetables in separate covered containers in the refrigerator and leave the salmon refrigerated; assemble just before eating. An assembled wrap should remain refrigerated until served and is best eaten the same day."
+      ]
+    }
+  ]
+}
