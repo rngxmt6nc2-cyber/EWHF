@@ -1,0 +1,240 @@
+{
+  "id": "new-years-day-smothered-pork-shoulder",
+  "title": "New Year’s Day Smothered Pork Shoulder",
+  "section": "",
+  "sortOrder": 0,
+  "category": "Mains",
+  "displayCategory": "Mains",
+  "cScale": 3,
+  "ldlActive": false,
+  "cScaleSummary": "C3 estimates about 120 to 145 mg of cholesterol per serving. Two pieces provide an estimated 4 to 5 oz cooked pork, with a small contribution from the gravy.",
+  "ldlActiveSummary": "LDL-Active is false because Boston butt and rendered pork fat are central to this celebration main.",
+  "yield": 40,
+  "yieldUnit": "servings",
+  "tags": [],
+  "intro": "For Hangover Hell, two spoon-tender pieces of Boston butt sit over garlic mashed potatoes with cider-braised collards alongside. Deep chestnut gravy carries ribbons of copper-brown onion. Browned pork and onion lead, with green bell pepper, coarse black pepper, and a gentle cayenne finish. Plan on 80 pieces and 1¼ gallons of gravy for 40 measured pours, plus 1 cup for coating and transfer losses.",
+  "ingredientGroups": [
+    {
+      "title": "Trim, Season, and Sear the Pork",
+      "items": [
+        {
+          "id": "pork-shoulder",
+          "amount": 17,
+          "unit": "lb",
+          "item": "boneless Boston butt",
+          "prep": "trimmed weight. Buy 20 lb untrimmed boneless Boston butt and save clean fat trim."
+        },
+        {
+          "id": "pork-salt",
+          "amount": 66,
+          "unit": "g",
+          "item": "kosher salt",
+          "prep": ""
+        },
+        {
+          "id": "pork-pepper",
+          "amount": 5,
+          "unit": "tsp",
+          "item": "coarse black pepper",
+          "prep": ""
+        },
+        {
+          "id": "cayenne",
+          "amount": 1.5,
+          "unit": "tsp",
+          "item": "ground cayenne",
+          "prep": ""
+        },
+        {
+          "id": "searing-oil",
+          "amount": 6,
+          "unit": "tbsp",
+          "item": "canola oil",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Brown the Vegetables",
+      "items": [
+        {
+          "id": "onion-fat",
+          "amount": 4,
+          "unit": "tbsp",
+          "item": "rendered pork fat",
+          "prep": "from clean trim, measured after rendering"
+        },
+        {
+          "id": "onions",
+          "amount": 6.75,
+          "unit": "lb",
+          "item": "yellow onions",
+          "prep": "peeled weight, sliced pole to pole ¼ inch thick"
+        },
+        {
+          "id": "green-pepper",
+          "amount": 12,
+          "unit": "oz",
+          "item": "green bell pepper",
+          "prep": "trimmed weight, finely diced"
+        },
+        {
+          "id": "celery",
+          "amount": 10,
+          "unit": "oz",
+          "item": "celery",
+          "prep": "trimmed weight, finely diced"
+        },
+        {
+          "id": "garlic",
+          "amount": 20,
+          "unit": "cloves",
+          "item": "garlic",
+          "prep": "minced"
+        }
+      ]
+    },
+    {
+      "title": "Make the Roux and Braise",
+      "items": [
+        {
+          "id": "roux-fat",
+          "amount": 1,
+          "unit": "cup",
+          "item": "rendered pork drippings",
+          "prep": "strained and measured, topped up with rendered trim fat"
+        },
+        {
+          "id": "flour",
+          "amount": 165,
+          "unit": "g",
+          "item": "all-purpose flour",
+          "prep": ""
+        },
+        {
+          "id": "braise-stock",
+          "amount": 12,
+          "unit": "cups",
+          "item": "unsalted chicken stock",
+          "prep": "divided"
+        },
+        {
+          "id": "worcestershire",
+          "amount": 3.5,
+          "unit": "tbsp",
+          "item": "Lea & Perrins Original Worcestershire sauce",
+          "prep": "contains anchovies and added sugar"
+        },
+        {
+          "id": "thyme",
+          "amount": 20,
+          "unit": "sprigs",
+          "item": "fresh thyme",
+          "prep": ""
+        },
+        {
+          "id": "bay",
+          "amount": 8,
+          "unit": "leaves",
+          "item": "dried bay leaves",
+          "prep": ""
+        }
+      ]
+    },
+    {
+      "title": "Finish the Gravy",
+      "items": [
+        {
+          "id": "finish-stock",
+          "amount": 4,
+          "unit": "cups",
+          "item": "unsalted chicken stock",
+          "prep": "reserve for measured adjustments and reheating"
+        },
+        {
+          "id": "vinegar",
+          "amount": 2,
+          "unit": "tbsp",
+          "item": "apple cider vinegar",
+          "prep": ""
+        },
+        {
+          "id": "gravy-pepper",
+          "amount": 1.5,
+          "unit": "tsp",
+          "item": "coarse black pepper",
+          "prep": ""
+        },
+        {
+          "id": "gravy-salt",
+          "amount": 8,
+          "unit": "g",
+          "item": "kosher salt",
+          "prep": "measured finishing allowance, added to taste"
+        }
+      ]
+    }
+  ],
+  "miseEnPlace": [
+    "Set out two heavy 12-inch skillets, a small saucepan for rendering fat, a heavy 3-quart saucepan for the roux, a 10- to 12-quart stockpot, a heatproof graduated measure, and an instant-read probe thermometer.",
+    "Use four 13 × 9 × 3-inch stainless braising pans with tight foil covers. The schedule assumes one 30-inch oven with two usable racks, each with at least 20 × 15 inches of clear space for two pans side by side with airflow. Dry-fit them first. Both racks are occupied during braising and reheating.",
+    "Clear refrigerator shelf space and set out four shallow metal trays for pork, four 9 × 9-inch shallow metal pans for gravy, and ice baths. Set out eight half-size steam-table pans, about 13 × 10½ × 2½ inches, for buffet rotation.",
+    "Trim {{ingredient:pork-shoulder}} of heavy exterior fat, silverskin, and thick seams. Weigh out 17 lb for cooking. Cut 80 compact pieces averaging 3.4 oz and about 1½ inches thick, with two broad faces. Sort into four groups of 20 and refrigerate until searing.",
+    "Slice {{ingredient:onions}}, dice {{ingredient:green-pepper}} and {{ingredient:celery}}, and mince {{ingredient:garlic}}. Divide each vegetable into four equal skillet batches.",
+    "Measure and stage {{ingredient:pork-salt}}, {{ingredient:pork-pepper}}, {{ingredient:cayenne}}, {{ingredient:searing-oil}}, {{ingredient:onion-fat}}, {{ingredient:roux-fat}}, and {{ingredient:flour}}.",
+    "Measure and stage {{ingredient:braise-stock}}, {{ingredient:worcestershire}}, {{ingredient:thyme}}, {{ingredient:bay}}, {{ingredient:finish-stock}}, {{ingredient:vinegar}}, {{ingredient:gravy-pepper}}, and {{ingredient:gravy-salt}}. Set the finishing stock aside."
+  ],
+  "stepGroups": [
+    {
+      "title": "Day Before — Prep and Brown the Vegetables",
+      "items": [
+        "Start about 7 hours before you want the refrigerator loaded, with time afterward to check cooling. Allow 1 hour for prep and rendering, 75 to 90 minutes for vegetables, 40 to 50 minutes for searing, 20 to 25 minutes for gravy and pan setup, 1 hour 45 minutes to 2 hours 30 minutes for braising, and 20 to 35 minutes for finishing and dividing.",
+        "While prepping, finely dice the clean fat trim and render in a saucepan over low heat for 30 to 45 minutes, stirring occasionally. Strain out the solids. Measure {{quantity:onion-fat}} rendered pork fat for the vegetables and hold the rest for the roux. Have plain rendered pork lard available to make up any shortfall.",
+        "Heat two heavy skillets over medium heat. For each of two rounds, use 1 tablespoon pork fat per skillet. Divide {{quantity:onions}} sliced yellow onions among the four skillet batches. Cook each batch 30 to 38 minutes, stirring more often as the moisture evaporates, until copper brown with distinct ribbons. If the glaze threatens to scorch, loosen it with a splash from the first 2 cups of braising stock.",
+        "Divide {{quantity:green-pepper}} diced green bell pepper and {{quantity:celery}} diced celery among the four batches. Add them only after the onions have browned and cook 5 to 6 minutes. Stir in the corresponding share of {{quantity:garlic}} minced garlic for the last minute. Transfer the vegetables to the stockpot, scraping in the glaze, and wipe the skillets before searing."
+      ]
+    },
+    {
+      "title": "Sear the Pork",
+      "items": [
+        "Heat the oven to 300°F. Pat {{quantity:pork-shoulder}} trimmed pork dry and season with {{quantity:pork-salt}} kosher salt. Combine {{quantity:pork-pepper}} coarse black pepper and {{quantity:cayenne}} ground cayenne to sprinkle over the seared pieces.",
+        "Heat the skillets over medium-high heat. Use {{quantity:searing-oil}} canola oil in thin films across five rounds, eight pieces per skillet each round. Sear the two broad faces 2½ to 3 minutes each until deep brown. Allow time for turning, deglazing, and recovering skillet heat between rounds. Bring the seared pork straight into the hot braise as soon as the sauce is ready. Transfer directly to the four braising pans, 20 pieces per pan in a single layer, and season with the pepper mixture as the pieces come off the heat.",
+        "Set aside {{quantity:braise-stock}} unsalted chicken stock for the braise. Budget the first 2 cups for the onion glaze and skillet deglazing. Pour off pooled fat through a fine strainer into a heatproof cup as it accumulates. Between rounds, when the fond is dark brown, splash in a little of the first 2 cups, scrape up the fond, and pour it into the stockpot. Deglaze both skillets after the final round and add any unused part of those 2 cups to the pot. Let the skillets dry and reheat before adding fresh oil."
+      ]
+    },
+    {
+      "title": "Make the Brown Roux and Cover-Braise",
+      "items": [
+        "Measure {{quantity:roux-fat}} strained pork drippings for the roux, topping up with rendered trim fat or plain rendered pork lard. Heat the fat in the separate heavy saucepan over medium heat. Whisk in {{quantity:flour}} flour and stir constantly for about 12 to 18 minutes, until it smells nutty and reaches the color of peanut butter. Pull it off the heat promptly.",
+        "While the roux browns, warm 10 cups of the braising stock. Off the heat, gradually whisk about 3 cups of the warm stock into the roux, starting with small additions to make a smooth paste. Whisk in the remaining 7 cups and stir the loosened roux into the stockpot with the vegetables and fond. Add {{quantity:worcestershire}} Lea & Perrins Original Worcestershire sauce and bring to a gentle simmer, stirring until smooth.",
+        "Stir the pot before filling each pan. Distribute all the hot gravy base and vegetables equally, about 4½ cups per pan. Aim for liquid about halfway to two-thirds up the pork, roughly ¾ to 1 inch between the pieces. Adjust with small amounts of {{quantity:finish-stock}} reserved unsalted stock if the pans run shallow, and keep track of how much you use. Tuck five of the {{quantity:thyme}} thyme sprigs and two of the {{quantity:bay}} bay leaves into each pan. Seal the pans tightly with foil.",
+        "Load two pans per rack. Braise at a gentle simmer, swapping racks and rotating front to back after about 55 minutes. Start probing at 1 hour 45 minutes and check at 15-minute intervals. Pull each pan when a fork enters the thickest pieces with slight resistance and a small piece separates with a gentle twist. The whole piece should lift intact on a spoon. Stop before the meat shreds under its own weight. Covered reheating will soften it a little further."
+      ]
+    },
+    {
+      "title": "Measure and Finish the Gravy",
+      "items": [
+        "Lift the pork onto four clean shallow trays, 20 pieces in a single layer per tray, and set the trays over ice immediately. Remove the thyme and bay. Pool all pan juices and vegetables in the stockpot and skim off free fat. Measure the pooled gravy with the onions in it before adjusting.",
+        "Expect roughly 20 cups before final adjustment. The original stock scales to only 10 cups. Here the braise starts with 12 cups. A working estimate adds about 5 cups of softened vegetables, 1 cup of roux volume, and 4 cups of net pork and vegetable juices, then subtracts about 2 cups of steam loss and skimming. These are planning estimates. Use the measured volume to set the finish.",
+        "Stir in {{quantity:vinegar}} cider vinegar and {{quantity:gravy-pepper}} coarse black pepper. Simmer uncovered if above 21 cups. If below 21 cups, add reserved stock by the ½ cup, then smaller additions as you approach the mark. Stir from the bottom and remeasure. At serving temperature the gravy should be deep chestnut, pour easily, and leave a thin coat on a spoon. If thin at target volume, blend 2 cups of the onion-rich gravy until smooth and stir it back in, leaving the remaining ribbons whole. If too thick, whisk in reserved stock ¼ cup at a time and measure out 21 cups for service.",
+        "Taste the finished gravy with a piece of pork. Add {{quantity:gravy-salt}} measured kosher salt in small increments as needed. The first taste should be browned pork and onions, followed by green pepper, black pepper, and mild cayenne."
+      ]
+    },
+    {
+      "title": "Cool and Refrigerate",
+      "items": [
+        "Set the shallow pork trays over ice and refrigerate with space around each tray. Divide the gravy among four shallow metal pans, about 5¼ cups each and no more than 2 inches deep. Set those pans in ice water and stir often with a clean utensil, replenishing the ice as needed. Refrigerate the gravy pans unstacked and loosely covered while cooling. Refrigerate the remaining stock separately.",
+        "Probe the center of several thick pork pieces and the center of each stirred gravy pan. Cool both from 135°F to 70°F within 2 hours and to 41°F or colder within 6 hours total from 135°F. Check progress early enough to refresh the ice or divide into more shallow pans. Discard food that misses either limit. Cover tightly once cold and refrigerate overnight at 41°F or colder."
+      ]
+    },
+    {
+      "title": "Event Day — Reheat, Hold, and Serve",
+      "items": [
+        "Start 90 minutes before service. Preheat the oven to 325°F and set up preheated covered hot holding. Lift off the firm fat from the chilled gravy. Transfer 20 cold pork pieces into each clean braising pan and add 1 cup of the defatted gravy to each. Cover tightly, load both racks, and swap and rotate pans halfway through. Allow about 45 to 70 minutes, until several of the thickest pieces in each pan and the surrounding gravy reach 165°F for 15 seconds. Complete reheating within 2 hours of starting.",
+        "Meanwhile, heat the remaining gravy on the stove, stirring, to 165°F for 15 seconds within the same 2-hour limit. After the pork reaches temperature, tilt the pans and drain the free gravy back into the hot pot without disturbing the pieces. Stir and measure 20 cups of ladleable gravy. Bring it back to that mark with hot reserved stock in small additions if needed, then bring the adjusted gravy to 165°F for 15 seconds. Keep any surplus hot for service loss. Taste the gravy and check that a piece lifts intact and cuts easily with a fork.",
+        "Hold the covered pork and gravy at 135°F or hotter, including at the buffet. Split each braising pan into two covered half-size pans of 10 pieces. Pair each of the eight pans with 2½ cups of hot gravy in a covered vessel. Set out one pair at a time and replace it with a fresh hot pair as it empties. Check the temperature of the buffet and reserve pans at each changeover.",
+        "Have the server place two pieces over each portion of garlic mashed potatoes and give each guest one level 4-fluid-ounce ladle of gravy. Four fluid ounces is generous with mashed potatoes and cider-braised collards. Measuring the first pass saves a full ladle for the last guest. Offer seconds after all 40 guests have been served."
+      ]
+    }
+  ]
+}
